@@ -1,0 +1,31 @@
+{Number = 005}
+{Type = Transliteration}
+{Title = Táaxʼaa / Mosquito}
+{OriginalTitle = The Origin of the Mosquitoes}
+{Author = Stoowuḵáa / Louis Shotridge}
+{Clan = Kaagwaantaan, G̱ooch Hít; G̱aanax̱teidí yádi}
+{Source = Boas 1917:168–179}
+{Dialect = Northern - Central - Chilkat}
+{Note = Numbering continues from first page rather than the original per page.}
+{Page = 168}
+1	G̱unanáa ḵuwa.óo. Has du x̱ooxʼ awé ḵóot jiwaháa at
+{Comment = Line 2 perhaps “kasayé” is “kasayék”?}
+2	kasayé. Chʼu tle g̱unayé wugoodí dáx̱ tléil lingít yáx̱ wutee.
+3	Chʼu du tláa tsú tléil át yáx̱ a daa toowutee. Chʼa tlákw
+4	at gutóot nagútch kanalsʼáakw ḵa tsʼutsʼgooxʼ sáni een. Chʼa
+5	yaa nalgéini yáx̱ awé dei s gutch oox̱ee at gutóode. Waanaaní sawé
+6	du een wu.aadí at kʼátskʼu g̱óot neilt uwagút. “Goosú i éen
+7	aa ḵu.aa” du tláach x̱ʼeiwawóosʼ. Chʼás gooshé awé
+8	yan awlijáḵw. Chʼa kaagéináx̱ awé dei s gutch tsú ḵut aawdzigeet
+9	at kʼátskʼu. Dei s gootch tsú ḵut aawdzigeet. Wé aa kasayék tsu
+10	dei s gootch yaa yínaayátʼ at gutóode. Du káak hás daxʼoonínáx̱ has yatee.
+11	Hasch ḵu.aa de has ayaḵeet hasdu kélkʼ. Chʼa aan awé
+12	du tláach tléil aawlxáchx̱ du yéetkʼ. Chʼu náanáx̱ a ḵeení awé ḵaaḵ
+{Page = 169}
+13	neil awayá. Tledahéen du tláa tlax̱ du toowú sigóo
+14	du yitkʼi kaax̱. Du kaak hás ḵu.aa awé chʼa ash oowaḵít. Yan
+15	atx̱á awé du tláach yéi yawsiḵaa. Ax̱ yítkʼ gúsá tlax̱ l
+16	yoo ḵaa shá du.úsʼgun. Haandé i sháat ḵooḵaháadi. Waa sá
+17	ḵaa tláa ḵaakoo.aankʼw nooch ayáx̱ awé toot ashaawatée du yítkʼ.
+18	Tle a shaadé yanashéeni een awé ash xeit kát. Shawuditʼex̱ʼ. Tlegaadé
+19	tlax̱ ḵútx̱ x̱at kaayeseex̱én.
