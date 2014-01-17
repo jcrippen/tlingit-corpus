@@ -8,7 +8,7 @@
 {Dialect = Northern - Central - Chilkat}
 {Note = Numbering continues from first page rather than the original per page.}
 {Page = 168}
-1	G̱unanáa ḵuwa.óo. Has du x̱ooxʼ awé ḵóot jiwaháa at
+1	G̱unanaa ḵuwa.óo. Has du x̱ooxʼ awé ḵóot jiwaháa at
 {Comment = Line 2 perhaps “kasayé” is “kasayék”?}
 2	kasayé. Chʼu tle g̱unayé wugoodí dáx̱ tléil lingít yáx̱ wutee.
 3	Chʼu du tláa tsú tléil át yáx̱ a daa toowutee. Chʼa tlákw
@@ -28,4 +28,6 @@
 16	yoo ḵaa shá du.úsʼgun. Haandé i sháat ḵooḵaháadi. Waa sá
 17	ḵaa tláa ḵaakoo.aankʼw nooch ayáx̱ awé toot ashaawatée du yítkʼ.
 18	Tle a shaadé yanashéeni een awé ash xeit kát. Shawuditʼex̱ʼ. Tlegaadé
-19	tlax̱ ḵútx̱ x̱at kaayeseex̱én.
+19	tlax̱ ḵútx̱ x̱at kaayeseex̱én. Tle káx̱ daaḵ shaawaxíx wé shaawát
+20	wé tsʼaxíchkʼi ḵu.a tle gáant wujixíx. Gwaʼ chʼu tle gwáayaa
+21	du xeitká yan oowa.á haat een chooneit x̱ʼéidi.
