@@ -1,0 +1,43 @@
+{Number = 008}
+{Type = Text}
+{Title = G̱úḵlʼ / The Swans}
+{Author = Yeex̱aas / Lester Roberts}
+{Clan = Naasteidí, Deikee Noow Hít; Teeyneidí yádi}
+{Source = Velten 1944:169–170}
+{Transcriber = Henry Velten}
+{Orthography = BS}
+{Dialect = Southern - Henya - Klawock}
+{Note = Tone is marked differently here than Boas’s practice.}
+{Page = 169}
+1 	Tc̓ákᵘ łdὰkάt yé-dὲ gáxᵘ
+2 	qàx̣ qα kι-n-dα-tcùnét tłαx̣
+3 	wà c-yα-dα-hén-ὶ sαyύ α-yα-yì-x̓
+4 	άt dυ-ł-yὲx̣-nὺ-dj-ín α-t-x̣ὰ-yίs.
+5 	hín-yὶ-k-x̓ ὰyύ hίt-k̓ yέx̣
+6 	άt dυ-ł-yèx̣-tc tc̓α α-yì-t
+7 	α-hάn-ὶ-yέx̣. α-x̣̓α-wùł-x̓ ὰyύ tcυ
+8 	yè-yα-gυátłʼ-k̓ hαs dυ-α-t-x̣à-yί
+9 	x̣át-kahág-ὺ á-dέ hαs α-ku-łίt-tc
+10	yú hίt-k̓ nιà-dέ tc̓α kᵘα
+11	c-yα-dα-hén-dén tlέ ya-qυ-nα-x̣èn-ί
+12	ὰyύ yú qàx̣ kι-n-dα-tcùnét
+{Page = 170}
+13	tc̓u tc̓a dàsά tc̓αs yú hίt
+14	x̣α-wùł-nάx̣ nèłdέ yà-łdίx̣̓ nα-tsάg̣-ὶ
+15	ὰyύ α-ká-x̣ yú sά
+16	kα-dυ-wα-tίx̣̓-k. Tłex̓ yάkyi kὰ-nάx̣
+17	ὰyύ nαs̓k-djιnkàt tłαx̣ tłʼάg̣a
+18	wυ-dα-cát-x̣ sα-tì. tłex̓ yάkyi ὰyύ
+19	tłe-nάx̣ qá tc̓u dυ-hίt-k̓-ὶ-yὶ-x̓ άt
+20	yα-wu-yègί dex̣ g̣ύg̣łʼ
+21	α-x̣̓α-wùł-nάx̣ nèł qu-wα-x̣á tłε
+22	tc̓u dex̣ α-ca-wα-tłèqᵘ. dυ-hίt-k̓-ὶ
+23	yì-dάx̣ dàk hαs αc-sα-xát
+24	ὰyύ tca tc̓a ίx-dὲ
+25	αc-ìn hαs kα-w-tł-t̓àtł. tłε
+26	yú gì-yί kά-x̓ dèkí-x̓ dàk
+27	hαs kα-ł-t̓átł ὰyύ tsa α-ká-x̣
+28	à sά kà-wα-tìx̣̓. à-x̣ ὰyύ
+29	dυ-yὶ-x̓ dàk yάkᵘ wα-há tłε
+30	à-x̣ yὰn yα-w-dυ-wα-x̣à dυ-g̣ύg̣łʼ-ὶ
+31	ìn.

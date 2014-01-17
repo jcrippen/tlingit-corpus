@@ -1,0 +1,45 @@
+{Number = 007}
+{Type = Text}
+{Title = The Woman who Returned from the Dead}
+{Author = Yeex̱aas / Lester Roberts}
+{Clan = Naasteidí, Deikee Noow Hít; Teeyneidí yádi}
+{Source = Velten 1939:68}
+{Transcriber = Henry Velten}
+{Orthography = BS}
+{Dialect = Southern - Henya - Klawock}
+{Page = 68}
+1 	tc̓ákᵘ tłenάx̣ qá dlàkʼ wυ-nà. tlax̣ x̓un
+2 	yάkyi α-ίt-dáx̣ sαwέ yú qá qᵘαʼα
+3 	tcυ c-x̣άn-x̓ ιcάn-dén x̣α-ya-wα-qá.
+4 	tc̓u-ł c-tu-dάx̣ qù-nα-s-hé-djι αwέ
+5 	yαn-cu-dέ hαs wυ-ł-gás̓. tłex̓ xánα tc̓u tcυ
+6 	c-x̣άn-x̣̓ ιcάn-dén x̣α-yα-qà-yί αwέ dυ-dlàk̓
+7 	hαs dυ-í-nαx̣ nèł wυ-tł-gύt-tc tc̓u
+8 	qυ-s-tì-yí wa-sά hαs dυ-x̣̓é-x̣ ιł-gùd-djίn
+9 	yé-yέx̣. a-ġá-áwέ dυ-ík̓ ye-α-yα-w-s-qà tc̓a
+10	yi-x̣άn-g̣α ye-x̣αt-yα-tί i-g̣áx̣-ί tsυ
+11	x̣a-άx̣-tc. hαs dυ-x̣̓é-x̣ yαn άt
+12	sα-x̣á-dάx̣ αwέ tsυ hαs dυ-nάq wu-gùt.
+13	x̓un-dαhín yé hαs dυ-x̣̓é-t ιł-gùt-tc-dάx̣
+14	sαwέ yú qá qᵘαʼα dυ-cάt tάs
+15	α-kα-x̣-łα-tύtłʼ-ι-t α-yα-w-s-qà. yαn
+16	α-k-sα-né-dάx̣ αwέ dυ-x̣υx̣ ye-ya-wα-qà
+17	dυ dlàk̓ hαs α-kα-kᵘg̣wα-ké. α-yέx̣-αwέ
+18	tsυ hαs dυ-x̣é-t ιł-gùt-tc yú tάs
+19	άt c-wυ-tł-xúw-υ k̓úx-dukᵘ-k̓ łìdί-dε
+20	α-cύ α-kα-w-s-dύx̓. hαs dυ-nάq nα-gùt
+21	αwέ ya-nα-gύdι  yέx̣ yú tάs qᵘαʼα
+22	hαs α-djι-ka-wα-tsàq. dè α-cύ ka-wυ-
+23	sε-yί yan ka-wυ-gύt. qe-nα-á αwέ
+24	hαs α-ka-wα-kè. dυ-dlàk̓ nàwύ kα-gάntʼι
+25	α-tú-x̓ ye-yα-tì-yí kutíya-t hαs α-kα-
+26	wα-kè. tc̓u àdέ αt ya-wυ-t-ù-wύn yé-yέx̣
+27	yú k̓úx-duk-k̓ α-dà-x̓ wa-s̓ίt.
+28	α-łìdί-dε qᵘαʼα αwέ-s yú tάs cυ-kα-w-s-
+29	dύx̓. tsυ-àx̣ xánα αwέ tc̓u α-ítι yέx̣ hαs
+30	dυ-x̣̓é-t wυ-tł-gυt-tc. hαs dυ-x̣̓é-x̣ yαn
+31	άt sα-x̣α-dάx̣ αwέ hαs dυ-í-t x̣̓e-wα-tάn
+32	dè yι-s-kú gu-dάx̣-sά hàx̣ x̣α-gùdί. tłéł tsυ
+33	ha-dέ kυqᵘa-gút. α-yέx̣-αwέ tłéł tsυ hαs
+34	dυ-x̣άn-t wu-gùt.
+

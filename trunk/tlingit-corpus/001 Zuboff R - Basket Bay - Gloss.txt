@@ -1,0 +1,44 @@
+{Number = 001}
+{Title = Ḵákʼw / Basket Bay}
+{Author = Shaadaaxʼ / Robert Zuboff}
+{Clan = Deisheetaan, Kaḵáakʼw Hít; Daḵlʼaweidí yádi}
+{Source = D&D 1987:62–71}
+{Glosser = Dzéiwsh / James A. Crippen}
+{Page = 62}
+1	yú haa aan-ÿí á-yú
+	DEM.DIST 1PL.PSS land FOC-DIST
+	That, our land there
+2	yú haa aan-ÿí
+	DEM.DIST 1PL.PSS land FOC-DIST
+	that, our land
+3	Ḵákʼw á-yú yóo=∅-∅-du-ÿa-sáa-kw
+	NAME FOC-DIST thus=3O-ZCNJ-INDH.S-CL[−D,∅,+I]-call-REP
+	people call it Ḵákʼw
+4	Dleit Ḵáa x̱ʼé-náx̱ ḵu.aa
+	white man mouth-PERL CONTR
+	but in English
+{Comment = Line 5 is in English.}
+5	Basket Bay
+	Basket Bay
+	Basket Bay
+6	á á-yú tsaa á-yú á-xʼ ∅-sha-∅-du-∅-x̱ísh-t-een
+	there FOC-DIST seal FOC-DIST there-LOC 3O-head-ZCNJ-INDH.S-CL[−D,∅,−I]-club-??-DEC
+	people used to club seals there
+7	yú tlʼátk
+	DEM.DIST ground
+	that land
+8	Tlax̱ ∅-ka-∅-si-yéiyi yáx̱ á-yú ∅-∅-ÿa-tee yú tlʼátk
+	EMPH 3O-HSFC-ZCNJ-CL[−D,s,+I]-crazy SIM FOC-DIST 3O-ZCNJ-CL[−D,∅,+I]-be DEM.DIST ground
+	that land is very weird
+9	yán-de=yaa=∅-ga-u-g̱a-∅-léin-in á-yú
+	TERM-ALL=along=3O-GCNJ-IRR-G̱CNJ-CL[−D,∅,−I]-tide.out-CTNG FOC-DIST
+	when the tide would go all the way out
+10	tléináx̱ ∅-ÿa-tee-ÿí aa ḵáa á-yú
+	one.person 3O-CL[−D,∅,+I]-be-ATTR PART man FOC-DIST
+	one man to be
+11	ka-na-du-∅-ḵéich
+12	yú ḵéesʼ á-yú
+13	ḵúnáx̱ a ká-xʼ yan=∅-wu-∅-dáa-y-ch
+14	yá aan ta-yee-dé
+15	téil ka-∅-gán-ee káa-xʼ á-yú a-na-∅-.át-ch
+16	yá aan ta-yee-dé

@@ -1,0 +1,50 @@
+{Number = 006}
+{Type = Transliteration}
+{Title = Náaḵw / Devilfish}
+{OriginalTitle = The Monster Devilfish}
+{Author = Yeex̱aas / Lester Roberts}
+{Clan = Naasteidí, Deikee Noow Hít; Teeyneidí yádi}
+{Source = Velten 1939:66–67}
+{Transliterator = Dzéiwsh / James A. Crippen}
+{Note = Vowelless classifiers written unaspirated, e.g. CL[+D,s,+I] = “dz” (Northern “dzi”) not “ts” in “yóo sh wudzwádi”.}
+{Page = 66}
+1 	Taakw eetí g̱aat yan yawu.aayí ayú
+2	gáan g̱agaanxʼ eina kaanáx̱ ldakát yóo aan
+3	ḵoowútch aa saxook. Yóo xʼaan yáx̱ teeyi káx̱
+4	kwsheiyu yóo sh wudzwadí náaḵwch yóo
+5	aan een daak tlʼeḵ wulshát tle tlél tleixʼ
+6	daa sá wuneix̱. We tsʼootáat tleináx̱ ḵáa
+7	du yéetkʼ ḵa du káani een alʼóòn
+8	has wuyex̱. Ḵúx̱ has daḵoox̱. Hasdu
+9	aan eetí tléil at át ushat. Hasdu
+10	hítxʼi ḵa hasdu aankaḵu.oowú tléil 
+11	tleixʼ áa aa wuneix̱. Tle tsʼayóokʼ has
+12	du shaantóot (u)waxíx yóo sh wudzwadí náaḵw.
+13	Tle a yís xʼáan sh toox̱ has awdl.aat.
+14	Toow(u)néekw sh x̱ʼeidáx̱ has aawdtee tle
+15	a yís yan has (u)wane. Tág̱anís
+16	has akaawax̱út y(é) kulyáatʼ, chʼa ḵín kulyáatʼ
+17	ḵa yei gulyáatlʼ. Shuxʼwaanax̱ sʼé té tlenxʼ yóo
+18	náaḵw ḵoow(ú) káx̱ héende has akaawagooḵ.
+19	Tlax̱ xʼoon té héent has akajéil sawé
+{Page = 67}
+20	tsaa kínde g̱unéi wuchḵáḵ. G̱aa
+21	a ká ḵuḵwadláan awé kaa yaanáx̱ kudlyátʼi
+22	aa hasdu tág̱anisí een has aawatáḵt.
+23	kei nashḵág̱i yáx̱ awé ḵín kudlyátʼi aa
+24	een has aawatáḵt. Waananí saawé has-
+25	du tayeenáx̱ héen náx̱ kei wuchḵáḵ.
+26	aag̱áa awé lítaa sh jínde has akawudz.áx̱
+27	tle a kát has kawdoowakén has
+28	akag̱ag̱ataag̱ít ḵa has akag̱ax̱laxaashít.
+29	tlax̱ wáa yóo has akaawusḵʼékw tle a yíkde
+30	has kaawasóos. Chʼas has du xʼoos a yíknáx̱
+31	kawutsáa. Has du yéetkʼ yan yóo has
+32	ashukaawajáa has du tʼáaḵdáx̱ awé aadé
+33	(u)wagút yóo a x̱áng̱aa aan niyaadé. Ḵoon
+34	yan shkalnéekdax̱ awé yan kax̱dzneegít
+{Comment = Word split between line 34 and 35, duplicated here for searching.}
+35	yan kax̱dzneegít aa niyaadé yakw woohaa. Chʼu
+36	naléiyidáx̱ awé wududzteen yakna-
+37	wéini tle chʼa aadé ḵoon akawulneegí yé yáx̱.
+38	Yóo náaḵw ḵwa.a has aawajáḵ.
