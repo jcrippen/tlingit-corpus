@@ -194,15 +194,21 @@ proposed:
 
 * SWA: Swanton, as in “Tlingit Myths and Texts”.
 * BOA: Boas, as in “Grammatical Notes on the Language of the Tlingit Indians”.
+       This was also used by Louis Shotridge and Henry Velten, among others.
 * NS1: Naish-Story 1, as in the Gospel of John and the first edition of their
        noun dictionary.
 * NS2: Naish-Story 2, as used in their “Tlingit Verb Dictionary”.
 * RP:  Revised Popular, as used by the Dauenhauers and the second edition of
        the N&S noun dictionary. (Final vowel length may vary.)
-* CAN: Canadian, as used in “Gágiwduł.àt” and the “Interior Tlingit Noun
-       Dictionary”.
+* YNL: Yukon Native Language Centre, as used in Leer & Nyman’s “Gágiwduł.àt”
+       and Leer, Hitch, & Ritter’s “Interior Tlingit Noun Dictionary”.
+* EML: Email orthography, as used in email and on the Web.
 
-Some texts may be adapted from their original orthographies.
+Some texts may be adapted from their original orthographies. This is generally
+the case only where a text uses an orthography that is only slightly different
+from the standard orthography, such as some early versions of the RP
+orthography where variable length final vowels were written long rather than
+short as in current practice.
 
 === Source ===
 
@@ -248,6 +254,10 @@ D&D 2008
 	Dauenhauer, Nora Marks, Richard Dauenhauer, & Lydia Black. 2008.
 	Anóoshi Lingít Aaní ká: Russians in Tlingit America. Seattle:
 	University of Washington Press. ISBN 978-0-295-96801-2.
+N&L 1993
+	Nyman, Elizabeth & Jeff Leer. 1993. Gágiwduł.àt: Brought forth to
+	reconfirm. The legacy of a Taku River Tlingit clan. Fairbanks:
+	Alaska Native Language Center. ISBN 1-55500-048-7.
 N&S 1973
 	Naish, Constance & Gillian Story. Tlingit verb dictionary.
 	Fairbanks: Alaska Native Language Center.
