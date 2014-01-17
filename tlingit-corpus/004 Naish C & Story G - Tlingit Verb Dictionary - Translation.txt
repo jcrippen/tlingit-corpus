@@ -1,0 +1,62 @@
+{Number = 004}
+{Type = Translation}
+{Title = Tlingit Verb Dictionary}
+{Author = Constance Naish, Gillian Story}
+{Source = N&S 1973:15–252}
+{Translator = Constance Naish, Gillian Story}
+{Page = 15}
+1	he turned it over to the Haidas
+2	my wife deserted me
+3	I abstain (from things such as eating meat)
+4	they are keeping from various foods and activities (in observance of Lent)
+5	his speech is acceptable/satisfactory
+6	my uncle is popular / my uncle is acceptable to people
+7	that dog really likes me / follows me around
+8	he’s beginning to go round with him / becoming friendly
+9	he accompanied him / went with him
+10	he accompanied him
+11	I accuse you to my father
+12	they said this to trap him, so that they could accuse him
+{Page = 16}
+13	we’re getting used to it (wood stove)
+14	they’ve grown accustomed to using certain words all the time
+15	maybe I’ll get used to it
+16	are you getting used to living down south?
+17	he acted like a boss
+18	your nephew is acting like a baby
+19	he’s always on the go: he must be working
+20	add more apples (to those already in the dish)!
+21	my aunt added more
+22	we’re going to add more (food, etc.)
+23	they added five more men
+24	he added “come here!”
+25	I’m addressing you as my younger sister, so that you will become my younger sister
+26	he always addressed him (and treated him) as younger brother
+{Page = 17}
+27	I admire the way you spoke
+28	adopt them / make them your own!
+29	they adopted me
+30	the glacier is advancing toward the beach (the ice is sliding down gradually)
+31	you will advise me about making money / about money matters
+32	that’s how I advised you
+33	my father used to make canoes with an adze
+34	my uncle knew how to work with an adze
+35	it’s going to affect us / we will be involved (for example, in some cultural activity)
+36	the earthquake affected us
+37	it was afloat and being carried out to sea by the waves
+38	it was washing against the fishtrap
+{Page = 18}
+39	are you afraid of my dog?
+40	I’m afraid of what he will say
+41	my mother agreed / is willing for me to go
+42	he’s on the alert (wondering what my happen)
+43	I’m alert (wondering what you are going to do to me)
+44	be prepared for anything, for he doesn}t know the job (and so an accident might occur)!
+45	he is still alive / can still move (after being dug up from landslide)
+46	they will throw you alive into the furnace
+47	we are not allowed to sentence anyone to death
+48	I have the right (I am allowed) to give it
+49	his strength amazed me: he broke a large nail (by snapping it across)
+50	they will all be amazed
+51	he’s really ambitious
+{Page = 19}

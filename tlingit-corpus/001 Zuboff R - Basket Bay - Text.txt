@@ -1,0 +1,172 @@
+{Number = 001}
+{Type = Text}
+{Title = Ḵákʼw / Basket Bay}
+{Author = Shaadaaxʼ / Robert Zuboff}
+{Clan = Deisheetaan, Kaḵáakʼw Hít; Daḵlʼaweidí yádi}
+{Source = D&D 1987:62–71}
+{Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
+{Orthography = RP}
+{Dialect = Northern – Coastal – Angoon}
+{Page = 62}
+1	Yú haa aaní áyú
+2	yú haa aaní,
+3	Ḵákʼw áyú yóo duwasáakw;
+4	Dleit Ḵáa x̱ʼéinax̱ ḵu.aa,
+5	Basket Bay.
+6	Á áyú, tsaa áyú áa shadux̱íshdeen,
+7	yú tlʼátk.
+8	Tlax̱ kasiyéiyi yáx̱ áyú yatee yú tlʼátk.
+9	Yándei yaa kg̱aléinin áyú,
+10	tléináx̱ yateeyi aa ḵáa áyú,
+11	kanduḵéich.
+12	Yú ḵéesʼ áyú,
+13	ḵúnáx̱ a káa yan woodáaych.
+14	Yá aan tayeedéi,
+15	téil kagánee káaxʼ áyú ana.átch,
+16	yá aan tayeedéi.
+17	Yá Tusʼḵoowú eexayáak,
+{Page = 64}
+18	yá Kaaḵáakw, a shakanax̱.aanáx̱ áyú,
+19	a shakanax̱.aanáx̱ áyú yoo aya.átk,
+20	yá aan taayeedei.
+21	Dzeit áyú áa wduwax̱útʼ,
+22	aatlein;
+23	aas áyú.
+24	Áyú dzeitx̱ wududliyéx̱.
+25	Anax̱ áyá yaa ag̱a.átjeen yóo aan tayeedéi,
+26	téilxʼ ḵaa jee yéi nateech; aadé akdulgánch.
+27	A káaxʼ áyá shadux̱ísht yá tsaa,
+28	yá aan tayeexʼ.
+29	Ldakát yéidei át áyá át woodaháaych yá diyée.
+30	Á áyá yá ḵéesʼ latíni ḵu.aa áyá ḵug̱asteech;
+31	tléináx̱ áyú yú éeg̱i yan aa uhaanch.
+32	Tléináx̱ áyú yú hít káxʼ aa g̱anúkch.
+33	Násʼgi aa áwé ḵu.aa, áa yax̱ haan áwé Kaaḵáakw shakée;
+34	daaxʼoon aa áwé,
+35	chʼu tle wé wool x̱ʼéi yax̱ haan.
+36	Chʼ tle éeḵdáx̱ yaa wunadéini teen áwé,
+37	kei atʼaa.íxʼch,
+38	“Dei éeḵdáx̱ yaawadáaaaaa.”
+39	Chʼu tle yóo hít kát aa,
+40	aa x̱ʼéit was g̱adutéenín,
+41	“Éeḵdáx̱ yaawadáaaaaa.”
+42	Yéi áyú has du x̱oox̱ yaa g̱axíxch.
+43	Chʼu tle yá hóochʼi aayích áyá, anax̱….
+44	aan yá woolnáx̱ áyá yéi yaa yax̱dag̱íchch,
+45	“Dei éeḵdáx̱ yaawadáaaaaa.”
+46	A káaxʼ áyá,
+47	yá ḵaa jáag̱adi,
+48	yá a leikachóox̱ʼunáx̱ áyá kíndei shadux̱óotʼ,
+49	yá tsaa yoowú.
+50	Anax̱ áyá du.úxsʼ.
+51	Tle x̱ʼadus.aax̱w;
+52	tle x̱ʼadus.aax̱w;
+53	tle x̱ʼadus.aax̱w.
+54	Tlax̱ ḵúnáx̱ áyú yasátk yú haa yee.
+55	Oowayáa, yaa shanatsʼítʼi yáx̱ áyú nateech aadéi yasatgi yé.
+56	Chʼu tle x̱ʼéix̱ dushadi yáx̱ áyá yoo yaneek,
+57	yá haa yee.
+58	Chʼu tle tlax̱ ḵúnáx̱ áyú yéi jidunéi nooch,
+{Page = 66}
+59	yá ḵaa jáag̱adi daaxʼ.
+60	Chʼu tle yándei yaa yéi ndusneení teen áwé, ḵundakélʼch áwé,
+61	tláakw áwé;
+62	kíndei yóo dzeit kát áwé ḵaa lugooḵch kag̱ít tú áyá;
+63	áwé chʼa wé téil káaxʼ áyá át ḵaa lundagúḵch.
+64	Chʼu tle áyá a náḵ neil oo.aatch yá ḵaa jáag̱adi.
+65	Yankaadéi yaa kg̱adéinin áwé tsá,
+66	yankaadéi yaa kg̱adéinin,
+67	aag̱áa áwé yá ḵaa yakaanáx̱ áwé,
+68	yá Goon Xʼaakʼú yayeenáx̱ áwé kíndei anasgooḵ nooch,
+69	yá ḵaa jáag̱adi.
+70	Áyá, yéi áyá.
+71	Chʼu tle chʼas yaakw a káa daak ḵúx̱ji nooch.
+72	Yéi áyá dutláakw,
+73	a daat át,
+74	yá Ḵákʼw aadáx̱ haa ádix̱ siteeyi yé,
+75	aadáx̱ haa ádix̱ siteeyi yé.
+76	Naaléi,
+77	dei chʼáakw áyá,
+78	dei chʼáakw
+79	aadáx̱ haa dutlaagú;
+80	ách haa dudlisáakw,
+81	Ḵakʼweidí.
+82	Shóogoonáx̱,
+83	aadéi yóo at kawdiyayi yé,
+84	yá Lingít,
+85	shayadiheni aa yéi sh kalneek
+86	yá ixkéenax̱ áyá
+87	haat haa wsidáḵ,
+88	yá ixkée.
+89	Á áyá shayadiheni aa, Shtaxʼhéen yíknáx̱ yaa wsidaaḵ,
+90	Shtaxʼhéen yíknáx̱.
+91	Yá ax̱ éesh hás has dutlakw nooch,
+92	yá Shtaxʼhéen yíknáx̱, yaa has wusdaag̱í.
+93	Tléixʼ yateeyi yé áyú áxʼ,
+94	yá héen,
+95	sítʼ tayeedéi naadaa.
+96	Áxʼ áyá wududlisʼít yá x̱aanásʼ.
+{Page = 68}
+97	A káxʼ áyá yéi has wuduwa.oo yá shaanáxʼw sáani.
+98	Awastí yóo aa wduwasáakw ḵa Ḵoowasíkx̱,
+99	yá shaanáxʼw sáani.
+100	Hás áyá shóogoonáx̱ sítʼ tayeedéi daak has wuduwagúḵ.
+101	A tayeenáx̱ has g̱alháash áwé héinax̱.aadéi
+102	kei has at kaawashée.
+103	Yá sítʼ tayeenáx̱ has wulhaashí áyá
+104	át has shukawdlix̱úx̱.
+105	A káaxʼ áyá,
+106	x̱aanásʼ yéi wdudzinee.
+107	A kaadéi aa woo.aat.
+108	A tayeenáx̱ áyá yá sítʼ tayeenáx̱ áyá ḵuwlihaash,
+109	yá íxdei.
+110	Tsu shayadiheni aa ḵu.aa áyá
+111	áa akawdlix̱éetlʼ,
+112	yá sítʼ tayeedéi wulhaash.
+113	Ách áyá a kát aa uwa.át,
+114	yá sítʼ kát aa uwa.át.
+115	Á áyá Jilḵáatnáx̱ yeiḵ uwa.át yá ax̱ éesh hás x̱oonxʼi,
+116	yá Daḵlʼaweidí.
+117	Jilḵáat aax̱ has wusitee.
+118	Yá sítʼ kát awu.aadí áyá a kaax̱ saa áyá,
+119	Sitʼká á,
+120	Sitʼká, yóo ḵuduwasáakw,
+121	yá Jilḵáatnáx̱ yeiḵ uwa.adi aa.
+122	Yá uháan,
+123	yá Deisheetaanx̱ haa sateeyí,
+124	chʼa yaadachóon áyá,
+125	yéi has akanéek,
+126	yá ixkéenáx̱ áyá,
+127	yá ixkéenáx̱.
+128	Gootʼaanáx̱ sá kwshé yeiḵ wutuwa.át uháan.
+129	Gootʼá sá kwshé anax̱ yeiḵ wutuwa.át.
+130	Aadáx̱ áyá tsá, yá nándei,
+131	yá nándei,
+132	g̱unayéi ḵuwtuwashée.
+133	Shayadiheni yé kawduwa.aaḵw.
+134	Shayadiheni yé aanx̱ wududliyéx̱.
+135	Wé gaaw áwé,
+136	yá Xutsnoowú yax̱ʼáak,
+{Page = 70}
+137	yax̱ iltʼéexʼ,
+138	tʼéexʼ kát aa uwa.át,
+139	wé gaaw áwé,
+140	aag̱áa daak ḵuwligasʼi yé.
+141	Ha! shayadiheni aa yá haa x̱oonxʼí,
+142	yá Deisheetaan,
+143	yá dáaḵ káxʼ yéi aa dax̱yatee.
+144	Chʼu chʼáagudáx̱,
+145	áa yéi has yatee.
+146	Shayadihéin,
+147	yá Nahóowu, áa yéi yatee,
+148	ḵa yá ax̱ saayí,
+149	Shaadaaxʼ tsú áa yéi yatee,
+150	yá dáaḵ ká.
+151	Á áyá a daa yoo tux̱atángi áyá, hás,
+152	chʼu chʼáagudáx̱ áa yéi s teeyí,
+153	has du een gé yá woochdáx̱ haa wusdaag̱éen.
+154	Yéi áyá a daa yoo tux̱atangi nooch.
+155	Ách yá éilʼ kát haa kawdiyáa,
+156	uháan ḵu.aa.
+157	Chʼa yéi áyá x̱ʼakḵwanáaḵ,
+158	yá sh kalneek.

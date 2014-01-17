@@ -1,0 +1,63 @@
+{Number = 006}
+{Type = Text}
+{Title = Náaḵw / Devilfish}
+{OriginalTitle = The Monster Devilfish}
+{Author = Yeex̱aas / Lester Roberts}
+{Clan = Naasteidí, Deikee Noow Hít; Teeyneidí yádi}
+{Source = Velten 1939:66–67}
+{Transcriber = Henry Velten}
+{Orthography = BS}
+{Dialect = Southern - Henya - Klawock}
+{Note = Velten mistranscribes “qᵘ” as “q” at end of “náqᵘ” ‘octopus’.}
+{Note = Long low vowels are actually “accented” per Velten, not lower than unmarked long vowels, so tone of “a” and “à” is the same.}
+{Note = Normally high tone is sometimes missing, e.g. “tłex̓” for “tłéx̓” or sometimes opposite typical as in “c-x̣̓e-dάx̣” for “c-x̣̓é-dαx̣”.}
+{Note = Lester Roberts drops “υ” before “wα” in e.g. “υwaxίx”.}
+{Page = 66}
+{Comment = Line 1 “yα-wυ-à-yί” should have a glottal stop “yαwυʼàyί”.}
+1	Takᵘ-ìtί g̣àt yαn yα-wυ-à-yί αyύ
+2 	gán g̣αgàn-x̓ ènα ka-nάx̣ łdαkάt yú àn
+3 	qᵘù-wύ-tch à-sα-xùk. yú x̓an yέx̣ tì-yι-kάx̣
+4 	kᵘcèyυ yú c-wυ-ts-wαdί náq-tc yú
+5 	àn-ìn dàk tłʼεq wυ-ł-cάt tłε tłéł tłex̓
+6 	dasά wu-nèx̣. we-ts̓utát tłenάx̣ qá
+7 	du-yít-k̓ qα du-kánι ìn α-łʼùn
+8 	hαs wυ-yεx̣. qύx̣ hαs dα-qùx̣. hαs
+9 	dυ-an-ìtί tłéł ὰt άt υ-cαt. hαs
+{Comment = Line 10 “qᵘù-wύ” should be “qυʼùwύ”.}
+10	dυ-hίt-x̓ι qα hαs du-àn-kα qᵘù-wύ tłéł
+11	tłex̓ á à wu-nèx̣. tłε ts̓αyúk hαs
+{Comment = Line 12 “cán-tu-t” ought to be “cαntút”. Typo? Misheard?}
+12	dυ-cán-tu-t wα-xίx yú c-wυ-ts-wαdί náq.
+13	tłε α-yίs x̓án c-tù-x̣ hαs α-w-tł-àt.
+{Comment = Line 14 “tuw-níqᵘ” misheard “níkᵘ”, missed “υ” in “tuwυ-”.}
+14	tuw-níqᵘ c-x̣̓e-dάx̣ hαs à-w-t-tì tłε
+15	α-yίs yαn hαs wα-nε. tάg̣α-n-ίs
+{Comment = Line 16 “y-kυ-ł-yátʼ” begins with “ye-” not “y-”.}
+16	hαs α-ka-wα-x̣ύt y-kυ-ł-yátʼ tc̓α qίn kυ-ł-yátʼ
+17	qα ye-gυ-ł-yátłʼ. cx̓ᵘà-nαx̣ s̓έ tέ-tłεn-x̓ yú
+{Comment = Line 18 “qùw” should be “qùwύ”.}
+18	náq qùw kάx̣ hín-dε hαs α-kà-wα-gὺq.
+19	tłαx̣ x̓un tέ hín-t hαs α-kα-djéł sαwέ
+{Page = 67}
+20	tsa kίn-dε g̣oné wυ-tc-qάq. g̣a
+21	αkά qυqᵘα-dlán αwέ ka-yanάx̣ kυ-tł-yάtʼ-ι
+22	à hαs du-tάg̣α-n-ιsί ìn hαs àwα-tάq-t.
+23	kè-nα-c-qάg̣ι yέx̣ αwέ qίn kυ-tł-yάt-ι à
+24	ìn hαs ὰwα-tάq-t. wanαnί-sawέ hαs
+25	dυ-tα-yi-nάx̣ hín-nάx̣ kè-wυ-tc-qάq.
+{Comment = Line 26 “łítα” should be “łίtà”; “α-kα-wυ-ts-άx̣” missing glottal stop before “άx̣”.}
+26	a-g̣ά-áwέ łίtα c-djίn-dε hαs α-kα-wυ-ts-άx̣
+27	tłε α-kά-t hαs kα-w-duwα-k̓έn hαs
+{Comment = Line 28 “α-kα-g̣a-łα-xàcί-t” has missing “x̣” between “g̣a” and “łα”.}
+28	α-kα-g̣ag̣α-tàg̣ίt qα hαs α-kα-g̣a-łα-xàcί-t.
+29	tłαx̣wá yú hαs a-ka-wυ-s-q̓έkᵘ tłε α-yίk-dε
+30	hαs ka-wα-sús. tc̓αs hαs du-x̓ùs α-yίk-nάx̣
+31	kα-wυ-ts-á. hαs du-yít-k̓ yαn yú hαs
+32	α-cυ-ka-wα-djá hαs dυ-tʼáq-dάx̣ αwέ àdέ
+33	wa-gύt yú α-x̣άn-ġα àn nià-dέ. qù-n
+34	yαn c-kα-ł-ník-dαx̣ αwέ yαn kα-x̣-ts-
+35	nìgί-t a-nià-dέ yαkᵘ wu-hà. tc̓u
+36	nα-łé-yι-dάx̣ αwέ wυ-dυ-ts-tìn yα-k-nα-
+37	wén-ι tłε tc̓α-àdέ qù-n α-kα-wυ-ł-nìgί-yé-yέx̣.
+{Comment = Line 38 “has” certainly typo for “hαs”.}
+38	yú náq qᵘαʼα has àwα-djάq.
