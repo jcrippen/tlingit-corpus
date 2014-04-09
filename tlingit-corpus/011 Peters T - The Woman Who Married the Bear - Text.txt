@@ -129,7 +129,7 @@
 115	Tle haat amli.át
 116	"Shk'ei.
 117	Yú dikéedáx̱ ágé iyal'íx'?
-118	Aaa
+118	Áaa
 119	Shk'ei!"
 120	Aag̱áa áwé a jeet amli.át
 121	"Hé!"
@@ -149,7 +149,7 @@
 135	tle yéi dag̱aatee.
 {Page = 174}
 136	Tle ch'a g̱unayéit has uwa.át.
-137	Aa s ḵúyaawa.óo.
+137	Áa s ḵuyaawa.óo.
 138	Máa sá nateech ch'a yáa haa aaniḵwáani
 139	tle yéi áyá yatee.
 140	Ldakát át
