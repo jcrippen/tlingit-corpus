@@ -147,7 +147,7 @@ when the TYPE is :OTHER. For the :EMPTY, :DATA, and :META types there are
 subclasses to be used instead. The INDEX slot contains the offset of the line
 from the beginning of the file, thus the raw line number in the file. This is
 distinct from the TEXTNUM slot in the subclass CORPUS-FILE-LINE-DATA, q.v. The
-RAQ slot contains the raw line as read from the file, without any whitespace
+RAW slot contains the raw line as read from the file, without any whitespace
 stripping or other processing."))
 
 (defclass corpus-file-line-empty (corpus-file-line)
@@ -349,3 +349,17 @@ stores the result in the LINES slot of the CORPUS-FILE object."
                                 (slot-value filobj 'lines))
          finally (setf (slot-value filobj 'length) index)))
     filobj))
+
+  ;;
+;;;;;; File metadata parsing.
+  ;;
+
+;;;; The functions in this section look in a CORPUS-FILE instance to find
+;;;; metadata lines with particular keys or values. In a single file some keys
+;;;; are unique like "Number" and "Type", other keys appear multiple times
+;;;; like "Page" and "Comment". The unique keys need to be parsed out of the
+;;;; file and stored in slots in the CORPUS-FILE instance for efficient
+;;;; querying. Although all of these functions take a CORPUS-FILE instance
+;;;; as an argument, there's no point in creating generic functions because
+;;;; they will never be used on anything other than a CORPUS-FILE. The extra
+;;;; dispatch indirection with generic functions is thus unnecessary.
