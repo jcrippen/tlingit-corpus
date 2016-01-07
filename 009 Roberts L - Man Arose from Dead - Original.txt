@@ -1,5 +1,5 @@
 {Number = 009}
-{Type = Text}
+{Type = Original}
 {Title = The Man who Arose from the Dead}
 {Author = Yeex̱aas / Lester Roberts}
 {Clan = Naasteidí, Deikee Noow Hít; Teeyneidí yádi}
