@@ -1,0 +1,41 @@
+# -*- Mode: Text -*-
+#
+# This file tells Git which files it should ignore.  Comments are preceded by
+# a sharp sign, so # must be backslash-escaped in filenames like so: \#
+
+# Your local temp directories.
+tmp/**/*
+temp/**/*
+
+# Mac OS X cruft.
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Icon must end with two \r
+Icon
+
+
+# Emacs temp and backup cruft.
+*~
+\#*\#
+.*\#
+
+# Vim temp and backup cruft.
+*.swp
+Session.vim
+
+# Common Lisp cruft.
+*.fasl
