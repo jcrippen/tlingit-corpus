@@ -122,9 +122,11 @@ is necessary to uniquely identify a particular bibliographic source."))
 ;;; This could just as easily be a cons, but as a class it has a known type.
 (defclass corpus-keyval ()
   ((key   :type string
-          :initarg :key)
+          :initarg :key
+          :accessor corpus-keyval-key)
    (value :type string
-          :initarg :value))
+          :initarg :value
+          :accessor corpus-keyval-value))
   (:documentation
    "Representation of a corpus metadatum key-value pair. The KEY is the
 element preceding the equals sign and the VALUE is the material following the
@@ -176,6 +178,7 @@ excluding the #\Tab character that separates the two fields."))
            :allocation :class)
    (keyval :type corpus-keyval
            :initarg :keyval
+           :accessor meta-keyval
            :documentation "The key-value pair of the line.")))
 
 (defclass corpus-file ()
@@ -351,7 +354,7 @@ stores the result in the LINES slot of the CORPUS-FILE object."
     filobj))
 
   ;;
-;;;;;; File metadata parsing.
+;;;;;; File metadata processing.
   ;;
 
 ;;;; The functions in this section look in a CORPUS-FILE instance to find
@@ -363,3 +366,33 @@ stores the result in the LINES slot of the CORPUS-FILE object."
 ;;;; as an argument, there's no point in creating generic functions because
 ;;;; they will never be used on anything other than a CORPUS-FILE. The extra
 ;;;; dispatch indirection with generic functions is thus unnecessary.
+
+(defun get-file-metadata-lines (file)
+  "Returns a list of all metadata lines in the CORPUS-FILE instance FILE. This
+checks against the class CORPUS-FILE-LINE-META and not the :TYPE slot."
+  (declare (corpus-file file))
+  (loop for l across (slot-value file 'lines)
+        when (typep l 'corpus-file-line-meta)
+          collect l))
+
+(defun get-file-metadata-header-lines (file)
+  "Returns a list of all metadata lines in the CORPUS-FILE instance FILE
+before the content of the file switches to data. This segment of the file is
+called the header. The last metadatum in the header is the first page of the
+data so all Page metadata are excluded."
+  (declare (corpus-file file))
+  (loop for l across (slot-value file 'lines)
+        until (and (not (typep l 'corpus-file-line-meta)))
+        when (typep l 'corpus-file-line-meta)
+          when (not (equal (slot-value (slot-value l 'keyval) 'key) "Page"))
+            collect l))
+
+(defun get-file-metadatum (file key)
+  "Returns the metadatum value corresponding to the keyval KEY in the
+CORPUS-FILE instance FILE."
+  (declare (corpus-file file)
+           (string key))
+  (let ((meta (get-file-metadata-lines file)))
+    (find-if #'(lambda (x)
+                 (equal (slot-value (slot-value x 'keyval) 'key) key))
+             meta)))
