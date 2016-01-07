@@ -5,155 +5,29 @@
 {Author = Stoowuḵáa / Louis Shotridge}
 {Clan = Kaagwaantaan, G̱ooch Hít; G̱aanax̱teidí yádi}
 {Source = Boas 1917:168–179}
-{Transcriber = Franz Boas, Stoowuḵáa / Louis Shotridge}
-{Orthography = BS}
-{Dialect = Northern - Coastal - Chilkat}
-{Note = Shotridge’s manuscript is probably more accurate.}
-{Note = Originally transcribed by Shotridge, partially corrected by Boas.}
-{Note = Only high tone is marked at first, low was partly removed by Boas.}
+{Dialect = Northern - Central - Chilkat}
 {Note = Numbering continues from first page rather than the original per page.}
 {Page = 168}
-{Comment = Line 1 starts incorrectly with ‹G›, it should be uvular ‹G̣›.}
-{Comment = Line 1 has high “-ná” which should be “-na”.}
-1	G̣υnαna qʻυwαύ. hαs dυx̣ux̓ ʼαwέ qʻútʻ djιwαhá hαtʻ
-2	kʻαsαyά. tc̓υʟé g̣υnαyέ wυgudí dάx̣ ʟéł łιngίtʻ yάx̣ wυtʻí
-3	tc̓υ duʟá tsu ʟéł ʼάtʻ yάx̣ ʼada tʻuwυtʻí. tc̓α ʟάkᵘʻ
-4	ʼatʻgυtʻútʻ nαgύttc kʻαnαłs̓ákᵘʻ qʻa ts̓υts̓gux̓sáni ʼi·n. tc̓α
-5	ya·nαłgéni yάx̣ ʼαwέ de·sgυtc̓ ʼux̣i ʼαtgυtʻudέ. waʹnanίsawέ
-6	duin wυadí ʼαtk̓άtsk̓u g̣útʻ neł ʼuwαgύtʻ. gusú ιín
-7	ʼa qυa duʟátc x̣̓ewαwús̓. ts̓άs gucέ ʼαwέ
-8	yαnʼαwłιdjάqᵘʻ. tc̓α kʻagénαx̣ ʼαwέ desgυtc tsu qυtʻʼawdzιgi·tʻ
-9	ʼαtk̓άtsk̓u. desgutc tsu qυtʻʼawdzιgi·tʻ. wέ ʼakʻαsαyέk̓ tsu
-10	desgutc yayίnayάt̓ ʼαtgutʻúdε. dukʻákhάs dax̓unínάx̣ hαsyαtʻi.
-11	hαstc qʻυa dε hαs ʼαyaqʻitʻ hάsdukέłk̓. tc̓αaʹn ʼαwέ
-12	duʟátc ʟéł awłxátcx̣ duyítk̓. tc̓u nánάx̣ ʼαqʻiní ʼαwέ qʻaqʻ
+1	G̱unanaa ḵuwa.óo. Has du x̱ooxʼ awé ḵóot jiwaháa at
+{Comment = Line 2 perhaps “kasayé” is “kasayék”?}
+2	kasayé. Chʼu tle g̱unayé wugoodí dáx̱ tléil lingít yáx̱ wutee.
+3	Chʼu du tláa tsú tléil át yáx̱ a daa toowutee. Chʼa tlákw
+4	at gutóot nagútch kanalsʼáakw ḵa tsʼutsʼgooxʼ sáni een. Chʼa
+5	yaa nalgéini yáx̱ awé dei s gutch oox̱ee at gutóode. Waanaaní sawé
+6	du een wu.aadí at kʼátskʼu g̱óot neilt uwagút. “Goosú i éen
+7	aa ḵu.aa” du tláach x̱ʼeiwawóosʼ. Chʼás gooshé awé
+8	yan awlijáḵw. Chʼa kaagéináx̱ awé dei s gutch tsú ḵut aawdzigeet
+9	at kʼátskʼu. Dei s gootch tsú ḵut aawdzigeet. Wé aa kasayék tsu
+10	dei s gootch yaa yínaayátʼ at gutóode. Du káak hás daxʼoonínáx̱ has yatee.
+11	Hasch ḵu.aa de has ayaḵeet hasdu kélkʼ. Chʼa aan awé
+12	du tláach tléil aawlxáchx̱ du yéetkʼ. Chʼu náanáx̱ a ḵeení awé ḵaaḵ
 {Page = 169}
-13	nεł ʼαwαyά. ʟεdαhín duʟá ʟax̣ dutʻuwú sιgú
-14	duyιtk̓ikaʹx̣. dukʻaʹkʻ hαs qʻua ʼαwέ tc̓α ʼαcʼuwaqít̓ʻ. yαn
-15	ʼαtx̣á ʼαwέ duʟá·tc yéyαwsιqʻa. ʼax̣yίtkʻ gύsά ʟαx̣ ł
-16	yuqʻacα duύs̓gun. handέ ʼιcá·tʻ qʻuqʻαhádὶ. wasά
-17	qʻaʟá qʻakʻuank̓υnutc ʼαyάx̣ ʼαwέ tʻutʻ ʼαca· watʻí duyítk̓.
-18	ʟε ʼαcádε yanacíni ʼi·n ʼαwέ ʼαcxetkʻάtʻ. cawυdιt̓εx̣̓. ʟεgadεʹ
-19	ʟαx̣ qʻύtx̣ x̣atkʻayεsìx̣έn. ʟe kʻάx̣ dαqʻ cawaxίx wε cawάtʻ
-20	wε ts̓αxítck̓ι qʻυa ʟe gá·ntʻ wudjιxίx. gwαᵃ́ tc̓υ ʟe gwáya
-21	duxetk̓ʻá yαn ʼuwaά hαtʻ ʼίn tcunet-x̣̓εdί. ʟe ʟéł ts̓u
-22	wυdαsá. tc̓υ ʟe ʼásgίwέ ducαkk̓υ tʻúwua· hαtʻ ʼίn wέ
-23	ts̓αxítck̓ι. tc̓υ ʟe duʟá ʼawυdjαg̣í dάx̣ hύ qʻuα ʟe ʟéł
-24	tsu wudustʻi·n. tc̓α yιkʻa·wαyá·t̓ι yάx̣ ʼαwέ desgυtc łιngίtʻ
-25	ʟánx̓ ʼαł̓úni tsu ʟéł hax̣ ʼυa·tʻ. de ʟαx̣ qʻυdαx̣ yaqʻacunαxίxι
-{Comment = Line 26 has ‹ʟenάx› which should actually end with uvular ‹x̣›.}
-26	ʼαwέ wúcʼin wυdιa·di wutcʼinʼa ʟenάx̣ hatʻʼa· ʼuwαgύtʻ. tc̓α hutc
-27	ʼαwέ ts̓áqʻu·n ʼαkʻawanikʻ ts̓axίtck̓ιtc qʻυdáx̣ yacυnałxίxι wέ
-28	ʼantʻaqʻiní. tcu ʟe dax̣ ʼawdυnύgu tʻúx̣ ʼαwέ wυłιgás̓ wέ
-29	g̣υnαna. tc̓u ʼadαx̣ ʼαyά ʟéł yαnkʻαx̣haułgάs̓x̣. ʟax̣ wutc
-{Page = 170}
-30	x̣ὰng̣a kʻawdihαyi yάx̣ yαtʻíyiα ʼαwέ tc̓α wυtc kʻαyax̣wυdιatʻ
-31	wέ dax̓nínάx̣ yαtʻiyί ts̓αxὶtck̓ι kʻakhάs. tsu wυtc kʻayax̣-
-32	hαswuʟ̣ιgá·s̓. ʼάx̓ hαs qʻυwαuwuyédάx̣ ʼαwέ wutc wαqʻ
-33	ciy·ig̣ά hαs ʼαda táx̣̓ᵘnutc. tc̓αyesύ qʻυtʻudzιtʻι yúαyύ.
-34	ʟex̓ ts̓υ qʻex̣̓ά ʟè yàαnatʻáx̣̓υ ʼαwέ ʟαx̣ kʻιk̓ια duhυnx̣uhαs
-35	s̓eg̣ιg̣a awʟ̣ιg̣in. gwαᵃ́ tc̓α déx̣ gwάwέ yαnαx̣ ʼa·kαwdιá.
-36	ʟe neł wugudíʼαwέ ducάtʻ ʼi·n ʼakʻawαni·kʻ ʼax̣ᵘsιhα
-37	hαsdus̓eg̣í. ts̓α yúk̓ x̓ᵘan hαsdux̣̓éx̣̓ ʼαtʻ nαtʻí wέ
-38	ʼαtyάtx̓i. ts̓u ʼag̣ά wέ yígigi ʼαwέ hαsduk̓ίyi gutc tʻúdε
-39	qʻυkʻαwdzιhα. ʼàdὰx̣ tʻà·tʻ wù·cdὰsé·x̓ hὰsduyάtx̓ì kʻάx̣ yὰn
-40	hὰs à·wὰdέł. ʼàdὰx̣ qʻè·nὰά tc̓ὰ ʟéx̓ gwά wé dè yᵘὰnὰx̣
-41	ʼànὰcú dùhùnx̣υhάs s̓èg̣ί. tc̓ù yάndε yàὰkʻànὰhé·nì t̓é·kʻ ʼàwέ
-42	dùcάtʻ qʻὺà yànàὲ·tʻ ła·x̣ wùckʻàdέ ʼαyá. yὰn ʼakʻὰhá
-43	ʼàwέ hὰsdùł̓έw tʻuhίdὶ. tsù g̣ùnàà ʼὰyì ʼαkʻαwàhá. tc̓ùł
-44	x̣ὲàtdjí ʼàwέ hὰsdùyάtx̓ì x̣̓έx̓ yàn hαs ʼὰtwὺsιx̣á. ʼὰtx̣ὰwέ
-{Comment = Line 45 ‹wεʹ› near end has a prime that should be an acute.}
-45	tc̓u dùcάtʻ wέ yὰnàὲt łá·x̣ yὰx̣ yὰʼαkʻànàhέ·nι ʼὰwέ wέ qʻá
-46	qʻὺà hὰsdùyάx̣ ʼαtʻ dàsα ʼàx̣ᵘ. ʟè yάndὲ yàxὲnàάdὶ ʼì·n
-{Page = 171}
-47	ʼàwέ dùyάtx̓ì ʼìn yὰn ʼàwsὶnìyὶ ʼitʻkʻàdέ ducάtʻ ʼὰkʻàwὰná.
-48	dὰgίnàà yιx̓ ʼàwέ cútʻawdìάkʻ. wέ ʼx̣̓ὰndàx̓ ʟε ʼὰwsὶx̣έx̓ᵘ
-{Comment = Line 49 has ‹ʼàwὰsʼìdὶ› which should be ‹ʼàwὰs̓ìdὶ›.}
-49	wέ łìngίtʻ yάx̣ ʼàwὰsʼìdὶ tcùkʻwán yὰnʼαsní ʼàwέ ducάtʻ
-50	x̣άnnάx̣ dàqʻ ʼùwὰgύtʻ. wέ ìtx̣̓ὰwúłx̣ hὰs ʼὰcὰwsìὰxὺ tsάłgὶ
-51	x̓ú·w. hὰs ʼαkʻὰwłιs̓έł̓ ʼὰnὰx̣ ʼàwέ hαs ʼàłtʻίn hὰs dὺx̣̓ὰwùł.
-52	dùcάtʻ s̓ά yὰnʼὰwὰdέł tʻàtyìn kʻat̓útdάx̣ ʼαwέs dux̣ύx̣̓ᵘ.
-53	tc̓ùł dà·sά ʼὰwùstìnί ʼὰwέ ʟε qʻέwὰà. ʟὲ yàὰkʻὰndὰgáni
-{Comment = Line 54 ‹wὺqʻὺtʻ› ‘went’ should certainly be ‹wὺgὺtʻ› instead.}
-54	ʼìn ʼàwέ gà·nὶ yὺx̣ wὺgʻὺtʻ wέ qʻá. dùhύnx̣ s̓ὲg̣ί g̣à ʟε
-55	ʼὰwʟ̣ὶg̣ὶn. dέcgὶdéł ʼὰnὰx̣ kʻèὺnὰłs̓ìstc. ts̓αyuʹk̓ᵘ ʼàwέ ʼàwαtaʹx̣̓ᵘ.
-56	łεk̓, ʟέł ʼὰyaʹx̓ tάx̣̓ᵘ ʼὰwὺstʻìn. hὰhά dέwdὺwὰdjάqʻ ʼαx̣hύnx̣,
-57	yè tʻùwὰtʻì. ʟè nèł wὺgùdί ʼìn ʼàwέ dùcάtʻ ʼìn ʼὰkʻὰwὰnì·kʻ,
-58	ʟέł ʼὰwὺtʻάx̣̓ᵘ ʼαx̣ʼàyí yάx̓ dèwὺdùwὰdjάqʻ ʼάsgί ʼαx̣hύnx̣.—
-59	yègὺὰyίyὰx x̓wάn ʼαx̣yαtx̓ùsάnί, yάyὰqʻά ʼìn ʼàwέ ʼá·ὰcὺkʻὺdjè·s̓
-{Comment = Line 60 has ‹tcὰ› that is missing comma above ‹c̓›.}
-60	ʼàdέ hὰsgὺg̣ὰsgὶtyά tc̓ὰ hὰs cqὰsnέx̣nì. wásά nὰtʻìtch g̣ὺnὰnà
-61	ʼαtyάtx̓ì, tc̓ù ʟè t̓ύkʻk̓à·dάx̣ tc̓ὰ g̣ὺnὰάtʻ yάx̣ hὰs nὰtʻìtc.
-{Page = 172}
-{Comment = Line 62 ‹ʼαt yάtx̓ì› should have ‹ʻ› for the space.}
-62	ʼὰyάx̣ ʼàwέ hὰs yὰtʻì yá ʼαtʻyάtx̓ì. tc̓ὰ-hάs hὰs ʼαtʻ
-63	ʼìn ʼatʻt̓ukt hαs ʼὰcὶgú·kʻ. ʼαtc ʼàwέ ʟéł ʟὰx̣ ʼαctʻὺkʻαwὺxὶł̓
-{Comment = Line 64 ‹k̓ὰdén› has a spurious final ‹ʼ›.}
-64	dùyάtx̓ì yá qʻá. ʟὰx̣ k̓ὰdén αwsὶkʻú de· dùὶtʻ qʻùwὺhàyί.
-65	tc̓ὰłdὰkʻὰtʻ wέ yὰgὶyì ʟéł ʟὲyέx̓ yéwùtʻì łdαkʻάtʻ ʼάtʻ yάndè
-66	yὰὰnὰsnìn. tʻὰtʻ yὰyὶdέ ʟè yάndὲ yàxènὰάdὶ ʼìn ʼàwέ tsù
-67	ʼὰyìdέ hαs wùà·tʻ wέ ł̓εwtʻùhίdì. ʟe ts̓ayùk̓ᵘ wùtʻὰ wε qʻá.
-{Comment = Line 68 ‹ʟὲx› ‘one’ needs to end with ejective ‹x̓›.}
-68	dùcάtʻ qʻὺà·s tc̓ὰ yὰn ʼὰwὰdὰł. ʟὲx̓ tʻὰtʻ kʻὰt̓ù·tʻ tʻά
-69	dùkʻάnάx̣ wὺtʻὶ. ʟè dùx̣úx̣ᵘ yùàwαx̣ίtc cìdὰndé. ʟè kʻìndὰtcún
-70	wùnùkᵘʻ wε qʻà. tc̓uł yιwuyát̓ì ʼàwέ tʻátc ʼùwὰdjάqʻ ducάtʻ.
-71	Dùx̣̓ὰnì k̓αdén ʼὰwsὶnì. ʟὰx̣ ts̓αyù·k̓ᵘ ʼὰwέ tsù hὰsdùὶtí kʻὰnάx̣
-{Comment = Line 72 ‹ʻàwέ› should start with ‹ʼ›.}
-72	tsù dàqʻ ʼuwὰgύtʻ. tc̓ὰ yèsύł yìnὰyάt̓dji ʼàwέ ʼὰwὰάx̣ wέ
-73	yànàὲtʻ łάx̣ wὺdùtsèx̣ὶ. ʟè ts̓αyú·k̓ᵘ ʼàwέ yὰnʼùwὰní. ʼὰłtʻίn
-{Comment = Line 74 ‹s̓eł̓ιnάx› and ‹ʼὰnάx› need uvular ‹x̣›.}
-74	wέ tsάłgὶ-s̓eł̓ιnάx̣, wέ ʼὰnάx̣ nèłdέ ʼὰtʻ gὺg̣ὰgὺtyά.
-75	ʟέł kʻègὺg̣ὰhά wέ kʻὰłάx̣ x̣ùx̣ yὰnὰgύdì yé tʻùwὰtʻύ.
-76	tc̓αyèsύł ʼὰcùstʻὶyí ʼὰwέ, hédὲ kʻècùwdùwὰάx̣ hὰsdùx̣̓àwùłx̣ hαs
-{Comment = Line 77 ‹ʼὰnάx› needs uvular ‹x̣›.}
-77	ʼὰcὰwsὶὰx̣ύ ʼάtʻ. Gwὰᵃ́ tc̓αs ʼαnαx̣ nèłdέ yὰwdzὶά dὺkʻéłk̓άtsk̓ù.
-78	ʟè wέ łιgέyìὰ tcὺkʻάndὰ áx̣x̓ᵘ ʼὰwέ ʼὰx̣̓ὰyὰwsιtʻάn dυtcὺnètk̓í.
-{Page = 173}
-{Comment = Line 79 ‹yὰὰkʻὰnὰsxάdὶ› has incorrect ‹kʼ› (not ‹k̓›).}
-79	tc̓ὺʟé yὰὰkʻὰnὰsxάdὶ ʼìn ʼὰwέ wέ t̓άtk̓ dùsάqs-kʻὰdzὰ·sí. wέ
-80	qʻá tsú ʟé dùkέłk̓άtsk̓ù ʼínìx̓ ʼὰx̣̓ὰyὰwsιtʻάn dùὰyí qʻύnάx̣
-81	ʼὰìnì-kʻúg̣ùx̓. ʼὰwέ ʼὰdjὶwὰnάqʻ. ʼάyá· yéwdùwὰάx̣ wέ t̓átk̓
-82	hútc. ʟè ʟέł ʼὰwùstʻìn wέ qʻàtc. ʟè yὰqʻènὰénì ʼìn
-83	ʼαwέ gάnx̓ yὺx̣ hὰswùà·tʻ ʼὰx̣̓ὺs ʼìtʻíg̣à hὰs ʼὰng̣αłg̣ì·ntʻ.
-{Comment = Boas notes that from this line forward he did not revise.}
-84	Gwὰᵃ́ ʟe hὰsdùx̣̓ὰwùłdάx̣ gwáwé kʻὰwdὶł̓ùqᵘ cί. yάng̣ὰtʻínìn
-85	x̣wὰdjὰg̣ι ʼάtʻ x̣̓ὺs ʼìtίyίkʻ ʟέł ʼὰέdì yùùx̣ʟὰxὰtsgὶnùtc
-86	dùίtdὲ kʻὺqᵘὰgútʻ, dùcάtʻ yè ʼαywsὶqʻà wέ qʻá. tc̓uł gùnὰyέ
-87	ʼùgùdjι dùcάtʻ yὰnὰcùkʻὰwὰdjá kʻὺdjὶdén x̣ὺłὶtcún, ʼαtc
-88	ʼx̓wάn łίł ʼίtʻùyὰx̣ὺàqʻ. ʟάx̣ déx̣ x̣ὰtʻὺxínì x̓wάn tsá ʼὰx̣ʼίtdὲ
-89	nὰg̣ὶyὰgùtʻ qʻa tc̓ὰyὰx̣tsú yàὰniłg̣ίntc ʼαx̣s̓èg̣íg̣á. ʼαtx̣ ʼὰwέ
-90	ʟè g̣ὺnὰyέ ʼὰkʻαwsιkʻé wέ t̓άtk̓ ʼx̣̓ùsʼìtʻí. dèsgídés yàgàgùtʻ,
-91	ʼàg̣áł yèùstʻìndjìyά. wάyàtʻí yìyéx̣sáwέ ʟὰx̣ kʻùʟ̣ὶdén
-92	cί ʼαx̣sὰtʻίntc ʼὰx̣̓ὺsʼìtx̓ίsάnì yìx̓. tc̓ὰłdὰkʻάtʻ wέ yagìyì
-93	ʼakʻὰwsὶkʻè. tc̓ùʟè qʻὺkʻὰcg̣ίtʻ tsά ʼὺwὰx̣í. ʟè yà qʻέ nαέni
-94	tʻúx̣ ʼὰwέ ʼàwὰάx̣ hὰtʻ kʻὰg̣ìtʻ sά hò·ó hò·ó hò·ó. ʟè
-{Page = 174}
-95	kʻìndὰtcún wùtcὶqʻὰg̣. ʟè tsù qʻὺwdzὶάx̣. tc̓ù qʻὺł̓άxs̓ὶ
-96	ʼὰwέ ʼὰkʻάx̣ ʼὰwʟ̣ὶg̣ìn hάtʻ ʼák̓ᵘ. gύnάx̣ ʼὰkʻàdέ ʼὰwέ
-97	tsù ʼàwὰάx̣ wέ kʻὰg̣ìtʻ g̣ùnὰànúx̓. yàqʻèkʻg̣ὰén ʟὲł yé
-98	x̣̓àwὺqʻά kʻὰg̣ìtʻ. ʼάtcʼὰwέ ʼàwαqʻìtʻ wέ ʼὰtʻ sά. ʟè
-99	ts̓ὰyúk̓ᵘ ʼὰwέ ʼὰyὰnàdέ dὰkʻ wὺdjìxίx. ʟè wέ càk̓ὶyὶ yè
-100	yànὰgὺdὶì·n ʼὰwέ wútcx̣ yàndùάx̣ wέ ʼὰtʻ sά. ʼúcgύcί,
-101	yú tʻùwὰtʻὶ. ʟè wέ ʼák̓ᵘyàx̣ί dὰkʻ nὰgúdì ʼὰwέ ʼὰwsὶtʻìn
-102	hὰtʻ kʻὰg̣ìtʻ ʼὰtx̣ὰ ʼàè yάx̣ ʼαctʻὺwὰyὰtʻì. kʻὰsὰyὰdén ʼὰtʻìnítc
-103	ʼὰwέ ʟè ʼàwὰʟún dè ʼὰx̣án yαʼὰkʻὺnὰłsὶnì ʼὰwέ ʼàwὰάx̣,
-{Comment = Line 104 ‹xάtʻ› should definitely start with uvular ‹x̣›.}
-104	ʼάyá. tsὺ nὰgύ, x̣άtʻ tsὺ hutcὶàyí ʼιkʻákʻ g̣ìdjὰqὰtʻ.
-105	Gwὰᵃ́ dukełk̓άtsk̓ù gwà·yá tʻάkʻάtʻ sὰtʻá·n dεx̣ kʻὰg̣ìtʻ
-106	dùt̓ὰg̣kʻὰdέ x̓ὰdιxwάs̓. tc̓ύʟè wέ kʻὰg̣ìtʻ yὰndὺάx̣ὶì·n ʼὰwέ
-107	ʼὰkʻá dὰkʻ djὶwdιgύtʻ. ʟè dùx̓ύs̓ì kʻίyúyὰὰnαsnìní ʼὰwέ,
-108	łὶs̓ά, yù ʼὰcyὰwsìqʻá. ʼὰx̣kʻá·kʻí łὶs̓άł x̣ὰtʻ ìdjάg̣x̣ì·g̣.
-{Comment = Line 109 ‹ʼὰx̣tc̓άłì› ‘my cache’ has unusual ejective. Mistake?}
-109	ʟè dùdjínk̓ kʻèὰwsìtʻάn. yύtʻ ʼùà ʼὰx̣tc̓άłì qʻà yu·tʻ qʻà
-110	yu·tʻ ʼὰx̣ùx̣ yὰnὰtc̓εx̣̓ (ʟὲł x̣υsὰkʻύ ʼὰsὰx̓ú). tc̓αłαὰkʻάtʻ ʼìàyí
-111	sάkʻi hàw gútc x̣`átʻ djὰg̣dέ. ʟè yὰndὲ yàx̣̓ὰndαtʻánì ʼὰwέ
-112	ʼὰcὰkʻὰwὰt̓έx̣̓. dè wέ kʻ`ág̣ìtʻ qʻὺyéktc dàkʻ kʻànὰłs̓έg̣i
-{Page = 175}
-113	ʼὰsgí wέ tcùnètx̣̓èdὶ ʼὰkʻàwὰgàqʻ. ʟè tsὰyúk̓ ʼὰwέ ʼαyì gάnì
-114	wùckʻá ʼὰkʻàwὰtcὰkʻ. ʼὰkʻá yὰn ʼὰstʻá ʼὰwέ ʼὰyìtʻ
-115	ʼὰkʻὰwłὶgάn. ʟαx̣ kʻὰx̣sὰgán, ʼὰwέ ʼὰyὰkʻαwłιkίs̓ ʼὰyì gάnì
-116	y`á ʼὰs̓àg̣í wὺckʻὰdέ ʼὰkłὰxítx̓ì ʼὰwέ ʟè kʻάł̓t̓ίx̣ sὶtʻὶ.
-117	ʼὰyά ʟὰx̣ ʼὰctʻuwὰksὰyèyítc, ʼὰwέ ʼὰwłὶúx, ʟè wέ ʼάx̓
-118	ʼὰk̓υkʻάtʻ kʻὰwαsúsì yex̓ ʼὰwέ wέ kʻάł̓t̓ qʻὺà ʟè tʻáx̓àx̣
-{Comment = Line 119 ‹tcὺ› should be ejective ‹tc̓ὺ›.}
-119	wὺsὶtʻì. ʼὰὰyά tcὺ ts̓ὰxίtck̓ὶ kʻάł̓t̓ì ʼὰyά yὶdάtʻ łὶngítʻ ʼὰsx̣aʹ.
+13	neil awayá. Tledahéen du tláa tlax̱ du toowú sigóo
+14	du yitkʼi kaax̱. Du kaak hás ḵu.aa awé chʼa ash oowaḵít. Yan
+15	atx̱á awé du tláach yéi yawsiḵaa. Ax̱ yítkʼ gúsá tlax̱ l
+16	yoo ḵaa shá du.úsʼgun. Haandé i sháat ḵooḵaháadi. Waa sá
+17	ḵaa tláa ḵaakoo.aankʼw nooch ayáx̱ awé toot ashaawatée du yítkʼ.
+18	Tle a shaadé yanashéeni een awé ash xeit kát. Shawuditʼex̱ʼ. Tlegaadé
+19	tlax̱ ḵútx̱ x̱at kaayeseex̱én. Tle káx̱ daaḵ shaawaxíx wé shaawát
+20	wé tsʼaxíchkʼi ḵu.a tle gáant wujixíx. Gwaʼ chʼu tle gwáayaa
+21	du xeitká yan oowa.á haat een chooneit x̱ʼéidi.

@@ -1,0 +1,67 @@
+{Number = 004}
+{Type = Original}
+{Title = Tlingit Verb Dictionary}
+{Author = Constance Naish, Gillian Story}
+{Source = N&S 1973:15–252}
+{Transcriber = Constance Naish, Gillian Story}
+{Orthography = NS2}
+{Dialect = Northern – Coastal – Angoon}
+{Note = The original speakers in the dictionary are anonymous, but all were from Angoon.}
+{Note = Some speakers may have a Transitional Northern subdialect rather than Coastal Northern.}
+{Page = 15}
+1	Deikeenàa jèe-t awlitlʼít
+2	ax̱ shát x̱at woolitlʼèet
+3	at x̱alig̱àas
+4	woodoodlig̱àas
+5	doo yoox̱ʼatángee ḵaa tóo-g̱aa yatèe
+6	ax̱ sánee ḵaa tóo-g̱aa yatèe
+7	ax̱ ée sh dlix̱án wéi kèitl
+8	áa yaa sh nalx̱án
+9	doo èen woo.àat
+10	doo èen-x̱ sh woodliyéx̱
+11	ax̱ éesh èen yee géi-dei yoo x̱ʼax̱li.átk
+12	anax̱ ḵwáak-t has ax̱ʼakwg̱aawáasʼee át áyá, doo géi-dei has akax̱sahàat
+{Page = 16}
+13	haa éex̱ yaa nadéin
+14	has doo x̱ʼéi-x̱ woodàa
+15	áx̱ x̱at tukwg̱adáa shákdéi
+16	áx̱ yaa yee tunadéin ágé, ixkée-xʼ yéi tí?
+17	boss-t oowanúk
+18	ánkʼw-t oowanúk ee káalkʼw
+19	tléil yax̱ oodatsʼéin: tlákw at dàa yéi jiné
+20	xʼáaxʼ shayanalhá
+21	ax̱ àat-ch shayawlihàa
+22	a x̱òonee-dei yéi aa gax̱toosanée
+23	keijíneenax̱ a x̱òonee-t aa oowa.át
+24	a tʼàaḵ-t tsu aawatée, “hàa-t yee.á”
+25	ee yát x̱ʼax̱wdliyóo ax̱ kéekʼ sákw, ax̱ kéekʼ-x̱ ee nax̱satèet
+26	doo kéekʼ yóo ayá x̱ʼalyóo
+{Page = 17}
+27	ax̱ yáa ee liḵʼéi ee yoox̱ʼatángee àa-dei yatèeyee yé
+28	chʼa wa.é, ee àayee-x̱ has layéx̱
+29	yát-x̱ x̱at woodoodliyéx̱
+30	éeḵ-dei yaa kana.úk
+31	dáanaa yéi adaané áa x̱at shukakg̱eejáa
+32	yéi áwé áa ee shukx̱wajèisʼ
+33	ax̱ éesh sèet adàax̱een
+34	ax̱ káak adàax̱ ashgóogoon
+35	haa èen a goog̱atée
+36	yóo àan ka.á haa èen wootèe
+37	dák-dei daak naltít
+38	sháal dàa-t woolitèet
+{Page = 18}
+39	ax̱ kèidlee-xʼ agé akeedlix̱éetlʼ?
+40	doo x̱ʼéi akoox̱dlix̱eetlʼ
+41	ax̱ tláa-ch yéi x̱at seiwahàa
+42	akaawakéts
+43	ee jikx̱waakéts
+44	tlákw yan jikakéts: yéi jiné tléil ooshgóok
+45	chʼa yèisoo yatsèen
+46	yee tsèenee, x̱ʼàan ganaltáa-dei yee gax̱doog̱éech
+47	tléil latsèen haa jèe yéi ootí, naná ḵaa jèe-déi yanax̱toosaḵàat
+48	ax̱ jèe-nax̱ kaawaháa jix̱wanàag̱ee
+49	doo latsèenee ax̱ yáa ḵut woonèe: tuháayee tlèin akaawalʼéexʼ
+50	ldakát has doo yáa ḵut kei at goog̱anée
+51	ḵúnax̱ awé lisʼàaḵ
+{Page = 19}
+
