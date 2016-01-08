@@ -20,6 +20,12 @@ translated Tlingit narratives and oratory collected by several scholars in the
 
 (in-package :tlcorpus)
 
+;;; Debugging.
+(defvar foo nil)
+(defvar foodir "../")
+(defvar foofile "001 Zuboff R - Basket Bay - Text.txt")
+(defvar foopath (merge-pathnames (concatenate 'string foodir foofile)))
+
   ;;
 ;;;;;; Assorted constants and variables.
   ;;
@@ -123,10 +129,10 @@ is necessary to uniquely identify a particular bibliographic source."))
 (defclass corpus-keyval ()
   ((key   :type string
           :initarg :key
-          :accessor corpus-keyval-key)
+          :accessor keyval-key)
    (value :type string
           :initarg :value
-          :accessor corpus-keyval-value))
+          :accessor keyval-value))
   (:documentation
    "Representation of a corpus metadatum key-value pair. The KEY is the
 element preceding the equals sign and the VALUE is the material following the
@@ -137,12 +143,15 @@ that both KEY and VALUE are strings."))
   ((type  :type (member :empty :data :meta :other)
           :initarg :type
           :documentation "The type of line: empty, data, metadata, or other.")
-   (index :type fixnum
-          :initarg :index
-          :documentation "The index (raw line number) in the corpus file.")
+   (file  :type corpus-file
+          :initarg :file
+          :documentation "The CORPUS-FILE instance containing this object.")
    (raw   :type string
           :initarg :raw
-          :documentation "The raw, unparsed line as read from the file."))
+          :documentation "The raw, unparsed line as read from the file.")
+   (index :type fixnum
+          :initarg :index
+          :documentation "The index (raw line number) in the corpus file."))
   (:documentation
    "Representation of a line in a corpus file. This class is only instantiated
 when the TYPE is :OTHER. For the :EMPTY, :DATA, and :META types there are
@@ -187,10 +196,13 @@ excluding the #\Tab character that separates the two fields."))
              :documentation "A relative pathname to where the file is located.")
    (name     :type string
              :initarg :name
-             :documentation "The name of the corpus file, including extension.")
-   (type     :type keyword
+             :documentation "The name of the corpus file.")
+   (type     :type string
              :initarg :type
              :documentation "The type of corpus file.")
+   (title    :type string
+             :initarg :title
+             :documentation "The title of the text in the corpus file.")
    (lines    :type (simple-vector corpus-file-line)
              :initarg :lines
              :documentation "The contents of the file as a vector of lines.")
@@ -295,24 +307,28 @@ could not be found."
                    (subseq line (1+ (position #\= line))
                                 (position #\} line)))))
 
-(defun make-line (str idx)
+(defun make-line (str idx filE)
   "Creates an instance of one of the subclasses of CORPUS-FILE-LINE depending
-on the contents of the string STR. The argument IDX should be a positive
-integer which is the index (raw line number) in the file."
+on the contents of the string STR. The argument IDX is a positive integer
+which is the index (raw line number) in the file. The argument FILE is an
+instance of CORPUS-FILE which contains the line."
   (declare (string str) (fixnum idx))
   (let ((type (parse-line-type str)))
     (cond ((eq type :EMPTY)
            (make-instance 'corpus-file-line-empty
+                          :file  file
                           :raw   str    ;even empty lines have content
                           :index idx))
           ((eq type :DATA)
            (make-instance 'corpus-file-line-data
+                          :file     file
                           :raw      str
                           :index    idx
                           :textnum  (parse-line-textnum str)
                           :contents (parse-line-contents str)))
           ((eq type :META)
            (make-instance 'corpus-file-line-meta
+                          :file   file
                           :raw    str
                           :index  idx
                           :keyval (make-instance 'corpus-keyval
@@ -321,6 +337,7 @@ integer which is the index (raw line number) in the file."
           ((eq type :OTHER)
            (make-instance 'corpus-file-line
                           :type  :other
+                          :file  file
                           :raw   str
                           :index idx))
           ;; Can't happen.
@@ -336,21 +353,27 @@ stores the result in the LINES slot of the CORPUS-FILE object."
                                               :adjustable t
                                               :fill-pointer t)
                                :pathname (merge-pathnames file))))
+    ;; First read all the lines into our object.
     (with-open-file (s (merge-pathnames file)
                        :direction :input
-                       ;;; FIXME: The value of EXTERNAL-FORMAT is not
-                       ;;; standard. We probably need some read-time
-                       ;;; conditionals for encoding stuff, but in the
-                       ;;; meantime SBCL, CCL, ECL, ABCL, and CMUCL all
-                       ;;; accept :UTF-8. CLISP doesn't.
+                       ;; FIXME: The value of EXTERNAL-FORMAT is not
+                       ;; standard. We probably need some read-time
+                       ;; conditionals for encoding stuff, but in the
+                       ;; meantime SBCL, CCL, ECL, ABCL, and CMUCL all
+                       ;; accept :UTF-8. CLISP doesn't.
                        :external-format :utf-8
                        :if-does-not-exist :error)
       (loop for line = (read-line s nil)
          for index from 0              ;should we count from 1 instead?
          until (null line)
-         do (vector-push-extend (make-line line index)
+         do (vector-push-extend (make-line line index filobj)
                                 (slot-value filobj 'lines))
-         finally (setf (slot-value filobj 'length) index)))
+            finally (setf (slot-value filobj 'length) index)))
+    ;; Now fill in a few properties defined in the file's metadata.
+    ;; The LENGTH slot was already filled in above.
+    (with-slots (type title) filobj
+      (setf type (get-file-header-metadatum-value filobj "Type"))
+      (setf title (get-file-header-metadatum-value filobj "Title")))
     filobj))
 
   ;;
@@ -377,9 +400,9 @@ checks against the class CORPUS-FILE-LINE-META and not the :TYPE slot."
 
 (defun get-file-metadata-header-lines (file)
   "Returns a list of all metadata lines in the CORPUS-FILE instance FILE
-before the content of the file switches to data. This segment of the file is
-called the header. The last metadatum in the header is the first page of the
-data so all Page metadata are excluded."
+before the content of the file switches to the actual data in some text. This
+segment before the data is called the header. The last metadatum in the header
+is actually the first page of the data so all Page metadata are excluded."
   (declare (corpus-file file))
   (loop for l across (slot-value file 'lines)
         until (and (not (typep l 'corpus-file-line-meta)))
@@ -387,12 +410,31 @@ data so all Page metadata are excluded."
           when (not (equal (slot-value (slot-value l 'keyval) 'key) "Page"))
             collect l))
 
-(defun get-file-metadatum (file key)
-  "Returns the metadatum value corresponding to the keyval KEY in the
-CORPUS-FILE instance FILE."
+(defmacro with-keyval (k v keyval &body body)
+  "Assigns the KEY slot of KEYVAL to the variable K and the VALUE slot to the
+variable V, then execute BODY with these bindings in place. The argument KEYVAL
+can be either a CORPUS-KEYVAL instance or an instance of the metadata line class
+CORPUS-FILE-LINE-META. In the latter case the CORPUS-KEYVAL instance is extracted
+from the KEYVAL slot of the argument."
+  `(with-slots ((,k key) (,v value))
+       (ctypecase ,keyval
+         (corpus-file-line-meta (meta-keyval ,keyval))
+         (corpus-keyval ,keyval))
+     ,@body))
+
+(defun get-file-header-metadatum-value (file key)
+  "Returns the header metadatum value corresponding to the keyval KEY in the
+CORPUS-FILE instance FILE. Only searches the header as defined by the return
+of the function GET-FILE-METADATA-HEADER-LINES. If no match then returns NIL.
+Note that this only returns the first instance of KEY, not any later ones."
   (declare (corpus-file file)
            (string key))
-  (let ((meta (get-file-metadata-lines file)))
-    (find-if #'(lambda (x)
-                 (equal (slot-value (slot-value x 'keyval) 'key) key))
-             meta)))
+  (let* ((metadata (get-file-metadata-header-lines file))
+         (metadatum (find-if #'(lambda (x)
+                                 (with-keyval k v x
+                                   (declare (ignore v))
+                                   (equal k key)))
+                             metadata)))
+    (if (not (null metadatum))
+        (keyval-value (meta-keyval metadatum))
+        nil)))
