@@ -193,7 +193,7 @@ excluding the #\Tab character that separates the two fields."))
 (defclass corpus-file ()
   ((pathname :type pathname
              :initarg :pathname
-             :documentation "A relative pathname to where the file is located.")
+             :documentation "A pathname to where the file is located.")
    (name     :type string
              :initarg :name
              :documentation "The name of the corpus file.")
@@ -203,14 +203,25 @@ excluding the #\Tab character that separates the two fields."))
    (title    :type string
              :initarg :title
              :documentation "The title of the text in the corpus file.")
-   (lines    :type (simple-vector corpus-file-line)
+   (lines    :type (vector corpus-file-line)
              :initarg :lines
              :documentation "The contents of the file as a vector of lines.")
    (length   :type fixnum
              :initarg :length
              :documentation "Length of the file in lines."))
   (:documentation
-   "Representation of a file in the corpus."))
+   "Representation of a file in the corpus. The slot PATHNAME contains a
+pathname for the file, and the slot NAME contains just the file's name. The
+slot TYPE contains a string extracted from the file's header metadata that is
+e.g. Text or Translation. The TITLE slot is the title of the text, also
+extracted from the header metadata. The LINES slot contains a vector of all of
+the raw lines in the file, in order. This is a vector rather than a list so
+that each line's position can be easily obtained, and so that fill pointers
+can be used to track position while processing lines. The LENGTH slot contains
+a fixnum that is the total number of raw lines in the file. The length of the
+vector LINES may be larger than the LENGTH slot because the vector is
+adjustable and Lisp implementations may allocate a larger size than necessary
+for adjustable vectors."))
 
 (defclass corpus-entry ()
   ((identifier  :type keyword)
@@ -352,6 +363,7 @@ stores the result in the LINES slot of the CORPUS-FILE object."
                                               :element-type 'corpus-file-line
                                               :adjustable t
                                               :fill-pointer t)
+                               :name (file-namestring (merge-pathnames file))
                                :pathname (merge-pathnames file))))
     ;; First read all the lines into our object.
     (with-open-file (s (merge-pathnames file)
@@ -421,6 +433,21 @@ from the KEYVAL slot of the argument."
          (corpus-file-line-meta (meta-keyval ,keyval))
          (corpus-keyval ,keyval))
      ,@body))
+
+(defun get-file-header-metadata-alist (file)
+  "Returns an association list of the header metadata keyvals in the
+CORPUS-FILE instance FILE. Only searches the header as defined by the function
+GET-FILE-METADATA-HEADER-LINES."
+  (let ((metadata (get-file-metadata-header-lines file)))
+    (
+
+(defun get-file-header-metadata-key-list (file)
+  "Returns a list of the header metadata keys in the CORPUS-FILE instance
+FILE. Only searches the header as defined by GET-FILE-METADATA-HEADER-LINES."
+  (declare (corpus-file file))
+  (let ((metadata (get-file-metadata-header-lines file)))
+    (loop for l in metadata
+          collect (keyval-key (meta-keyval l)))))
 
 (defun get-file-header-metadatum-value (file key)
   "Returns the header metadatum value corresponding to the keyval KEY in the

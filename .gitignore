@@ -31,7 +31,7 @@ Icon
 # Emacs temp and backup cruft.
 *~
 \#*\#
-.*\#
+.\#*
 
 # Vim temp and backup cruft.
 *.swp
