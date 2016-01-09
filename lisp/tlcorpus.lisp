@@ -2,15 +2,25 @@
 ;;;
 ;;; TlCorpus: The Tlingit corpus research utility.
 ;;;
-;;; In progress.
+;;; This program is still in progress and is not yet usable. Eventually it
+;;; will be a utility for exploring the corpus with regular expressions,
+;;; statistical analysis, and recursive functions. In particular the data
+;;; structure representations are designed so that context is easy to access,
+;;; and so it is easy to switch between text, translation, and other files in
+;;; corpus entries.
+;;;
+;;; The primary development platform is SBCL on Mac OS X, but the code is
+;;; regularly tested in Clozure CL and occasionally also ECL, CMUCL, and ABCL.
 
 (in-package :cl-user)
 
+;;; We don't use these yet, but we will at some point.
 (require :cl-unicode)
 (require :cl-ppcre)
+(require :cl-interpol)
 
 (defpackage "TLCORPUS"
-  (:use :common-lisp :cl-unicode :cl-ppcre)
+  (:use :common-lisp :cl-unicode :cl-ppcre :cl-interpol)
   (:documentation
    "The TLCORPUS package is a research utility for parsing, processing, and
 querying the Tlingit Corpus. This corpus is a set of text files with numbered
@@ -33,17 +43,16 @@ translated Tlingit narratives and oratory collected by several scholars in the
 (defvar *corpus-entries* nil
   "A list of corpus entries, each an instance of the class CORPUS-ENTRY.")
 
-;;; FIXME: This should be obtained from CL-UNICODE or something.
 (defconstant +whitespace+
-  '(#\Space #\Tab #\Newline #\Linefeed #\CR #\Page)
-  "A list of whitespace characters.")
+  (list-all-characters "White_Space")
+  "A list of whitespace characters. These are obtained from CL-UNICODE by
+listing all Unicode characters with the White_Space property.")
 
   ;;
 ;;;;;; Orthographies.
   ;;
 
-;;; FIXME: This should be read in from a corpus configuration file, e.g. named
-;;; "orthography-config.txt" and containing lines like "{SWA = Swanton...}".
+;;; FIXME: This should be read in from ../metadata/orthography-list.txt.
 (defconstant +orthographies+
   '(("SWA" . "Swanton as in _Tlingit Myths and Texts_")
     ("BS"  . "Boas, Shotridge, and Velten.")
@@ -70,6 +79,10 @@ be a string."
   (declare (string str))
   (if (not (null (lookup-orthography str)))
       t nil))
+
+;;; TODO: Some functions to scan all entries and extract new orthographies from
+;;; their metadata, then update the listing in metadata/orthography-list.txt.
+;;; This requires a metadata writer as well as the parser already implemented.
 
   ;;
 ;;;;;; Classes.
@@ -125,32 +138,22 @@ to easily identify a publication or manuscript. This could be much richer but
 there are only so many sources to consider for Tlingit text so not much data
 is necessary to uniquely identify a particular bibliographic source."))
 
-;;; This could just as easily be a cons, but as a class it has a known type.
-(defclass corpus-keyval ()
-  ((key   :type string
-          :initarg :key
-          :accessor keyval-key)
-   (value :type string
-          :initarg :value
-          :accessor keyval-value))
-  (:documentation
-   "Representation of a corpus metadatum key-value pair. The KEY is the
-element preceding the equals sign and the VALUE is the material following the
-equals sign. Thus in {Page = 62} the KEY is Page and the VALUE is 62. Note
-that both KEY and VALUE are strings."))
-
 (defclass corpus-file-line ()
-  ((type  :type (member :empty :data :meta :other)
-          :initarg :type
+  ((type  :type     (member :empty :data :meta :other)
+          :initarg  :type
+          :accessor line-type
           :documentation "The type of line: empty, data, metadata, or other.")
-   (file  :type corpus-file
-          :initarg :file
+   (file  :type     corpus-file
+          :initarg  :file
+          :accessor line-file
           :documentation "The CORPUS-FILE instance containing this object.")
-   (raw   :type string
-          :initarg :raw
+   (raw   :type     string
+          :initarg  :raw
+          :accessor line-raw
           :documentation "The raw, unparsed line as read from the file.")
-   (index :type fixnum
-          :initarg :index
+   (index :type     fixnum
+          :initarg  :index
+          :accessor line-index
           :documentation "The index (raw line number) in the corpus file."))
   (:documentation
    "Representation of a line in a corpus file. This class is only instantiated
@@ -168,13 +171,15 @@ stripping or other processing."))
    "Representation of an empty line in a corpus file."))
 
 (defclass corpus-file-line-data (corpus-file-line)
-  ((type     :initform :data
+  ((type     :initform   :data
              :allocation :class)
-   (textnum  :type (or fixnum nil)
-             :initarg :textnum
+   (textnum  :type       (or fixnum nil)
+             :initarg    :textnum
+             :accessor   data-textnum
              :documentation "The line number in the original publication.")
-   (contents :type string
-             :initarg :contents
+   (contents :type       string
+             :initarg    :contents
+             :accessor   data-contents
              :documentation "The contents of the line without the number."))
   (:documentation
    "Representation of a line in a corpus file which contains text from a
@@ -183,30 +188,32 @@ beginning of the line and the CONTENTS slot contains the rest of the line
 excluding the #\Tab character that separates the two fields."))
 
 (defclass corpus-file-line-meta (corpus-file-line)
-  ((type   :initform :meta
-           :allocation :class)
-   (keyval :type corpus-keyval
-           :initarg :keyval
-           :accessor meta-keyval
-           :documentation "The key-value pair of the line.")))
+  ((type  :initform   :meta
+          :allocation :class)
+   (key   :type       string
+          :initarg    key
+          :accessor   meta-key)
+   (value :type       string
+          :initarg    value
+          :accessor   meta-value)))
 
 (defclass corpus-file ()
-  ((pathname :type pathname
+  ((pathname :type    pathname
              :initarg :pathname
              :documentation "A pathname to where the file is located.")
-   (name     :type string
+   (name     :type    string
              :initarg :name
              :documentation "The name of the corpus file.")
-   (type     :type string
+   (type     :type    string
              :initarg :type
              :documentation "The type of corpus file.")
-   (title    :type string
+   (title    :type    string
              :initarg :title
              :documentation "The title of the text in the corpus file.")
-   (lines    :type (vector corpus-file-line)
+   (lines    :type    (vector corpus-file-line)
              :initarg :lines
              :documentation "The contents of the file as a vector of lines.")
-   (length   :type fixnum
+   (length   :type    fixnum
              :initarg :length
              :documentation "Length of the file in lines."))
   (:documentation
@@ -224,8 +231,7 @@ adjustable and Lisp implementations may allocate a larger size than necessary
 for adjustable vectors."))
 
 (defclass corpus-entry ()
-  ((identifier  :type keyword)
-   (number      :type fixnum)
+  ((number      :type fixnum)
    (title       :type string)
    (author      :type person)
    (transcriber :type person)
@@ -251,12 +257,12 @@ the text in its original orthography if this was not RP, and a GLOSS-FILE
 that contains a simple interlinear gloss of the Tlingit text."))
 
   ;;
-;;;;;; Parsing.
+;;;;;; Line parsing.
   ;;
 
-;;; A lot of the parsing in this section is so simple that it doesn't require
-;;; any kind of real parser, or even regular expressions. That's because the
-;;; format of the corpus is very simple.
+;;; A lot of the parsing in this section is so simple that it doesn’t require
+;;; any kind of real parser, or even just regular expressions. That’s because
+;;; the format of the corpus is very simple.
 
 (defun tabspot (str)
   "Return the position of the first tab in a string. Used for parsing data lines,
@@ -273,8 +279,11 @@ values for the TYPE slot of an instance of CORPUS-FILE-LINE."
   (let ((l (string-trim +whitespace+ line)))
     (cond
       ((eq (length l) 0) :EMPTY)
-      ;; FIXME: Also check for a final brace.
-      ((equal (char l 0) #\{) :META)
+      ((equal (char l 0) #\{)
+       (progn
+         (if (not (equal (char l (1- (length l))) #\}))
+             (warn "Missing closing brace.")) ;FIXME: file, line number?
+         :META))
       ;; FIXME: This is hackish.
       ((numberp (values (parse-integer (subseq l 0 (tabspot l))))) :DATA)
       (t :OTHER))))
@@ -318,7 +327,7 @@ could not be found."
                    (subseq line (1+ (position #\= line))
                                 (position #\} line)))))
 
-(defun make-line (str idx filE)
+(defun make-line (str idx file)
   "Creates an instance of one of the subclasses of CORPUS-FILE-LINE depending
 on the contents of the string STR. The argument IDX is a positive integer
 which is the index (raw line number) in the file. The argument FILE is an
@@ -339,12 +348,11 @@ instance of CORPUS-FILE which contains the line."
                           :contents (parse-line-contents str)))
           ((eq type :META)
            (make-instance 'corpus-file-line-meta
-                          :file   file
-                          :raw    str
-                          :index  idx
-                          :keyval (make-instance 'corpus-keyval
-                                                :key (parse-line-key str)
-                                                :value (parse-line-value str))))
+                          :file  file
+                          :raw   str
+                          :index idx
+                          :key   (parse-line-key str)
+                          :value (parse-line-value str)))
           ((eq type :OTHER)
            (make-instance 'corpus-file-line
                           :type  :other
@@ -365,27 +373,22 @@ stores the result in the LINES slot of the CORPUS-FILE object."
                                               :fill-pointer t)
                                :name (file-namestring (merge-pathnames file))
                                :pathname (merge-pathnames file))))
-    ;; First read all the lines into our object.
     (with-open-file (s (merge-pathnames file)
                        :direction :input
-                       ;; FIXME: The value of EXTERNAL-FORMAT is not
-                       ;; standard. We probably need some read-time
-                       ;; conditionals for encoding stuff, but in the
-                       ;; meantime SBCL, CCL, ECL, ABCL, and CMUCL all
-                       ;; accept :UTF-8. CLISP doesn't.
+                       ;; FIXME: The value :UTF-8 for :EXTERNAL-FORMAT
+                       ;; is not standard. We probably need some read-time
+                       ;; conditionals for this, but in the meantime SBCL,
+                       ;; CCL, ECL, ABCL, and CMUCL all accept :UTF-8.
+                       ;; CLISP notably doesn’t. Allegro? LispWorks?
+                       ;; Corman? GCL? Scieneer?
                        :external-format :utf-8
                        :if-does-not-exist :error)
       (loop for line = (read-line s nil)
-         for index from 0              ;should we count from 1 instead?
+         for index from 0              ;should we count from 1 instead? nah.
          until (null line)
          do (vector-push-extend (make-line line index filobj)
                                 (slot-value filobj 'lines))
             finally (setf (slot-value filobj 'length) index)))
-    ;; Now fill in a few properties defined in the file's metadata.
-    ;; The LENGTH slot was already filled in above.
-    (with-slots (type title) filobj
-      (setf type (get-file-header-metadatum-value filobj "Type"))
-      (setf title (get-file-header-metadatum-value filobj "Title")))
     filobj))
 
   ;;
@@ -410,58 +413,57 @@ checks against the class CORPUS-FILE-LINE-META and not the :TYPE slot."
         when (typep l 'corpus-file-line-meta)
           collect l))
 
-(defun get-file-metadata-header-lines (file)
-  "Returns a list of all metadata lines in the CORPUS-FILE instance FILE
-before the content of the file switches to the actual data in some text. This
-segment before the data is called the header. The last metadatum in the header
-is actually the first page of the data so all Page metadata are excluded."
+(defun get-file-header-lines (file)
+  "Returns a list of all metadata lines in the header of the CORPUS-FILE
+instance FILE. The segment of the file before the text data begins is called
+the header. The last metadatum in the header is actually the first Page
+metadatum of the text data so all Page metadata are excluded from the result."
   (declare (corpus-file file))
   (loop for l across (slot-value file 'lines)
         until (and (not (typep l 'corpus-file-line-meta)))
         when (typep l 'corpus-file-line-meta)
-          when (not (equal (slot-value (slot-value l 'keyval) 'key) "Page"))
+          when (not (equal (slot-value l 'key) "Page"))
             collect l))
 
-(defmacro with-keyval (k v keyval &body body)
-  "Assigns the KEY slot of KEYVAL to the variable K and the VALUE slot to the
-variable V, then execute BODY with these bindings in place. The argument KEYVAL
-can be either a CORPUS-KEYVAL instance or an instance of the metadata line class
-CORPUS-FILE-LINE-META. In the latter case the CORPUS-KEYVAL instance is extracted
-from the KEYVAL slot of the argument."
-  `(with-slots ((,k key) (,v value))
-       (ctypecase ,keyval
-         (corpus-file-line-meta (meta-keyval ,keyval))
-         (corpus-keyval ,keyval))
-     ,@body))
-
-(defun get-file-header-metadata-alist (file)
+(defun get-file-header-alist (file)
   "Returns an association list of the header metadata keyvals in the
 CORPUS-FILE instance FILE. Only searches the header as defined by the function
 GET-FILE-METADATA-HEADER-LINES."
-  (let ((metadata (get-file-metadata-header-lines file)))
-    (
+  (declare (corpus-file file))
+  (let ((metadata (get-file-header-lines file)))
+    (loop for m in metadata
+          collect (cons (meta-key m) (meta-value m))))))
 
-(defun get-file-header-metadata-key-list (file)
+(defun get-file-header-key-list (file)
   "Returns a list of the header metadata keys in the CORPUS-FILE instance
 FILE. Only searches the header as defined by GET-FILE-METADATA-HEADER-LINES."
   (declare (corpus-file file))
-  (let ((metadata (get-file-metadata-header-lines file)))
-    (loop for l in metadata
-          collect (keyval-key (meta-keyval l)))))
+  (let ((metadata (get-file-header-lines file)))
+    (loop for m in metadata
+          collect (meta-key m)))))
 
-(defun get-file-header-metadatum-value (file key)
+(defun get-file-header-value-list (file)
+  "Returns a list of the header metadata values in the CORPUS-FILE instance
+FILE. Only searches the header as defined by GET-FILE-METADATA-HEADER-LINES."
+  (declare (corpus-file file))
+  (let ((metadata (get-file-header-lines file)))
+    (loop for m in metadata
+          collect (meta-value m)))))
+
+(defun get-file-header-value (file key)
   "Returns the header metadatum value corresponding to the keyval KEY in the
-CORPUS-FILE instance FILE. Only searches the header as defined by the return
-of the function GET-FILE-METADATA-HEADER-LINES. If no match then returns NIL.
-Note that this only returns the first instance of KEY, not any later ones."
+CORPUS-FILE instance FILE. Only searches the header as defined by the function
+GET-FILE-METADATA-HEADER-LINES. If no match then returns NIL. Note that this
+only returns the first instance of KEY, not any later ones."
   (declare (corpus-file file)
            (string key))
-  (let* ((metadata (get-file-metadata-header-lines file))
-         (metadatum (find-if #'(lambda (x)
-                                 (with-keyval k v x
-                                   (declare (ignore v))
-                                   (equal k key)))
-                             metadata)))
+  (let* ((metadata (get-file-header-lines file))
+         (metadatum (find-if #'(lambda (m) (equal (meta-key m) key)))
+                             metadata))
     (if (not (null metadatum))
-        (keyval-value (meta-keyval metadatum))
+        (meta-value metadatum)
         nil)))
+
+  ;;
+;;;;;; Corpus file and entry creation.
+  ;;
