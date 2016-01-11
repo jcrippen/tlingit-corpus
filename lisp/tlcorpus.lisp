@@ -15,12 +15,13 @@
 (in-package :cl-user)
 
 ;;; We don't use these yet, but we will at some point.
+(require :alexandria)
 (require :cl-unicode)
 (require :cl-ppcre)
 (require :cl-interpol)
 
 (defpackage "TLCORPUS"
-  (:use :common-lisp :cl-unicode :cl-ppcre :cl-interpol)
+  (:use :common-lisp :alexandria)
   (:documentation
    "The TLCORPUS package is a research utility for parsing, processing, and
 querying the Tlingit Corpus. This corpus is a set of text files with numbered
@@ -44,7 +45,7 @@ translated Tlingit narratives and oratory collected by several scholars in the
   "A list of corpus entries, each an instance of the class CORPUS-ENTRY.")
 
 (defconstant +whitespace+
-  (list-all-characters "White_Space")
+  (cl-unicode:list-all-characters "White_Space")
   "A list of whitespace characters. These are obtained from CL-UNICODE by
 listing all Unicode characters with the White_Space property.")
 
@@ -191,31 +192,41 @@ excluding the #\Tab character that separates the two fields."))
   ((type  :initform   :meta
           :allocation :class)
    (key   :type       string
-          :initarg    key
+          :initarg    :key
           :accessor   meta-key)
    (value :type       string
-          :initarg    value
+          :initarg    :value
           :accessor   meta-value)))
 
 (defclass corpus-file ()
-  ((pathname :type    pathname
-             :initarg :pathname
+  ((pathname :type     pathname
+             :initarg  :pathname
+             :accessor corpus-file-pathname
              :documentation "A pathname to where the file is located.")
-   (name     :type    string
-             :initarg :name
+   (name     :type     string
+             :initarg  :name
+             :accessor corpus-file-name
              :documentation "The name of the corpus file.")
-   (type     :type    string
-             :initarg :type
+   (number   :type     string
+             :initarg  :number
+             :accessor corpus-file-number
+             :documentation "The number of the entry that includes the file.")
+   (type     :type     string
+             :initarg  :type
+             :accessor corpus-file-type
              :documentation "The type of corpus file.")
-   (title    :type    string
-             :initarg :title
+   (title    :type     string
+             :initarg  :title
+             :accessor corpus-file-title
              :documentation "The title of the text in the corpus file.")
-   (lines    :type    (vector corpus-file-line)
-             :initarg :lines
-             :documentation "The contents of the file as a vector of lines.")
-   (length   :type    fixnum
-             :initarg :length
-             :documentation "Length of the file in lines."))
+   (lines    :type     (vector corpus-file-line)
+             :initarg  :lines
+             :accessor corpus-file-lines
+             :documentation "The contents of the file as a vector of raw lines.")
+   (length   :type     fixnum
+             :initarg  :length
+             :accessor corpus-file-length
+             :documentation "Length of the file in raw lines."))
   (:documentation
    "Representation of a file in the corpus. The slot PATHNAME contains a
 pathname for the file, and the slot NAME contains just the file's name. The
@@ -231,22 +242,54 @@ adjustable and Lisp implementations may allocate a larger size than necessary
 for adjustable vectors."))
 
 (defclass corpus-entry ()
-  ((number      :type fixnum)
-   (title       :type string)
-   (author      :type person)
-   (transcriber :type person)
-   (translator  :type person)
-   (glosser     :type person)
-   (source      :type source)
-   (pages-start :type fixnum)
-   (pages-end   :type fixnum)
-   (orthography :type string)
-   (dialect     :type string)
-   (date        :type date)
-   (text-file   :type (or corpus-file nil))
-   (trans-file  :type (or corpus-file nil))
-   (orig-file   :type (or corpus-file nil))
-   (gloss-file  :type (or corpus-file nil)))
+  ((number      :type     fixnum
+                :initarg  :number
+                :accessor entry-number)
+   (title       :type     string
+                :initarg  :title
+                :accessor entry-title)
+   (author      :type     person
+                :initarg  :person
+                :accessor entry-author)
+   (transcriber :type     person
+                :initarg  :transcriber
+                :accessor entry-transcriber)
+   (translator  :type     person
+                :initarg  :translator
+                :accessor entry-translator)
+   (glosser     :type     person
+                :initarg  :glosser
+                :accessor entry-glosser)
+   (source      :type     source
+                :initarg  :source
+                :accessor entry-source)
+   (pages-start :type     fixnum
+                :initarg  :pages-start
+                :accessor entry-pages-start)
+   (pages-end   :type     fixnum
+                :initarg  :pages-end
+                :accessor entry-pages-end)
+   (orig-orthog :type     string
+                :initarg  :orig-orthog
+                :accessor entry-orig-orthog)
+   (dialect     :type     string
+                :initarg  :dialect
+                :accessor entry-dialect)
+   (date        :type     date
+                :initarg  :date
+                :accessor entry-date)
+   (text-file   :type     (or corpus-file nil)
+                :initarg  :text-file
+                :accessor entry-text-file)
+   (trans-file  :type     (or corpus-file nil)
+                :initarg  :trans-file
+                :accessor entry-trans-file)
+   (orig-file   :type     (or corpus-file nil)
+                :initarg  :orig-file
+                :accessor entry-orig-file)
+   (gloss-file  :type     (or corpus-file nil)
+                :initarg  :gloss-file
+                :accessor entry-gloss-file))
   (:documentation
    "Representation of an entry in the corpus, a single narrative or oratory
 performance transcribed and translated in some publication or manuscript.  A
@@ -362,35 +405,6 @@ instance of CORPUS-FILE which contains the line."
           ;; Can't happen.
           (t nil))))
 
-(defun parse-file (file)
-  "Parses a file with pathname FILE and returns an instance of CORPUS-FILE
-representing the parsed file. Calls MAKE-LINE on each line in the file and
-stores the result in the LINES slot of the CORPUS-FILE object."
-  (let ((filobj (make-instance 'corpus-file
-                               :lines (make-array 0
-                                              :element-type 'corpus-file-line
-                                              :adjustable t
-                                              :fill-pointer t)
-                               :name (file-namestring (merge-pathnames file))
-                               :pathname (merge-pathnames file))))
-    (with-open-file (s (merge-pathnames file)
-                       :direction :input
-                       ;; FIXME: The value :UTF-8 for :EXTERNAL-FORMAT
-                       ;; is not standard. We probably need some read-time
-                       ;; conditionals for this, but in the meantime SBCL,
-                       ;; CCL, ECL, ABCL, and CMUCL all accept :UTF-8.
-                       ;; CLISP notably doesn’t. Allegro? LispWorks?
-                       ;; Corman? GCL? Scieneer?
-                       :external-format :utf-8
-                       :if-does-not-exist :error)
-      (loop for line = (read-line s nil)
-         for index from 0              ;should we count from 1 instead? nah.
-         until (null line)
-         do (vector-push-extend (make-line line index filobj)
-                                (slot-value filobj 'lines))
-            finally (setf (slot-value filobj 'length) index)))
-    filobj))
-
   ;;
 ;;;;;; File metadata processing.
   ;;
@@ -432,7 +446,7 @@ GET-FILE-METADATA-HEADER-LINES."
   (declare (corpus-file file))
   (let ((metadata (get-file-header-lines file)))
     (loop for m in metadata
-          collect (cons (meta-key m) (meta-value m))))))
+          collect (cons (meta-key m) (meta-value m)))))
 
 (defun get-file-header-key-list (file)
   "Returns a list of the header metadata keys in the CORPUS-FILE instance
@@ -440,7 +454,7 @@ FILE. Only searches the header as defined by GET-FILE-METADATA-HEADER-LINES."
   (declare (corpus-file file))
   (let ((metadata (get-file-header-lines file)))
     (loop for m in metadata
-          collect (meta-key m)))))
+          collect (meta-key m))))
 
 (defun get-file-header-value-list (file)
   "Returns a list of the header metadata values in the CORPUS-FILE instance
@@ -448,7 +462,7 @@ FILE. Only searches the header as defined by GET-FILE-METADATA-HEADER-LINES."
   (declare (corpus-file file))
   (let ((metadata (get-file-header-lines file)))
     (loop for m in metadata
-          collect (meta-value m)))))
+          collect (meta-value m))))
 
 (defun get-file-header-value (file key)
   "Returns the header metadatum value corresponding to the keyval KEY in the
@@ -458,8 +472,8 @@ only returns the first instance of KEY, not any later ones."
   (declare (corpus-file file)
            (string key))
   (let* ((metadata (get-file-header-lines file))
-         (metadatum (find-if #'(lambda (m) (equal (meta-key m) key)))
-                             metadata))
+         (metadatum (find-if #'(lambda (m) (equal (meta-key m) key))
+                             metadata)))
     (if (not (null metadatum))
         (meta-value metadatum)
         nil)))
@@ -467,3 +481,72 @@ only returns the first instance of KEY, not any later ones."
   ;;
 ;;;;;; Corpus file and entry creation.
   ;;
+
+(defun make-file (pathstr)
+  "Parses a file with pathname FILE and returns an instance of CORPUS-FILE
+representing the parsed file. Calls MAKE-LINE on each raw line in the file and
+stores each resulting CORPUS-LINE instance in the vector in the LINES slot of
+the new CORPUS-FILE instance."
+  (let* ((pname (merge-pathnames pathstr))
+         (filobj (make-instance 'corpus-file
+                               :lines (make-array 0
+                                              :element-type 'corpus-file-line
+                                              :adjustable t
+                                              :fill-pointer t)
+                               :name (file-namestring pname)
+                               :pathname pname)))
+    (with-open-file (s pname :direction :input
+                             ;; FIXME: The value :UTF-8 for :EXTERNAL-FORMAT
+                             ;; is not standard. We probably need some
+                             ;; read-time conditionals for this, but in the
+                             ;; meantime SBCL, CCL, ECL, ABCL, and CMUCL all
+                             ;; accept :UTF-8. CLISP notably doesn’t.
+                             ;; Allegro? LispWorks?  Corman? GCL? Scieneer?
+                             :external-format :utf-8
+                             :if-does-not-exist :error)
+      (loop for line = (read-line s nil)
+         for index from 0               ;counter of raw lines in the file
+         until (null line)
+         do (vector-push-extend (make-line line index filobj)
+                                (corpus-file-lines filobj))
+            finally (with-slots (number type title length) filobj
+                        (let ((metadata (get-file-header-alist filobj)))
+                          (loop for (key . value) in metadata
+                                do (cond ((equal key "Number")
+                                          (setf number value))
+                                         ((equal key "Type")
+                                          (setf type value))
+                                         ((equal key "Title")
+                                          (setf title value)))))
+                      (setf length index))))
+    filobj))
+
+(defun add-file-to-entry (file entry)
+  (declare (corpus-entry entry)
+           (corpus-file file))
+  (let ((ftype (corpus-file-type file)))
+    (cond ((equal ftype "Text")
+           (setf (entry-text-file entry) file))
+          ((equal ftype "Translation")
+           (setf (entry-trans-file entry) file))
+          ((equal ftype "Original")
+           (setf (entry-orig-file entry) file))
+          ((equal ftype "Gloss")
+           (setf (entry-orig-file entry) file))
+          (t nil))))
+
+(defun make-entry (file)
+  "Creates a new instance of the class CORPUS-ENTRY, filling in its slots with
+metadata derived from the CORPUS-FILE instance FILE."
+  (declare (corpus-file file))
+  (let ((entry (make-instance 'corpus-entry
+                              :number (corpus-file-number file)
+                              :title (corpus-file-title file))))
+    (add-file-to-entry file entry)))
+
+(defun record-entry (entry)
+  "Adds an instance ENTRY of the class CORPUS-ENTRY to the *CORPUS-ENTRIES*
+list, destructively modifying it. Returns the new value of the list in
+*CORPUS-ENTRIES*."
+  (declare (corpus-entry entry))
+  (pushnew entry *corpus-entries* :test #'equal))
