@@ -1,3 +1,5 @@
+-*- Mode: GFM -*-
+
 # The Tlingit Corpus
 
 The Tlingit Corpus is a collection of narrative and oratory texts for linguistic research on the Tlingit language (Na-Dene family) of southeastern Alaska and neighbouring parts of British Columbia and the Yukon. The texts in this corpus come from a variety of published and unpublished sources, with the majority being from the work by Richard and Nora Marks Dauenhauer.
@@ -17,7 +19,7 @@ Entries must have at least one file, and should have at least two: the text and 
 * `Original`: original form of the Tlingit text if in a different orthography
 * `Gloss`: linguistic segmentation and gloss of the Tlingit text
 
-Each file in an entry has the same basic format, namely a series of lines ending with the Unix-style [newline](https://en.wikipedia.org/wiki/Newline) character LF (Unicode U+000A Line Feed, ^J or "\n"). Note that Microsoft Windows uses a different two-character newline CR+LF (additional U+000D Carriage Return, ^M or "\r"). Since it is based on Unix, Mac OS X follows the Unix LF standard.
+Each file in an entry has the same basic format, namely a series of lines ending with the Unix-style [newline](https://en.wikipedia.org/wiki/Newline) character LF (Unicode U+000A Line Feed, a.k.a `^J` or `"\n"`). Note that Microsoft Windows uses a different two-character newline CR+LF (additional U+000D Carriage Return, a.k.a. `^M` or `"\r"`). Since it is based on Unix, Mac OS X follows the Unix LF standard.
 
 Each line in a file can be either data or metadata. Data lines represent the original lines in the published text. Metadata lines are unique to the Tlingit Corpus, representing information about the text which has been added by the corpus compilers. The following examples contrast a data line and a metadata line.
 
@@ -45,3 +47,30 @@ A metadata line always begins with an open brace `{` and always ends with a clos
 * `Note`: general note that applies to an entire file
 * `Comment`: specific note that applies to a particular line
 
+In general there is no specific structure to a metadata value, but some particular metadata keys are associated with special constraints on the structure of their keys. Bilingual names are given with Tlingit first and English second, separated by spaces and a forward slash.
+
+* `Dzéiwsh / James A. Crippen`
+* `Ḵeixwnéi / Nora Marks Dauenhauer`
+* `Kéet Yanaayí / Willie Marks`
+
+If an English name contains an additional “Sr.” or the like, this is *not* separated from the rest of the name by a comma.
+
+* `Shkwínde / William L. Paul Sr.`
+
+Instead, commas are used to separate multiple names. In such cases, the precedence of `/` is higher than the precedence of `,` so that pairs of Tlingit/English are separated by commas.
+
+* `Seidayaa / Elizabeth Nyman, Weiháa / Jeff Leer`
+
+# Unicode
+
+All text in the Tlingit Corpus is in [Unicode](http://www.unicode.org/) using the [UTF-8](https://en.wikipedia.org/wiki/UTF-8) encoding. This section documents some Unicode usage practices particular to Tlingit text.
+
+## Underscore diacritic
+
+The underscore diacritics in letters like X̱ and G̱ are represented using the Unicode character [U+0331 Combining Macron Below](https://en.wikipedia.org/wiki/Macron_below). This must not be confused with the similar U+0320 Combining Low Line. The latter is meant to connect between letters, whereas Combining Macron Below never connects between letters. 
+
+## Apostrophe
+
+## Quotation marks
+
+## 
