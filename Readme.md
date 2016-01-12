@@ -21,6 +21,32 @@ Entries must have at least one file, and should have at least two: the text and 
 
 Each file in an entry has the same basic format, namely a series of lines ending with the Unix-style [newline](https://en.wikipedia.org/wiki/Newline) character LF known in Unicode as U+000A Line Feed, a.k.a `^J` or `\n`. Note that Microsoft Windows uses a different two-character newline CR+LF with the addition of U+000D Carriage Return, a.k.a. `^M` or `\r`. Since it is based on Unix, Mac OS X follows the Unix LF standard.
 
+The following diagram illustrates the hierarchical structure of corpus entries.
+
+```
+entry
+ |
+ +- file
+ |   |
+ |   +- metadata line
+ |   |   |
+ |   |   +- key
+ |   |   |
+ |   |   +- value
+ |   |
+ |   +- data line
+ |       |
+ |       +- number
+ |       |
+ |       +- content
+ |
+ +- file
+ |   |
+ |   +- lines...
+ |
+ ...
+```
+
 ### Line formats
 
 Each line in a file can be either data or metadata. Data lines represent the original lines in the published text. Metadata lines are unique to the Tlingit Corpus, representing information about the text which has been added by the corpus compilers. The following examples contrast a data line and a metadata line.
@@ -34,10 +60,12 @@ Each line in a file can be either data or metadata. Data lines represent the ori
 
 A data line always begins with a number that represents the original line numbering in the source text. The data line number is followed by a tab (Unicode U+0009 Character Tabulation), and then the rest of the line contains text.
 
-* `num	text`
+* `num⁝⁝<TAB>text`
 * `27	akag̱ag̱ataag̱ít ḵa has akag̱ax̱laxaashít.`
 
 If the original publication lacks line numbers then these are created for the corpus, starting from 1. The line divisions of the original publication are maintained even when these are simply due to typesetting as in e.g. Velten’s transcriptions.
+
+Data lines may be of arbitrary length. They are often less than 80 characters, but this is entirely dependent on their representation in the source texts. The Dauenhauers have a few instances of very long lines in their texts and the corpus replicates these as published.
 
 #### Metadata format
 
@@ -58,11 +86,13 @@ A metadata line always begins with an open brace `{` and always ends with a clos
 * `Note`: general note that applies to an entire file
 * `Comment`: specific note that applies to a particular line
 
-Keys are always expressed in Title Case with an initial uppercase character and other letters lowercase in the word. There are no multiple word keys but this is not guaranteed in the future. Programs parsing metadata in the corpus should only rely on the braces `{`/`}` and equals sign `=` to distinguish between keys and values.
+Keys are always expressed in Title Case with an initial uppercase character and other letters lowercase in the word. There are no multiple word keys in the corpus at present but this is not guaranteed in the future. Programs parsing metadata in the corpus should only rely on the braces `{`/`}` and equals sign `=` to distinguish between keys and values.
 
 There is no general structure to a metadata value, but some particular metadata keys are associated with special constraints on the structure of their values. These special constraints are described individually below.
 
 Ideally all metadata lines should be shorter than 80 characters including punctuation for ease of reading in text editors and terminal emulators. This is not mandatory however, so the occasional metadata line can be longer if there is no reasonable abbreviation possible.
+
+There is a logical division between header and body in a corpus file. The header is an uninterrupted block of metadata lines that contain keys like `Number`, `Type`, and `Author` which apply to the entire file. After this header the data lines begin and this is the body. In the body the metadata lines refer to the local data context, usually the following line, and not to the entire file. The first line of the body is not actually a data line, but rather a metadata line with a `Page` key indicating the first page of the text. Parsers can read forward until a data line is encountered, then back up until the first `Page` metadata is encountered. At this point all previous lines are header and all following lines are body.
 
 ##### Numeric values
 
@@ -115,6 +145,12 @@ Bilingual and monolingual names can be combined in a list, in any order.
 
 * `Stoowuḵáa / Louis Shotridge, Franz Boas`
 * `Henry Velten, Yeex̱aas / Lester Roberts`
+
+##### Special values
+
+Some metadata in the corpus consist of restricted lists of possible values. Examples of these include `Orthography` and `Source`. The possible values for these kinds of metadata should be enumerated in lists in the `metadata` subdirectory. Eventually there will be a program that automatically updates these lists based on the values used in the corpus, but for now the value list files are maintained by hand.
+
+The format of the metadata value list files is special. The keys in these files are the values that will be used in the corpus files. The keys in the value list files are descriptive summaries meant for human reading and consequently have unpredictable content except for the lack of braces `{` and `}`.
 
 ## Unicode
 
