@@ -1,0 +1,9 @@
+{D 1974 = Dauenhauer, Richard. 1974. Text and context of Tlingit oral tradition. Madison: University of Wisconsin at Madison PhD dissertation.}
+{D&D 1981 = Dauenhauer, Nora Marks & Richard Dauenhauer, eds. “Because we cherish you”: Sealaska elders speak to the future. Juneau: Sealaska Heritage Foundation.}
+{D&D 1987 = Dauenhauer, Nora Marks & Richard Dauenhauer. 1987. Haa shuká: Our ancestors. Seattle: University of Washington Press. ISBN 0-295-96495-2.}
+{D&D 1990 = Dauenhauer, Nora Marks & Richard Dauenhauer. 1990. Haa tuwunáagu yís: For healing our spirit. Seattle: University of Washington Press.}
+{D&D 1998 = Dauenhauer, Nora Marks & Richard Dauenhauer. 1998. Tracking “Yuwaan Gagéets”: A Russian fairy tale in Tlingit oral tradition. Oral Tradition 13(1): 58–91.}
+{D&D 2002 = Dauenhauer, Nora Marks & Richard Dauenhauer. 2002. Lingít x̱ʼéináx̱ sá! Say it in Tlingit: A Tlingit phrasebook. Juneau: Sealaska Heritage Institute. ISBN 0-9679311-1-8.}
+{D&D 2008 = Dauenhauer, Nora Marks, Richard Dauenhauer, & Lydia Black. 2008. Anóoshi Lingít Aaní ká: Russians in Tlingit America. Seattle: University of Washington Press. ISBN 978-0-295-96801-2.}
+{N&L 1993 = Nyman, Elizabeth & Jeff Leer. 1993. Gágiwduł.àt: Brought forth to reconfirm. The legacy of a Taku River Tlingit clan. Fairbanks: Alaska Native Language Center. ISBN 1-55500-048-7.}
+{N&S 1973 = Naish, Constance & Gillian Story. Tlingit verb dictionary. Fairbanks: Alaska Native Language Center.}
