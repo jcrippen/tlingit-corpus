@@ -19,7 +19,7 @@ Entries must have at least one file, and should have at least two: the text and 
 * `Original`: original form of the Tlingit text if in a different orthography
 * `Gloss`: linguistic segmentation and gloss of the Tlingit text
 
-Each file in an entry has the same basic format, namely a series of lines ending with the Unix-style [newline](https://en.wikipedia.org/wiki/Newline) character LF (Unicode U+000A Line Feed, a.k.a `^J` or `"\n"`). Note that Microsoft Windows uses a different two-character newline CR+LF (additional U+000D Carriage Return, a.k.a. `^M` or `"\r"`). Since it is based on Unix, Mac OS X follows the Unix LF standard.
+Each file in an entry has the same basic format, namely a series of lines ending with the Unix-style [newline](https://en.wikipedia.org/wiki/Newline) character LF known in Unicode as U+000A Line Feed, a.k.a `^J` or `\n`. Note that Microsoft Windows uses a different two-character newline CR+LF with the addition of U+000D Carriage Return, a.k.a. `^M` or `\r`. Since it is based on Unix, Mac OS X follows the Unix LF standard.
 
 ### Line formats
 
@@ -32,7 +32,12 @@ Each line in a file can be either data or metadata. Data lines represent the ori
 
 #### Data format
 
-A data line always begins with a number that represents the original line numbering in the source text. The data line number is followed by a tab (Unicode U+0009 Character Tabulation), and then the rest of the line contains text. If the original publication lacks line numbers then these are created for the corpus, starting from 1. The line divisions of the original publication are maintained even when these are simply due to typesetting as in e.g. Velten’s transcriptions.
+A data line always begins with a number that represents the original line numbering in the source text. The data line number is followed by a tab (Unicode U+0009 Character Tabulation), and then the rest of the line contains text.
+
+* `num	text`
+* `27	akag̱ag̱ataag̱ít ḵa has akag̱ax̱laxaashít.`
+
+If the original publication lacks line numbers then these are created for the corpus, starting from 1. The line divisions of the original publication are maintained even when these are simply due to typesetting as in e.g. Velten’s transcriptions.
 
 #### Metadata format
 
@@ -53,7 +58,41 @@ A metadata line always begins with an open brace `{` and always ends with a clos
 * `Note`: general note that applies to an entire file
 * `Comment`: specific note that applies to a particular line
 
-In general there is no specific structure to a metadata value, but some particular metadata keys are associated with special constraints on the structure of their keys. Bilingual names are given with Tlingit first and English second, separated by spaces and a forward slash.
+Keys are always expressed in Title Case with an initial uppercase character and other letters lowercase in the word. There are no multiple word keys but this is not guaranteed in the future. Programs parsing metadata in the corpus should only rely on the braces `{`/`}` and equals sign `=` to distinguish between keys and values.
+
+There is no general structure to a metadata value, but some particular metadata keys are associated with special constraints on the structure of their values. These special constraints are described individually below.
+
+Ideally all metadata lines should be shorter than 80 characters including punctuation for ease of reading in text editors and terminal emulators. This is not mandatory however, so the occasional metadata line can be longer if there is no reasonable abbreviation possible.
+
+##### Numeric values
+
+Numeric values can be zero padded or unpadded. Zero padded numeric values are used for the `Number` key that indicates the entry number in a file.
+
+* `{Number = 001}`
+* `{Number = 042}`
+* `{Number = 123}`
+
+This entails a maximum of 999 entries. It may be that in the future there are more than 999 Tlingit narratives in the corpus, at which time the zero padding must be revised to use four digits. If ever necessary, this should be easy to change programmatically. File names will also have to be modified at the same time for consistency.
+
+Page numbers are never zero padded. The maximum page number varies with each publication depending on the size of the original publication context (book, journal, notebook, etc.).
+
+* `{Page = 17}`
+* `{Page = 105}`
+* `{Page = 1024}`
+
+The metadata line indicating a change of page always precedes the first data line from that page. This means that the current page context of a data line can be retrieved by searching backward in the file.
+
+##### List values
+
+Values that consist of an ordered or unordered list of items are expressed with commas.
+
+* `{Tags = narrative, quoted speech, directionals, Haida}`
+
+There is no forseen necessity for lists with embedded commas, so semicolons should not be parsed as separators in metadata values. This may change in the future, however.
+
+##### Name values
+
+Bilingual names are given with Tlingit first and English second, separated by spaces and a forward slash.
 
 * `Dzéiwsh / James A. Crippen`
 * `Ḵeixwnéi / Nora Marks Dauenhauer`
@@ -61,11 +100,21 @@ In general there is no specific structure to a metadata value, but some particul
 
 If an English name contains an additional “Sr.” or the like, this is *not* separated from the rest of the name by a comma.
 
-* `Shkwínde / William L. Paul Sr.`
+* `Shgwínde / William L. Paul Sr.`
 
 Instead, commas are used to separate multiple names. In such cases, the precedence of `/` is higher than the precedence of `,` so that pairs of Tlingit/English are separated by commas.
 
 * `Seidayaa / Elizabeth Nyman, Weiháa / Jeff Leer`
+
+Monolingual names are given alone without a slash.
+
+* `Franz Boas`
+* `Henry Velten`
+
+Bilingual and monolingual names can be combined in a list, in any order.
+
+* `Stoowuḵáa / Louis Shotridge, Franz Boas`
+* `Henry Velten, Yeex̱aas / Lester Roberts`
 
 ## Unicode
 
@@ -85,8 +134,8 @@ The orthographic apostrophe in Tlingit indicates ejective phonation of the prece
 
 Quotation marks in the corpus must be formed with the directional pairs `“`/`”` and `‘`/`’` which are U+201C & U+201D {Left, Right} Double Quotation Mark and U+2018 & U+2019 {Left, Right} Single Quotation Mark. This is because the quotation marks in Tlingit are only used in balanced pairs to open and close quoted speech. They are never used for phonological contraction because this could be potentially confused with the representation of ejectives. Using the dedicated quotation marks also relieves programmers of the escaping burden since quotation marks are also used as type delimiters (strings, characters) in most programming languages, markup languages, and regular expressions languages.
 
-If a published text does not have balanced quotation marks then they must be changed to be balanced in the corpus. This ensures that algorithmic processing of text can easily identify the beginning and end of quotations.
+If a published text does not have balanced quotation marks then they must be changed to be balanced in the corpus. This ensures that algorithmic processing of text can easily identify the beginning and end of quotations. The absence of a closing quotation mark on a line then entails that the quoted speech spans multiple lines, and thus a program can search forward through successive lines until the closing quotation mark is reached.
 
-The U+2019 Right Single Quotation Mark must never be used for the orthographic apostrophe that indicates ejective phonation. This is only ever represented by U+02BC Modifier Letter Apostrophe. Most fonts have an identical appearance for both characters, so it is necessary to check new additions to the corpus using string matching programs like `grep` or text editors like `emacs` to ensure that no spurious quotation marks creep in for orthographic apostrophes or vice versa.
+The U+2019 Right Single Quotation Mark must never be used for the orthographic apostrophe that indicates ejective phonation. This is only ever represented by U+02BC Modifier Letter Apostrophe. Most fonts have an identical appearance for both characters, so it is necessary to check new additions to the corpus using string matching programs like `grep` or text editors like `emacs` and `vim` to ensure that no spurious quotation marks creep in for orthographic apostrophes or vice versa.
 
 Although preserving the punctuation of original texts is important, for unpublished and new texts it may be useful to adopt guillemets – a.k.a. angle quotation marks – instead of the English-style comma quotation marks. These are U+2039 & U+203A Single {Left, Right}-Pointing Angle Quotation Mark and U+00AB & U+00BB {Left, Right}-Pointing Double Angle Quotation Mark in Unicode. They should be used with the points outward in the French arrangement as `«…»` and `‹…›` rather than in the German style of points inward as e.g. `»…«`. This is because with points outward they more closely resemble the curvature of the comma quotation marks like `“…”`. European custom is generally to separate the guillemets from the rest of the text with whitespace, but this is not necessary here since fine typography is largely irrelevant for corpus work.
