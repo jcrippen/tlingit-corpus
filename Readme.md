@@ -150,7 +150,7 @@ Bilingual and monolingual names can be combined in a list, in any order.
 
 Some metadata in the corpus consist of restricted lists of possible values. Examples of these include `Orthography` and `Source`. The possible values for these kinds of metadata should be enumerated in lists in the `metadata` subdirectory. Eventually there will be a program that automatically updates these lists based on the values used in the corpus, but for now the value list files are maintained by hand.
 
-The format of the metadata value list files is special. The values in these files are the values that will be used in the corpus files. The keys in the value list files are descriptive summaries meant for human reading and consequently have unpredictable content except for the lack of braces `{` and `}`.
+The format of the metadata value list files is special. The keys in these value list files are the values that will be used in the corpus files. The values in the value list files are descriptive summaries meant for human reading and consequently have unpredictable content except for the lack of braces `{` and `}`.
 
 ## Unicode
 
