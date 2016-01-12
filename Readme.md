@@ -63,14 +63,18 @@ Instead, commas are used to separate multiple names. In such cases, the preceden
 
 # Unicode
 
-All text in the Tlingit Corpus is in [Unicode](http://www.unicode.org/) using the [UTF-8](https://en.wikipedia.org/wiki/UTF-8) encoding. This section documents some Unicode usage practices particular to Tlingit text.
+All text in the Tlingit Corpus is in [Unicode](http://www.unicode.org/) using the [UTF-8](https://en.wikipedia.org/wiki/UTF-8) encoding. This section documents some Unicode usage practices particular to Tlingit text. Particular issues are the representation of underscore diacritics, the representation of the orthographic apostrophe for ejectives, and the representation of quotation marks.
 
 ## Underscore diacritic
 
-The underscore diacritics in letters like X̱ and G̱ are represented using the Unicode character [U+0331 Combining Macron Below](https://en.wikipedia.org/wiki/Macron_below). This must not be confused with the similar U+0320 Combining Low Line. The latter is meant to connect between letters, whereas Combining Macron Below never connects between letters. 
+The Revised Popular orthography used in the corpus has an underscore diacritic indicating that the sound is uvular rather than velar. Thus orthographic `x̱` stands for the uvular fricative /χ/ in contrast with orthographic `x` that stands for the velar fricative /x/. The underscore diacritics in letters like `x̱` and `G̱` are represented using the Unicode diacritic character [U+0331 Combining Macron Below](https://en.wikipedia.org/wiki/Macron_below) following the appropriate base character like U+0058 Latin Capital Letter X. The U+0331 Combining Macron Below diacritic must not be confused with the similar U+0320 Combining Low Line. The latter is meant to connect between letters, whereas Combining Macron Below never connects between letters. Use of any other character for the underscore diacritic is a bug.
+
+The letters `Ḵ` and `ḵ` are  represented differently from `X̱`/`x̱` and `G̱`/`g̱` because of how Unicode is structured. Unicode defines [precomposed characters](https://en.wikipedia.org/wiki/Precomposed_character) that are single characters which can be decomposed into multiple characters. There are no precomposed equivalents for any of `X̱`, `x̱`, `G̱`, or `g̱`, but there are precomposed forms of U+1E34 Latin Capital Letter K With Line Below for `Ḵ` and U+1E35 Latin Small Letter K With Line Below for `ḵ`. The corpus text should be entirely in Unicode’s [NFC normalization](https://en.wikipedia.org/wiki/Unicode_equivalence#Normalization), thus preferring the precomposed variants. Use of any other normal form is a bug.
 
 ## Apostrophe
 
+The orthographic apostrophe in Tlingit indicates ejective phonation of the preceding symbol. In Unicode this should only ever be represented with the character [U+02BC Modifier Letter Apostrophe](https://en.wikipedia.org/wiki/Modifier_letter_apostrophe) `ʼ`. The ‘easy’ apostrophe U+0027 Apostrophe `'` is specified with the Unicode property Po `Other_Punctuation`, so it is not a letter but rather a kind of punctuation just like the double quote or exclamation point. This contrasts with U+02BC `ʼ` which has the property Lm `Modifier_Letter` meaning that it is a true letter and not a punctuation symbol. In general the U+0027 Apostrophe `'` should never be used in the corpus as detailed in the following section.
+
 ## Quotation marks
 
-## 
+Quotation marks in the corpus must be formed with the directional pairs `“`/`”` and `‘`/`’` which are U+201C & U+201D {Left, Right} Double Quotation Mark and U+2018 & U+2019 {Left, Right} Single Quotation Mark.
