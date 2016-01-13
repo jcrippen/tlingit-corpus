@@ -14,11 +14,11 @@
 3	qύx̣ wυ-t-gύ-t. qᵘù-n α-kα-w-ł-nìk
 4	ὰt yú kà-wα-gùd-ί-yέ qα
 {Page = 171}
-5 	wà-sά qυ-nì-g-ύn. wé-gaw
-6 	qυ-n-g̣α-ná-n-ὶn α-dà-dέ
-7 	cι-t-cì-nὺ-tc qα α-dà-dέ tsυ
-8 	gaw dυ-gwάł-nὺtch nαs̓k yάkyi
-9 	kà-nάx̣. yú yís qá ὰyύ
+5	wà-sά qυ-nì-g-ύn. wé-gaw
+6	qυ-n-g̣α-ná-n-ὶn α-dà-dέ
+7	cι-t-cì-nὺ-tc qα α-dà-dέ tsυ
+8	gaw dυ-gwάł-nὺtch nαs̓k yάkyi
+9	kà-nάx̣. yú yís qá ὰyύ
 10	yè-c-kα-ł-nìk tłε wu-nà-yí
 11	dυ-dà-í-t tu-dάx̣ kè-wα-gùt
 12	dυ-dà-dέ g̣άx̣-sα-tì-yί x̣ùt
@@ -80,36 +80,35 @@
 67	dυ-cί. tc̓α gù-x̓-sά α-x̣̓á-x̣
 68	cυ-yὰ-w-t-xίx tłε yú dè cú-t
 {Page = 173}
-69 	wυ-gùt-tc tłε qí-x̣ὶ tú-t
-70 	wυ-gùt-tc. ag̣á-αyύ tłε α-kά-t
-71 	sα-x̓àqᵘ-tc gu-de-sά kα-nα-dà-yί yú
-72 	hín. à-dέ αc-cυ-kà-wα-djá-yὶ-yé
-73 	yέx̣ ὰyύ tłε hín-x̣
-74 	yα-g̣α-s-í-tc g̣oné άt
-75 	kα-w-t-cí-yὶ. α-nάx̣-αyύ tsυ
-76 	wu-s-kú-wὺ-tc gu-de-sά kα-nα-dà-yί
-77 	qα gu-de-sά yάn-dὲ α-yά-k
-78 	gα-wα-s-hán-ὶ. tłαx̣ x̓ég̣ὰ łα-tsìn-dén
-79 	yé yάn yú αc-yα-wυ-s-qà tsυ
-80 	wà yá ὰt nα-nín-ὶ sά
-81 	łιł yá-x̣ qύx̣ ι-dα-gύt-djι-x̣.
-82 	αyέx̣-αyύ tc̓ù-g̣υna kα-ł-dzí
-83 	tłéł αyά wυ-dα-gùt. tc̓ù
-84 	yà-nα-gύd-ὶ ὰyύ αtk̓άtsk̓υ dυ-í-t
-85 	wα-gύt tłε tc̓υ c-ìn
-86 	α-wυ-ts-nùkᵘ. wà yú hαs ku-àt
-87 	sαyύ hαs dυ-àn-ίx̓ qύx̣ hαs
-88 	wυ-άt. nèł-dέ wυ-nα-s-nùkᵘ-dάx̣
-89 	ὰyύ nèł-dέ wu-gùt. néł-gùt
-90 	ὰyύ tcα-άs tc̓u dυ-dà-dέ
-91 	g̣άx̣ du-s-tì-yί tłε yà-nα-gύd-ὶ
-92 	dυ-dà-í-t tú-x̣ wu-gùt. tc̓u
-93 	ιcάn-dén qυ-x̣̓α-yα-qà-yί ὰyύ
-94 	qá-x̣ux̓ cα-wα-t-nύkᵘ. à-x̣ ὰyύ
-95 	qù-n α-kα-wυ-ł-nìk gu-tsά yú
-96 	kà-wυ-gùd-ί qα wà-sά
-97 	qυ-nì-g-ύn. cα-w-dα-núgᵘ-ὺ-dάx̣ tłéł
-98 	yè-wu-yát̓-ὶ ὰyύ ὰt t̓àw
-99 	dυ-tc-xίx a-c-kᵘά-t yάkyi
+69	wυ-gùt-tc tłε qí-x̣ὶ tú-t
+70	wυ-gùt-tc. ag̣á-αyύ tłε α-kά-t
+71	sα-x̓àqᵘ-tc gu-de-sά kα-nα-dà-yί yú
+72	hín. à-dέ αc-cυ-kà-wα-djá-yὶ-yé
+73	yέx̣ ὰyύ tłε hín-x̣
+74	yα-g̣α-s-í-tc g̣oné άt
+75	kα-w-t-cí-yὶ. α-nάx̣-αyύ tsυ
+76	wu-s-kú-wὺ-tc gu-de-sά kα-nα-dà-yί
+77	qα gu-de-sά yάn-dὲ α-yά-k
+78	gα-wα-s-hán-ὶ. tłαx̣ x̓ég̣ὰ łα-tsìn-dén
+79	yé yάn yú αc-yα-wυ-s-qà tsυ
+80	wà yá ὰt nα-nín-ὶ sά
+81	łιł yá-x̣ qύx̣ ι-dα-gύt-djι-x̣.
+82	αyέx̣-αyύ tc̓ù-g̣υna kα-ł-dzí
+83	tłéł αyά wυ-dα-gùt. tc̓ù
+84	yà-nα-gύd-ὶ ὰyύ αtk̓άtsk̓υ dυ-í-t
+85	wα-gύt tłε tc̓υ c-ìn
+86	α-wυ-ts-nùkᵘ. wà yú hαs ku-àt
+87	sαyύ hαs dυ-àn-ίx̓ qύx̣ hαs
+88	wυ-άt. nèł-dέ wυ-nα-s-nùkᵘ-dάx̣
+89	ὰyύ nèł-dέ wu-gùt. néł-gùt
+90	ὰyύ tcα-άs tc̓u dυ-dà-dέ
+91	g̣άx̣ du-s-tì-yί tłε yà-nα-gύd-ὶ
+92	dυ-dà-í-t tú-x̣ wu-gùt. tc̓u
+93	ιcάn-dén qυ-x̣̓α-yα-qà-yί ὰyύ
+94	qá-x̣ux̓ cα-wα-t-nύkᵘ. à-x̣ ὰyύ
+95	qù-n α-kα-wυ-ł-nìk gu-tsά yú
+96	kà-wυ-gùd-ί qα wà-sά
+97	qυ-nì-g-ύn. cα-w-dα-núgᵘ-ὺ-dάx̣ tłéł
+98	yè-wu-yát̓-ὶ ὰyύ ὰt t̓àw
+99	dυ-tc-xίx a-c-kᵘά-t yάkyi
 100	wu-nà-yί αtk̓άtsk̓υ qύx̣ wυ-dα-gùd-ί.
-

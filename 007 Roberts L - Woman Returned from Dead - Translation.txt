@@ -6,15 +6,15 @@
 {Source = Velten 1939:68}
 {Translator = Henry Velten}
 {Page = 68}
-1 	Long ago one man sister died. Very many
-2 	days that time-from then that man however
-3 	only his own company-in sadly wailed.
-4 	Even not his mind from it had moved when
-5 	camp-to they went. One night just alone
-6 	by himself miserably was crying when his sister
-7 	them toward into house brought along even
-8 	while living as their mouths-for she used to bring
-9 	thus. So then her brother him she told: still
+1	Long ago one man sister died. Very many
+2	days that time-from then that man however
+3	only his own company-in sadly wailed.
+4	Even not his mind from it had moved when
+5	camp-to they went. One night just alone
+6	by himself miserably was crying when his sister
+7	them toward into house brought along even
+8	while living as their mouths-for she used to bring
+9	thus. So then her brother him she told: still
 10	near you because I am, your crying also
 11	I hear always. Their mouths-at fully things
 12	she had fed when again them from she went.

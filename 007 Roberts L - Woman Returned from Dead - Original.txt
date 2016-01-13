@@ -8,15 +8,15 @@
 {Orthography = BS}
 {Dialect = Southern - Henya - Klawock}
 {Page = 68}
-1 	tc̓ákᵘ tłenάx̣ qá dlàkʼ wυ-nà. tlax̣ x̓un
-2 	yάkyi α-ίt-dáx̣ sαwέ yú qá qᵘαʼα
-3 	tcυ c-x̣άn-x̓ ιcάn-dén x̣α-ya-wα-qá.
-4 	tc̓u-ł c-tu-dάx̣ qù-nα-s-hé-djι αwέ
-5 	yαn-cu-dέ hαs wυ-ł-gás̓. tłex̓ xánα tc̓u tcυ
-6 	c-x̣άn-x̣̓ ιcάn-dén x̣α-yα-qà-yί αwέ dυ-dlàk̓
-7 	hαs dυ-í-nαx̣ nèł wυ-tł-gύt-tc tc̓u
-8 	qυ-s-tì-yí wa-sά hαs dυ-x̣̓é-x̣ ιł-gùd-djίn
-9 	yé-yέx̣. a-ġá-áwέ dυ-ík̓ ye-α-yα-w-s-qà tc̓a
+1	tc̓ákᵘ tłenάx̣ qá dlàkʼ wυ-nà. tlax̣ x̓un
+2	yάkyi α-ίt-dáx̣ sαwέ yú qá qᵘαʼα
+3	tcυ c-x̣άn-x̓ ιcάn-dén x̣α-ya-wα-qá.
+4	tc̓u-ł c-tu-dάx̣ qù-nα-s-hé-djι αwέ
+5	yαn-cu-dέ hαs wυ-ł-gás̓. tłex̓ xánα tc̓u tcυ
+6	c-x̣άn-x̣̓ ιcάn-dén x̣α-yα-qà-yί αwέ dυ-dlàk̓
+7	hαs dυ-í-nαx̣ nèł wυ-tł-gύt-tc tc̓u
+8	qυ-s-tì-yí wa-sά hαs dυ-x̣̓é-x̣ ιł-gùd-djίn
+9	yé-yέx̣. a-ġá-áwέ dυ-ík̓ ye-α-yα-w-s-qà tc̓a
 10	yi-x̣άn-g̣α ye-x̣αt-yα-tί i-g̣áx̣-ί tsυ
 11	x̣a-άx̣-tc. hαs dυ-x̣̓é-x̣ yαn άt
 12	sα-x̣á-dάx̣ αwέ tsυ hαs dυ-nάq wu-gùt.
@@ -42,4 +42,3 @@
 32	dè yι-s-kú gu-dάx̣-sά hàx̣ x̣α-gùdί. tłéł tsυ
 33	ha-dέ kυqᵘa-gút. α-yέx̣-αwέ tłéł tsυ hαs
 34	dυ-x̣άn-t wu-gùt.
-
