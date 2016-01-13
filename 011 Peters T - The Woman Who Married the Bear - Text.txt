@@ -8,30 +8,30 @@
 {Orthography = RP}
 {Dialect = Northern - Inland - Teslin}
 {Page = 166}
-1  	Dáx̱náx̱ sháa áwé woosh kikʼiyán.
-2  	Yú áa at wuduwa.eeni yé
-3  	dzískʼw áa wduwa.eeni yé
-4  	dleeyg̱áa áwé aadéi aawa.aat.
+1	Dáx̱náx̱ sháa áwé woosh kikʼiyán.
+2	Yú áa at wuduwa.eeni yé
+3	dzískʼw áa wduwa.eeni yé
+4	dleeyg̱áa áwé aadéi aawa.aat.
 {Comment = Line 5 has kúx̱dei which should probably be ḵúx̱de.}
-5  	Adax̱ ḵúx̱dei neildéi ḵux̱ du.áat
-6  	wé dleey ldakát
-7  	wududli.aat.
-8  	Aag̱áa áwé dáx̱náx̱ woosh kikʼiyán
-9  	wé tléiḵw
-10 	wé tléiḵw x̱oot áwé s woo.aat.
-11 	Ha chʼa a x̱oot has wu.aadí chʼu tle
-12 	tle has du náḵ aawa.aat.
-13 	Adax̱ wé kikʼi.aa
-14 	wé du shátx̱, “Tláakw déi” yóo áwé adaayaḵá.
-15 	Ash ítx̱ yaa nagút.
-16 	Chʼu tle tláakw áwé ḵa wé
-17 	áx̱ ayaawa.adi yéix̱ yaa nagút.
-18 	Adax̱ aag̱áa áwé
-19 	wé shatx̱i.aa
-20 	tle wé
-21 	chʼu ḵóonáx̱ wé
-22 	áwé x̱óots
-23 	yá áxʼ gánde woogoodi yé
+5	Adax̱ ḵúx̱dei neildéi ḵux̱ du.áat
+6	wé dleey ldakát
+7	wududli.aat.
+8	Aag̱áa áwé dáx̱náx̱ woosh kikʼiyán
+9	wé tléiḵw
+10	wé tléiḵw x̱oot áwé s woo.aat.
+11	Ha chʼa a x̱oot has wu.aadí chʼu tle
+12	tle has du náḵ aawa.aat.
+13	Adax̱ wé kikʼi.aa
+14	wé du shátx̱, “Tláakw déi” yóo áwé adaayaḵá.
+15	Ash ítx̱ yaa nagút.
+16	Chʼu tle tláakw áwé ḵa wé
+17	áx̱ ayaawa.adi yéix̱ yaa nagút.
+18	Adax̱ aag̱áa áwé
+19	wé shatx̱i.aa
+20	tle wé
+21	chʼu ḵóonáx̱ wé
+22	áwé x̱óots
+23	yá áxʼ gánde woogoodi yé
 {Page = 168}
 24	ḵóonáx̱ anax̱ kwshé wé yaa nagut; áwé a káa yan kamdliyásʼ.
 25	A kaax̱ áwé kei mshix̱ʼílʼ yu.á.
@@ -39,7 +39,7 @@
 27	Aag̱áa áwé xóots
 28	gúshé aadé adaayaḵa yé? A éet yaḵá aawatée.
 29	Wé du kéekʼ kwá tle ash nák woogoot.
-30	Aag̱áa áwé 
+30	Aag̱áa áwé
 31	aag̱áa áwé ash kagéit uwagut wé ḵáa.
 32	É!
 33	Goodáx̱ ḵáa sáyá yéi yatee?
@@ -55,7 +55,7 @@
 43	yá ax̱ neilíde
 44	yá ax̱ neilíde
 45	yú ax̱ neilí áa yéi yateeyi yéide.”
-46	Tsʼás shóogu áwé tlél yéi tootí. 
+46	Tsʼás shóogu áwé tlél yéi tootí.
 47	Yá du toowóo gíwé tle gúshé aadé yoo amsineiyi yé.
 48	Yáaxʼ áwé tle aan woo.aat.
 49	Tlél tsu naliyéide s wu.aadí áwé
@@ -90,7 +90,7 @@
 77	Aág̱áa áwé
 78	yá xʼóow yáx̱ yateeyi át áwé daaḵ aawayísh.
 79	Daa chʼa áa at nag̱ataayí yú neil
-80	xóots. 
+80	xóots.
 81	Yáadáx̱ áwé tle
 82	tle ḵaa g̱unayáa has uwa.át.
 83	Adax̱ áwé xóots ḵu.aa chʼa wéidáx̱ áwé yéi adaanéi nuch.
@@ -182,7 +182,7 @@
 167	Áwé daasá,
 168	áwé daasá yá dáanaax̱,
 169	ayís áyá yéi daadunéiyin.
-170	Haa, a tsú a yáx̱ yéi daadunéi. 
+170	Haa, a tsú a yáx̱ yéi daadunéi.
 171	Tle gushéi tle something like crazy yax̱ naneich yóo kdunéek.
 172	Áwé kéi yéi s amsinéi
 173	adax̱ áwé kayaanée kéi yéi mdusneiyín.
@@ -202,7 +202,7 @@
 186	Adax̱ áwé keitl
 187	dax̱ḵustéeyin
 188	dax̱duhéix̱wayin.
-189	Sʼuḵkoox̱ʼaaxw 
+189	Sʼuḵkoox̱ʼaaxw
 190	yóo duwasáakw wéit
 191	wé keitl.
 192	Tlél chʼa tléixʼ yóo s u.átgin
@@ -213,7 +213,7 @@
 197	áwé sʼé nagútch
 198	yá gooch.
 199	Tsu a eeti.aa
-200	tsu a eeti.aa. 
+200	tsu a eeti.aa.
 201	Haahá!
 202	Wáa nanéi sáwé kikʼ.aat ḵoowaháa
 203	wé shaawát wé du éekʼ.
@@ -440,7 +440,7 @@
 418	doogú yéeyi naát oodayeeshch.
 419	Aaa.
 420	Waa yateeyi yéixʼ áwé wé tléiḵw
-421	tléiḵw x̱oodéi kg̱wagoodí. 
+421	tléiḵw x̱oodéi kg̱wagoodí.
 422	Chʼu tle yá neildáx̱ gunéi wugoodí teen áwé náat oodayeeshch.
 423	Tle chʼu shugu xóotsx̱
 424	áwé nasteech.
@@ -450,7 +450,7 @@
 428	Wé shaa yáa daak ugootch.
 429	Wé du yátxʼi tsú ash een.
 430	Ha de xʼoondahéen yéi nasgéet sáwé
-431	wé du éekʼ has 
+431	wé du éekʼ has
 432	wé s du tlaa áyá yei s adaayaḵá,
 433	“Atlée!
 434	Ax̱ dlaakʼ sʼé yéi yanasḵá
@@ -462,7 +462,7 @@
 440	yei s x̱at daaneiyí.
 441	Aaa; tléil chʼu shugu yá ax̱ ḵustí ax̱ jee yéi utí.
 442	Awé
-443	wé ax̱ x̱úx̱ 
+443	wé ax̱ x̱úx̱
 444	du doogu
 445	náat ḵadayish
 446	tle tléil yá tlagu tundatáani, ax̱ tóo yéi utéex̱.
@@ -481,7 +481,7 @@
 458	Gook!
 459	Ax̱ een has ash kung̱alyát.”
 460	Tle yéi a daayaḵaayidáx̱ áwé du tláa tle
-461	woogoot. 
+461	woogoot.
 462	Chʼu tle ehʼ a yeisu neildáx̱ g̱unéi wugoodí tín áwé náat amdiyísh,
 463	wé du x̱úx̱ doogú.
 464	Chʼu shugu xóots wáa sá nateech.
@@ -501,7 +501,7 @@
 478	Adax̱ chʼas wé ash káx̱ woogoodi aa
 479	áwé du éekʼ tle yóo eetiyádi.
 480	Ha hu áwé
-481	déix̱ yatee du chooneidí. 
+481	déix̱ yatee du chooneidí.
 482	Tle yóo xʼéig̱aa tláaḵ
 483	áa yéi dag̱aatee.
 484	Awé
@@ -513,7 +513,7 @@
 490	Awé tle a tóodei amli.aat.
 491	Tléil wé du hunx̱u hás aadéi ḵuwanugu yáx̱ áwé adaa.unéi yú.á.
 492	Tle chʼa altín áwé.
-{Page = 192} 
+{Page = 192}
 493	Adax̱ áwé du hunx̱u hás
 494	tle a daadéi áwé s uwa.át.
 495	Wáa sáwé chooneit
@@ -522,7 +522,7 @@
 498	Tle wé shuxʼaa aayí
 499	tle wé shuxʼaa aayí
 500	wé du éet lagáasʼ,
-501	aag̱áa áwé a sé mduwa.áx̱. 
+501	aag̱áa áwé a sé mduwa.áx̱.
 502	“I itnáx̱ aa.”
 503	Yáaxʼ áwé has du x̱oo ayamdigút.
 504	Tle xʼoonínáx̱ sá kwshí hé? Tle tléil tsu daatx̱ sá s ustí.

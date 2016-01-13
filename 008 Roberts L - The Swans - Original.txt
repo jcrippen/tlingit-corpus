@@ -9,15 +9,15 @@
 {Dialect = Southern - Henya - Klawock}
 {Note = Tone is marked differently here than Boas’s practice.}
 {Page = 169}
-1 	Tc̓ákᵘ łdὰkάt yé-dὲ gáxᵘ
-2 	qàx̣ qα kι-n-dα-tcùnét tłαx̣
-3 	wà c-yα-dα-hén-ὶ sαyύ α-yα-yì-x̓
-4 	άt dυ-ł-yὲx̣-nὺ-dj-ín α-t-x̣ὰ-yίs.
-5 	hín-yὶ-k-x̓ ὰyύ hίt-k̓ yέx̣
-6 	άt dυ-ł-yèx̣-tc tc̓α α-yì-t
-7 	α-hάn-ὶ-yέx̣. α-x̣̓α-wùł-x̓ ὰyύ tcυ
-8 	yè-yα-gυátłʼ-k̓ hαs dυ-α-t-x̣à-yί
-9 	x̣át-kahág-ὺ á-dέ hαs α-ku-łίt-tc
+1	Tc̓ákᵘ łdὰkάt yé-dὲ gáxᵘ
+2	qàx̣ qα kι-n-dα-tcùnét tłαx̣
+3	wà c-yα-dα-hén-ὶ sαyύ α-yα-yì-x̓
+4	άt dυ-ł-yὲx̣-nὺ-dj-ín α-t-x̣ὰ-yίs.
+5	hín-yὶ-k-x̓ ὰyύ hίt-k̓ yέx̣
+6	άt dυ-ł-yèx̣-tc tc̓α α-yì-t
+7	α-hάn-ὶ-yέx̣. α-x̣̓α-wùł-x̓ ὰyύ tcυ
+8	yè-yα-gυátłʼ-k̓ hαs dυ-α-t-x̣à-yί
+9	x̣át-kahág-ὺ á-dέ hαs α-ku-łίt-tc
 10	yú hίt-k̓ nιà-dέ tc̓α kᵘα
 11	c-yα-dα-hén-dén tlέ ya-qυ-nα-x̣èn-ί
 12	ὰyύ yú qàx̣ kι-n-dα-tcùnét

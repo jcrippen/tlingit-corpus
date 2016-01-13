@@ -6,15 +6,15 @@
 {Source = Velten 1944:169–170}
 {Translator = Henry Velten}
 {Page = 169}
-1 	Long ago every kind-of duck,
-2 	merganser and mallard much
-3 	thus abounded when, before them
-4 	things one used to build for eating.
-5 	Streams-in then small-house like
-6 	thing one would build just inside
-7 	for one to stand. Opening-at then only
-8 	a little their feed-of
-9 	fish-eggs-of there they would scatter
+1	Long ago every kind-of duck,
+2	merganser and mallard much
+3	thus abounded when, before them
+4	things one used to build for eating.
+5	Streams-in then small-house like
+6	thing one would build just inside
+7	for one to stand. Opening-at then only
+8	a little their feed-of
+9	fish-eggs-of there they would scatter
 10	that trap side-to just more
 11	abundantly. And along feeding
 {Page = 170}

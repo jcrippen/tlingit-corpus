@@ -8,7 +8,7 @@
 {Transliterator = Dzéiwsh / James A. Crippen}
 {Note = Vowelless classifiers written unaspirated, e.g. CL[+D,s,+I] = “dz” (Northern “dzi”) not “ts” in “yóo sh wudzwádi”.}
 {Page = 66}
-1 	Taakw eetí g̱aat yan yawu.aayí ayú
+1	Taakw eetí g̱aat yan yawu.aayí ayú
 2	gáan g̱agaanxʼ eina kaanáx̱ ldakát yóo aan
 3	ḵoowútch aa saxook. Yóo xʼaan yáx̱ teeyi káx̱
 4	kwsheiyu yóo sh wudzwadí náaḵwch yóo
@@ -17,7 +17,7 @@
 7	du yéetkʼ ḵa du káani een alʼóòn
 8	has wuyex̱. Ḵúx̱ has daḵoox̱. Hasdu
 9	aan eetí tléil at át ushat. Hasdu
-10	hítxʼi ḵa hasdu aankaḵu.oowú tléil 
+10	hítxʼi ḵa hasdu aankaḵu.oowú tléil
 11	tleixʼ áa aa wuneix̱. Tle tsʼayóokʼ has
 12	du shaantóot (u)waxíx yóo sh wudzwadí náaḵw.
 13	Tle a yís xʼáan sh toox̱ has awdl.aat.

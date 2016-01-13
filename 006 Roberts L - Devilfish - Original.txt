@@ -15,14 +15,14 @@
 {Page = 66}
 {Comment = Line 1 “yα-wυ-à-yί” should have a glottal stop “yαwυʼàyί”.}
 1	Takᵘ-ìtί g̣àt yαn yα-wυ-à-yί αyύ
-2 	gán g̣αgàn-x̓ ènα ka-nάx̣ łdαkάt yú àn
-3 	qᵘù-wύ-tch à-sα-xùk. yú x̓an yέx̣ tì-yι-kάx̣
-4 	kᵘcèyυ yú c-wυ-ts-wαdί náq-tc yú
-5 	àn-ìn dàk tłʼεq wυ-ł-cάt tłε tłéł tłex̓
-6 	dasά wu-nèx̣. we-ts̓utát tłenάx̣ qá
-7 	du-yít-k̓ qα du-kánι ìn α-łʼùn
-8 	hαs wυ-yεx̣. qύx̣ hαs dα-qùx̣. hαs
-9 	dυ-an-ìtί tłéł ὰt άt υ-cαt. hαs
+2	gán g̣αgàn-x̓ ènα ka-nάx̣ łdαkάt yú àn
+3	qᵘù-wύ-tch à-sα-xùk. yú x̓an yέx̣ tì-yι-kάx̣
+4	kᵘcèyυ yú c-wυ-ts-wαdί náq-tc yú
+5	àn-ìn dàk tłʼεq wυ-ł-cάt tłε tłéł tłex̓
+6	dasά wu-nèx̣. we-ts̓utát tłenάx̣ qá
+7	du-yít-k̓ qα du-kánι ìn α-łʼùn
+8	hαs wυ-yεx̣. qύx̣ hαs dα-qùx̣. hαs
+9	dυ-an-ìtί tłéł ὰt άt υ-cαt. hαs
 {Comment = Line 10 “qᵘù-wύ” should be “qυʼùwύ”.}
 10	dυ-hίt-x̓ι qα hαs du-àn-kα qᵘù-wύ tłéł
 11	tłex̓ á à wu-nèx̣. tłε ts̓αyúk hαs

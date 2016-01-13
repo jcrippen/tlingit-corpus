@@ -1,0 +1,8 @@
+{Number = 010}
+{Type = Translation}
+{Title = Naatsilanéi}
+{Author = Kéet Yaanaayí / Willie Marks}
+{Clan = Chookaneidí, Xóots Hít; Lukaax̱.ádi yádi}
+{Source = D&D 1987:109–121}
+{Translator = Ḵeixwnéi / Nora Marks Dauenhauer}
+{Page = }
