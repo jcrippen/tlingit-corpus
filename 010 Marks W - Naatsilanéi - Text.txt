@@ -18,7 +18,7 @@
 8	a kaanáx̱ yei wugoodí.
 9	Ách áwé yan has uwanéi.
 10	“Ha kʼe daak x̱at yayx̱á!” yóo gíwé x̱'awooḵá wé ḵáa.
-11	Dei du jeewú a
+11	Dei du jeewú á
 12	wé six̱aagu jáaji.
 13	Áxʼ áwé daak yawduwax̱áa aadé.
 14	Daak yawduwax̱áa.
@@ -46,13 +46,192 @@
 35	Chʼa altín áwé.
 36	Áwé tlax̱ wé s du kéekʼ,
 37	kikʼi.aa hasdu kéekʼ áwé, du káani.
-38	Ax̱áa gíwé
-39	a shóode wé du káani.
-40	Áwé du jeedáx̱ yóot wuduwasʼélʼ.
-41	Tle yéi áwé g̱unéi wlisʼís tsu yánde.
-42	Tlax̱ naaliyéixʼ yawulsʼeesí áwé tsá kindachóon aawaḵei.
-43	Tle g̱unayéi uwaḵúx̱ yánde.
-44	Hú ḵwá a shakéet aa.
-45	Yaa kagashg̱éet gíwé shanáa wdisʼít
+38	Hú áwé kadag̱ax̱ tin ash shóode ax̱áa aawataan.
+39	Ax̱áa gíwé
+40	a shóode wé du káani.
+41	Áwé du jeedáx̱ yóot wuduwasʼélʼ.
+42	Tle yéi áwé g̱unéi wlisʼís tsu yánde.
+43	Tlax̱ naaliyéixʼ yawulsʼeesí áwé tsá kindachóon aawaḵei.
+44	Tle g̱unayéi uwaḵúx̱ yánde.
+45	Hú ḵwá a shakéet aa.
+46	Yaa kagashg̱éet gíwé shanáa wdisʼít
 {Page = 112}
-46	wé taan eejí káxʼ.
+47	wé taan eejí káxʼ.
+48	Tle héent wulitít yóo giwé s akanéek.
+49	Wé yánxʼ ku.aa
+50	tlél has awusneix̱.
+51	Yaa kanashg̱ídi áwé aawa.ax̱i át áwé du dax̱akaadé wé teet jinastaan tóode.
+52	“I eeg̱áa áyá yaa nx̱agút.”
+53	Sh yaax̱ daaḵ shuwdi.áx̱.
+54	Sʼigeidi xʼóow áwé yéi aya.óo.
+55	Tlél daa sá á.
+56	Nobody there.
+57	Daaxʼoon.aa, nasʼgi.aa,
+58	yá daaxʼoon.aa.
+59	Yá nasʼgi.aa l daa sá oox̱satéen áwé daaxʼoon.aa a yís yan uwanéi.
+60	Yá a woolí a waḵ.eetéenáx̱ áwé altín.
+61	“What’s going on?” yóo giwé tuwatee.
+62	Du waḵkáaxʼ áwé anax̱ wudihaan, wé teet x̱ʼatú wé ḵáa tlein.
+63	L ash éet x̱'eitaanjí áwé yéi ash yawsiḵaa “Goodé sáwé?”
+64	“Yá eech tayeedé áwé.”
+65	“How I gonna get there?”
+66	yóo yaawaḵaa.
+67	Tle yá héen áwé yatx̱ ashoowa.áx̱.
+68	“A tayeedé nagu!” yóo ash yawsiḵaa.
+69	Tlél tóo awunoogú áwé tle.
+70	Gwáʼ!
+71	Aan,
+72	hít.
+73	Áa yaa woogoot wé diyée.
+74	Tle neildé yaa nagúdi áwé awsiteen wé át satáan wé ḵáa.
+75	Kát du eedéi sixát
+76	wé harpoon x̱ʼeidí áwé.
+77	Wudutaag̱ín áwé.
+78	Hásch ḵwá tlél has ooteen,
+79	yú taan ḵwáanich yú lingit jineiyí.
+{Page = 114}
+80	“Wáa sá igax̱duhéi?”
+81	yóo dayaduḵá. “How much you want?”
+82	Chʼa du toowú áwé yéi woonei.
+83	“A tuwáatx̱ ax̱ aaní woonḵaadlaag̱i át gwáa?”
+84	“You get it!”
+85	yóo yawdudziḵaa.
+86	“Ach iwdudzihéi.”
+87	Tle wdudzikóo du toowú hú
+{Comment = Line 88 has waa instead of wáa.}
+88	wáa sá teeyí.
+89	Tle wé gwál chʼa act gíwé yéi adaané.
+90	A x̱ánt uwagút wé g̱antasʼaatí.
+91	A daa yoo koolnúkgu áwé,
+92	aax̱ yóot awsix̱útʼ
+93	wé sʼaaḵ kát.
+94	Ách áwé yéi at g̱adudlikóo
+95	“Óodáx̱ kát kawdziteeyi yáx̱ woonei.”
+96	Chʼa náanáx̱ shawdinuk.
+97	Ách áwé du jeet kawduwatée wé át,
+98	wé balloon tlein,
+99	speed boat balloon, tlél x̱wasakú wáa sá ḵwasaayí.
+100	Gwál de a shakéexʼ áwé du een kéi aawa.át tsu wé eech.
+101	“Yáatʼát tóox̱ áwé yei kg̱eegóot.
+102	Tlél tsu yáat daa yóo tikg̱eetaan. Chʼu tle yú i aaníxʼ xʼwán yan tután.
+103	Okay,” yóo yawdudziḵaa.
+104	A tóode woogoot tle.
+105	Gwál du een áwé xʼawdudzi.áx̱w.
+106	Yet,
+107	gee,
+108	saam,
+109	sée,
+110	yóo áwé kei kawduwag̱íxʼ.
+111	Daaxʼoondahéen wuduwatúw.
+112	Tle haat agoowashát wé yánde át.
+113	Du een áwé yaa kanalsʼís.
+114	Chʼáakw yaa kanalsʼísi áwé yéi tuwdisháat, “Tláwʼ!
+115	Tsu chʼu shóogu áxʼ tsú sʼé x̱aan ḵux̱ ayag̱adatee?”
+{Page = 116}
+116	Tóo aawanúk yan yóo latítgi.
+117	Gwál zipper áwé a x̱ʼatóowu á.
+118	Héide shuwduwataan.
+119	“We told you not to think like that,” yóo.
+120	“Yá yeedát ḵu.aa chʼu tle áxʼ yan tután. Tlél tsu ḵux̱ teedatánjiḵ. Right place to your home.”
+121	Tsu kawduwa.aaḵw tsu.
+122	G̱unéi kawlisʼís du een.
+123	Daaḵ latítji áwé gwál
+{Comment = Line 124 has erroneous waa for wáa.}
+124	wáa sá kwshé a tóodáx̱ kei uwagút.
+125	Gwál wé automatic button giwé áwu?
+126	Gwáʼ, du aaní tʼéiknax̱.á áyú.
+127	Ayaawatín tle.
+128	He’s got a hard feeling
+129	what they do to him.
+130	Ách áwé tle woogoot.
+131	Gwál yaa kanashg̱ít áwé de.
+132	Wé du shát niyaadé,
+133	yá du aaní niyaadé
+134	yaa analʼún gíwé?
+135	Yáa yeedádi yáx ágé? Tlél woosh daadé oog̱aax̱.
+136	Wé xʼaakʼw luká wé té shakée áwé át áa du shát.
+137	Áxʼ áwé g̱áax̱.
+138	A x̱ánt uwagút. “Hey, honey!”
+139	“Oh yeh,” yóo áwé yaawaḵaa.
+140	Aan áwé akawlineek what happened to him.
+141	Tle yéi gíyá du éekʼ hás niyaadé áa yax̱ wujix̱ín.
+142	A géide áa yáx̱ wujix̱ín du toowú wé shaawát.
+143	Ách áhé tlé du x̱úx̱t wudishée.
+144	“Ax̱ x̱útʼayi ax̱ jeedé yéi kg̱isanéi.”
+145	Gwál atx̱á tsú.
+146	“Be sure lotsa rice.”
+147	Yéi áwé ash jeet yéi awsinéi taat gíwé.
+148	Anax̱ yaa has ḵux̱ji yé ḵu.aa gíwé awsikóo,
+149	yá hunting, wé du kaani yán.
+150	Ax̱óotʼ wé át.
+151	Gwál wé taanch áwé áa shukaawajáa aadé kg̱wasgit yé.
+152	Ách áwé tle yéi adaané wé át.
+153	Wé kéet áwé ax̱óotʼ.
+{Page = 118}
+154	Killer Whale.
+155	I don’t know what kinda wood.
+156	Koogéiyi lʼoowú áwé yéi adaané.
+157	Yéi awsinei
+158	just the easiest way.
+159	They’re ready to go.
+160	Héen táaxʼ yéi aya.óo.
+161	Gwál yá taat yeen; yax̱ taat ayawdataayí ldakát át
+162	tlél ushkʼé.
+163	Midnight.
+164	Aagáa áwé akaawanáa gíwé,
+165	yet, gee, saam, sée.
+166	Tle héent loowaguk tIe wé át.
+167	Tléikʼ! Diginaanáx̱ áwé kei awsigúḵ.
+168	There’s no ghost in there.
+169	A tóotx̱ woohaa tle,
+170	the wood.
+171	Ách áwé tsu g̱óot át; ldakát át akoo.aakw.
+172	Cha chʼa yá x̱áay áwé tsá
+173	awliyéx̱ hóochʼeen yís.
+174	A héent akoonáa áwé tsá
+175	yú héen táax̱ has kawduwaxʼaak.
+176	Deikéenáx̱ has gadanáaḵ áwé ldakát át hasdu x̱ʼéiwu.
+177	Ayaawadlaaḵ
+178	tsaa,
+179	halibut.
+180	“Ha, haandé déi!” yóo ayawsiḵaa.
+181	“Yáanáx̱ haadé kg̱waḵóox̱ wé yaakw.
+182	Áxʼ áwé yee jikakḵwaḵáa.”
+183	Gwál yóo áwé adaayaḵá.
+184	“The youngest one ḵu.aa áwé
+185	you put him safe.
+186	Yaakw wáalʼi kaadé áwé gax̱ilanáash.”
+187	All right, sʼootaatx̱ áwé yaa gaḵúx̱ch.
+188	Anax̱ haadé yaa naḵúx̱ wé yaakw.
+189	Haahá,
+190	yan awsinéi de.
+{Page = 120}
+191	Gwál aan yóo x̱ʼali.átk tláakw wé fish
+192	wé awliyex̱i.
+193	Du tóog̱aa naḵóox̱ áwé akaawanáa.
+194	Shhhhhhhhhh.
+195	Áwé a daanáx̱ wudinaaḵ.
+196	Has akaawax̱ʼál wé yaakw.
+197	Wé awliyex̱i át áwé yéi kuwanóok.
+198	Wé smallest ḵu.aa áwé, ax̱áa ash shóode awusháadin,
+199	hú ḵu.aa áwé yá yaakw wáalʼi kát wudzigit.
+200	Ágíwé yan awsiḵúx̱,
+{Comment = Line 201 has át which should be at.}
+201	wé atkʼátskʼuch.
+202	Ách áwé sh kawdlineek, hú ḵu.aa,
+203	yá atkʼátsk'u.
+204	Gwál aan akawlineek tsú.
+205	Gwál ash x̱ánnáx̱ shákdé; yan uwaḵúx̱
+206	yá du káankʼi.
+207	Áwé woogoot neildé.
+208	Aag̱áa áwé
+209	aan yóo x̱ʼawli.át tsu wé awliyex̱i fish,
+210	wé du jiyís yaakw akaawax̱ʼéili.
+211	“Next time
+212	tlél tsu yéi gax̱yeesgeet,”
+213	yóo yan ayawsiḵáa.
+214	“Daa sá gax̱yix̱áa á áyá gax̱yi.een.”
+215	Ách áwé lingit tlél wáa sá adaa.uné wé át,
+216	yéi kwdligeyi yéixʼ.
+217	Aag̱áa áyá hú ḵu.aa yanax̱ daaḵ uwagút tle
+218	chʼa áa ng̱waanaawu yéide gíwé.
