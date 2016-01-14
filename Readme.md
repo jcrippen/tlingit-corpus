@@ -189,6 +189,10 @@ This regularization is only ever applied to vowels that vary in length. Word-fin
 
 Regularized shortening of word-final vowels is applied regardless of any variation in the original publication. The Dauenhauers for example would sometimes attend to variation in the speech of a single speaker, writing the vowels long when the speaker pronounced them long and short otherwise. But they were not consistent enough in this to be linguistically reliable. Regularization ensures consistency for automated processing of text. In future work the published forms may be included as `Original` type files.
 
+### Blank lines
+
+The Dauenhauers used blank lines to separate discourse units in the story. Other transcribers also sometimes included blank lines for similar purposes, but often blank lines are simply spurious or due to typesetting exigencies. For simplicity in parsing and automated processing of text the corpus omits all blank lines, regardless of their purpose. Researchers interested in the original presentations are directed to the publications.
+
 ### Line breaks
 
 In some Dauenhauer transcriptions there are long lines that span multiple physical lines on the printed page but which are only assigned a single line number.
@@ -220,7 +224,7 @@ The letters `Ḵ` and `ḵ` are  represented differently from `X̱`/`x̱` and `G
 
 ### Apostrophe
 
-The orthographic apostrophe in Tlingit indicates ejective phonation of the preceding symbol. In Unicode this should only ever be represented with the character [U+02BC Modifier Letter Apostrophe](https://en.wikipedia.org/wiki/Modifier_letter_apostrophe) `ʼ`. The ‘easy’ apostrophe U+0027 Apostrophe `'` is specified with the Unicode property Po `Other_Punctuation`, so it is not a letter but rather a kind of punctuation just like the double quote or exclamation point. This contrasts with U+02BC `ʼ` which has the property Lm `Modifier_Letter` meaning that it is a true letter and not a punctuation symbol. In general the U+0027 Apostrophe `'` must never be used in the corpus as detailed in the following section.
+The orthographic apostrophe in Tlingit indicates ejective phonation of the preceding symbol. In Unicode this should only ever be represented with the character [U+02BC Modifier Letter Apostrophe](https://en.wikipedia.org/wiki/Modifier_letter_apostrophe) `ʼ`. The ‘ordinary’ apostrophe [U+0027 Apostrophe](http://unicode.org/cldr/utility/character.jsp?a=0027) `'` is specified with the Unicode property Po `Other_Punctuation`, so it is not a letter but rather a kind of punctuation just like the double quote or exclamation point. This contrasts with U+02BC `ʼ` which has the property Lm `Modifier_Letter` meaning that it is a true letter and not a punctuation symbol. In general the U+0027 Apostrophe `'` must never be used in the corpus as detailed in the following section.
 
 ### Quotation marks
 
@@ -231,3 +235,9 @@ If a published text does not have balanced quotation marks then they must be cha
 The U+2019 Right Single Quotation Mark must never be used for the orthographic apostrophe that indicates ejective phonation. This is only ever represented by U+02BC Modifier Letter Apostrophe. Most fonts have an identical appearance for both characters, so it is necessary to check new additions to the corpus using string matching programs like `grep` or text editors like `emacs` and `vim` to ensure that no spurious quotation marks creep in for orthographic apostrophes or vice versa.
 
 Although preserving the punctuation of original texts is important, for unpublished and new texts it may be useful to adopt guillemets – a.k.a. angle quotation marks – instead of the English-style comma quotation marks. These are U+2039 & U+203A Single {Left, Right}-Pointing Angle Quotation Mark and U+00AB & U+00BB {Left, Right}-Pointing Double Angle Quotation Mark in Unicode. They should be used with the points outward in the French arrangement as `«…»` and `‹…›` rather than in the German style of points inward as e.g. `»…«`. This is because with points outward they more closely resemble the curvature of the comma quotation marks like `“…”`. European custom is generally to separate the guillemets from the rest of the text with whitespace, but this is not necessary here since fine typography is largely irrelevant for corpus work.
+
+### Period or full stop
+
+All modern Tlingit orthographies use the period or full stop as an orthographic letter. It has two purposes: (i) glottal stop and (ii) grapheme separator. Both are represented in the corpus with the same Unicode character [U+002E Full Stop](http://unicode.org/cldr/utility/character.jsp?a=002E), which is the ordinary period. Unfortunately this character is specified as Po `Other_Punctuation` but there is no equivalent character with the Lm `Modifier_Letter` or Lo `Other_Letter` properties.
+
+The `.` as glottal stop (IPA /ʔ/) only appears before a vowel, although there is a labialized variant `.w` (IPA /ʔʷ/) that occurs before vowels. The `.` as grapheme separator only appears between consonants. The grapheme separator appears at syllable boundaries where a sequence of two graphemes is confusable with a digraph: `s.h` ≠ `sh`, `t.s` ≠ `ts`. In both glottal stop and grapheme separator functions the period `.` is either word-medial or very rarely word-initial. Parsers can rely on word-final periods – i.e. periods followed by whitespace or line endings – to be punctuation and not letters in Tlingit text.
