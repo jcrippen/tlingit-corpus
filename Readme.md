@@ -212,6 +212,12 @@ For consistency of representation these multi-line units have been converted in 
 
 The multi-line units used by the Dauenhauers represent stylistic behaviours of the speakers in speech rate and intonation. This kind of information is not easily represented in text, so researchers interested in such phenomena are encouraged to review the original audio files. The Dauenhauer recordings are now all digitized and available at the University of Alaska Southeast, the Alaska Native Language Archive, and the Sealaska Heritage Institute.
 
+### Word breaking
+
+The Dauenhauers were conscientious about never breaking Tlingit words across line boundaries, but this is not always the case for other researchers. When words have been broken across lines, the `Original` type of file retains this along with any hyphenation. But the `Text` file instead ‘unbreaks’ words for ease of searching. A rejoined word appears at the end of the first line where it occurs, and is deleted from the following line.
+
+The ‘word’ in this context is the orthographic word separated from other words by whitespace. This is in contrast with the more fuzzy linguistic definitions of ‘word’ which may or may not include additional units like proclitics and enclitics. Thus the phrase `ax̱ yoo x̱ʼatángi` ‘my speech’ consists of three orthographic words even though it is only two syntactic words, with the proclitic `yoo` as part of the syntactic noun. Automated text recognition must therefore compensate for constituents like `yoo x̱ʼatánk` that may be broken across line boundaries.
+
 ## Unicode
 
 All text in the Tlingit Corpus is in [Unicode](http://www.unicode.org/) using the [UTF-8](https://en.wikipedia.org/wiki/UTF-8) encoding. This section documents some Unicode usage practices particular to Tlingit text. Particular issues are the representation of underscore diacritics, the representation of the orthographic apostrophe for ejectives, and the representation of quotation marks.
