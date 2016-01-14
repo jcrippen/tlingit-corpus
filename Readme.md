@@ -60,7 +60,7 @@ Each line in a file can be either data or metadata. Data lines represent the ori
 
 A data line always begins with a number that represents the original line numbering in the source text. The data line number is followed by a tab (Unicode U+0009 Character Tabulation), and then the rest of the line contains text.
 
-* `num⁝⁝<TAB>text`
+* `num<TAB>text`
 * `27	akag̱ag̱ataag̱ít ḵa has akag̱ax̱laxaashít.`
 
 If the original publication lacks line numbers then these are created for the corpus, starting from 1. The line divisions of the original publication are maintained even when these are simply due to typesetting as in e.g. Velten’s transcriptions.
@@ -146,11 +146,67 @@ Bilingual and monolingual names can be combined in a list, in any order.
 * `Stoowuḵáa / Louis Shotridge, Franz Boas`
 * `Henry Velten, Yeex̱aas / Lester Roberts`
 
+##### Comment values
+
+The `Comment` metadata represent the corpus compiler’s commentary about the data. Comment lines immediately precede the lines to which they refer. A comment value should start with a reference to a line number or sequence of line numbers.
+
+* `{Comment = Line 88 has waa instead of wáa.}`
+* `88	wáa sá teeyí.`
+
+In the example above, the comment line refers to the data in the following line numbered 88. Comments are often used to note misspellings, mistranscriptions, and typos in the original documents. The data have the modified form, with the comment giving enough detail to identify how the original erred.
+
+Some comments give details on the original formatting that has been obscureed in the transition to the corpus format. These are ignorable by most corpus users, but some users may be interested in verifying exactly how the corpus text differs from the original.
+
+* `{Comment = Line 147 has the final “perhaps during the night” on the next page.}`
+* `147	That’s how she brought them to him, perhaps during the night.`
+
 ##### Special values
 
 Some metadata in the corpus consist of restricted lists of possible values. Examples of these include `Orthography` and `Source`. The possible values for these kinds of metadata should be enumerated in lists in the `metadata` subdirectory. Eventually there will be a program that automatically updates these lists based on the values used in the corpus, but for now the value list files are maintained by hand.
 
 The format of the metadata value list files is special. The keys in these value list files are the values that will be used in the corpus files. The values in the value list files are descriptive summaries meant for human reading and consequently have unpredictable content except for the lack of braces `{` and `}`.
+
+## Orthography
+
+All corpus files of the type `Text` use the same orthography, the modern Revised Popular orthography. If the original publication used a markedly different orthography then there is an `Original` file that contains the original text. The intent is that users should be able to search all `Text` files with the expectation that all words will be represented the same way throughout. Users interested in verifying the corpus transliteration can refer to the `Original` files.
+
+The Revised Popular orthography has changed slightly since the Dauenhauers first started publishing their material. The following subsections detail a few differences between the corpus representation and the original materials published by the Dauenhauers.
+
+### Variable length vowels
+
+Originally all word-final vowels that have variable length were written long, a practice dating back to the second Naish-Story orthography. Today these variable length vowels are written short instead, even when followed by consonantal suffixes.
+
+* `aanée` → `aaní`
+* `héendei` → `héende`
+* `atkʼátskʼooch` → `atkʼátskʼuch`
+* `hítxʼee sáani` → `hítxʼi sáani`
+* `yóo héen` → `yú héen`
+* `yéi áwéi` → `yéi áwé`
+
+This regularization is only ever applied to vowels that vary in length. Word-final vowels that are always short or always long are never modified. There are not many of these minimal pairs in the Tlingit lexicon.
+
+* `tʼá` ‘king salmon’ ≠ `tʼáa` ‘board’
+
+Regularized shortening of word-final vowels is applied regardless of any variation in the original publication. The Dauenhauers for example would sometimes attend to variation in the speech of a single speaker, writing the vowels long when the speaker pronounced them long and short otherwise. But they were not consistent enough in this to be linguistically reliable. Regularization ensures consistency for automated processing of text. In future work the published forms may be included as `Original` type files.
+
+### Line breaks
+
+In some Dauenhauer transcriptions there are long lines that span multiple physical lines on the printed page but which are only assigned a single line number.
+
+* `198	Wé smallest ḵu.aa áwé, ax̱áa ash shóode`
+* `		awusháadin,`
+
+These occur in English translations as well as in Tlingit texts.
+
+* `205	Probably he came to him, I guess; that little`
+* `		brother-in-law of his`
+
+For consistency of representation these multi-line units have been converted in the corpus to single long lines. There is no indication of the original line breaking.
+
+* `198	Wé smallest ḵu.aa áwé, ax̱áa ash shóode awusháadin,`
+* `205	Probably he came to him, I guess; that little brother-in-law-of-his`
+
+The multi-line units used by the Dauenhauers represent stylistic behaviours of the speakers in speech rate and intonation. This kind of information is not easily represented in text, so researchers interested in such phenomena are encouraged to review the original audio files. The Dauenhauer recordings are now all digitized and available at the University of Alaska Southeast, the Alaska Native Language Archive, and the Sealaska Heritage Institute.
 
 ## Unicode
 
