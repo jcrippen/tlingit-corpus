@@ -1,0 +1,157 @@
+{Number = 010}
+{Type = Text}
+{Title = Naatsilanéi}
+{Author = Tseexwáa / J.B. Fawcett}
+{Clan = Wooshkeetaan; Tʼaḵdeintaan yádi}
+{Source = D&D 1987:122–137}
+{Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
+{Orthography = RP}
+{Dialect = Northern – Coastal – Juneau}
+{Page = 122}
+1	Yá sh kalneek:
+2	yéi duwasáakw yá ḵáa, Naatsilanéi.
+3	Du káani yán teen áwé daak uwaḵúx̱
+4	Taan tʼiká.
+5	Chʼa anax̱ Lawáak deikéenáx̱ áwu á
+6	hasdu aaní.
+7	Aadáx̱ áwé daak has uwaḵúx̱ aadé.
+8	Á áwé
+9	a shóot yan has uwaḵúx̱,
+10	hasdu káani.
+11	Wáa sákwshé yú aan yéi s jeewanei?
+12	A shayinkáxʼ áwé yéi yatee; chʼas yóo deikéex̱ yaa naḵúx̱u áwé,
+13	“haandé ax̱ shóode, ax̱ káani yán!”
+14	yóo áyú x̱ʼayaḵá.
+15	Ḵudzitee yú ḵáa du x̱'éitx̱ áyá kadunéek.
+16	Ách áwé wtusikóo.
+17	Yá uháan haa léelkʼu hás áwé.
+18	Yéi áyú s tuwasáakw Tsaagweidix̱ aa sitee.
+19	Naatsilanéi yóo duwasáakw wé ḵáa ḵu.aa,
+20	wé tléixʼ aa.
+21	Ḵúnáx̱ tlél aadé nax̱wdzigeedi yé koostí.
+22	“Wáa sáyá x̱at gux̱atée?”
+{Page = 124}
+23	Yá ti áwé du tóowu á.
+24	Hel awuskú
+25	xʼoon sá wux̱eeyí áxʼ.
+26	Du éet x̱ʼawduwatán.
+27	Ḵashde naaléi ásiwégé aag̱áa a káa yéi yateeyi yé wé xʼáatʼ.
+28	“Wáa sáyá eewanei?”
+29	A yát awdlig̱én.
+30	Yées ḵáa áwé,
+31	yées ḵáa.
+32	“Ha ax̱ shóotx̱ áwé yan has uwaḵúx̱.”
+33	“Ha has tulatín x̱á.
+34	Wé diginaawú á
+35	anax̱ yan has uwaḵúx̱u yé.
+36	Chʼa tliyéi g̱anú xʼwán,
+37	tliyéi g̱anú.”
+38	Tlél yei wuyáatʼi áwé.
+39	Tsu uwax̱ée ásgé.
+40	Aagáa áwé,
+41	ash x̱ánt uwagút.
+42	“Haagú!
+43	Haagú!
+44	Yá át tóode nagú!
+45	Yá át tóode nagú!”
+46	Daaxʼoondahéen yóo a kaanáx̱ ayakaawatée yú teet kaanáx̱.
+47	Wé ḵáach ḵu.a,
+48	daaxʼoon aa,
+49	yáaxʼ áwé tsá a tóode ash kawanáa.
+50	At yoowú áwé.
+51	Aatlein áyú.
+52	Tlél awuskú.
+53	“Tlél ḵúx̱ teedatánjiḵ haandé xʼwán.
+54	Tle yóo yan tután.
+55	Áwu á lʼéiw.”
+56	Chʼa a katʼóodi kaháa áwé áa ḵux̱ tuwdishát.
+57	“A tóonáx̱ daak gú.
+58	Áwé, i een kax̱anéek.
+59	Náa, yáatʼát i jeexʼ.
+60	Tlél haandé ḵux̱ teedatánjiḵ xʼwán.
+{Page = 126}
+61	I jeexʼ yáatʼaa.”
+62	A jeet aawatée wéitʼát.
+63	Tléil aadóoch sá wuskú.
+64	Wududzikóo ḵu.aa
+65	daat daax̱ sá sateeyí.
+66	“A tóonáx̱ áyá x̱áax̱ x̱'akg̱eetáan,
+67	a tóonáx̱.”
+68	Tlél yei wuyáatʼi áwé.
+69	Wáa sáyá yan kawlihásh; tóo ayanook.
+70	Áa ash shukaawajáa aadé ag̱ux̱sanei yé.
+71	Neilnáx̱ áwé alshát,
+72	neilnáx̱.
+73	Aag̱áa áwé a tóodáx̱ tóot awliyísh.
+74	A tóonáx̱ áwé át x̱ʼeiwatán wé ash jeet aawatiyi át.
+75	“De yáadu x̱át,”
+76	yóo áyú ayawsiḵaa.
+77	“Ha iduwatéen.
+78	Gu.aax̱ xʼwán!
+79	Yéi aa kg̱isatéen.
+80	Daa sá i tuwaag̱áa yatee
+81	gag̱eeséix̱.”
+82	Wé át tóonáx̱
+83	yóo áwé yoo x̱ʼayatánk.
+84	Tlél yei wuyáatʼi áwé
+85	du x̱ánde yaa yanagwéin wé yaakw.
+86	Du x̱ánde yaa yanagwéin.
+87	“Daat ḵu.oo sáyú?”
+88	Hél awuskú.
+89	Lingít áyú
+90	chʼa aan ḵwá tlél awuskú.
+91	Chʼa kʼát kadu.aaḵw.
+92	“Wáa sáyá eewanei?”
+93	“Ha wéidáx̱ áyá yan x̱at yawduwax̱áa.”
+94	Hél áyu akooneek aan.
+95	“Wéitx̱ áwé yan x̱at yawduwax̱áa.”
+96	Tlél has awuskú.
+97	Du shát ḵudzitee,
+98	du shát.
+99	Chʼáakw aadé at téeyi yé; dáx̱náx̱ áwé yatee du shát.
+100	Hél has awuskú.
+101	“Wáa sáyá?”
+{Page = 128}
+102	has anawóosʼch; has g̱ax̱satée nooch.
+103	“Tlél wutusakú.
+104	Du een áwé daak jiwsitán wé xʼáatʼ kaadáx̱.
+105	Hél du káx̱ kuwtooshee.”
+106	Yóo áwé s akanéek wé sdu káani.
+107	Hé1 yei wuyáatʼi áyá,
+108	ash x̱ánt uwagút wé ḵáa.
+109	“Haagu.
+110	Iyatéen gé héitʼát?”
+111	Daa sákwshíyúgí, yóo?
+112	“I atx̱aayí áhé.
+113	I atx̱aayí áhé.
+114	Héidu á.”
+115	Du eeg̱áa áyú woosoo.
+116	Du eeg̱áa woosoo.
+117	Wé át kawdliyeeji át.
+118	Ldakát ḵáach áwé wsikóo.
+119	Ḵín yóo duwasáagu át.
+120	Lingít áwé.
+121	Lingít.
+122	Aag̱áa áwé,
+123	“Wéidu i atx̱aayí”
+124	áa shukdujeisʼ.
+125	“Héidu i hídi.
+126	Aadé kg̱eegóot.
+127	Tléil a x̱ʼawoolnáx̱ áx̱ eegoodíḵ xʼwán.
+128	Tliyaánáx̱ áwu i shát.
+129	Wé tléixʼ aa,
+130	aadé shugax̱dugóot.”
+131	Yóo áwé ash daayaḵá.
+132	Wáa nanéi sáwé át ḵoowaháa,
+133	ḵúx̱de
+134	yóo wdaneiyí wé taat.
+135	Taat yeen
+136	ḵeix̱ʼéide ḵuwuhaayí áwé,
+137	“Háakw déi,”
+138	yóo ash yawsiḵaa.
+139	Tlax̱ tlél áwé unalé
+140	du x̱ʼusyeexʼ.
+141	“Yáadu á,
+142	Yáadu á.
+143	Iyatéen ágé wéitʼát?
+{Page = 130}
