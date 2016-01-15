@@ -164,7 +164,7 @@
 150	X̱át áyá.”
 151	“Wa.é k.wé? X̱át áyá”.
 152	“Wáa sá eewanei?”
-153	“Haa axx̱ shóotx̱ áyá yan has uwaḵúx̱ x̱á.”
+153	“Haa ax̱ shóotx̱ áyá yan has uwaḵúx̱ x̱á.”
 154	Du jishagóoni
 155	chʼu chʼáagutx̱ áwé ḵudzitee,
 156	aan at dulyex̱ át,
