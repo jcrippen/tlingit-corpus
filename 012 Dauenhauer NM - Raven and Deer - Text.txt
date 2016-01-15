@@ -1,0 +1,127 @@
+{Number = 001}
+{Type = Text}
+{Title = Yéil ḵa G̱uwakaan / Raven and Deer}
+{Author = Ḵeixwnéi / Nora Marks Dauenhauer}
+{Clan = Lukaax̱.ádi; Chookaneidí Yádi}
+{Source = Raven Book}
+{Transcriber = Dzéiwsh / James A. Crippen, X̱ʼunei / Lance Twitchell, Ḵaagwáaskʼ / Ishmael Hope}
+{Orthography = RP}
+{Dialect = Northern – Coastal – Juneau}
+{Note = The Raven Book texts are unpublished; page numbers are tentative.}
+{Page = 1}
+1	Ax̱ dachx̱ánkʼ áwé wa.é.
+2	Ách áwé tlél wáa sá utí ax̱ x̱ʼéidáx̱ kayshaxeedí.
+3	Tlél ḵwa tlax̱ kʼát x̱washagóok.
+4	Chʼas át áwé ux̱sa.aax̱jín áwé yoo x̱ʼatánk,
+5	wé tlaagóo.
+6	Chʼas át x̱wasa.aax̱í áwé x̱wsikóo.
+7	Hél ḵoon koox̱laneek.
+8	Tle first time áyá kakḵwalaneek.
+9	Chʼu shóogu áwé, Yéil ḵa G̱uwakaan.
+10	Chʼa g̱oot yéide kadulneek;
+11	aadé x̱wsikoowu yé yáx̱
+12	kakḵwalaneek.
+13	Tle chʼa g̱oot yéide
+14	chʼa yéi gugéinkʼ g̱oot yéide yatee ax̱ aayí.
+15	Hél wáa sá utí yá ax̱ shukát
+16	sh kawdlineegí ḵu.oo
+17	yá G̱uwakaan ḵa Yéil.
+18	Dag̱aakʼéi ḵúnáx̱.
+19	Chʼa g̱oot yéide ḵwa s aklaneek.
+20	Hél wáa sá utí chʼa ayáx̱ duwa.áx̱ch.
+{Page = 2}
+21	Yéi áyá.
+22	Ha kakḵwalaneek áwé dei.
+23	Gu.aal kwshégé tlél ux̱ kéi utéeg̱ei.
+24	Neechx̱ áwé yaa nagút Yéil.
+25	Neechx̱ yaa nagúdi teen áwé kadulnik nuch.
+26	Ax̱ gukáaxʼ yéi x̱at gusagéinkʼi,
+27	áwé neechx̱ áwé yaa nagút Yéil.
+28	Áwé a yáa uwagút wé G̱uwakaan.
+29	G̱uwakaan áwé a yáa uwagút.
+30	Áwé taay áwé tle yáax̱ dixwásʼ.
+31	«Kʼe ax̱ yaḵáawu» tle yoo ash yawsiḵaa wé Yéil
+32	«i lug̱eitlʼí tle wéix̱ dixwásʼ.»
+33	So he took them and gulped them right away.
+34	Ḵúnáx̱ tléḵwgun Yéil.
+35	Chʼa wé iyatéen wé grocery áa duhoon yé.
+36	Ldakát át has kanalyíchch chʼa atx̱ág̱aa.
+37	Áwé aawanóotʼ wé a lug̱eitlʼí,
+38	taay ḵu.aa áwé.
+39	Áwé tle g̱unéi uwagút.
+40	Áwé yéi toowdisháat
+41	«Kʼe ḵúnáx̱ áyú yá taay yú g̱uwakaan.
+42	Kʼe kanḵaladoodlí sʼé.»
+43	Áwé akawlidootl.
+44	Yá aas
+45	yá x̱ʼaak kaanáx̱ yan uwashóo, aas.
+46	«Kʼe a kaanáx̱ aadéi nax̱too.aadí diyáanax̱.á. »
+{Page = 3}
+47	He wanted to go across.
+48	Áwé aadéi tuwatee wé diyáa.
+49	Aadé ashung̱agoodít áwé asayahéi.
+50	Awsikóo ḵwa naaḵw áwé,
+51	wé aas.
+52	‹Naaḵw› ḵu.aa áwé yú át áwé yéi duséix̱.
+53	Chʼáagu aasí,
+54	wudináḵw.
+55	A kaanáx̱ áwé asayahéi.
+56	«Hél wáa sá ikg̱wanéi, ax̱ yaḵáawu» yú adaayaḵá.
+57	Heʼs calling him ‹ax̱ yaḵáawu›.
+58	Áwé
+59	«Kʼe i shukát anáx̱ yánde kḵwagóot.»
+60	Áwé tle
+61	a kaanáx̱ yaa nagút.
+62	Wé x̱ʼaak ḵu.aa áwé
+63	naaléi yú diyéede.
+64	A kaanáx̱ áwé
+65	át tán wé naaḵw.
+66	Áwé áa ashukoojeisʼ
+67	«Yú áwé a káanáx̱ yánde kg̱eegóot, ax̱ yaḵáawu. »
+68	«Úsh x̱at latín kútlʼ!» tle yéi yanaḵéich.
+69	«Úsh x̱at latín kútlʼ! Úsh x̱at latín kútlʼ!»
+70	Tle yá a káanáx̱ yánde yaa nagút áwé tle a shuká kadaḵéen.
+71	A shuká
+72	áx̱ yaa nagúdi
+{Page = 4}
+73	tle yaa ndaḵín.
+74	Hél tlax̱ kʼát du koodáali a káa yéi wutee wé naaḵw ká.
+75	Áwé
+76	a kaanáx̱ yan uwagút
+77	tle tsu ḵúx̱de.
+78	Ḵúx̱de a kaanáx̱ yan uwagút.
+79	A shuká daḵéen de áwé wé aas
+80	kaanáx̱.
+81	Tle a kaanáx̱ yan góot áwé yéi ayawsiḵaa wé du yaḵáawu
+82	«Kuna.áaḵw, ax̱ yaḵáawu.
+83	Héináx̱ aadéi gax̱too.áat tle,
+84	tle yaa gax̱too.áat wé aaníde.»
+85	Áwé hú
+86	a kaanáx̱ yan uwagút tsu.
+87	A kaanáx̱ yan góot áwé tle tsu á akawliník,
+88	«A kaanáx̱ yan gú dé, ax̱ yaḵáawu!
+89	Hél uldzée, a kaanáx̱ yan gú!»
+90	Tle a kaanáx̱ áa kei uwagút wé g̱uwakaan.
+91	Tle a káx̱ yaa nagúdi áwé du een woolʼéexʼ
+92	wé aas naaḵw.
+93	Du een woolʼéexʼ tle daak wudzigít
+94	tle wé x̱ʼaak táade.
+95	X̱ʼaak táaxʼ áwé tle woonaa
+96	wé G̱uwakaan.
+97	Áwé
+{Page = 5}
+98	a x̱áni yaa woogoot.
+99	«Ax̱ kútlʼi ée!» a daadé g̱áax̱.
+100	«Ax̱ kútlʼi ée-ee!
+101	Ax̱ kútlʼi ée-ee!
+102	Ax̱ kútlʼi goonáx̱ sá óosh iḵasax̱aa?
+103	Goonáx̱ óosh iḵasax̱aa?»
+104	Áwé
+105	chʼas a tóoḵnáx̱ áwé tlél uldzée.
+106	A tóoḵnáx̱ áwé awsix̱áa.
+107	Tle awsikʼítʼ.
+108	Héixʼ áwé a daadé g̱áax̱ wé du kútlʼi.
+109	Yéi áwé ayasáakw ‹ax̱ kútlʼi›.
+110	Áwé
+111	awsikʼítʼ.
+112	Yéi áwé x̱wsikóo.
