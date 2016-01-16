@@ -1,5 +1,5 @@
 {Number = 001}
-{Type = Text}
+{Type = Translation}
 {Title = Yéil ḵa G̱uwakaan / Raven and Deer}
 {Author = Ḵeixwnéi / Nora Marks Dauenhauer}
 {Clan = Lukaax̱.ádi; Chookaneidí Yádi}
