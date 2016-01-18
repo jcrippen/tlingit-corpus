@@ -1,27 +1,32 @@
-;;; -*- Mode: Common-Lisp -*-
-;;;
-;;; TlCorpus: The Tlingit corpus research utility.
-;;;
-;;; This program is still in progress and is not yet usable. Eventually it
-;;; will be a utility for exploring the corpus with regular expressions,
-;;; statistical analysis, and recursive functions. In particular the data
-;;; structure representations are designed so that context is easy to access,
-;;; and so it is easy to switch between text, translation, and other files in
-;;; corpus entries.
-;;;
-;;; The primary development platform is SBCL on Mac OS X, but the code is
-;;; regularly tested in Clozure CL and occasionally also ECL, CMUCL, and ABCL.
+-;;; -*- Mode: Common-Lisp -*-
+;;;;
+;;;; TlCorpus: The Tlingit corpus research utility.
+;;;;
+;;;; This program is still in progress and is not yet usable. Eventually it
+;;;; will be a utility for exploring the corpus with regular expressions,
+;;;; statistical analysis, and recursive functions. In particular the data
+;;;; structure representations are designed so that context is easy to access,
+;;;; and so it is easy to switch between text, translation, and other files in
+;;;; corpus entries.
+;;;;
+;;;; The primary development platform is SBCL on Mac OS X, but the code is
+;;;; regularly tested in Clozure CL and occasionally also ECL, CMUCL, and
+;;;; ABCL. It should work the same on any Unix-like system.
+;;;;
+;;;; NOTE: The code currently assumes that it lives one directory below the
+;;;; corpus files, in the same Git repository as the corpus itself. If a GUI
+;;;; is ever developed that assumption may have to be changed.
 
 (in-package :cl-user)
 
-;;; We don't use these yet, but we will at some point.
 (require :alexandria)
 (require :cl-unicode)
+;;; We don't use these yet, but we will at some point.
 (require :cl-ppcre)
 (require :cl-interpol)
 
 (defpackage "TLCORPUS"
-  (:use :common-lisp :alexandria)
+  (:use :common-lisp)
   (:documentation
    "The TLCORPUS package is a research utility for parsing, processing, and
 querying the Tlingit Corpus. This corpus is a set of text files with numbered
@@ -30,12 +35,6 @@ translated Tlingit narratives and oratory collected by several scholars in the
 20th and 21st centuries."))
 
 (in-package :tlcorpus)
-
-;;; Debugging.
-(defvar foo nil)
-(defvar foodir "../")
-(defvar foofile "001 Zuboff R - Basket Bay - Text.txt")
-(defvar foopath (merge-pathnames (concatenate 'string foodir foofile)))
 
   ;;
 ;;;;;; Assorted constants and variables.
@@ -49,42 +48,7 @@ translated Tlingit narratives and oratory collected by several scholars in the
   "A list of whitespace characters. These are obtained from CL-UNICODE by
 listing all Unicode characters with the White_Space property.")
 
-  ;;
-;;;;;; Orthographies.
-  ;;
-
-;;; FIXME: This should be read in from ../metadata/orthography-list.txt.
-(defconstant +orthographies+
-  '(("SWA" . "Swanton as in _Tlingit Myths and Texts_")
-    ("BS"  . "Boas, Shotridge, and Velten.")
-    ("NS1" . "Naish-Story 1, as in _Gospel of John_")
-    ("NS1" . "Naish-Story 2, as in _Tlingit Verb Dictionary_")
-    ("RP"  . "Revised Popular as used by the Dauenhauers")
-    ("YNL" . "Yukon Native Language Centre as in Leer & Nyman 1993")
-    ("EML" . "Email orthography as used variously online")))
-
-(defun lookup-orthography (str)
-  "Fetches an entry in the alist +ORTHOGRAPHIES+ with the key STR which must
-be a string."
-  (declare (string str))
-  (assoc str +orthographies+ :test #'equal))
-
-(defun orthography-description (str)
-  "Fetches the description of an orthography in the alist +ORTHOGRAPHIES+."
-  (declare (string str))
-  (cdr (lookup-orthography str)))
-
-(defun orthographyp (str)
-  "True if an orthography indicator string STR is known in the alist
-+ORTHOGRAPHIES+. STR must be a string."
-  (declare (string str))
-  (if (not (null (lookup-orthography str)))
-      t nil))
-
-;;; TODO: Some functions to scan all entries and extract new orthographies from
-;;; their metadata, then update the listing in metadata/orthography-list.txt.
-;;; This requires a metadata writer as well as the parser already implemented.
-
+
   ;;
 ;;;;;; Classes.
   ;;
@@ -299,6 +263,7 @@ corresponding line-by-line English translation, an ORIG-FILE that contains
 the text in its original orthography if this was not RP, and a GLOSS-FILE
 that contains a simple interlinear gloss of the Tlingit text."))
 
+
   ;;
 ;;;;;; Line parsing.
   ;;
@@ -405,6 +370,48 @@ instance of CORPUS-FILE which contains the line."
           ;; Can't happen.
           (t nil))))
 
+
+  ;;
+;;;;;; Metadata value lists.
+  ;;
+
+;;; The code in this section loads some global constant lists from metadata
+;;; configuration files. These represent enumerated values in metadata lines
+;;; within the corpus entries: things like Orthography for orthography
+;;; abbreviations and Source for bibliographic sources.
+
+;;; FIXME: This should be read in from ../metadata/orthography-list.txt.
+(defconstant +orthographies+
+  '(("SWA" . "Swanton as in _Tlingit Myths and Texts_")
+    ("BS"  . "Boas, Shotridge, and Velten.")
+    ("NS1" . "Naish-Story 1, as in _Gospel of John_")
+    ("NS1" . "Naish-Story 2, as in _Tlingit Verb Dictionary_")
+    ("RP"  . "Revised Popular as used by the Dauenhauers")
+    ("YNL" . "Yukon Native Language Centre as in Leer & Nyman 1993")
+    ("EML" . "Email orthography as used variously online")))
+
+(defun lookup-orthography (str)
+  "Fetches an entry in the alist +ORTHOGRAPHIES+ with the key STR which must
+be a string."
+  (declare (string str))
+  (assoc str +orthographies+ :test #'equal))
+
+(defun orthography-description (str)
+  "Fetches the description of an orthography in the alist +ORTHOGRAPHIES+."
+  (declare (string str))
+  (cdr (lookup-orthography str)))
+
+(defun orthographyp (str)
+  "True if an orthography indicator string STR is known in the alist
++ORTHOGRAPHIES+. STR must be a string."
+  (declare (string str))
+  (if (not (null (lookup-orthography str)))
+      t nil))
+
+;;; TODO: Some functions to scan all entries and extract new orthographies from
+;;; their metadata, then update the listing in metadata/orthography-list.txt.
+;;; This requires a metadata writer as well as the parser already implemented.
+
   ;;
 ;;;;;; File metadata processing.
   ;;
@@ -478,6 +485,7 @@ only returns the first instance of KEY, not any later ones."
         (meta-value metadatum)
         nil)))
 
+
   ;;
 ;;;;;; Corpus file and entry creation.
   ;;
@@ -501,7 +509,7 @@ the new CORPUS-FILE instance."
                              ;; read-time conditionals for this, but in the
                              ;; meantime SBCL, CCL, ECL, ABCL, and CMUCL all
                              ;; accept :UTF-8. CLISP notably doesn’t.
-                             ;; Allegro? LispWorks?  Corman? GCL? Scieneer?
+                             ;; Allegro? LispWorks? Corman? GCL? Scieneer?
                              :external-format :utf-8
                              :if-does-not-exist :error)
       (loop for line = (read-line s nil)
@@ -540,13 +548,91 @@ the new CORPUS-FILE instance."
 metadata derived from the CORPUS-FILE instance FILE."
   (declare (corpus-file file))
   (let ((entry (make-instance 'corpus-entry
-                              :number (corpus-file-number file)
+                              :number (parse-integer (corpus-file-number file))
                               :title (corpus-file-title file))))
-    (add-file-to-entry file entry)))
+    (add-file-to-entry file entry)
+    entry))
+
+(defun entry-equalp (e1 e2)
+  "Returns T if the instances E1 and E2 of the CORPUS-ENTRY class are equal.
+Equality is defined by having the same value for the NUMBER slot. Note that
+this ignores other slots like TITLE, TEXT-FILE, and TRANS-FILE. For testing
+the equality of all slots use ENTRY-REALLY-EQUALP. Normally there should not
+be more than one entry with the same number so this function is good enough
+for use in ordinary situations. ENTRY-REALLY-EQUALP is useful for testing."
+  (declare (corpus-entry e1 e2))
+  (equal (entry-number e1) (entry-number e2)))
+
+;;; Ideally this could be done using the MOP’s functionality, specifically
+;;; mapping SLOT-DEFINITION-NAME over the results of CLASS-SLOTS or maybe
+;;; CLASS-DIRECT-SLOTS. But annoyingly this is not portable. There is the
+;;; CLOSER-MOP library to make the MOP more portable, and there is also the
+;;; CL-MOP library which provides the SLOT-NAMES method for this job. Again,
+;;; these are only semi-portable. Since we know what CORPUS-ENTRY should look
+;;; like we can just list the slots by hand, but this does have to be kept in
+;;; sync with the class definition above.
+;;;
+;;; FIXME: Make a MOP version so we can traverse slot contents deeply.
+(defun entry-really-equalp (e1 e2)
+  "Returns T if the instances E1 and E2 of the CORPUS-ENTRY class are really
+equal. Equality is defined by having the same values for all slots. This is
+inefficient and normally not useful, but it can be important for testing.
+Note that this is not deep, i.e. the contents of slots are not traversed."
+  (declare (corpus-entry e1 e2))
+  (every #'identity                     ;can't REDUCE #'AND because macro
+         (loop for slot in '(number title author transcriber translator
+                             glosser source pages-start pages-end
+                             orig-orthog dialect date text-file trans-file
+                             orig-file gloss-file)
+               ;; FIXME: This isn’t handling unbound slots right. If both are
+               ;; unbound then ignore them, but if only one is unbound then
+               ;; NIL. Right now both unbound is also NIL.
+               collect (if (and (slot-boundp e1 slot)
+                                (slot-boundp e2 slot))
+                           (equalp (slot-value e1 slot)
+                                   (slot-value e2 slot))
+                           nil))))
 
 (defun record-entry (entry)
   "Adds an instance ENTRY of the class CORPUS-ENTRY to the *CORPUS-ENTRIES*
 list, destructively modifying it. Returns the new value of the list in
-*CORPUS-ENTRIES*."
+*CORPUS-ENTRIES*. Does not add ENTRY to *CORPUS-ENTRIES* if an identical
+entry already exists according to comparison with ENTRY-EQUALP."
   (declare (corpus-entry entry))
-  (pushnew entry *corpus-entries* :test #'equal))
+  (pushnew entry *corpus-entries* :test #'entry-equalp))
+
+(defun %delete-duplicate-entries ()
+  (if (not (alexandria:setp *corpus-entries*))
+      (delete-duplicates *corpus-entries*)))
+
+;;; FIXME: Make SLOT optional and guess the slot and accessor by type of VAL.
+;;; Fixnums should be the NUMBER slot, strings could be TITLE or AUTHOR slots,
+;;; etc. Partial matches should be supported.
+(defun find-entry (val slot)
+  "Search for an instance of CORPUS-ENTRY in the *CORPUS-ENTRIES* list that
+matches some value VAL in a slot named SLOT. The argument SLOT should be a
+symbol naming a slot in the CORPUS-ENTRY class."
+  (macrolet ((findit (thing accessor)
+               `(find-if #'(lambda (x) (equal (,accessor x) ,thing))
+                         *corpus-entries*)))
+    ;; FIXME: Discover accessor functions automatically. MOP again?
+    (case slot (number (findit val entry-number))
+               ;;; FIXME: Finish.
+          )))
+
+;;; Debugging.
+(defvar foofile "001 Zuboff R - Basket Bay - Text.txt")
+(defvar barfile "001 Zuboff R - Basket Bay - Translation.txt")
+(defvar bazfile "002 Zuboff R - Mosquito - Text.txt")
+(defvar quxfile "002 Zuboff R - Mosquito - Translation.txt")
+(defvar *basedir* "../")
+(defun pathify (file)
+  (merge-pathnames (concatenate 'string *basedir* file)))
+(defvar foo (make-file (pathify foofile)))
+(defvar bar (make-file (pathify barfile)))
+(defvar baz (make-file (pathify bazfile)))
+(defvar qux (make-file (pathify quxfile)))
+(record-entry (make-entry foo))
+(add-file-to-entry bar (car *corpus-entries*))
+(record-entry (make-entry baz))
+(add-file-to-entry qux (cadr *corpus-entries*))
