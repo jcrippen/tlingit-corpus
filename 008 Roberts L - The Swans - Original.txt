@@ -1,5 +1,5 @@
 {Number = 008}
-{Type = Originalxs}
+{Type = Original}
 {Title = G̱úḵlʼ / The Swans}
 {Author = Yeex̱aas / Lester Roberts}
 {Clan = Naasteidí, Deikee Noow Hít; Teeyneidí yádi}
