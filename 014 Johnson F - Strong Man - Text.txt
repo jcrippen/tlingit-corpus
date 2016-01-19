@@ -1,0 +1,35 @@
+{Number = 014}
+{Type = Text}
+{Title = Duktʼootlʼ / Strong Man}
+{Author = Taakw Kʼwátʼi / Frank G. Johnson}
+{Clan = Suḵtineidí; Shangukeidí yádi}
+{Source = D&D 1987:138–151}
+{Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
+{Orthography = RP}
+{Dialect = Southern – Henya – Klawock}
+{Note = Heavily modified from the original publication to better match the Southern dialect.}
+{Page = 138}
+1	Yóo wé
+2	Henyaa áwé
+3	yéi duwasáakw áwé du.úx̱xʼun.
+4	Taakw.aaní.
+5	Áwé tlél tlax̱
+6	wooch een yan kax̱wla.aax̱ wáanáx̱ sáwé
+7	ḵóox̱ ayawdudltseen.
+8	Gwál tlax̱ chʼáagu sh kalneegí, ách áwé tlél
+9	óonaa ḵoosti ḵa tlél g̱ayéisʼ.
+10	Áwé tle yéi x̱wajée nuch wé taan áwé aax̱ has jiwdnúk wé atx̱á sákw.
+11	Áwé tléináx̱ ḵáà áwé.
+12	G̱alwéitʼ yóo duwasáakw.
+13	Naa sháade hánix̱ sitee.
+14	Yá du kéilkʼ ḵu.aawé
+15	a x̱oo aach yéi sáakw nuch ḵoosḵáawu yáx̱ yatee. Tlél daa.itḵooshgóok.
+16	Tle kʼidéin ḵu.oo tóonáx̱ kuwudzitee.
+17	Áwé
+18	chʼu l ḵeena.éiji áwé tle héende ana.átch.
+19	Wé du káak yaa ḵaa shugagútch.
+20	Sagú yáx̱ ḵaa yayík du.ax̱ji nuch héende yaa ana.ádi.
+21	Áwé hú ḵu.a tlé1 ḵaa yáa ulḵʼeiyich áwé,
+22	chʼa g̱óot héeni yoo uwagút.
+23	Yan awux̱éixʼu áwé héende nagútch.
+{Page = 140}
