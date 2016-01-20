@@ -1,0 +1,13 @@
+{Number = 015}
+{Type = Text}
+{Title = Xóotsx̱ X̱ʼayaaḵuwdlig̱adi Shaawát / The Woman Who Married the Bear}
+{Author = Nakil.aan / Frank Dick Sr.}
+{Clan = }
+{Source = D&D 1987:194-216}
+{Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
+{Orthography = RP}
+{Dialect = }
+{Page = 194}
+1       X̱át
+2       x̱át aadéi
+
