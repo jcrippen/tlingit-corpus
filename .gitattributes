@@ -1,0 +1,6 @@
+# Force normalization of line endings to LF.
+* text eol=lf
+
+# Explicitly declare what should be normalized.
+*.txt text
+*.md text
