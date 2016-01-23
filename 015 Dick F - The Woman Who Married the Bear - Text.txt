@@ -1,14 +1,35 @@
 {Number = 015}
 {Type = Text}
 {Title = Xóotsx̱ X̱ʼayaaḵuwdlig̱adi Shaawát / The Woman Who Married the Bear}
-{Author = Nakil.aan / Frank Dick Sr.}
+{Author = Naakil.aan / Frank Dick Sr.}
 {Clan = Lʼuknax̱.ádi; Kaagwaantaan yádi}
 {Source = D&D 1987:194-216}
 {Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
 {Orthography = RP}
 {Dialect = Northern - Coastal - Dry Bay}
 {Page = 194}
-1       X̱át
-2       x̱át aadéi
-3	x̱aan kaduneegi yé4	aadéi x̱aan dutlaagu yé áyá yá5	yá sh kalneek.6	Yóo7	G̱unanaa áyá8	yá ḵu.oo9	yá dáaḵ ká10	Gunanaa.11	Áyá12	hás du daat sh kalneek áyá.13	Yáadu á, yáa yagiyee kakḵwanéek14	jinkaat yaawax̱ée15	yá dís16	aadéi x̱aan kaduneegi yé yáx̱.17	Yóo áyá kadunéek shux'aanáx̱18	yá sh kalneek.19	Ḵúdax̱ch ḵuwa.óo yá ḵu.oo20	yá G̱unanaa.21	Aadáx̱ áyá22	yá ḵutaan.23	Ḵutaandéi yaa ḵunahéin.24	Taakw.eetí25	yóo áyá wduwasáa; taakw a eetí áyá.
-
+1	X̱át
+2	x̱át aadéi
+3	x̱aan kaduneegi yé
+4	aadéi x̱aan dutlaagu yé áyá yá
+5	yá sh kalneek.
+6	Yóo
+7	G̱unanaa áyá
+8	yá ḵu.oo
+9	yá dáaḵ ká
+10	Gunanaa.
+11	Áyá
+12	hás du daat sh kalneek áyá.
+13	Yáadu á, yáa yagiyee kakḵwanéek
+14	jinkaat yaawax̱ée
+15	yá dís
+16	aadéi x̱aan kaduneegi yé yáx̱.
+17	Yóo áyá kadunéek shux'aanáx̱
+18	yá sh kalneek.
+19	Ḵúdax̱ch ḵuwa.óo yá ḵu.oo
+20	yá G̱unanaa.
+21	Aadáx̱ áyá
+22	yá ḵutaan.
+23	Ḵutaandéi yaa ḵunahéin.
+24	Taakw.eetí
+25	yóo áyá wduwasáa; taakw a eetí áyá.
