@@ -1,0 +1,74 @@
+{Number = 016}
+{Type = Text}
+{Title = Ḵaakexʼwtí}
+{Author = Kéet Yaanaayí / Willie Marks}
+{Clan = Chookaneidí, Xóots Hít; Lukaax̱.ádi yádi}
+{Source = D&D 1987:152–165}
+{Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
+{Orthography = RP}
+{Dialect = Northern – Coastal – Hoonah}
+{Page = 152}
+1	Ḵaakexʼwtí áyá kakḵwalaneek yeedát.
+2	Yá G̱athéeni yóo duwasáagu yé áwé
+3	áa yéi ḵuteex̱ín yu deikée Yantʼiká.
+4	Naguḵyadaa tʼáak áwé yéi duwasáakw G̱athéeni.
+5	Á áyá chʼáagu ḵáawu áwé yéi yateeyi yé.
+6	Áa yéi teex̱ín
+7	yá war
+8	jináḵ áwé; yú safe place-xʼ yéi s teex̱ín.
+9	Yú lidzéeyi yé; yéi áwé ḵuduwa.óo.
+10	Ayá
+11	taatxʼ áwé du.eenín tsaa
+12	ḵaa atx̱aayí sákw.
+13	Ách áwé
+14	wooḵoox̱.
+15	Du atʼeegí tsú du een.
+16	Digiygéide áwé tsu ḵustée nuch.
+17	Wáa sákwshé du ée kaawaháa wé digiygéide ḵa wé atʼeegí?
+18	Has iltsís
+19	wé anax̱ naakwaani yé tʼáat.
+20	Du jeewú wé tsaag̱álʼ.
+21	Gwál has aa woo.een.
+22	Yaa ḵeiga.áa gíwé
+23	ḵúx̱de déi.
+24	Daa sá du yáx̱ woodaḵeench? Áyá du ée lidzée, {Page = 154}
+25	du yadaat wudiḵeen.
+26	Tsu yéi ḵunoogú áwé du ax̱áayi áwé yóo awsinei.
+27	A yát áwé wdiḵín.
+28	Áwé yaakw yée wdzigeet.
+29	Daatxʼ sáyá dulyaaḵw? Ksiyidéin kaaxát.
+30	Áwé wáa sákwshé? Gwál héent aawax̱ích wé át
+31	wé bird.
+32	(Yeisú a x̱ánt yéi x̱at daayaduḵá.)
+33	Aandé g̱unayéi s uwaḵúx̱.
+34	Chʼu yéi g̱unéi s ḵóox̱; chʼu l yei wuyáatʼi áwé
+35	káx̱ daaḵ shaawaxíx du digiygéide
+36	a digiygéit aa aa.
+37	Tlax̱ yaa kunaséini gíwé du aaní
+38	du atʼeegí
+39	káx̱ daaḵ shaawaxíx tsu.
+40	Tle táach áwé ḵujáḵx̱.
+41	Tle yoo ḵuwanáakw gíwé tle.
+42	Du yataayí áwé ashaawax̱ích
+43	wé ḵáa.
+44	Tie aant ayaawax̱áa
+45	gwál aan eeg̱ayáaxʼ gwál éexʼ áwé
+46	“wáa sá woonei ax̱ yikḵáawu?”
+47	Wáa sáyá tléil aadóo sá?
+48	Tléil tsu Lingít yéi oostínch
+49	wé aan.
+50	Tle tleix̱ áwé axéxʼw.
+51	Áa daaḵ góot,
+52	hóochʼ. Ḵutx̱ shoowaxeex,
+53	yóo yú one city áwé yéi woonei.
+54	Á áwé gwál yanax̱ akawsihéitʼ yá du x̱oonxʼí.
+55	Aag̱áa wé tsá g̱unayéi uwagút.
+56	G̱aatáa,
+57	chʼáakw ḵustéeyin; g̱aatáa yóo duwasáagu át
+58	du jeewu.
+59	Gwál yaa
+60	atuwáatx̱
+61	at nag̱waa.eeni át tsu; du jeewu á.
+62	Wáa sá kwshé yoo kaawagut? Yá Tsalx̱aan
+63	tʼéináx̱ gíwé yaa wugoot.
+{Page = 156}
