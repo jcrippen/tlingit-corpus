@@ -31,7 +31,8 @@
 21	Gwál has aa woo.een.
 22	Yaa ḵeiga.áa gíwé
 23	ḵúx̱de déi.
-24	Daa sá du yáx̱ woodaḵeench? Áyá du ée lidzée, {Page = 154}
+24	Daa sá du yáx̱ woodaḵeench? Áyá du ée lidzée,
+{Page = 154}
 25	du yadaat wudiḵeen.
 26	Tsu yéi ḵunoogú áwé du ax̱áayi áwé yóo awsinei.
 27	A yát áwé wdiḵín.
@@ -72,7 +73,7 @@
 62	Wáa sá kwshé yoo kaawagut? Yá Tsalx̱aan
 63	tʼéináx̱ gíwé yaa wugoot.
 {Page = 156}
-64	Ei.i.i.i.i.i!
+64	Ei-i-i-i-i-i!
 65	Yaa nagút.
 66	Gwál tláx̱, gwál xʼoon dís sá shoowaxeex aag̱áa yaa nagut yé.
 67	Aag̱aa áyá a káx̱ woogoot
@@ -155,7 +156,7 @@
 141	Eeḵnáx̱ áwé awsikóo yú anax̱ haat uwagudi yé yú dáaḵnáx̱
 142	yú shaa tʼéináx̱.
 143	Ách áwé éeḵnax̱.aanáx̱ awsikóo áx̱ yaa kg̱wagúdi.
-144	Ei.i.i.i.i.i! Yéi yaa nagut.
+144	Ei-i-i-i-i-i! Yéi yaa nagut.
 145	Yú Lituya Bay.
 146	A kaanáx̱ gíwé x̱aanásʼ yéi awsinei.
 147	Haanaanax̱.á áwé yéi duwasáakw
