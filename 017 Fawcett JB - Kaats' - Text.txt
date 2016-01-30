@@ -1,0 +1,253 @@
+{Number = 017}
+{Type = Text}
+{Title = Kaatsʼ}
+{Author = Tseexwáa / J.B. Fawcett}
+{Clan = Wooshkeetaan; Tʼaḵdeintaan yádi}
+{Source = D&D 1987:218-243}
+{Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
+{Orthography = RP}
+{Dialect = Northern – Coastal – Juneau}
+{Recording = Dauenhauer 19-A 00:00–??:??}
+{Page = 218}
+1	Likoodzí sh kalneek áyá.
+2	Chʼa ldakát át áyá yaa yanaxíx.
+3	Chʼu chʼáagudáx̱
+4	yú alʼóon
+5	atgutóot aa wu.aadín
+6	lingít
+7	ḵa héen x̱ukaanáx̱ aa at eenín.
+8	“Daa sáyú aan has at een?”
+9	yóo áyá x̱ʼayaduḵá
+10	a x̱oo aa ḵu.oo.
+11	Xʼoon táakw sá shoowaxeex.
+12	Ha aan at du.een át x̱áa yá ḵustéeyin.
+13	Lingítch
+14	aadé s at in yé,
+15	yú heentak.ádi tsú
+16	aadé kéi s ashátji yé
+17	ḵa yá át woo.aadi át,
+18	yá héen x̱ukaanáx̱ aa
+19	aadé s a.eeni yé
+20	áwé wdudzikóo
+21	ḵa yú dáaḵt woo.aadi át x̱á.
+22	Ha yá ḵáa ḵu.aa
+23	at natí áyú
+24	keitl.
+{Page = 220}
+25	A ḵoowúdáx̱ áyu yéi daadunéiyin
+26	yú daḵka.ádi tlenxʼ
+27	dligéixʼi át.
+28	Keitl teen áwé yéi daadunéi nuch
+29	keitl teen.
+30	Aag̱áa áwé
+31	a x̱ʼéit uwagút.
+32	Du shát ḵudzitee
+33	wé káa
+34	du shát ḵudzitee.
+35	Wáa sáyá?
+36	Chʼu yeisú akoo.aag̱ú áyá
+37	ḵáaḵwx̱ daak uwagúdi yáx̱ áyú yatee.
+38	Xóots yóo duwasáagu át áwé.
+39	Héidu áxʼ yéi at kawdiyaayi yé,
+40	Kichx̱áandáx̱ haandé kaawaháa.
+41	Daḵká áwé.
+42	Yees G̱eey yóo áwé duwasáakw Lingítch
+43	dleit ḵáach ḵwá Yes Bay.
+44	Axʼ áwé yéi yan at kawdiyáa.
+45	Wé héench áwé; aatlein héen áwé.
+46	Haaw.
+47	Wáa nanéi sáwé?
+48	Chʼu yeisú
+49	chʼu yeisú akoo.aag̱ú áwé
+50	ash woosháat.
+51	Tle ayawuyeigí áwé.
+52	Tle a x̱ʼéit áwé uwagút
+53	wé at ḵoowú.
+54	Áwé gáani yux̱ woogoot
+55	wé át.
+56	Aadé áwé neil ash uwax̱ích.
+57	Ḵaju áwu gíwé gé du shát
+58	wé shéech aa xóots.
+59	Wé neilú á.
+60	Áyá a daa áyá aawasháat.
+61	Shaawát áwé du waḵshiyeexʼ.
+62	Tle awusháadi áyá
+63	“Héidu áwé x̱at g̱asneix̱?”
+64	yóo áwé yaawaḵaa
+65	Kaatsʼ ḵu.aa.
+66	Chʼu yeisú xʼóolʼ yáx̱ teeyí wé du x̱úx̱ wé gáan
+67	ldakát át koowashée.
+{Page = 222}
+68	Wé átg̱aa ḵushée
+69	wé du keitlxʼí
+70	du keidlí
+71	yanax̱ áwé ash woox̱eech.
+72	Ách áyá at kookeidéex̱ sitee,
+73	“Ash tayee
+74	yá a káa yei s ḵéich.”
+75	Sdu yei.ádi haaw áwé sdu yei.ádix̱ sitee wé át.
+76	A káx̱ áwé loowatsaaḵ.
+77	Chʼáakwx̱ sateeyí áwé
+78	wéináx̱ neil uwagút.
+79	Hít áwé
+80	hít áwé
+81	du waḵshiyeexʼ
+82	wé at ḵoowú ásiwégé.
+83	“Goosú yáade neil x̱waax̱iji lingít”
+84	yóo áwé yaawaḵaa wé át.
+85	“Tsáaxʼ áwé yáadu á.
+86	Tsáaxʼ áwé yáadu á.
+87	Wé yáanáx̱ neil iyatée,
+88	yáadu á.”
+89	A waḵkáḵ wooshee du x̱úx̱.
+90	Aadé sh daa tuwditee
+91	yá ash daat jiwusḵóoxʼu
+92	wé shaawát ḵu.aa
+93	aadé sh daa tuwditee.
+94	Tlél du tuwáa ushgú akawuneegí.
+95	A waḵkáx̱ wooshee du x̱úx̱.
+96	Tlél aadé a náḵ nax̱wdzigeedi yé ḵoostí.
+97	Nagútch
+98	gáande.
+99	Aag̱áa áwé ash shukoojeisʼ nuch.
+100	“Tlél wáa sá ikg̱watee.
+101	Tlél wáa sá ikg̱watee.”
+102	Wáa nanéi sáyu át ḵoowaháa.
+103	Tléixʼ dís
+104	tléixʼ taatx̱ áwé sitee du waḵshiyeexʼ
+105	hú ḵu.aa
+106	ḵach tléixʼ dís áwé.
+107	Tlél ḵoostí
+108	Kaatsʼ ḵu.aa.
+109	Hóochʼ.
+110	Ḵáaḵwt uwanéi.
+{Page = 224}
+111	Hóochʼ áyú.
+112	Tlél wuduskú goosú á.
+113	Ḵudushee nuch.
+114	Du kéekʼ hás
+115	tlax̱ kikʼi.aa ḵudzitee
+116	aawasháa.
+117	Du yáx̱ yées shaawát aawasháa
+118	wé kikʼi.aa.
+119	Du húnx̱w ḵu.aa
+120	at sʼaatxʼí.
+121	Áwé yéi yandusḵéich “héitʼaa ḵu.aa x̱áa déi
+122	du húnx̱u káx̱ ḵukg̱washée.”
+123	Duwaḵeet
+124	wududziteen áyú du x̱ʼus.eetí
+125	aáa
+126	jiwánnáx̱
+127	yá héen yix̱ ekei wlishóo.
+128	Wáa sáyú
+129	yatseeneit x̱ʼusyík tʼaḵkáx̱ kei wlishóo
+130	yú ḵaa x̱ʼus.eetí.
+131	Aag̱áa áyá wduwaḵít
+132	“Átch gíyá wsineix̱”
+133	yóo x̱ʼayaduḵá.
+134	Aan yátxʼi yéi sh kalneek.
+135	Chʼa aadé yéi nay.oo xʼwán.
+136	Xʼéig̱aa sh kalneek áyá
+137	xʼéig̱aa sh kalneek áyá.
+138	Anax̱ wududzikuwu át áyá
+139	du x̱ʼéidáx̱
+140	a áyá.
+141	Keitl
+142	tóo akayanook.
+143	Yú neilxʼ áyú g̱agaan x̱ʼoos áwé oowayáa.
+144	Neildé
+145	koodagánch neildé.
+146	G̱agaan x̱ʼoos áwé oowayáa
+147	wé keitl tundatáani áwé,
+148	wé áa kdahánch,
+149	wé shaawát.
+150	Tlél yóo s a woodláḵkw.
+151	Goosú á hú?
+152	Ldakát yéit kudushée.
+{Page = 226}
+153	Tlél du yaḵaayí ḵoostí
+154	yú kikʼi.aa ḵu.aa
+155	“Héitʼaa ḵu.aa x̱áa déi.”
+156	Wuduziteen áyú du x̱ʼus.eetí.
+157	“Héitʼaa ḵu.aa x̱áa déi du húnx̱w
+158	du húnx̱wg̱aa ḵukg̱washée“
+159	yóo áyú yandusḵéich du húnx̱u hásch
+160	wé kikʼi.aa.
+161	Du shát
+162	shawatshaan.
+163	Wáa nanéi sáyú át koowaháa.
+164	Du keitlxʼí
+165	“At Xʼéeshi Gwálaa”
+166	yóo ayasáakw tléixʼ aa du keidlí.
+167	Tleixʼ aa ḵwá “Shaayeesxwáa.”
+168	Tléix' aa ḵu.aa
+169	kát x̱at seiwaxʼákw.
+170	Násʼk keitl
+171	tle number one
+172	Shaayeesxwáa.
+173	Áwé
+174	wáa nanéi sáwé yéi yaawaḵaa
+175	“ax̱ téeli yan sané xʼwán
+176	ax̱ téeli
+177	kg̱wagóot
+178	chʼa ḵukḵwashée áwé.”
+179	Ḵach hóoch ḵu.aa síyú gé a káx̱ ḵukg̱washée du húnx̱w gé?
+180	Woosh woox̱ʼáanxʼ yú xʼáan sʼaatxʼí ḵu.aa.
+181	Wáa nanéi sáwé yéi yaawaḵaa wé shaawát,
+182	“Haahá.
+183	Iyatéen gé?
+184	Iyatéen gé?”
+185	Áxʼ áwé ash waḵkooḵá
+186	áa wdihaan
+187	tsu áa kdahánch.
+188	Tléikʼ,
+189	tlél ḵúx̱de yóo udatí
+190	chʼu yéi adaaneiyí áwé x̱ʼawoolt loowagúḵ wé át.
+191	Ách áwé yáa yeedát xóots
+192	xóots a ḵoowú yeeysikóo
+193	aan yátxʼi daaxʼoon x̱ʼadakítʼx̱
+194	woosh géide
+{Page = 228}
+195	aa a yeewú aa.
+196	Á anax̱ áwé
+197	x̱ʼadakítʼx̱
+198	á anax̱ áwé
+199	yeedát yéi kwdayéin.
+200	Aag̱áa yú gaaw ḵu.aa
+201	ayaawadlaaḵ wé
+202	chʼa yeisú yéi at ḵunoogú áwé x̱ʼawoolt loowagúḵ wé keitl.
+203	Aadé s yadaxún wé at ḵoowú x̱ʼé.
+204	Ayaawatín du keitlxʼí.
+205	“Ax̱ keidlí!”
+206	á áwé
+207	“Gu.aa yáx̱ xʼwán,”
+208	yóo áwé ash yawsiḵaa.
+209	“I gu.aa yáx̱ xʼwán.”
+210	Tlél aadé nax̱wdzigeedi yé.
+211	Tlél áyú yú óonaa ḵaa jee.
+212	Yú át
+213	chooneit áwé.
+214	Óonaa yáanáx̱ litseen.
+215	Aa x̱wsiteen.
+216	G̱án, yéi wé kwdliyáatʼ.
+217	Kasiyéi.
+218	Yú ksatán yáaxʼ yú at doogú a kadzaasí
+219	litseen.
+220	Wé a lú aa ḵwá yéi kwdiyáatʼ.
+221	Sʼaaḵ.
+222	Kʼwátʼ yáx̱ kadiwxásʼ a shuyatóox̱ dutsaaḵ.
+223	A tóotx̱ yóox̱ xeex.
+224	A tóode yoo yaxíxk yú át.
+225	Tle at katé áwé.
+226	Yéi áwé at eenín lingít.
+227	Chʼu yeisú
+{Comment = Line 228 has the sound effect on a following unnumbered line.}
+228	a daa yoo jikool.átgi áwé. (Slap!)
+229	Tlél aadé nax̱wdzigeedi yé.
+230	X̱wasikóo du saayí.
+231	Chʼu tle ḵúnáx̱ áwé xʼóolʼ yáx̱
+232	x̱at yatee
+233	yá lidzée.
+234	Lidzée cha shaatkʼ.
+235	Sometimes tsá
+{Page = 230}
