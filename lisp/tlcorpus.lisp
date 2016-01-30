@@ -29,7 +29,7 @@
   (:use :common-lisp)
   (:documentation
    "The TLCORPUS package is a research utility for parsing, processing, and
-querying the Tlingit Corpus. This corpus is a set of text files with numbered
+querying the Tlingit Corpus. The corpus is a set of text files with numbered
 lines and minimally structured metadata that represents the transcribed and
 translated Tlingit narratives and oratory collected by several scholars in the
 20th and 21st centuries."))
@@ -37,16 +37,25 @@ translated Tlingit narratives and oratory collected by several scholars in the
 (in-package :tlcorpus)
 
   ;;
-;;;;;; Assorted constants and variables.
+;;;;;; Assorted global constants and variables.
   ;;
 
-(defvar *corpus-entries* nil
-  "A list of corpus entries, each an instance of the class CORPUS-ENTRY.")
+(defparameter +corpus-directory+ "../"
+  "The directory where the corpus files are located.")
+
+(defparameter +corpus-metadata-config-directory+
+  (concatenate 'string +corpus-directory+ "metadata/")
+  "The directory where the metadata configuration files are located. These are
+the files that define lists of values for enumerated metadata like Source,
+Orthography, and Dialect.")
 
 (defconstant +whitespace+
   (cl-unicode:list-all-characters "White_Space")
   "A list of whitespace characters. These are obtained from CL-UNICODE by
 listing all Unicode characters with the White_Space property.")
+
+(defvar *corpus-entries* nil
+  "A list of corpus entries, each an instance of the class CORPUS-ENTRY.")
 
 
   ;;
@@ -292,7 +301,7 @@ values for the TYPE slot of an instance of CORPUS-FILE-LINE."
          (if (not (equal (char l (1- (length l))) #\}))
              (warn "Missing closing brace.")) ;FIXME: file, line number?
          :META))
-      ;; FIXME: This is hackish.
+      ;; FIXME: This is kinda hackish, but I can’t think of anything better.
       ((numberp (values (parse-integer (subseq l 0 (tabspot l))))) :DATA)
       (t :OTHER))))
 
@@ -412,6 +421,7 @@ be a string."
 ;;; their metadata, then update the listing in metadata/orthography-list.txt.
 ;;; This requires a metadata writer as well as the parser already implemented.
 
+
   ;;
 ;;;;;; File metadata processing.
   ;;
@@ -490,12 +500,24 @@ only returns the first instance of KEY, not any later ones."
 ;;;;;; Corpus file and entry creation.
   ;;
 
-(defun make-file (pathstr)
-  "Parses a file with pathname FILE and returns an instance of CORPUS-FILE
+(defun corpus-file-p (path)
+  "Returns T if the pathname PATH is a corpus file. Corpus files are
+identified by their first line being a metadata line. Metadata lines have an
+initial #\{ and a final #\}. This test is not terribly robust."
+  (let ((pname (merge-pathnames path)))
+    (with-open-file (s pname :direction :input
+                             :external-format :utf-8
+                             :if-does-not-exist :error)
+      (let ((firstline (read-line s nil)))
+        (and (equal #\{ (char firstline 0))
+             (equal #\} (char firstline (1- (length firstline)))))))))
+
+(defun make-file (path)
+  "Parses a file with pathname PATH and returns an instance of CORPUS-FILE
 representing the parsed file. Calls MAKE-LINE on each raw line in the file and
 stores each resulting CORPUS-LINE instance in the vector in the LINES slot of
 the new CORPUS-FILE instance."
-  (let* ((pname (merge-pathnames pathstr))
+  (let* ((pname (merge-pathnames path))
          (filobj (make-instance 'corpus-file
                                :lines (make-array 0
                                               :element-type 'corpus-file-line
@@ -611,14 +633,14 @@ entry already exists according to comparison with ENTRY-EQUALP."
 (defun find-entry (val slot)
   "Search for an instance of CORPUS-ENTRY in the *CORPUS-ENTRIES* list that
 matches some value VAL in a slot named SLOT. The argument SLOT should be a
-symbol naming a slot in the CORPUS-ENTRY class."
+symbol naming a slot in the CORPUS-ENTRY class. Returns NIL if none found."
   (macrolet ((findit (thing accessor)
                `(find-if #'(lambda (x) (equal (,accessor x) ,thing))
                          *corpus-entries*)))
     ;; FIXME: Discover accessor functions automatically. MOP again?
-    (case slot (number (findit val entry-number))
-               ;;; FIXME: Finish.
-          )))
+    (case slot
+      (number (findit val entry-number))
+      (title (findit val entry-title)))))
 
 ;;; Debugging.
 (defvar foofile "001 Zuboff R - Basket Bay - Text.txt")
