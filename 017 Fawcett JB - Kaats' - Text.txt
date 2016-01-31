@@ -291,7 +291,8 @@
 273	Toowú sagú
 274	áyú s duwaḵeet
 275	“Wáa sáhé tláx̱ sdu toowú sigóo hé keitl.”
-276	Tlél du yaḵaayí ḵoostí.{Page = 232}
+276	Tlél du yaḵaayí ḵoostí.
+{Page = 232}
 277	Wé du shát teen akaawaneek x̱á,
 278	“X̱wasiteen ax̱ húnx̱w.
 279	Yan x̱at yawsiḵáa.
