@@ -34,7 +34,7 @@
 23	at natí áyú
 24	keitl.
 {Page = 220}
-25	A ḵoowúdáx̱ áyu yéi daadunéiyin
+25	A ḵoowúdáx̱ áyú yéi daadunéiyin
 26	yú daḵka.ádi tlenxʼ
 27	dligéixʼi át.
 28	Keitl teen áwé yéi daadunéi nuch
@@ -42,7 +42,7 @@
 30	Aag̱áa áwé
 31	a x̱ʼéit uwagút.
 32	Du shát ḵudzitee
-33	wé káa
+33	wé ḵáa
 34	du shát ḵudzitee.
 35	Wáa sáyá?
 36	Chʼu yeisú akoo.aag̱ú áyá
@@ -52,7 +52,7 @@
 40	Kichx̱áandáx̱ haandé kaawaháa.
 41	Daḵká áwé.
 42	Yees G̱eey yóo áwé duwasáakw Lingítch
-43	dleit ḵáach ḵwá Yes Bay.
+43	Dleit Ḵáach ḵwá Yes Bay.
 44	Axʼ áwé yéi yan at kawdiyáa.
 45	Wé héench áwé; aatlein héen áwé.
 46	Haaw.
@@ -177,7 +177,7 @@
 162	shawatshaan.
 163	Wáa nanéi sáyú át koowaháa.
 164	Du keitlxʼí
-165	“At Xʼéeshi Gwálaa”
+165	“At X̱ʼéeshi Gwálaa”
 166	yóo ayasáakw tléixʼ aa du keidlí.
 167	Tleixʼ aa ḵwá “Shaayeesxwáa.”
 168	Tléix' aa ḵu.aa
