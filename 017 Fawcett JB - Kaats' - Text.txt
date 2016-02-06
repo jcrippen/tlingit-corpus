@@ -20,7 +20,7 @@
 9	yóo áyá x̱ʼayaduḵá
 10	a x̱oo aa ḵu.oo.
 11	Xʼoon táakw sá shoowaxeex.
-12	Ha aan at du.een át x̱áa yá ḵustéeyin.
+12	Ha aan at du.een át x̱áayá ḵustéeyin.
 13	Lingítch
 14	aadé s at in yé,
 15	yú heentak.ádi tsú
@@ -53,7 +53,7 @@
 41	Daḵká áwé.
 42	Yees G̱eey yóo áwé duwasáakw Lingítch
 43	Dleit Ḵáach ḵwá Yes Bay.
-44	Axʼ áwé yéi yan at kawdiyáa.
+44	Áxʼ áwé yéi yan at kawdiyáa.
 45	Wé héench áwé; aatlein héen áwé.
 46	Haaw.
 47	Wáa nanéi sáwé?
@@ -76,7 +76,7 @@
 64	yóo áwé yaawaḵaa
 65	Kaatsʼ ḵu.aa.
 66	Chʼu yeisú xʼóolʼ yáx̱ teeyí wé du x̱úx̱ wé gáan
-67	ldakát át koowashée.
+67	ldakát át ḵoowashée.
 {Page = 222}
 68	Wé átg̱aa ḵushée
 69	wé du keitlxʼí
@@ -92,14 +92,14 @@
 79	Hít áwé
 80	hít áwé
 81	du waḵshiyeexʼ
-82	wé at ḵoowú ásiwégé.
+82	wé at ḵoowú ásíwégé.
 83	“Goosú yáade neil x̱waax̱iji lingít”
 84	yóo áwé yaawaḵaa wé át.
 85	“Tsáaxʼ áwé yáadu á.
 86	Tsáaxʼ áwé yáadu á.
 87	Wé yáanáx̱ neil iyatée,
 88	yáadu á.”
-89	A waḵkáḵ wooshee du x̱úx̱.
+89	A waḵkáx̱ wooshee du x̱úx̱.
 90	Aadé sh daa tuwditee
 91	yá ash daat jiwusḵóoxʼu
 92	wé shaawát ḵu.aa
