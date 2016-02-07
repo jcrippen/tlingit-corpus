@@ -8,108 +8,116 @@
 {Page = 218}
 1	Likoodzí sh kalneek áyá.
 	amazing  story      CPL
-	This is a magnificent story.
+	‹This is a magnificent story.›
 2	Chʼa ldakát át    áyá yaa  yanaxíx.
 	just all    thing FOC PROG=IMPFV.3.occur
-	Many kinds of things happened.
+	‹Many kinds of things happened.›
 3	Chʼu chʼáagu-dáx̱
 	even long.ago-ABL
+	‹Even from long ago›
 4	yú   alʼóon
 	that hunting
-	Even from long ago Tlingits used to go hunting in the forest
+	‹for hunting›
 5	atgutóo-t   aa   wu.aadín
 	forest-PNCT PART=PFV.3.go.PL.PAST
+	‹they used to go in the forest,›
 6	lingít
 	people
+	‹Tlingits,›
 7	ḵa  héen x̱ukaa-náx̱      aa   at eenín.
 	and water among.on-PERL PART=4N=IMPFV.3.kill.PL
-	and harvesting on the sea.
+	‹and harvesting on the sea.›
 8	“Daa  sáyú aan     has at een?”
-	 what Q    3-INSTR PL= 4N=IMPFV.3.kill.PL
-	“What did they hunt with?”
+	what Q    3-INSTR PL= 4N=IMPFV.3.kill.PL
+	‹“What did they hunt with?”›
 9	yóo  áyá x̱ʼayaduḵá
 	thus FOC IMPFV.4H.say
-	some people ask.
+	‹they ask›
 10	a  x̱oo   aa   ḵu.oo.
 	it among PART people
+	‹among some people.›
 11	Xʼoon    táakw sá shoowaxeex.
 	how.many year  Q  3.PFV.pass
-	How many years have passed.
+	‹How many years have passed.›
 12	Ha   aan     at du.een               át    x̱áayá ḵustéeyin.
 	well 3-INSTR 4N=IMPFV.4H.kill.PL.REL thing FOC   3.IMPFV.exist.PAST
-	Surely there used to be weapons to hunt with.
+	‹Surely there used to be weapons to hunt with.›
 13	Lingítch
 	Tlingit-ERG
-	Tlingits
+	‹Tlingits,›
 14	aadé    s  at in                  yé,
 	it-ward PL=4N=IMPFV.3.kill.PL.REL way
-	the way that one kills things
+	‹the way that one kills things,›
 15	yú   heentak.ádi       tsú
 	that water.below.thing also
-	those underwater things too
+	‹those underwater things too,›
 16	aadé    kéi s  ashátji                yé
 	it-ward up= PL=3.IMPFV.3.grab.REP.REL way
-	the way they grab them up
+	‹the way they grab them up›
 17	ḵa  yá   á-t     woo.aadi        át,
 	and this it-PNCT PFV.3.go.PL.REL thing
-	and those animals that walked inland
+	‹and those animals that walked inland,›
 18	yá   héen  x̱ukaa-náx̱       aa
 	this water among.atop-PERL PART
-	these ones along the water
+	‹these ones along the water,›
 19	aadé    s  a.eeni                yé
 	it-ward PL=3.IMPFV.3.kill.PL.REL way
-	the way they kill them
+	‹the way they kill them,›
 20	áwé wdudzikóo
 	FOC 3.PFV.4H.know
-	that’s what people knew
+	‹that’s what people knew,›
 21	ḵa  yú   dáaḵ-t      woo.aadi     át    x̱á.
 	and that inland-PNCT PFV.3.go.REL thing PCL
-	and those things that go around inland too.
+	‹and those things that go around inland too.›
 22	Ha   yá   ḵáa ḵu.aa
 	well this man CONTR
-	There was a man
+	‹There was a man›
 23	at natí áyú
 	hunter  FOC
-	who went out hunting
+	‹who went out hunting›
 24	keitl.
 	dog
-	with a dog.
+	‹with a dog.›
 {Page = 220}
 25	A   ḵoowú-dáx̱ áyú yéi  daadunéiyin
 	its den-ABL   FOC thus=around.IMPFV.4H.do.PAST
-	They were taken from their den
+	‹They were taken from their den›
 26	yú   daḵka.ádi    tlenxʼ
 	that inland.thing big.PL
-	those great inland animals,
+	‹those great inland animals,›
 27	dligéixʼi          át.
 	3.IMPFV.big.PL.REL thing
-	large animals.
+	‹large animals.›
 28	Keitl teen  áwé yéi  daadunéi nuch
 	dog   INSTR FOC thus=around.IMPFV.4H.do HAB.AUX
-	They were taken with the use of dogs,
+	‹They were taken with the use of dogs,›
 29	keitl teen.
 	dog   INSTR
-	with the use of dogs.
+	‹with the use of dogs.›
 30	Aag̱áa  áwé
 	3-ADES FOC
-	That’s when
+	‹That’s when›
 31	a   x̱ʼéi-t     uwagút.
 	3’s mouth-PNCT PFV.3.go.SG
-	he came to its entrance.
+	‹he came to its entrance.›
 32	Du  shát ḵudzitee
 	his wife 3.IMPFV.exist
+	‹He had a wife,›
 33	wé   ḵáa
 	that man
+	‹that man,›
 34	du  shát ḵudzitee.
 	his wife 3.IMPFV.exist
+	‹he had a wife.›
 35	Wáa sáyá?
 	how Q.CPL
-	How is it?
+	‹How is it?›
 36	Chʼu yeisú akoo.aag̱ú         áyá
 	even still 3.IMPFV.3.try.SUB FOC
-	After trying for a while
+	‹After trying for a while›
 37	ḵáaḵwx̱  daak uwagúdi         yáx̱  áyú yatee.
 	wrongly down PFV.3.go.SG.SUB like FOC 3.IMPFV.STV.be
+	‹›
 38	Xóots yóo  duwasáagu             át    áwé.
 	bear  thus IMPFV.4H.call.REP.REL thing CPL
 	It was the animal called a brown bear.
@@ -186,7 +194,7 @@
 	and 3.PFV.3.grab.SUB FOC
 	As he grabbed her
 63	“Héid-u    áwé x̱at g̱asneix̱?”
-	 here-LOCP FOC me= IMP.2SG.rescue
+	here-LOCP FOC me= IMP.2SG.rescue
 	“Hey, why don’t you help me?”
 64	yóo áwé yaawaḵaa
 	thus FOC PFV.3.say
