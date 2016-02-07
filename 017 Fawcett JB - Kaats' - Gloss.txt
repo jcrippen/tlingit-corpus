@@ -1,114 +1,298 @@
 {Number = 017}
-{Type = Text}
+{Type = Gloss}
 {Title = Kaatsʼ}
 {Author = Tseexwáa / J.B. Fawcett}
 {Clan = Wooshkeetaan; Tʼaḵdeintaan yádi}
 {Source = D&D 1987:218-243}
-{Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
-{Orthography = RP}
-{Dialect = Northern – Coastal – Juneau}
-{Recording = Dauenhauer 19-A 00:00–??:??}
+{Glosser = Dzéiwsh / James A. Crippen}
 {Page = 218}
 1	Likoodzí sh kalneek áyá.
-2	Chʼa ldakát át áyá yaa yanaxíx.
-3	Chʼu chʼáagudáx̱
-4	yú alʼóon
-5	atgutóot aa wu.aadín
+	amazing  story      CPL
+	This is a magnificent story.
+2	Chʼa ldakát át    áyá yaa  yanaxíx.
+	just all    thing FOC PROG=IMPFV.3.occur
+	Many kinds of things happened.
+3	Chʼu chʼáagu-dáx̱
+	even long.ago-ABL
+4	yú   alʼóon
+	that hunting
+	Even from long ago Tlingits used to go hunting in the forest
+5	atgutóo-t   aa   wu.aadín
+	forest-PNCT PART=PFV.3.go.PL.PAST
 6	lingít
-7	ḵa héen x̱ukaanáx̱ aa at eenín.
-8	“Daa sáyú aan has at een?”
-9	yóo áyá x̱ʼayaduḵá
-10	a x̱oo aa ḵu.oo.
-11	Xʼoon táakw sá shoowaxeex.
-12	Ha aan at du.een át x̱áayá ḵustéeyin.
+	people
+7	ḵa  héen x̱ukaa-náx̱      aa   at eenín.
+	and water among.on-PERL PART=4N=IMPFV.3.kill.PL
+	and harvesting on the sea.
+8	“Daa  sáyú aan     has at een?”
+	 what Q    3-INSTR PL= 4N=IMPFV.3.kill.PL
+	“What did they hunt with?”
+9	yóo  áyá x̱ʼayaduḵá
+	thus FOC IMPFV.4H.say
+	some people ask.
+10	a  x̱oo   aa   ḵu.oo.
+	it among PART people
+11	Xʼoon    táakw sá shoowaxeex.
+	how.many year  Q  3.PFV.pass
+	How many years have passed.
+12	Ha   aan     at du.een               át    x̱áayá ḵustéeyin.
+	well 3-INSTR 4N=IMPFV.4H.kill.PL.REL thing FOC   3.IMPFV.exist.PAST
+	Surely there used to be weapons to hunt with.
 13	Lingítch
-14	aadé s at in yé,
-15	yú heentak.ádi tsú
-16	aadé kéi s ashátji yé
-17	ḵa yá át woo.aadi át,
-18	yá héen x̱ukaanáx̱ aa
-19	aadé s a.eeni yé
+	Tlingit-ERG
+	Tlingits
+14	aadé    s  at in                  yé,
+	it-ward PL=4N=IMPFV.3.kill.PL.REL way
+	the way that one kills things
+15	yú   heentak.ádi       tsú
+	that water.below.thing also
+	those underwater things too
+16	aadé    kéi s  ashátji                yé
+	it-ward up= PL=3.IMPFV.3.grab.REP.REL way
+	the way they grab them up
+17	ḵa  yá   á-t     woo.aadi        át,
+	and this it-PNCT PFV.3.go.PL.REL thing
+	and those animals that walked inland
+18	yá   héen  x̱ukaa-náx̱       aa
+	this water among.atop-PERL PART
+	these ones along the water
+19	aadé    s  a.eeni                yé
+	it-ward PL=3.IMPFV.3.kill.PL.REL way
+	the way they kill them
 20	áwé wdudzikóo
-21	ḵa yú dáaḵt woo.aadi át x̱á.
-22	Ha yá ḵáa ḵu.aa
+	FOC 3.PFV.4H.know
+	that’s what people knew
+21	ḵa  yú   dáaḵ-t      woo.aadi     át    x̱á.
+	and that inland-PNCT PFV.3.go.REL thing PCL
+	and those things that go around inland too.
+22	Ha   yá   ḵáa ḵu.aa
+	well this man CONTR
+	There was a man
 23	at natí áyú
+	hunter  FOC
+	who went out hunting
 24	keitl.
+	dog
+	with a dog.
 {Page = 220}
-25	A ḵoowúdáx̱ áyú yéi daadunéiyin
-26	yú daḵka.ádi tlenxʼ
-27	dligéixʼi át.
-28	Keitl teen áwé yéi daadunéi nuch
+25	A   ḵoowú-dáx̱ áyú yéi  daadunéiyin
+	its den-ABL   FOC thus=around.IMPFV.4H.do.PAST
+	They were taken from their den
+26	yú   daḵka.ádi    tlenxʼ
+	that inland.thing big.PL
+	those great inland animals,
+27	dligéixʼi          át.
+	3.IMPFV.big.PL.REL thing
+	large animals.
+28	Keitl teen  áwé yéi  daadunéi nuch
+	dog   INSTR FOC thus=around.IMPFV.4H.do HAB.AUX
+	They were taken with the use of dogs,
 29	keitl teen.
-30	Aag̱áa áwé
-31	a x̱ʼéit uwagút.
-32	Du shát ḵudzitee
-33	wé ḵáa
-34	du shát ḵudzitee.
+	dog   INSTR
+	with the use of dogs.
+30	Aag̱áa  áwé
+	3-ADES FOC
+	That’s when
+31	a   x̱ʼéi-t     uwagút.
+	3’s mouth-PNCT PFV.3.go.SG
+	he came to its entrance.
+32	Du  shát ḵudzitee
+	his wife 3.IMPFV.exist
+33	wé   ḵáa
+	that man
+34	du  shát ḵudzitee.
+	his wife 3.IMPFV.exist
 35	Wáa sáyá?
-36	Chʼu yeisú akoo.aag̱ú áyá
-37	ḵáaḵwx̱ daak uwagúdi yáx̱ áyú yatee.
-38	Xóots yóo duwasáagu át áwé.
-39	Héidu áxʼ yéi at kawdiyaayi yé,
-40	Kichx̱áandáx̱ haandé kaawaháa.
-41	Daḵká áwé.
-42	Yees G̱eey yóo áwé duwasáakw Lingítch
-43	Dleit Ḵáach ḵwá Yes Bay.
-44	Áxʼ áwé yéi yan at kawdiyáa.
-45	Wé héench áwé; aatlein héen áwé.
+	how Q.CPL
+	How is it?
+36	Chʼu yeisú akoo.aag̱ú         áyá
+	even still 3.IMPFV.3.try.SUB FOC
+	After trying for a while
+37	ḵáaḵwx̱  daak uwagúdi         yáx̱  áyú yatee.
+	wrongly down PFV.3.go.SG.SUB like FOC 3.IMPFV.STV.be
+38	Xóots yóo  duwasáagu             át    áwé.
+	bear  thus IMPFV.4H.call.REP.REL thing CPL
+	It was the animal called a brown bear.
+39	Héid-u    á-xʼ  yéi  at kawdiyaayi yé,
+	here-LOCP 3-LOC thus 4N=PFV.fall.REL way
+	Over here is where it happened,
+40	Kichx̱áan-dáx̱  haan-dé  kaawaháa.
+	Ketchikan-ABL here-ALL 3.PFV.occur
+	it happened on the near side of Ketchikan.‘
+41	Daḵ-ká      áwé.
+	inland-atop CPL
+	It was inland.
+42	Yees G̱eey yóo  áwé duwasáakw         Lingít-ch
+	Yes  Bay  thus FOC IMPFV.4H.call.REP Tlingit-ERG
+	Yees G̱eey is what Tlingits call the place,
+43	Dleit Ḵáa-ch  ḵwá   Yes Bay.
+	White Man-ERG CONTR Yes Bay
+	but the White People call it Yes Bay.
+44	Á-xʼ     áwé yéi  yan  at kawdiyáa.
+	there-at FOC thus=TERM=4N=PFV.fall
+	That’s where this happened.
+45	Wé   héen-ch   áwé; aatlein héen  áwé.
+	that water-ERG CPL  much    water CPL
+	There’s a river there too, a large river.
 46	Haaw.
+	well
+	Now
 47	Wáa nanéi sáwé?
+	how 3.IMPFV.happen Q.FOC
+	at what point was it?
 48	Chʼu yeisú
+	even still
+	While he was trying
 49	chʼu yeisú akoo.aag̱ú áwé
-50	ash woosháat.
+	even still 3.IMPFV.3.try.SUB FOC
+	while he was still trying
+50	ash  woosháat.
+	3OBV=PFV.3.grab
+	it grabbed him.
 51	Tle ayawuyeigí áwé.
-52	Tle a x̱ʼéit áwé uwagút
-53	wé at ḵoowú.
-54	Áwé gáani yux̱ woogoot
-55	wé át.
-56	Aadé áwé neil ash uwax̱ích.
-57	Ḵaju áwu gíwé gé du shát
-58	wé shéech aa xóots.
-59	Wé neilú á.
-60	Áyá a daa áyá aawasháat.
-61	Shaawát áwé du waḵshiyeexʼ.
-62	Tle awusháadi áyá
-63	“Héidu áwé x̱at g̱asneix̱?”
+	and 3.PFV.3.stalk.SUB FOC
+	It was while he was aiming at it.
+52	Tle a   x̱ʼéi-t     áwé uwagút
+	and its mouth-PNCT FOC PFV.3.go.SG
+	He got right up to the entrance
+53	wé   at  ḵoowú.
+	that its den.PSS
+	of its den.
+54	Áwé gáani      yux̱     woogoot
+	PCL outside.at outside=PFV.3.go.SG
+	The animal
+55	wé   át.
+	that thing
+	jumped out.
+56	Aadé    áwé neil ash  uwax̱ích.
+	it-ward FOC home 3OBV=PFV.3.throw.ANIM
+	It tossed him inside.
+57	Ḵaju     á-wu       gíwé gé  du  shát
+	actually there-LOCP DUB  DUB his wife
+	Its mate was probably in there all along
+58	wé   shéech aa   xóots.
+	that female PART bear
+	that female brown bear.
+59	Wé   neilú       á.
+	that inside-LOCP 3N
+	It was inside.
+60	Áyá a   daa    áyá aawasháat.
+	PCL its around FOC 3.PFV.3.grab
+	He grabbed her private parts.
+61	Shaawát áwé du  waḵshiyee-xʼ.
+	woman   CPL his eye.end.below-LOC
+	She looked like a woman to him.
+62	Tle awusháadi        áyá
+	and 3.PFV.3.grab.SUB FOC
+	As he grabbed her
+63	“Héid-u    áwé x̱at g̱asneix̱?”
+	 here-LOCP FOC me= IMP.2SG.rescue
+	“Hey, why don’t you help me?”
 64	yóo áwé yaawaḵaa
+	thus FOC PFV.3.say
+	said
 65	Kaatsʼ ḵu.aa.
-66	Chʼu yeisú xʼóolʼ yáx̱ teeyí wé du x̱úx̱ wé gáan
-67	ldakát át ḵoowashée.
+	NAME CONTR
+	Kaatsʼ.
+66	Chʼu yeisú xʼóolʼ    yáx̱  teeyí        wé   du  x̱úx̱     wé   gáan
+	even still whirlpool like IMPFV.be.SUB that her husband that outside
+	While her mate aws still confused outside
+67	ldakát át      ḵoowashée.
+	every  3N-PNCT PFV.3.search
+	he was searching all over.
 {Page = 222}
-68	Wé átg̱aa ḵushée
-69	wé du keitlxʼí
-70	du keidlí
-71	yanax̱ áwé ash woox̱eech.
-72	Ách áyá at kookeidíx̱ sitee,
-73	“Ash tayee
-74	yá a káa yei s ḵéich.”
-75	Sdu yei.ádi haaw áwé sdu yei.ádix̱ sitee wé át.
-76	A káx̱ áwé loowatsaaḵ.
-77	Chʼáakwx̱ sateeyí áwé
-78	wéináx̱ neil uwagút.
-79	Hít áwé
-80	hít áwé
-81	du waḵshiyeexʼ
-82	wé at ḵoowú ásíwégé.
-83	“Goosú yáade neil x̱waax̱iji lingít”
-84	yóo áwé yaawaḵaa wé át.
-85	“Tsáaxʼ áwé yáadu á.
-86	Tsáaxʼ áwé yáadu á.
-87	Wé yáanáx̱ neil iyatée,
-88	yáadu á.”
-89	A waḵkáx̱ wooshee du x̱úx̱.
-90	Aadé sh daa tuwditee
-91	yá ash daat jiwusḵóoxʼu
+68	Wé   át-g̱aa     ḵushée
+	that thing-ADES IMPFV.3.search.SUB
+	While he was searching
+69	wé  du   keitl-xʼ-í
+	that his dog-PL-PSS
+	for those dogs of his
+70	du keidl-í
+	his dog-PSS
+	his dogs,
+71	yanax̱       áwé ash  woox̱eech.
+	underground FOC 3OBV=PFV.3.throw.ANIM
+	she buried him.
+72	Á-ch   áyá at kookeidí-x̱ sitee,
+	it-ERG FOC parable-PERT  3.IMPFV.be
+	That’s why there’s a saying
+73	“Ash     tayee
+	3OBV.PSS below
+	“underneath
+74	yá a ká-a         yei  s ḵéich.”
+	this its atop-LOC down=PL=IMPFV.3.sit.PL.REP
+	the thing they sit on.”
+75	Sdu   yei.ádi haaw   áwé sdu   yei.ádi-x̱ sitee      wé   át.
+	their bed     branch CPL their bed-PERT  3.IMPFV.be that thing
+	Spruce boughs are their beds, the beds of those animals.
+76	A   káx̱       áwé loowatsaaḵ.
+	its atop-PERT FOC nose.PFV.3.poke
+	She lay face down.
+77	Chʼáakw-x̱      sateeyí áwé
+	long.time-PERT 3.IMPFV.be.SUB FOC
+	After a while
+78	wéi-náx̱   neil   uwagút.
+	that-PERL inside PFV.3.go.SG
+	the male bear came in.
+79	Hít   áwé
+	house CPL
+	It was a house
+80	hít   áwé
+	house CPL
+	it was a house
+81	du waḵshiyee-xʼ
+	his eye.end.below-LOC
+	in Kaatsʼ eyes
+82	wé at ḵoowú ásiwégé.
+	that its den.PSS CPL.DUB.YN
+	although it aws the den, wasn’t it?
+83	“Goo-s-ú     yáa-de   neil   x̱waax̱iji                 lingít”
+	where-Q-LOCP here-ALL inside 3.PFV.1SG.throw.ANIM.REL person
+	“Where is the human I threw in here?”
+84	yóo áwé yaawaḵaa   wé   át.
+	thus FOC PFV.3.say that thing
+	the animal said.
+85	“Tsáaxʼ áwé yáad-u    á.
+	mitten  CPL here-LOCP 3N
+	“It was a mitten, here it is.
+86	Tsáaxʼ áwé yáad-u    á.
+	mitten CPL here-LOCP 3N
+	It was a mitten, here it is.
+87	Wé   yáa-náx̱   neil   iyatée,
+	that here-PERL inside 3.PFV.2SG.handle
+	That’s what you threw in here,
+88	yáad-u    á.”
+	here-LOCP 3N
+	here it is.”
+89	A   waḵká-x̱       wooshee     du  x̱úx̱.
+	its eye.atop-PERT PFV.3.touch her husband
+	She put her paws over her husband’s eyes.
+90	Aadé    sh     daa    tuwditee
+	it-ward self’s around 3.inside.PFV.MID.be
+	She felt something for Kaatsʼ
+91	yá   ash      daa-t       jiwusḵóoxʼu
+	this 3OBV.PSS around-PNCT hand.PFV.3.fall.over.SUB
+	when he touched her
 92	wé shaawát ḵu.aa
-93	aadé sh daa tuwditee.
-94	Tlél du tuwáa ushgú akawuneegí.
-95	A waḵkáx̱ wooshee du x̱úx̱.
-96	Tlél aadé a náḵ nax̱wdzigeedi yé ḵoostí.
+	that woman CONTR
+	the female bear
+93	aadé    sh     daa    tuwditee.
+	it-ward self’s around 3.inside.PFV.MID.be
+	she felt something for him.
+94	Tlél du  tuwá-a        ushgú           akawuneegí.
+	NEG  her mind.face-LOC IRR.IMPFV.enjoy 3.PFV.3.tell
+	She didn’t want to tell on him.
+95	A waḵká-x̱         wooshee     du  x̱úx̱.
+	its eye.atop-PERT PFV.3.touch her husband
+96	Tlél aadé    a  náḵ  nax̱wdzigeedi  yé  ḵoostí.
+	NEG  it-ward it ABES POT.3.act.REL way IRR.IMPFV.3.exist
+	Kaatsʼ didn’t know what he was going to do.
 97	Nagútch
-98	gáande.
+	HAB.3.go.SG
+	The male bear
+98	gáan-de.
+	outside-ALL
+	would go out.
 99	Aag̱áa áwé ash shukoojeisʼ nuch.
 100	“Tlél wáa sá ikg̱watee.
 101	Tlél wáa sá ikg̱watee.”
