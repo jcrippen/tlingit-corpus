@@ -9,7 +9,7 @@
 {Dialect = Northern – Coastal – Juneau}
 {Recording = Dauenhauer 19-A 00:00–??:??}
 {Page = 218}
-1	Likoodzí sh kalneek áyá.
+1	Likoodzí shkalneek áyá.
 2	Chʼa ldakát át áyá yaa yanaxíx.
 3	Chʼu chʼáagudáx̱
 4	yú alʼóon
@@ -138,7 +138,7 @@
 124	wududziteen áyú du x̱ʼus.eetí
 125	aáa
 126	jiwánnáx̱
-127	yá héen yix̱ ekei wlishóo.
+127	yá héen yíx̱ kei wlishóo.
 128	Wáa sáyú
 129	yatseeneit x̱ʼusyík tʼaḵkáx̱ kei wlishóo
 130	yú ḵaa x̱ʼus.eetí.
@@ -147,11 +147,11 @@
 133	yóo x̱ʼayaduḵá.
 134	Aan yátxʼi yéi sh kalneek.
 135	Chʼa aadé yéi nay.oo xʼwán.
-136	Xʼéig̱aa sh kalneek áyá
-137	xʼéig̱aa sh kalneek áyá.
+136	Xʼéig̱aa shkalneek áyá
+137	xʼéig̱aa shkalneek áyá.
 138	Anax̱ wududzikuwu át áyá
 139	du x̱ʼéidáx̱
-140	a áyá.
+140	á áyá.
 141	Keitl
 142	tóo akayanook.
 143	Yú neilxʼ áyú g̱agaan x̱ʼoos áwé oowayáa.
