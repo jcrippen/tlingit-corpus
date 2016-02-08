@@ -79,8 +79,8 @@
 	dog
 	‹with a dog.›
 {Page = 220}
-25	A   ḵoowú-dáx̱ áyú      yéi  daadunéiyin
-	its den-ABL   FOC.DIST thus around.IMPFV.4H.do.PAST
+25	A      ḵoowú-dáx̱ áyú      yéi  daadunéiyin
+	3N.PSS den-ABL   FOC.DIST thus around.IMPFV.4H.do.PAST
 	‹They were taken from their den›
 26	yú     daḵka.ádi    tlenxʼ
 	D.DIST inland.thing big.PL
@@ -97,17 +97,17 @@
 30	Aa-g̱áa áwé
 	3-ADES FOC.MDST
 	‹That’s when›
-31	a   x̱ʼéi-t     uwagút.
-	3’s mouth-PNCT PFV.3.go.SG
+31	a      x̱ʼéi-t     uwagút.
+	3N.PSS mouth-PNCT PFV.3.go.SG
 	‹he came to its entrance.›
-32	Du  shát ḵudzitee
-	his wife 3.IMPFV.exist
+32	Du     shát ḵudzitee
+	3H.PSS wife 3.IMPFV.exist
 	‹He had a wife,›
 33	wé     ḵáa
 	D.MDST man
 	‹that man,›
-34	du  shát ḵudzitee.
-	his wife 3.IMPFV.exist
+34	du     shát ḵudzitee.
+	3H.PSS wife 3.IMPFV.exist
 	‹he had a wife.›
 35	Wáa sáyá?
 	how Q.CPL.PROX
@@ -121,7 +121,7 @@
 38	Xóots yóo  duwasáagu             át    áwé.
 	bear  thus IMPFV.4H.call.REP.REL thing CPL.MDST
 	‹It was the animal called a brown bear.›
-39	Héid-u    á-xʼ  yéi  at  kawdiyaayi yé,
+39	Héid-u    á-xʼ  yéi  at  kawdiyaayi   yé,
 	MPRX-LOCP 3-LOC thus 4N= PFV.fall.REL way
 	‹Over here is where it happened,›
 40	Kichx̱áan-dáx̱  haan-dé  kaawaháa.
@@ -136,8 +136,8 @@
 43	Dleit Ḵáa-ch  ḵwá   Yes Bay.
 	White Man-ERG CONTR Yes Bay
 	‹but the White People call it Yes Bay.›
-44	Á-xʼ     áwé      yéi  yan   at  kawdiyáa.
-	there-at FOC.MDST thus TERM= 4N= PFV.fall
+44	Á-xʼ  áwé      yéi  yan   at  kawdiyáa.
+	3N-at FOC.MDST thus TERM= 4N= PFV.fall
 	‹That’s where this happened.›
 45	Wé     héen-ch   áwé;      aatlein héen  áwé.
 	D.MDST water-ERG CPL.MDST  much    water CPL.MDST
@@ -160,14 +160,14 @@
 51	Tle ayawuyeigí        áwé.
 	and 3.PFV.3.stalk.SUB FOC.MDST
 	‹It was while he was aiming at it.›
-52	Tle a   x̱ʼéi-t     áwé      uwagút
-	and its mouth-PNCT FOC.MDST PFV.3.go.SG
+52	Tle a      x̱ʼéi-t     áwé      uwagút
+	and 3N.PSS mouth-PNCT FOC.MDST PFV.3.go.SG
 	‹He got right up to the entrance›
-53	wé     at  ḵoowú.
-	D.MDST its den.PSS
+53	wé     at     ḵoowú.
+	D.MDST 3N.PSS den.PSS
 	‹of its den.›
-54	Áwé      gáani      yux̱      woogoot
-	FOC.MDST outside.at outside= PFV.3.go.SG
+54	Áwé      gáani       yux̱      woogoot
+	FOC.MDST outside.LOC outside= PFV.3.go.SG
 	‹It went outside,›
 55	wé   át.
 	D.MDST thing
@@ -175,8 +175,8 @@
 56	Aa-dé  áwé      neil   ash   uwax̱ích.
 	3N-ALL FOC.MDST inside 3OBV= PFV.3.throw.ANIM
 	‹It tossed him inside.›
-57	Ḵaju     á-wu    gíwé     gé  du  shát
-	actually 3N-LOCP DUB.MDST DUB his wife
+57	Ḵaju     á-wu    gíwé     gé  du     shát
+	actually 3N-LOCP DUB.MDST DUB 3H.PSS wife
 	‹Its mate was probably in there all along›
 58	wé     shéech aa   xóots.
 	D.MDST female PART bear
@@ -187,8 +187,8 @@
 60	Áyá      a      daa    áyá      aawasháat.
 	FOC.PROX 3N.PSS around FOC.PROX 3.PFV.3.grab
 	‹He grabbed her private parts.›
-61	Shaawát áwé      du  waḵshiyee-xʼ.
-	woman   CPL.MDST his eye.end.below-LOC
+61	Shaawát áwé      du     waḵshiyee-xʼ.
+	woman   CPL.MDST 3H.PSS eye.end.below-LOC
 	‹She looked like a woman to him.›
 62	Tle awusháadi        áyá
 	and 3.PFV.3.grab.SUB FOC.PROX
@@ -202,8 +202,8 @@
 65	Kaatsʼ ḵu.aa.
 	NAME CONTR
 	‹Kaatsʼ.›
-66	Chʼu yeisú xʼóolʼ    yáx̱  teeyí        wé     du  x̱úx̱     wé     gáan
-	even still whirlpool like IMPFV.be.SUB D.MDST her husband D.MDST outside
+66	Chʼu yeisú xʼóolʼ    yáx̱  teeyí        wé     du     x̱úx̱     wé     gáan
+	even still whirlpool like IMPFV.be.SUB D.MDST 3H.PSS husband D.MDST outside
 	‹While her mate was still confused outside›
 67	ldakát át      ḵoowashée.
 	every  3N-PNCT PFV.3.search
@@ -212,11 +212,11 @@
 68	Wé     át-g̱aa  ḵushée
 	D.MDST 4N-ADES IMPFV.3.search.SUB
 	‹While he was searching›
-69	wé     du   keitl-xʼ-í
-	D.MDST his dog-PL-PSS
+69	wé     du     keitl-xʼ-í
+	D.MDST 3H.PSS dog-PL-PSS
 	‹for those dogs of his›
-70	du keidl-í
-	his dog-PSS
+70	du     keidl-í
+	3H.PSS dog-PSS
 	‹his dogs,›
 71	yanax̱       áwé      ash   woox̱eech.
 	underground FOC.MDST 3OBV= PFV.3.throw.ANIM
@@ -233,8 +233,8 @@
 75	Sdu   yei.ádi haaw   áwé      sdu   yei.ádi-x̱ sitee      wé     át.
 	their bed     branch CPL.MDST their bed-PERT  3.IMPFV.be D.MDST thing
 	‹Spruce boughs are their beds, the beds of those animals.›
-76	A   ká-x̱      áwé      loowatsaaḵ.
-	its atop-PERT FOC.MDST nose.PFV.3.poke
+76	A      ká-x̱      áwé      loowatsaaḵ.
+	3N.PSS atop-PERT FOC.MDST nose.PFV.3.poke
 	‹She lay face down.›
 77	Chʼáakw-x̱      sateeyí        áwé
 	long.time-PERT 3.IMPFV.be.SUB FOC.MDST
@@ -248,16 +248,16 @@
 80	hít   áwé
 	house CPL.MDST
 	‹it was a house›
-81	du  waḵshiyee-xʼ
-	his eye.end.below-LOC
+81	du     waḵshiyee-xʼ
+	3H.PSS eye.end.below-LOC
 	‹in Kaatsʼ eyes›
-82	wé     at  ḵoowú   ásiwégé.
-	D.MDST its den.PSS CPL.DUB.MDST.YN
+82	wé     at     ḵoowú   ásiwégé.
+	D.MDST 3N.PSS den.PSS CPL.DUB.MDST.YN
 	‹although it aws the den, wasn’t it?›
 83	“Goo-s-ú     yáa-de   neil   x̱waax̱iji                 lingít”
 	where-Q-LOCP PROX-ALL inside 3.PFV.1SG.throw.ANIM.REL person
 	‹“Where is the human I threw in here?”›
-84	yóo  áwé      yaawaḵaa  wé   át.
+84	yóo  áwé      yaawaḵaa  wé     át.
 	thus FOC.MDST PFV.3.say D.MDST thing
 	‹the animal said.›
 85	“Tsáaxʼ áwé      yáad-u    á.
@@ -272,11 +272,11 @@
 88	yáad-u    á.”
 	PROX-LOCP 3N
 	‹here it is.”›
-89	A   waḵká-x̱       wooshee     du  x̱úx̱.
-	its eye.atop-PERT PFV.3.touch her husband
+89	A      waḵká-x̱       wooshee     du     x̱úx̱.
+	3N.PSS eye.atop-PERT PFV.3.touch 3H.PSS husband
 	‹She put her paws over her husband’s eyes.›
-90	Aa-dé  sh     daa    tuwditee
-	3N-ALL self’s around 3.inside.PFV.MID.be
+90	Aa-dé  sh       daa    tuwditee
+	3N-ALL RFLX.PSS around 3.inside.PFV.MID.be
 	‹She felt something for Kaatsʼ›
 91	yá     ash      daa-t       jiwusḵóoxʼu
 	D.PROX 3OBV.PSS around-PNCT hand.PFV.3.fall.over.SUB
@@ -284,14 +284,14 @@
 92	wé     shaawát ḵu.aa
 	D.MDST woman CONTR
 	‹the female bear›
-93	aa-dé  sh     daa    tuwditee.
-	3N-ALL self’s around 3.inside.PFV.MID.be
+93	aa-dé  sh       daa    tuwditee.
+	3N-ALL RFLX.PSS around 3.inside.PFV.MID.be
 	‹she felt something for him.›
-94	Tlél du  tuwá-a        ushgú           akawuneegí.
-	NEG  her mind.face-LOC IRR.IMPFV.enjoy 3.PFV.3.tell
+94	Tlél du     tuwá-a        ushgú           akawuneegí.
+	NEG  3H.PSS mind.face-LOC IRR.IMPFV.enjoy 3.PFV.3.tell
 	‹She didn’t want to tell on him.›
-95	A waḵká-x̱         wooshee     du  x̱úx̱.
-	its eye.atop-PERT PFV.3.touch her husband
+95	A      waḵká-x̱         wooshee   du     x̱úx̱.
+	3N.PSS eye.atop-PERT PFV.3.touch 3H.PSS husband
 	‹She put her paws over her husband’s eyes.›
 96	Tlél aa-dé  a  náḵ  nax̱wdzigeedi  yé  ḵoostí.
 	NEG  3N-ALL 3N ABES POT.3.act.REL way IRR.IMPFV.3.exist
@@ -317,8 +317,8 @@
 103	Tléixʼ dís
 	one    month
 	‹One month›
-104	tléixʼ taat-x̱     áwé      sitee        du  waḵshiyee-xʼ
-	one    night-PERT FOC.MDST IMPFV.STV.be his eye.end.below-LOC
+104	tléixʼ taat-x̱     áwé      sitee        du     waḵshiyee-xʼ
+	one    night-PERT FOC.MDST IMPFV.STV.be 3H.PSS eye.end.below-LOC
 	‹was one night in his eyes›
 105	hú ḵu.aa
 	3H CONTR
@@ -348,8 +348,8 @@
 113	Ḵudushee        nuch.
 	IMPFV.4H.search HAB.AUX
 	‹They would search.›
-114	Du kéekʼ       hás
-	his yg.brother PL
+114	Du     kéekʼ       hás
+	3H.PSS yg.brother PL
 	‹Of his younger brothers›
 115	tlax̱ kikʼi.aa       ḵudzitee
 	very yg.brother.one IMPFV.3.STV.exist
@@ -363,8 +363,8 @@
 118	wé     kikʼi.aa.
 	D.MDST yg.brother.one
 	‹the youngest one.›
-119	Du húnx̱w ḵu.aa
-	his old.brother CONTR
+119	Du     húnx̱w ḵu.aa
+	3H.PSS old.brother CONTR
 	‹His older brother›
 120	at sʼaat-xʼ-í.
 	4N master-PL-PSS
@@ -372,14 +372,14 @@
 121	Áwé      yéi  yandusḵéich “héitʼaa  ḵu.aa x̱áa déi
 	FOC.MDST thus HAB.4H.say  MPRX.PART CONTR PCL now
 	‹They would say, “Why doesn’t this one›
-122	du  húnx̱u       ká-x̱      ḵukg̱washée.”
-	his old.brother atop-PERT IRR.PRSP.MOD.3.search
+122	du     húnx̱u       ká-x̱      ḵukg̱washée.”
+	3H.PSS old.brother atop-PERT IRR.PRSP.MOD.3.search
 	‹find his older brother?”›
 123	Duwaḵeet
 	3.IMPFV.4H.STV.suspicious
 	‹People were suspicious›
-124	wududziteen  áyú      du  x̱ʼus.eetí
-	3.PFV.4H.see FOC.DIST his footprints
+124	wududziteen  áyú      du     x̱ʼus.eetí
+	3.PFV.4H.see FOC.DIST 3H.PSS footprints
 	‹his footprints were seen›
 125	aáa
 	yes
@@ -402,8 +402,8 @@
 131	Aa-g̱áa  áyá      wduwaḵít
 	3N-ADES FOC.PROX 3.PFV.4H.suspcious
 	‹That’s when people became suspicious,›
-132	“Át-ch    gíyá     wsineix̱”
-	thing-ERG DUB.PROX 3.PFV.3.rescue
+132	“Át-ch gíyá     wsineix̱”
+	4N-ERG DUB.PROX 3.PFV.3.rescue
 	‹“Perhaps he was taken by something,”›
 133	yóo  x̱ʼayaduḵá.
 	thus IMPFV.4H.say
@@ -411,8 +411,8 @@
 134	Aan  yát-xʼ-i     yéi  sh    kalneek.
 	town child-PL-PSS thus RFLX= IMPFV.3.MID.tell
 	‹Noble people said this.›
-135	Chʼa aadé   yéi  nay.oo          xʼwán.
-	just it-way thus 3.IMP.2PL.leave EMPH
+135	Chʼa aa-dé  yéi  nay.oo          xʼwán.
+	just 3N-ALL thus 3.IMP.2PL.leave EMPH
 	‹Please excuse this.›
 136	Xʼéig̱aa shkalneek áyá
 	true    story     CPL.PROX
@@ -423,8 +423,8 @@
 138	A-nax̱  wududzikuwu       át    áyá
 	3-PERL 3.PFV.4H.know.REL thing CPL.PROX
 	‹This is how it’s known,›
-139	du  x̱ʼéi-dáx̱
-	his mouth-ABL
+139	du     x̱ʼéi-dáx̱
+	3H.PSS mouth-ABL
 	‹from his lips›
 140	á  áyá.
 	3N CPL.PROX
@@ -466,8 +466,8 @@
 	every  place-PNCT IMPFV.4H.search
 	‹People searched everywhere.›
 {Page = 226}
-153	Tlél du  yaḵaa-yí    ḵoostí
-	NEG  his say.NMZ-PSS IRR.IMPFV.3.exist
+153	Tlél du     yaḵaa-yí    ḵoostí
+	NEG  3H.PSS say.NMZ-PSS IRR.IMPFV.3.exist
 	‹But he wasn’t saying anything,›
 154	yú     kikʼi.aa       ḵu.aa
 	D.DIST yg.brother.one CONTR
@@ -478,20 +478,20 @@
 156	Wuduziteen   áyú      du     x̱ʼus.eetí.
 	3.PFV.4H.see FOC.DIST 3H.PSS footprints
 	‹His footprints were seen.›
-157	“Héitʼaa  ḵu.aa x̱áa déi du  húnx̱w
-	MPRX.PART CONTR PCL now his old.brother
+157	“Héitʼaa  ḵu.aa x̱áa déi du     húnx̱w
+	MPRX.PART CONTR PCL now 3H.PSS old.brother
 	‹“But this one now, his older brother,›
-158	du  húnx̱w-g̱aa        ḵukg̱washée”
-	his old.brother-ADES IRR.PRSP.MOD.3.search
+158	du     húnx̱w-g̱aa        ḵukg̱washée”
+	3H.PSS old.brother-ADES IRR.PRSP.MOD.3.search
 	‹he should search for his older brother”›
-159	yóo  áyú      yandusḵéich  du húnx̱u        hás-ch
-	thus FOC.DIST HAB.3OBV.say his old.brother PL-ERG
+159	yóo  áyú      yandusḵéich  du     húnx̱u        hás-ch
+	thus FOC.DIST HAB.3OBV.say 3H.PSS old.brother PL-ERG
 	‹is what the older brothers said›
 160	wé     kikʼi.aa.
 	D.MDST yg.brother.one
 	‹about their younger brother.›
-161	Du shát
-	his wife
+161	Du     shát
+	3H.PSS wife
 	‹His wife›
 162	shawatshaan.
 	woman.old
@@ -499,14 +499,14 @@
 163	Wáa nanéi          sáyú       á-t    ḵoowaháa.
 	how 3.IMPFV.happen Q.FOC.DIST 3-PNCT PFV.time.come
 	‹At one point the moment came.›
-164	Du  keitl-xʼ-í
-	his dog-PL-PSS
+164	Du     keitl-xʼ-í
+	3H.PSS dog-PL-PSS
 	‹His dogs,›
 165	“Atx̱ʼéeshi Gwálaa”
 	dryfish dagger
 	‹“Dryfish Dagger”›
-166	yóo  ayasáakw               tléixʼ aa   du  keidl-í.
-	thus 3.IMPFV.3.STV.call.REP one    PART his dog-PSS
+166	yóo  ayasáakw               tléixʼ aa   du     keidl-í.
+	thus 3.IMPFV.3.STV.call.REP one    PART 3H.PSS dog-PSS
 	‹is what he calls one of his dogs.›
 167	Tleixʼ aa   ḵwá   “Shaayeesxwáa.”
 	one    PART CONTR NAME
@@ -544,8 +544,8 @@
 178	chʼa ḵukḵwashée              áwé.”
 	just IRR.PRSP.MOD.1SG.search FOC.MDST
 	‹to search.›
-179	Ḵach     hóo-ch ḵu.aa síyú     gé a  ká-x̱      ḵukg̱washée            du  húnx̱w       gé?
-	actually 3H-ERG CONTR DUB.DIST YN 3N atop-PERT IRR.PRSP.MOD.3.search his old.brother YN
+179	Ḵach     hóo-ch ḵu.aa síyú     gé a  ká-x̱      ḵukg̱washée            du     húnx̱w       gé?
+	actually 3H-ERG CONTR DUB.DIST YN 3N atop-PERT IRR.PRSP.MOD.3.search 3H.PSS old.brother YN
 	‹But was he actually the one who would find his older brother?›
 180	Woosh wooxʼáanxʼ   yú     xʼáan sʼaat-xʼ-í    ḵu.aa.
 	RECIP PFV.angry.PL D.DIST anger master-PL-PSS CONTR
@@ -584,7 +584,7 @@
 	3N-ERG FOC.MDST D.PROX moment brown.bear
 	‹That’s why bears today,›
 192	xóots      a   ḵoowú yeeysikóo
-	brown.bear its den   3.PFV.2PL.know
+	brown.bear  den   3.PFV.2PL.know
 	‹in bear dens, you know,›
 193	aan  yát-xʼ-i     daaxʼoon x̱ʼadakítʼx̱
 	town child-PL-PSS four     mouth.IMPFV.3.MID.jam.REP
@@ -593,8 +593,8 @@
 	RECIP against-ALL
 	‹one after the other›
 {Page = 228}
-195	aa   a   yee-wú      aa.
-	PART its within-LOCP PART
+195	aa   a      yee-wú      aa.
+	PART 3N.PSS within-LOCP PART
 	‹on the inside.›
 196	Á  a-nax̱   áwé
 	3N 3N-PERL FOC.MDST
@@ -614,14 +614,14 @@
 201	ayaawadlaaḵ  wé
 	3.PFV.3.gain D.MDST
 	‹he reached there,›
-202	chʼa yeisú yéi  at      ḵunoogú       áwé      x̱ʼawool-t loowagúḵ           wé  keitl.
-	just still thus thing’s behaviour.PSS FOC.MDST door-PNCT nose.PFV.3.push.PL D.MDST dog
+202	chʼa yeisú yéi  at     ḵunoogú       áwé      x̱ʼawool-t loowagúḵ           wé  keitl.
+	just still thus 4N.PSS behaviour.PSS FOC.MDST door-PNCT nose.PFV.3.push.PL D.MDST dog
 	‹those dogs tracked right to the entrance while she was still doing this.›
-203	Aa-dé  s   yadaxún                  wé     at      ḵoowú x̱ʼé.
-	3N-ALL PL= IMPFV.3.MID.move.face.PL D.MDST thing’s den   mouth
+203	Aa-dé  s   yadaxún                  wé     at     ḵoowú x̱ʼé.
+	3N-ALL PL= IMPFV.3.MID.move.face.PL D.MDST 4N.PSS den   mouth
 	‹They pointed their noses to the mouth of the den.›
-204	Ayaawatín         du  keitl-xʼ-í.
-	3.PFV.3.recognize his dog-PL-PSS
+204	Ayaawatín         du     keitl-xʼ-í.
+	3.PFV.3.recognize 3H.PSS dog-PL-PSS
 	‹He recognized his dogs.›
 205	“Ax̱ keidl-í!”
 	my dog-PSS
