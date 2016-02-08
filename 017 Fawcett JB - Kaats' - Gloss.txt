@@ -430,45 +430,123 @@
 	3N CPL
 	‹this is.›
 141	Keitl
-142	tóo akayanook.
-143	Yú neilxʼ áyú g̱agaan x̱ʼoos áwé oowayáa.
-144	Neildé
-145	koodagánch neildé.
+	dog
+	‹Dogs›
+142	tó-o akayanook.
+	inside-LOC 3.IMPFV.3.STV.feel
+	‹it feels.›
+143	Yú   neilxʼ   áyú g̱agaan x̱ʼoos áwé oowayáa.
+	that home-LOC FOC sun    foot  FOC 3.IRR.IMPFV.3.STV.resemble
+	‹In the den they seem like sunbeams.›
+144	Neil-dé
+	inside-ALL
+	‹Inside›
+145	koodagánch  neil-dé.
+	HAB.3.shine inside-ALL
+	‹they would shine in.›
 146	G̱agaan x̱ʼoos áwé oowayáa
-147	wé keitl tundatáani áwé,
-148	wé áa kdahánch,
+	sun    foot  FOC 3.IRR.IMPFV.3.STV.resemble
+	‹They seem like sunbeams›
+147	wé  keitl tundatáan-i áwé,
+	the dog   thought-PSS FOC
+	‹the dogs’ thoughts;›
+148	wé   á-a    kdahánch,
+	that 3N-LOC IMPFV.3.stand.SG.REP
+	‹she would jump up to reach for them,›
 149	wé shaawát.
-150	Tlél yóo s a woodláḵkw.
-151	Goosú á hú?
-152	Ldakát yéit kudushée.
+	the woman
+	‹the woman.›
+150	Tlél yóo s   awoodláḵkw.
+	NEG  ALT PL= 3.IRR.PFV.3.succeed.REP
+	‹They couldn’t find him.›
+151	Goo-s-ú      á  hú?
+	where-Q-LOCP 3N 3H
+	‹Where was he?›
+152	Ldakát yéi-t      ḵudushée.
+	every  place-PNCT IMPFV.4H.search
+	‹People searched everywhere.›
 {Page = 226}
-153	Tlél du yaḵaayí ḵoostí
-154	yú kikʼi.aa ḵu.aa
+153	Tlél du  yaḵaa-yí    ḵoostí
+	NEG  his say.NMZ-PSS IRR.IMPFV.3.exist
+	‹But he wasn’t saying anything,›
+154	yú   kikʼi.aa       ḵu.aa
+	that yg.brother.one CONTR
+	‹the younger brother.›
 155	“Héitʼaa ḵu.aa x̱áa déi.”
-156	Wuduziteen áyú du x̱ʼus.eetí.
-157	“Héitʼaa ḵu.aa x̱áa déi du húnx̱w
-158	du húnx̱wg̱aa ḵukg̱washée“
-159	yóo áyú yandusḵéich du húnx̱u hásch
-160	wé kikʼi.aa.
+	this.one CONTR PCL now
+	‹“Why not him?” they were saying.›
+156	Wuduziteen áyú   du  x̱ʼus.eetí.
+	3.PFV.4H.see FOC his footprints
+	‹His footprints were seen.›
+157	“Héitʼaa ḵu.aa x̱áa déi du  húnx̱w
+	this.one CONTR PCL now his old.brother
+	‹“But this one now, his older brother,›
+158	du  húnx̱w-g̱aa        ḵukg̱washée”
+	his old.brother-ADES IRR.PRSP.MOD.3.search
+	‹he should search for his older brother”›
+159	yóo  áyú yandusḵéich  du húnx̱u        hás-ch
+	thus FOC HAB.3OBV.say his old.brother PL-ERG
+	‹is what the older brothers said›
+160	wé  kikʼi.aa.
+	the yg.brother.one
+	‹about their younger brother.›
 161	Du shát
+	his wife
+	‹His wife›
 162	shawatshaan.
-163	Wáa nanéi sáyú át koowaháa.
-164	Du keitlxʼí
-165	“At X̱ʼéeshi Gwálaa”
-166	yóo ayasáakw tléixʼ aa du keidlí.
-167	Tleixʼ aa ḵwá “Shaayeesxwáa.”
-168	Tléix' aa ḵu.aa
-169	kát x̱at seiwaxʼákw.
+	woman.old
+	‹was an old woman.›
+163	Wáa nanéi          sáyú  á-t    ḵoowaháa.
+	how 3.IMPFV.happen Q.FOC 3-PNCT PFV.time.come
+	‹At one point the moment came.›
+164	Du  keitl-xʼ-í
+	his dog-PL-PSS
+	‹His dogs,›
+165	“Atx̱ʼéeshi Gwálaa”
+	dryfish dagger
+	‹“Dryfish Dagger”›
+166	yóo  ayasáakw               tléixʼ aa   du  keidl-í.
+	thus 3.IMPFV.3.STV.call.REP one    PART his dog-PSS
+	‹is what he calls one of his dogs.›
+167	Tleixʼ aa   ḵwá   “Shaayeesxwáa.”
+	one    PART CONTR NAME
+	‹One however is “Shaayeesxwáa”.›
+168	Tléix' aa   ḵu.aa
+	one    PART CONTR
+	‹One however›
+169	ká-t      x̱at  seiwaxʼákw.
+	atop-PNCT 1SG= PFV.forget
+	‹I forgot.›
 170	Násʼk keitl
+	three dog
+	‹Three dogs,›
 171	tle number one
+	and number one
+	‹first class,›
 172	Shaayeesxwáa.
+	NAME
+	‹Shayeesxwáa.›
 173	Áwé
-174	wáa nanéi sáwé yéi yaawaḵaa
-175	“ax̱ téeli yan sané xʼwán
-176	ax̱ téeli
-177	kg̱wagóot
-178	chʼa ḵukḵwashée áwé.”
-179	Ḵach hóoch ḵu.aa síyú gé a káx̱ ḵukg̱washée du húnx̱w gé?
+	FOC
+	‹So›
+174	wáa nanéi          sáwé  yéi  yaawaḵaa
+	how 3.IMPFV.happen Q.FOC thus PFV.3.say
+	‹at some point the he said›
+175	“ax̱ téel-i  yan   sané         xʼwán
+	my shoe-PSS TERM= 3.IMP.2SG.do EMPH
+	‹“Can you get my shoes ready,›
+176	ax̱ téel-i
+	my shoe-PSS
+	‹my shoes,›
+177	kḵwagóot
+	IRR.PRSP.MOD.1SG.go.SG
+	‹I’ll go›
+178	chʼa ḵukḵwashée              áwé.”
+	just IRR.PRSP.MOD.1SG.search FOC
+	‹to search.›
+179	Ḵach     hóo-ch ḵu.aa síyú    gé a  ká-x̱      ḵukg̱washée            du  húnx̱w       gé?
+	actually 3H-ERG CONTR DUB.FOC YN 3N atop-PERT IRR.PRSP.MOD.3.search his old.brother YN
+	‹But was he actually the one who would find his older brother?›
 180	Woosh woox̱ʼáanxʼ yú xʼáan sʼaatxʼí ḵu.aa.
 181	Wáa nanéi sáwé yéi yaawaḵaa wé shaawát,
 182	“Haahá.
