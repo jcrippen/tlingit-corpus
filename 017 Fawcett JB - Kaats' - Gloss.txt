@@ -644,14 +644,30 @@
 211	Tlél áyú      yú     óonaa ḵaa    jee.
 	NEG  FOC.DIST D.DIST gun   4H.PSS possession
 	‹There were no guns.›
-212	Yú át
+212	Yú     át
+	D.DIST thing
+	‹Those things›
 213	chooneit áwé.
-214	Óonaa yáanáx̱ litseen.
-215	Aa x̱wsiteen.
-216	G̱án, yéi wé kwdliyáatʼ.
+	arrow    FOC.MDST
+	‹were bow and arrow.›
+214	Óonaa yáanáx̱    litseen.
+	gun   more.than 3.IMPFV.STV.strong
+	‹They were more powerful than guns.›
+215	Aa   x̱wsiteen.
+	PART PFV.1SG.see
+	‹I saw some.›
+216	G̱án, yéi  áwé      kwdliyáatʼ.
+	look thus FOC.MDST 3.COMPV.IMPFV.MID.STV.long.PL
+	‹See, they were this long.›
 217	Kasiyéi.
-218	Yú ksatán yáaxʼ yú at doogú a kadzaasí
+	3.IMPFV.STV.strange
+	‹Strange looking.›
+218	Yóo  ksatán        yáa-xʼ   yú     at     doogú    a      kadzaasí
+	thus 3.IMPFV.curve PROX-LOC D.DIST 4N.PSS skin.PSS 3N.PSS atop.thong.PSS
+	‹The bow was curved right here, and strung with hide,›
 219	litseen.
+	3.IMPFV.STV.strong
+	‹it was strong.›
 220	Wé a lú aa ḵwá yéi kwdiyáatʼ.
 221	Sʼaaḵ.
 222	Kʼwátʼ yáx̱ kadiwxásʼ a shuyatóox̱ dutsaaḵ.
