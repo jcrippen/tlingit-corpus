@@ -257,11 +257,11 @@ The `.` as glottal stop (IPA /ʔ/) only appears before a vowel, although there i
 Gloss files are structured differently from regular corpus files, but the differences in structure are consistent enough with regular files that basic parsing should be able to deal with both. Metadata is represented the same way, and lines are numbered the same way. But in gloss files there are multiple lines of data associated with a single line number. The line from the text is numbered and following gloss and translation lines are not numbered. In the example below, a numbered line of text is given with a gloss line and a translation line following it. Then another numbered line of text follows, with its associated gloss and translation.
 
 * `11→Xʼoon    táakw sá shoowaxeex.`
-* `  →how.many year  Q  3.PFV.pass`
-* `  →‹How many years have passed.›`
+* `→  how.many year  Q  3.PFV.pass`
+* `→  ‹How many years have passed.›`
 * `12→Ha   aan     at du.een               át    x̱áayá ḵustéeyin.`
-* `  →well 3-INSTR 4N=IMPFV.4H.kill.PL.REL thing FOC   3.IMPFV.exist.PAST`
-* `  →‹Surely there used to be weapons to hunt with.›`
+* `→  well 3-INSTR 4N=IMPFV.4H.kill.PL.REL thing FOC   3.IMPFV.exist.PAST`
+* `→  ‹Surely there used to be weapons to hunt with.›`
 
 The text line has an initial line number and a tab, with the rest being textual content. The gloss line has no number, starting with tab immediately. The translation line also has no number, but the content is enclosed in single guillemet quotes ‹…› (U+2039 Single Left-Pointing Angle Quotation Mark and U+203A Single Right-Pointing Angle Quotation Mark). The text and gloss lines are aligned with spaces for ease of reading, but parsers can freely ignore these multiple spaces if desired.
 
