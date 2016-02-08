@@ -151,6 +151,7 @@
 137	xʼéig̱aa shkalneek áyá.
 138	Anax̱ wududzikuwu át áyá
 139	du x̱ʼéidáx̱
+{Comment = Line 140 has a for what certainly is á.}
 140	á áyá.
 141	Keitl
 142	tóo akayanook.
@@ -161,16 +162,16 @@
 147	wé keitl tundatáani áwé,
 148	wé áa kdahánch,
 149	wé shaawát.
-150	Tlél yóo s a woodláḵkw.
+150	Tlél yóo s awoodláḵkw.
 151	Goosú á hú?
-152	Ldakát yéit kudushée.
+152	Ldakát yéit ḵudushée.
 {Page = 226}
 153	Tlél du yaḵaayí ḵoostí
 154	yú kikʼi.aa ḵu.aa
 155	“Héitʼaa ḵu.aa x̱áa déi.”
 156	Wuduziteen áyú du x̱ʼus.eetí.
 157	“Héitʼaa ḵu.aa x̱áa déi du húnx̱w
-158	du húnx̱wg̱aa ḵukg̱washée“
+158	du húnx̱wg̱aa ḵukg̱washée”
 159	yóo áyú yandusḵéich du húnx̱u hásch
 160	wé kikʼi.aa.
 161	Du shát
@@ -189,10 +190,11 @@
 174	wáa nanéi sáwé yéi yaawaḵaa
 175	“ax̱ téeli yan sané xʼwán
 176	ax̱ téeli
-177	kg̱wagóot
+177	kḵwagóot
 178	chʼa ḵukḵwashée áwé.”
 179	Ḵach hóoch ḵu.aa síyú gé a káx̱ ḵukg̱washée du húnx̱w gé?
-180	Woosh woox̱ʼáanxʼ yú xʼáan sʼaatxʼí ḵu.aa.
+{Comment = Line 180 has woox̱ʼaanxʼ which should be wooxʼaanxʼ.}
+180	Woosh wooxʼáanxʼ yú xʼáan sʼaatxʼí ḵu.aa.
 181	Wáa nanéi sáwé yéi yaawaḵaa wé shaawát,
 182	“Haahá.
 183	Iyatéen gé?
@@ -203,7 +205,7 @@
 188	Tléikʼ,
 189	tlél ḵúx̱de yóo udatí
 190	chʼu yéi adaaneiyí áwé x̱ʼawoolt loowagúḵ wé át.
-191	Ách áwé yáa yeedát xóots
+191	Ách áwé yá yeedát xóots
 192	xóots a ḵoowú yeeysikóo
 193	aan yátxʼi daaxʼoon x̱ʼadakítʼx̱
 194	woosh géide
