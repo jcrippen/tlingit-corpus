@@ -237,7 +237,7 @@
 219	litseen.
 220	Wé a lú aa ḵwá yéi kwdiyáatʼ.
 221	Sʼaaḵ.
-222	Kʼwátʼ yáx̱ kadiwxásʼ a shuyatóox̱ dutsaaḵ.
+222	Kʼwátʼ yáx̱ kadixwásʼ a shuyatóox̱ dutsaaḵ.
 223	A tóotx̱ yóox̱ xeex.
 224	A tóode yoo yaxíxk yú át.
 225	Tle at katé áwé.
@@ -260,12 +260,12 @@
 240	Áwé
 241	yéi ayawsiḵaa
 242	Shaayeesxwáa
-243	“Yeedát awéigích i x̱ʼadaxwétlx̱ ashaa.”
+243	“Yeedát awéigích ix̱ʼadaxwétlx̱ ashaa.”
 244	Ayalatín du húnx̱w.
 245	Tléixʼ.aa tsú ayaawatín.
-246	“I x̱ʼadaxwétl déi.”
+246	“Ix̱ʼadaxwétl déi.”
 247	A x̱ʼawoolxʼ yúx̱ yawdzi.aa
-248	du kéekʼ gwaawéigé
+248	du kéekʼ gwáawéigé
 249	ash yalatín.
 250	“Tlél wáa sá x̱at utí
 251	x̱át áyá
