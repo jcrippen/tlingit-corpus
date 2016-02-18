@@ -40,7 +40,7 @@
 	how.many year  Q  3.PFV.pass
 	‹How many years have passed.›
 12	Ha   aa-n    at  du.een               át    x̱áayá        ḵustéeyin.
-	well 3-INSTR 4N= IMPFV.4H.kill.PL.REL thing PCL.FOC.PROX IMPFV.3.exist.PAST
+	well 3-INSTR 4N= IMPFV.4H.kill.PL.REL thing PCL.FOC.PROX IMPFV.3.STV.exist.PAST
 	‹Surely there used to be weapons to hunt with.›
 13	Lingítch
 	Tlingit-ERG
@@ -85,8 +85,8 @@
 26	yú     daḵka.ádi    tlenxʼ
 	D.DIST inland.thing big.PL
 	‹those great inland animals,›
-27	dligéixʼi          át.
-	3.IMPFV.big.PL.REL thing
+27	dligéixʼi              át.
+	3.IMPFV.STV.big.PL.REL thing
 	‹large animals.›
 28	Keitl teen  áwé      yéi  daadunéi nuch
 	dog   INSTR FOC.MDST thus around.IMPFV.4H.do HAB.AUX
@@ -101,13 +101,13 @@
 	3N.PSS mouth-PNCT PFV.3.go.SG
 	‹he came to its entrance.›
 32	Du     shát ḵudzitee
-	3H.PSS wife 3.IMPFV.exist
+	3H.PSS wife IMPFV.3.STV.exist
 	‹He had a wife,›
 33	wé     ḵáa
 	D.MDST man
 	‹that man,›
 34	du     shát ḵudzitee.
-	3H.PSS wife 3.IMPFV.exist
+	3H.PSS wife IMPFV.3.STV.exist
 	‹he had a wife.›
 35	Wáa sáyá?
 	how Q.CPL.PROX
@@ -118,8 +118,8 @@
 37	ḵáaḵw-x̱      daak uwagúdi         yáx̱  áyú      yatee.
 	wrongly-PERT down PFV.3.go.SG.SUB like FOC.DIST 3.IMPFV.STV.be
 	‹he stepped into a dangerous place.›
-38	Xóots yóo  duwasáagu             át    áwé.
-	bear  thus IMPFV.4H.call.REP.REL thing CPL.MDST
+38	Xóots yóo  duwasáagu                 át    áwé.
+	bear  thus IMPFV.4H.STV.call.REP.REL thing CPL.MDST
 	‹It was the animal called a brown bear.›
 39	Héid-u    á-xʼ  yéi  at  kawdiyaayi   yé,
 	MPRX-LOCP 3-LOC thus 4N= PFV.fall.REL way
@@ -130,8 +130,8 @@
 41	Daḵ-ká      áwé.
 	inland-atop CPL.MDST
 	‹It was inland.›
-42	Yees G̱eey yóo  áwé      duwasáakw         Lingít-ch
-	Yes  Bay  thus FOC.MDST IMPFV.4H.call.REP Tlingit-ERG
+42	Yees G̱eey yóo  áwé      duwasáakw             Lingít-ch
+	Yes  Bay  thus FOC.MDST IMPFV.4H.STV.call.REP Tlingit-ERG
 	‹Yees G̱eey is what Tlingits call the place,›
 43	Dleit Ḵáa-ch  ḵwá   Yes Bay.
 	White Man-ERG CONTR Yes Bay
@@ -202,8 +202,8 @@
 65	Kaatsʼ ḵu.aa.
 	NAME CONTR
 	‹Kaatsʼ.›
-66	Chʼu yeisú xʼóolʼ    yáx̱  teeyí        wé     du     x̱úx̱     wé     gáan
-	even still whirlpool like IMPFV.be.SUB D.MDST 3H.PSS husband D.MDST outside
+66	Chʼu yeisú xʼóolʼ    yáx̱  teeyí            wé     du     x̱úx̱     wé     gáan
+	even still whirlpool like IMPFV.STV.be.SUB D.MDST 3H.PSS husband D.MDST outside
 	‹While her mate was still confused outside›
 67	ldakát át      ḵoowashée.
 	every  3N-PNCT PFV.3.search
@@ -222,22 +222,22 @@
 	underground FOC.MDST 3OBV= PFV.3.throw.ANIM
 	‹she buried him.›
 72	Á-ch   áyá      atkookeidí-x̱ sitee,
-	it-ERG FOC.PROX parable-PERT 3.IMPFV.be
+	it-ERG FOC.PROX parable-PERT 3.IMPFV.STV.be
 	‹That’s why there’s a saying›
 73	“Ash     tayee
 	3OBV.PSS below
 	‹“underneath›
-74	yá     a   ká-a     yei   s   ḵéich.”
+74	yá     a      ká-a     yei   s   ḵéich.”
 	D.PROX 3N.PSS atop-LOC down= PL= IMPFV.3.sit.PL.REP
 	‹the thing they sit on.”›
-75	Sdu   yei.ádi haaw   áwé      sdu   yei.ádi-x̱ sitee      wé     át.
-	their bed     branch CPL.MDST their bed-PERT  3.IMPFV.be D.MDST thing
+75	Sdu   yei.ádi haaw   áwé      sdu   yei.ádi-x̱ sitee          wé     át.
+	their bed     branch CPL.MDST their bed-PERT  3.IMPFV.STV.be D.MDST thing
 	‹Spruce boughs are their beds, the beds of those animals.›
 76	A      ká-x̱      áwé      loowatsaaḵ.
 	3N.PSS atop-PERT FOC.MDST nose.PFV.3.poke
 	‹She lay face down.›
-77	Chʼáakw-x̱      sateeyí        áwé
-	long.time-PERT 3.IMPFV.be.SUB FOC.MDST
+77	Chʼáakw-x̱      sateeyí            áwé
+	long.time-PERT 3.IMPFV.STV.be.SUB FOC.MDST
 	‹After a while›
 78	wéi-náx̱   neil   uwagút.
 	that-PERL inside PFV.3.go.SG
@@ -287,14 +287,14 @@
 93	aa-dé  sh       daa    tuwditee.
 	3N-ALL RFLX.PSS around 3.inside.PFV.MID.be
 	‹she felt something for him.›
-94	Tlél du     tuwá-a        ushgú           akawuneegí.
-	NEG  3H.PSS mind.face-LOC IRR.IMPFV.enjoy 3.PFV.3.tell
+94	Tlél du     tuwá-a        ushgú               akawuneegí.
+	NEG  3H.PSS mind.face-LOC IRR.IMPFV.STV.enjoy 3.PFV.3.tell
 	‹She didn’t want to tell on him.›
 95	A      waḵká-x̱         wooshee   du     x̱úx̱.
 	3N.PSS eye.atop-PERT PFV.3.touch 3H.PSS husband
 	‹She put her paws over her husband’s eyes.›
 96	Tlél aa-dé  a  náḵ  nax̱wdzigeedi  yé  ḵoostí.
-	NEG  3N-ALL 3N ABES POT.3.act.REL way IRR.IMPFV.3.exist
+	NEG  3N-ALL 3N ABES POT.3.act.REL way IRR.IMPFV.3.STV.exist
 	‹Kaatsʼ didn’t know what he was going to do.›
 97	Nagútch
 	HAB.3.go.SG
@@ -317,8 +317,8 @@
 103	Tléixʼ dís
 	one    month
 	‹One month›
-104	tléixʼ taat-x̱     áwé      sitee        du     waḵshiyee-xʼ
-	one    night-PERT FOC.MDST IMPFV.STV.be 3H.PSS eye.end.below-LOC
+104	tléixʼ taat-x̱     áwé      sitee          du     waḵshiyee-xʼ
+	one    night-PERT FOC.MDST 3.IMPFV.STV.be 3H.PSS eye.end.below-LOC
 	‹was one night in his eyes›
 105	hú ḵu.aa
 	3H CONTR
@@ -327,7 +327,7 @@
 	actually one    month CPL.MDST
 	‹here it was a month all the while.›
 107	Tlél ḵoostí
-	NEG  IRR.IMPFV.3.exist
+	NEG  IRR.IMPFV.3.STV.exist
 	‹He was gone,›
 108	Kaatsʼ ḵu.aa.
 	NAME   CONTR
@@ -777,42 +777,112 @@
 255	“Yáadu x̱át!”
 	PROX-LOCP 1SG
 	‹“Here I am!”›
-256	Tléixʼ táakw áwé de tléil ḵoostí x̱á.
-257	Hóoch áwé ayaawadlaaḵ du húnx̱w.
-258	“Hél keeneegéeḵ xʼwán
+256	Tléixʼ táakw  áwé      de      tléil ḵoostí            x̱á.
+	one    winter CPL.MDST already NEG   IRR.IMPFV.3.exist PCL
+	‹He had been gone for one year, you see.›
+257	Hóo-ch áwé      ayaawadlaaḵ     du     húnx̱w.
+	3H-ERG FOC.MDST 3.PFV.3.succeed 3H.PSS old.brother
+	‹It was he who found his older brother.›
+258	“Hél keeneegéeḵ            xʼwán
+	NEG  3.IMPFV.2SG.tell.PHIB EMPH
+	‹“Please don’t tell this,›
 259	hél keeneegéeḵ
-260	tsu haadé kg̱eegóot.
+	NEG 3.IMPFV.2SG.tell.PHIB
+	‹don’t tell,›
+260	tsu   haa-dé   kg̱eegóot.
+	again here-ALL IRR.PRSP.MOD.2SG.go.SG
+	‹come back again.›
 261	Haadé kg̱eegóot.”
-262	Du tuwáa sigóowu át a káa yan ayawsiḵáa
+	here-ALL IRR.PRSP.MOD.2SG.go.SG
+	‹Come back.”›
+262	Du     tuwá-a        sigóowu           át    a      ká-a     yan   ayawsiḵáa
+	3H.PSS mind.face-LOC 3.IMPFV.STV.enjoy thing 3N.PSS atop-LOC TERM= 3.PFV.3.say
+	‹He asked him to get what he needed,›
 263	daa sá ash tuwáa sagoowú
-264	yóo éeḵdáx̱.
+	what Q 3PRX.PSS mind.face-LOC 3.IMPFV.STV.enjoy.SUB
+	‹whatever he needed›
+264	yú     éeḵ-dáx̱.
+	D.DIST beach-ABL
+	‹from the coast.›
 265	“Hél keeneegéeḵ!”
-266	Yóot loowagúḵ yú keitlxʼ.
+	NEG 3.IMPFV.2SG.tell.PHIB
+	‹“Don’t tell.”›
+266	Yóo-t     loowagúḵ           yú     keitl-xʼ.
+	DIST-PNCT nose.PFV.3.push.PL D.DIST dog-PL
+	‹The dogs ran on home.›
 267	Wáa sáyú
-268	chʼáakw áyú hasdu een yoo aya.átk yú keitl.
-269	Toowú sagú
+	how Q.DIST
+	‹Why?›
+268	chʼáakw  áyú      hasdu   een   yoo  aya.átk                yú     keitl.
+	long.ago FOC.DIST 3PL.PSS INSTR ALT= 4H.IMPFV.STV.go.PL.REP D.DIST dog
+	‹The dogs had gone with them many times before.›
+269	Toowú    sagú
+	mind.PSS 3.IMPFV.STV.enjoy.NMZ
+	‹They were so happy›
 270	yo-ho-ho-ho
-271	tle kéi s da.átch.
-272	Tle s wududziteen.
+	INTERJ
+	‹yo-ho-ho-ho›
+271	tle kéi s   da.átch.
+	and up= PL= IMPFV.3.MID.go.PL.REP
+	‹they’d jump up on their hind legs.›
+272	Tle s   wududziteen.
+	and PL= 3.PFV.4H.see
+	‹People could see them.›
 273	Toowú sagú
-274	áyú s duwaḵeet
-275	“Wáa sáhé tláx̱ sdu toowú sigóo hé keitl.”
-276	Tlél du yaḵaayí ḵoostí.
+	mind.PSS 3.IMPFV.STV.enjoy.NMZ
+	‹The dogs were so happy›
+274	áyú      s   duwaḵeet
+	FOC.DIST PL= 3.IMPFV.4H.STV.suspicious
+	‹people got suspicious›
+275	“Wáa sáhé   tláx̱ sdu     toowú    sigóo             hé     keitl.”
+	how  Q.MPRX very 3PL.PSS mind.PSS 3.IMPFV.STV.enjoy D.MPRX dog
+	‹and said “Why are these dogs so happy?”›
+276	Tlél du     yaḵaayí             ḵoostí.
+	NEG  3H.PSS IMPFV.3.say.NMZ.PSS IRR.IMPFV.3.exist
+	‹He had nothing to say.›
 {Page = 232}
-277	Wé du shát teen akaawaneek x̱á,
-278	“X̱wasiteen ax̱ húnx̱w.
-279	Yan x̱at yawsiḵáa.
+277	Wé     du     shát teen  akaawaneek   x̱á,
+	D.MDST 3H.PSS wife INSTR 3.PFV.3.tell PCL
+	‹He told his wife, you see›
+278	“X̱wasiteen    ax̱      húnx̱w.
+	3.PFV.1SG.see 1SG.PSS old.brother
+	‹“I saw my older brother.›
+279	Yan   x̱at  yawsiḵáa.
+	TERM= 1SG= PFV.3.say
+	‹He instructed me.›
 280	I gu.aa yáx̱ xʼwán,”
-281	yóo adaayaḵá du shát.
+	2SG hope SIM EMPH
+	‹“Be brave,”›
+281	yóo  adaayaḵá      du     shát.
+	thus 3.about.3.say 3H.PSS wife
+	‹he said to his wife.›
 282	“Haadé kg̱wagóot.
-283	Aadé ḵukg̱waháa.”
-284	Kooḵénaa áwé sdu jeewú aa.
-285	Chʼáagudáx̱ áwé wéitʼaat ḵudzitee.
-286	Yisikóo wéitʼát kooḵénaa.
-287	At natí áwé,
-288	de át yaawagásʼ
+	here-ALL IRR.PRSP.MOD.3.go.SG
+	‹“He will come.
+283	Aa-dé  ḵukg̱waháa.”
+	3N-ALL AREAL.IRR.PRSP.MOD.3.go.SG
+	‹The time will come.”›
+284	Kooḵénaa  áwé      sdu     jeew-ú          aa.
+	messenger FOC.MDST 3PL.PSS possession-LOCP PART
+	‹They had a messenger.›
+285	Chʼáagu-dáx̱  áwé      wéitʼát    ḵudzitee.
+	long.ago-ABL FOC.MDST MDST.thing IMPFV.3.STV.exist
+	‹They have been around for a long time.›
+286	Yisikóo        wéitʼát  kooḵénaa.
+	3.PFV.2SG.know DEM.MDST messenger
+	‹You know what a messenger is.›
+287	Atnatí  áwé,
+	hunting FOC.MDST
+	‹Kaatsʼ was yearning›
+288	de      á-t     yaawagásʼ
+	already 3N-PNCT PFV.3.yearn
+	‹to go hunting›
 289	tsaa
-290	tsaadáx̱ jidanook áwé ash tuwáa sigóo.
+	seal
+	‹for seals,›
+290	tsaa-dáx̱ jidanook          áwé      ash      tuwá-a        sigóo.
+	seal-ABL hand.IMPFV.3.feel FOC.MDST 3PRX.PSS mind.face-LOC 3.IMPFV.STV.enjoy
+	‹he wanted to get his hands on seals.›
 291	Yóo áwé yan ayawsiḵáa du kéekʼ.
 292	Wé yaakw tsú
 293	du yaagú
