@@ -9,7 +9,7 @@
 {Dialect = Northern – Coastal – Juneau}
 {Recording = Dauenhauer 19-A 00:00–??:??}
 {Page = 218}
-1	Likoodzí sh kalneek áyá.
+1	Likoodzí shkalneek áyá.
 2	Chʼa ldakát át áyá yaa yanaxíx.
 3	Chʼu chʼáagudáx̱
 4	yú alʼóon
@@ -112,7 +112,7 @@
 99	Aag̱áa áwé ash shukoojeisʼ nuch.
 100	“Tlél wáa sá ikg̱watee.
 101	Tlél wáa sá ikg̱watee.”
-102	Wáa nanéi sáyu át ḵoowaháa.
+102	Wáa nanéi sáyú át ḵoowaháa.
 103	Tléixʼ dís
 104	tléixʼ taatx̱ áwé sitee du waḵshiyeexʼ
 105	hú ḵu.aa
@@ -138,7 +138,7 @@
 124	wududziteen áyú du x̱ʼus.eetí
 125	aáa
 126	jiwánnáx̱
-127	yá héen yix̱ ekei wlishóo.
+127	yá héen yíx̱ kei wlishóo.
 128	Wáa sáyú
 129	yatseeneit x̱ʼusyík tʼaḵkáx̱ kei wlishóo
 130	yú ḵaa x̱ʼus.eetí.
@@ -147,11 +147,12 @@
 133	yóo x̱ʼayaduḵá.
 134	Aan yátxʼi yéi sh kalneek.
 135	Chʼa aadé yéi nay.oo xʼwán.
-136	Xʼéig̱aa sh kalneek áyá
-137	xʼéig̱aa sh kalneek áyá.
+136	Xʼéig̱aa shkalneek áyá
+137	xʼéig̱aa shkalneek áyá.
 138	Anax̱ wududzikuwu át áyá
 139	du x̱ʼéidáx̱
-140	a áyá.
+{Comment = Line 140 has a for what certainly is á.}
+140	á áyá.
 141	Keitl
 142	tóo akayanook.
 143	Yú neilxʼ áyú g̱agaan x̱ʼoos áwé oowayáa.
@@ -161,16 +162,16 @@
 147	wé keitl tundatáani áwé,
 148	wé áa kdahánch,
 149	wé shaawát.
-150	Tlél yóo s a woodláḵkw.
+150	Tlél yóo s awoodláḵkw.
 151	Goosú á hú?
-152	Ldakát yéit kudushée.
+152	Ldakát yéit ḵudushée.
 {Page = 226}
 153	Tlél du yaḵaayí ḵoostí
 154	yú kikʼi.aa ḵu.aa
 155	“Héitʼaa ḵu.aa x̱áa déi.”
 156	Wuduziteen áyú du x̱ʼus.eetí.
 157	“Héitʼaa ḵu.aa x̱áa déi du húnx̱w
-158	du húnx̱wg̱aa ḵukg̱washée“
+158	du húnx̱wg̱aa ḵukg̱washée”
 159	yóo áyú yandusḵéich du húnx̱u hásch
 160	wé kikʼi.aa.
 161	Du shát
@@ -189,10 +190,11 @@
 174	wáa nanéi sáwé yéi yaawaḵaa
 175	“ax̱ téeli yan sané xʼwán
 176	ax̱ téeli
-177	kg̱wagóot
+177	kḵwagóot
 178	chʼa ḵukḵwashée áwé.”
 179	Ḵach hóoch ḵu.aa síyú gé a káx̱ ḵukg̱washée du húnx̱w gé?
-180	Woosh woox̱ʼáanxʼ yú xʼáan sʼaatxʼí ḵu.aa.
+{Comment = Line 180 has woox̱ʼaanxʼ which should be wooxʼaanxʼ.}
+180	Woosh wooxʼáanxʼ yú xʼáan sʼaatxʼí ḵu.aa.
 181	Wáa nanéi sáwé yéi yaawaḵaa wé shaawát,
 182	“Haahá.
 183	Iyatéen gé?
@@ -203,7 +205,7 @@
 188	Tléikʼ,
 189	tlél ḵúx̱de yóo udatí
 190	chʼu yéi adaaneiyí áwé x̱ʼawoolt loowagúḵ wé át.
-191	Ách áwé yáa yeedát xóots
+191	Ách áwé yá yeedát xóots
 192	xóots a ḵoowú yeeysikóo
 193	aan yátxʼi daaxʼoon x̱ʼadakítʼx̱
 194	woosh géide
@@ -229,13 +231,13 @@
 213	chooneit áwé.
 214	Óonaa yáanáx̱ litseen.
 215	Aa x̱wsiteen.
-216	G̱án, yéi wé kwdliyáatʼ.
+216	G̱án, yéi áwé kwdliyáatʼ.
 217	Kasiyéi.
 218	Yú ksatán yáaxʼ yú at doogú a kadzaasí
 219	litseen.
 220	Wé a lú aa ḵwá yéi kwdiyáatʼ.
 221	Sʼaaḵ.
-222	Kʼwátʼ yáx̱ kadiwxásʼ a shuyatóox̱ dutsaaḵ.
+222	Kʼwátʼ yáx̱ kadixwásʼ a shuyatóox̱ dutsaaḵ.
 223	A tóotx̱ yóox̱ xeex.
 224	A tóode yoo yaxíxk yú át.
 225	Tle at katé áwé.
@@ -258,12 +260,12 @@
 240	Áwé
 241	yéi ayawsiḵaa
 242	Shaayeesxwáa
-243	“Yeedát awéigích i x̱ʼadaxwétlx̱ ashaa.”
+243	“Yeedát awéigích ix̱ʼadaxwétlx̱ ashaa.”
 244	Ayalatín du húnx̱w.
 245	Tléixʼ.aa tsú ayaawatín.
-246	“I x̱ʼadaxwétl déi.”
+246	“Ix̱ʼadaxwétl déi.”
 247	A x̱ʼawoolxʼ yúx̱ yawdzi.aa
-248	du kéekʼ gwaawéigé
+248	du kéekʼ gwáawéigé
 249	ash yalatín.
 250	“Tlél wáa sá x̱at utí
 251	x̱át áyá
@@ -279,7 +281,7 @@
 261	Haadé kg̱eegóot.”
 262	Du tuwáa sigóowu át a káa yan ayawsiḵáa
 263	daa sá ash tuwáa sagoowú
-264	yóo éeḵdáx̱.
+264	yú éeḵdáx̱.
 265	“Hél keeneegéeḵ!”
 266	Yóot loowagúḵ yú keitlxʼ.
 267	Wáa sáyú
@@ -301,9 +303,9 @@
 282	“Haadé kg̱wagóot.
 283	Aadé ḵukg̱waháa.”
 284	Kooḵénaa áwé sdu jeewú aa.
-285	Chʼáagudáx̱ áwé wéitʼaat ḵudzitee.
+285	Chʼáagudáx̱ áwé wéitʼát ḵudzitee.
 286	Yisikóo wéitʼát kooḵénaa.
-287	At natí áwé,
+287	Atnatí áwé,
 288	de át yaawagásʼ
 289	tsaa
 290	tsaadáx̱ jidanook áwé ash tuwáa sigóo.

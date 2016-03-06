@@ -189,6 +189,10 @@ This regularization is only ever applied to vowels that vary in length. Word-fin
 
 Regularized shortening of word-final vowels is applied regardless of any variation in the original publication. The Dauenhauers for example would sometimes attend to variation in the speech of a single speaker, writing the vowels long when the speaker pronounced them long and short otherwise. But they were not consistent enough in this to be linguistically reliable. Regularization ensures consistency for automated processing of text. In future work the published forms may be included as `Original` type files.
 
+### Clitics
+
+Most clitics in Tlingit are written as orthographically separate words, such as yéi ‘thus’ and sáani ‘plural diminutive’. In nominalizations of verbs, the reflexive sh is written as part of the word rather than as a separate word, helping distinguish the nominalization from a noun. This is particularly the case for shkalneek ‘story’ versus yéi sh kalneek ‘he tells so’. The adverbial proclitics are still written as separate words, e.g. yoo x̱ʼatánk ‘speech’ and not *yoox̱ʼatánk.
+
 ### Blank lines
 
 The Dauenhauers used blank lines to separate discourse units in the story. Other transcribers also sometimes included blank lines for similar purposes, but often blank lines are simply spurious or due to typesetting exigencies. For simplicity in parsing and automated processing of text the corpus omits all blank lines, regardless of their purpose. Researchers interested in the original presentations are directed to the publications.
@@ -212,7 +216,7 @@ For consistency of representation these multi-line units have been converted in 
 
 The multi-line units used by the Dauenhauers represent stylistic behaviours of the speakers in speech rate and intonation. This kind of information is not easily represented in text, so researchers interested in such phenomena are encouraged to review the original audio files. The Dauenhauer recordings are now all digitized and available at the University of Alaska Southeast, the Alaska Native Language Archive, and the Sealaska Heritage Institute.
 
-### Word breaking
+#### Word breaking
 
 The Dauenhauers were conscientious about never breaking Tlingit words across line boundaries, but this is not always the case for other researchers. When words have been broken across lines, the `Original` type of file retains this along with any hyphenation. But the `Text` file instead ‘unbreaks’ words for ease of searching. A rejoined word appears at the end of the first line where it occurs, and is deleted from the following line.
 
@@ -247,3 +251,22 @@ Although preserving the punctuation of original texts is important, for unpublis
 All modern Tlingit orthographies use the period or full stop as an orthographic letter. It has two purposes: (i) glottal stop and (ii) grapheme separator. Both are represented in the corpus with the same Unicode character [U+002E Full Stop](http://unicode.org/cldr/utility/character.jsp?a=002E), which is the ordinary period. Unfortunately this character is specified as Po `Other_Punctuation` but there is no equivalent character with the Lm `Modifier_Letter` or Lo `Other_Letter` properties.
 
 The `.` as glottal stop (IPA /ʔ/) only appears before a vowel, although there is a labialized variant `.w` (IPA /ʔʷ/) that occurs before vowels. The `.` as grapheme separator only appears between consonants. The grapheme separator appears at syllable boundaries where a sequence of two graphemes is confusable with a digraph: `s.h` ≠ `sh`, `t.s` ≠ `ts`. In both glottal stop and grapheme separator functions the period `.` is either word-medial or very rarely word-initial. Parsers can rely on word-final periods – i.e. periods followed by whitespace or line endings – to be punctuation and not letters in Tlingit text.
+
+## Gloss format
+
+Gloss files are structured differently from regular corpus files, but the differences in structure are consistent enough with regular files that basic parsing should be able to deal with both. Metadata is represented the same way, and lines are numbered the same way. But in gloss files there are multiple lines of data associated with a single line number. The line from the text is numbered and following gloss and translation lines are not numbered. In the example below, a numbered line of text is given with a gloss line and a translation line following it. Then another numbered line of text follows, with its associated gloss and translation.
+
+* `11→Xʼoon    táakw sá shoowaxeex.`
+* `→  how.many year  Q  3.PFV.pass`
+* `→  ‹How many years have passed.›`
+* `12→Ha   aan     at du.een               át    x̱áayá ḵustéeyin.`
+* `→  well 3-INSTR 4N=IMPFV.4H.kill.PL.REL thing FOC   3.IMPFV.exist.PAST`
+* `→  ‹Surely there used to be weapons to hunt with.›`
+
+The text line has an initial line number and a tab, with the rest being textual content. The gloss line has no number, starting with tab immediately. The translation line also has no number, but the content is enclosed in single guillemet quotes ‹…› (U+2039 Single Left-Pointing Angle Quotation Mark and U+203A Single Right-Pointing Angle Quotation Mark). The text and gloss lines are aligned with spaces for ease of reading, but parsers can freely ignore these multiple spaces if desired.
+
+The text line may or may not contain morpheme segmentation, but when present such segmentation is minimal. Generally segmentation is only done when phonology is uncomplicated, with e.g. no vowel lengthening or tone modification. The only morphemes segmented at present are postpositions and nominal suffixes like the plural -xʼ and possessive -(y)í, -(w)ú, etc.
+
+The single guillemets ‹…› ensure that a translation line can be distinguished from a gloss line, since these unnumbered lines would otherwise be structurally identical. The guillemets are chosen since they are unlikely to ever occur in English text, but come in a balanced pair. Ordinary quotation marks like ‘…’ cannot be used because these could also appear in English text which would make parsing difficult.
+
+At present the gloss format only includes a single gloss line for each text line. This may change in the future, with additional lines for detailed morpheme segmentation. How these gloss lines should be distinguished from each other is still undecided, whether merely by order or by some textual indicators like for the translation line.
