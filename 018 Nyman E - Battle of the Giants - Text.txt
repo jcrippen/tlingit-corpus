@@ -1,7 +1,7 @@
 {Number = 018}
 {Type = Text}
 {Title = Khudzitìyi ́at Khuɬagàwú / The Battle of the Giants}
-{Author =  / Elizabeth Nyman}
+{Author = Seidayaa / Elizabeth Nyman}
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
 {Source = Nyman & Leer 1993:2-6}
 {Transcriber =  Wehá / Jeff Leer}
