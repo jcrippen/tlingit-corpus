@@ -9,10 +9,11 @@
 {Dialect = Northern - Interior - Atlin}
 {Page = 2}
 1       Tle wê / wùch kìká áwé át has datîyin yú.á,
-2       yâdu a wé Lkùdasêts'k,
-3       y:âdu a wé Was'as'ê.
-4       A awé tle wùch tugêt has xh' awdli.at.
-5       Tle k'adên wùch in has datîyin,1
-6       ch' a wâ saya has at kàwa.àkhw tle ch' a wùch xh' ayâxh.
-7       A khu.as giantkhudzitiyi
-8       at yê has ayasâkw.
+2       yâdu á wé ɬkùdasêts'k,
+3       yâdu á wé Was'as'ê.
+4       Á ́awé tle wùch tugêt has xh'awdli.át.
+5       Tle k'adên wùch ìn has datîyin,
+6       ch'a wâ sáyá has at kàwa.àkhw tle ch'a wùch xh'ayáxh.
+7       Á khu.as giant
+8       khudzitìyi át yê has ayasâkw.
+9       
