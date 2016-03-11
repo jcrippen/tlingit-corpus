@@ -8,11 +8,11 @@
 {Orthography = YNL}
 {Dialect = Northern - Interior - Atlin}
 {Page = 2}
-1     Tle wê / wùch kìká áwé át has datîyin yú.á,
-2     yâdu a wé Lkùdasêts'k,
-3	    y:âdu a wé Was'as'ê.
-4	    A awé tle wùch tugêt has xh' awdli.at.
-5	    Tle k'adên wùch in has datîyin,1
-6	    ch' a wâ saya has at kàwa.àkhw tle ch' a wùch xh' ayâxh.
-7	    A khu.as giantkhudzitiyi
-8	    at yê has ayasâkw.
+1       Tle wê / wùch kìká áwé át has datîyin yú.á,
+2       yâdu a wé Lkùdasêts'k,
+3	      y:âdu a wé Was'as'ê.
+4	      A awé tle wùch tugêt has xh' awdli.at.
+5	      Tle k'adên wùch in has datîyin,1
+6	      ch' a wâ saya has at kàwa.àkhw tle ch' a wùch xh' ayâxh.
+7	      A khu.as giantkhudzitiyi
+8	      at yê has ayasâkw.
