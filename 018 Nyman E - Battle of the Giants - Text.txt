@@ -5,7 +5,7 @@
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
 {Source = Nyman & Leer 1993:2-6}
 {Transcriber =  Wehá / Jeff Leer}
-{Orthography = }
+{Orthography = YNL}
 {Dialect = Northern - Interior - Atlin}
 {Page = 2}
 1     Tle wê / wùch kìká áwé át has datîyin yú.á,
