@@ -4,7 +4,7 @@
 {Author = Seidayaa / Elizabeth Nyman}
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
 {Source = Nyman & Leer 1993:2-6}
-{Transcriber =  Wehá / Jeff Leer}
+{Transcriber =  Weihá / Jeff Leer}
 {Orthography = YNL}
 {Dialect = Northern - Interior - Atlin}
 {Page = 2}
