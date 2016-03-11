@@ -1,13 +1,13 @@
 {Number = 018}
 {Type = Text}
-{Title =  / The Battle of the Giants}
+{Title = Khudzitìyi ́at Khuɬagàwú / The Battle of the Giants}
 {Author =  / Elizabeth Nyman}
-{Clan = XXX; YYYY yádi}
-{Source = Nyman & Leer 1993:3-6}
-{Transcriber =  / Jeff Leer}
+{Clan = Yanyeidí; Ḵaach.ádi yádi}
+{Source = Nyman & Leer 1993:2-6}
+{Transcriber =  Wehá / Jeff Leer}
 {Orthography = }
 {Dialect = Northern - Interior - Atlin}
-{Page = 3}
+{Page = 2}
 1     Tle wê / wùch kìká áwé át has datîyin yú.á,
 2     yâdu a wé Lkùdasêts'k,
 3	    y:âdu a wé Was'as'ê.
