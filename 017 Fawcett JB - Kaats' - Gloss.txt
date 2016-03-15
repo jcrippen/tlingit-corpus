@@ -883,11 +883,21 @@
 290	tsaa-dáx̱ jidanook          áwé      ash      tuwá-a        sigóo.
 	seal-ABL hand.IMPFV.3.feel FOC.MDST 3PRX.PSS mind.face-LOC 3.IMPFV.STV.enjoy
 	‹he wanted to get his hands on seals.›
-291	Yóo áwé yan ayawsiḵáa du kéekʼ.
-292	Wé yaakw tsú
-293	du yaagú
-294	“Gaxtooḵóox̱.
-295	Héidu á.”
+291	Yóo  áwé      yan   ayawsiḵáa       du     kéekʼ.
+	thus FOC.MDST TERM= 3.PFV.3.STV.say 3H.PSS yg.brother
+	‹This is what he instructed his younger brother.›
+292	Wé     yaakw tsú
+	D.MDST boat  also
+	‹The boat too,›
+293	du     yaagú
+	3H.PSS boat
+	‹his boat.›
+294	“Gax̱tooḵóox̱.
+	IRR.PRSP.MOD.1PL.S.go.boat
+	‹“We will go by boat.›
+295	Héid-u    á.”
+	MPRX-LOCP 3N
+	‹There it is.”›
 296	Áa ash shukaawajáa anax̱ yeiḵ gug̱agut yé; chʼu yeedát áwu á.
 297	Yóo yú ixkée ḵu.oo yú Teiḵweidí,
 298	gán, haa een has akanéek.
