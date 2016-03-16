@@ -269,6 +269,7 @@
 249	ash yalatín.
 250	“Tlél wáa sá x̱at utí
 251	x̱át áyá
+{Comment = Line 252 x̱ʼawug̱ané has a rounded gamma of x̱ʼaÿug̱ané ‘stop talking, being angry’.}
 252	x̱ʼawug̱ané déi.”
 253	Ayalatín du húnx̱w.
 254	“Yáadu x̱át!”
@@ -316,13 +317,14 @@
 295	Héidu á.”
 296	Áa ash shukaawajáa anax̱ yeiḵ gug̱agut yé; chʼu yeedát áwu á.
 297	Yóo yú ixkée ḵu.oo yú Teiḵweidí,
-298	gán, haa een has akanéek.
+{Comment = Line 298 has mistaken gán for g̱án ‘look here’.}
+298	g̱án, haa een has akanéek.
 299	“Yóodu áxʼ wé yatseeneitch ḵuwsineix̱i yé; wéidu á; yáadu á,”
 300	yóodu Ketchikan.
-301	Yáadu aa tsí
+301	Yáadu aa tsú
 302	Yes Bay yóo duwasáakw.
 303	Yees G̱eey yóo duwasáakw; aatlein héen áwé
-304	yu a kát kaawadáa
+304	yú a kát kaawadáa
 305	yáadu á á.
 306	X̱ʼaxʼáan hásch áwé haa een has akanéek.
 307	Teiḵweidí x̱áawé hás áwé yéi s woonei.
