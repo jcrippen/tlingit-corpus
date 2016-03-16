@@ -57,8 +57,8 @@
 17	ḵa  yá     á-t     woo.aadi        át,
 	and D.PROX it-PNCT PFV.3.go.PL.REL thing
 	‹and those animals that walked inland,›
-18	yá     héen  x̱ukaa-náx̱       aa
-	D.PROX water among.atop-PERL PART
+18	yá     héen  x̱u-kaa-náx̱       aa
+	D.PROX water among-HSFC-PERL PART
 	‹these ones along the water,›
 19	aa-dé  s   a.eeni                yé
 	3N-ALL PL= 3.IMPFV.3.kill.PL.REL way
@@ -79,8 +79,8 @@
 	dog
 	‹with a dog.›
 {Page = 220}
-25	A      ḵoowú-dáx̱ áyú      yéi  daadunéiyin
-	3N.PSS den-ABL   FOC.DIST thus around.IMPFV.4H.do.PAST
+25	A      ḵoowú-dáx̱ áyú      yéi   daadunéiyin
+	3N.PSS den-ABL   FOC.DIST thus= around.IMPFV.4H.do.PAST
 	‹They were taken from their den›
 26	yú     daḵka.ádi    tlenxʼ
 	D.DIST inland.thing big.PL
@@ -88,8 +88,8 @@
 27	dligéixʼi              át.
 	3.IMPFV.STV.big.PL.REL thing
 	‹large animals.›
-28	Keitl teen  áwé      yéi  daadunéi nuch
-	dog   INSTR FOC.MDST thus around.IMPFV.4H.do HAB.AUX
+28	Keitl teen  áwé      yéi   daadunéi nuch
+	dog   INSTR FOC.MDST thus= around.IMPFV.4H.do HAB.AUX
 	‹They were taken with the use of dogs,›
 29	keitl teen.
 	dog   INSTR
@@ -121,14 +121,14 @@
 38	Xóots yóo  duwasáagu                 át    áwé.
 	bear  thus IMPFV.4H.STV.call.REP.REL thing CPL.MDST
 	‹It was the animal called a brown bear.›
-39	Héid-u    á-xʼ  yéi  at  kawdiyaayi   yé,
-	MPRX-LOCP 3-LOC thus 4N= PFV.fall.REL way
+39	Héid-u    á-xʼ  yéi   at  kawdiyaayi   yé,
+	MPRX-LOCP 3-LOC thus= 4N= PFV.fall.REL way
 	‹Over here is where it happened,›
 40	Kichx̱áan-dáx̱  haan-dé  kaawaháa.
 	Ketchikan-ABL here-ALL 3.PFV.occur
 	‹it happened on the near side of Ketchikan.›
 41	Daḵ-ká      áwé.
-	inland-atop CPL.MDST
+	inland-HSFC CPL.MDST
 	‹It was inland.›
 42	Yees G̱eey yóo  áwé      duwasáakw             Lingít-ch
 	Yes  Bay  thus FOC.MDST IMPFV.4H.STV.call.REP Tlingit-ERG
@@ -136,8 +136,8 @@
 43	Dleit Ḵáa-ch  ḵwá   Yes Bay.
 	White Man-ERG CONTR Yes Bay
 	‹but the White People call it Yes Bay.›
-44	Á-xʼ  áwé      yéi  yan   at  kawdiyáa.
-	3N-at FOC.MDST thus TERM= 4N= PFV.fall
+44	Á-xʼ  áwé      yéi   yan   at  kawdiyáa.
+	3N-at FOC.MDST thus= TERM= 4N= PFV.fall
 	‹That’s where this happened.›
 45	Wé     héen-ch   áwé;      aatlein héen  áwé.
 	D.MDST water-ERG CPL.MDST  much    water CPL.MDST
@@ -228,13 +228,13 @@
 	3OBV.PSS below
 	‹“underneath›
 74	yá     a      ká-a     yei   s   ḵéich.”
-	D.PROX 3N.PSS atop-LOC down= PL= IMPFV.3.sit.PL.REP
+	D.PROX 3N.PSS HSFC-LOC down= PL= IMPFV.3.sit.PL.REP
 	‹the thing they sit on.”›
 75	Sdu   yei.ádi haaw   áwé      sdu   yei.ádi-x̱ sitee          wé     át.
 	their bed     branch CPL.MDST their bed-PERT  3.IMPFV.STV.be D.MDST thing
 	‹Spruce boughs are their beds, the beds of those animals.›
 76	A      ká-x̱      áwé      loowatsaaḵ.
-	3N.PSS atop-PERT FOC.MDST nose.PFV.3.poke
+	3N.PSS HSFC-PERT FOC.MDST nose.PFV.3.poke
 	‹She lay face down.›
 77	Chʼáakw-x̱      sateeyí            áwé
 	long.time-PERT 3.IMPFV.STV.be.SUB FOC.MDST
@@ -272,8 +272,8 @@
 88	yáad-u    á.”
 	PROX-LOCP 3N
 	‹here it is.”›
-89	A      waḵká-x̱       wooshee     du     x̱úx̱.
-	3N.PSS eye.atop-PERT PFV.3.touch 3H.PSS husband
+89	A      waḵ-ká-x̱       wooshee     du     x̱úx̱.
+	3N.PSS eye-HSFC-PERT PFV.3.touch 3H.PSS husband
 	‹She put her paws over her husband’s eyes.›
 90	Aa-dé  sh       daa    tuwditee
 	3N-ALL RFLX.PSS around 3.inside.PFV.MID.be
@@ -290,8 +290,8 @@
 94	Tlél du     tuwá-a        ushgú               akawuneegí.
 	NEG  3H.PSS mind.face-LOC IRR.IMPFV.STV.enjoy 3.PFV.3.tell
 	‹She didn’t want to tell on him.›
-95	A      waḵká-x̱         wooshee   du     x̱úx̱.
-	3N.PSS eye.atop-PERT PFV.3.touch 3H.PSS husband
+95	A      waḵ-ká-x̱         wooshee   du     x̱úx̱.
+	3N.PSS eye-HSFC-PERT PFV.3.touch 3H.PSS husband
 	‹She put her paws over her husband’s eyes.›
 96	Tlél aa-dé  a  náḵ  nax̱wdzigeedi  yé  ḵoostí.
 	NEG  3N-ALL 3N ABES POT.3.act.REL way IRR.IMPFV.3.STV.exist
@@ -369,11 +369,11 @@
 120	at sʼaat-xʼ-í.
 	4N master-PL-PSS
 	‹was a master hunter.›
-121	Áwé      yéi  yandusḵéich “héitʼaa  ḵu.aa x̱áa déi
-	FOC.MDST thus HAB.4H.say  MPRX.PART CONTR PCL now
+121	Áwé      yéi   yandusḵéich “héitʼaa  ḵu.aa x̱áa déi
+	FOC.MDST thus= HAB.4H.say  MPRX.PART CONTR PCL now
 	‹They would say, “Why doesn’t this one›
 122	du     húnx̱u       ká-x̱      ḵukg̱washée.”
-	3H.PSS old.brother atop-PERT IRR.PRSP.MOD.3.search
+	3H.PSS old.brother HSFC-PERT IRR.PRSP.MOD.3.search
 	‹find his older brother?”›
 123	Duwaḵeet
 	3.IMPFV.4H.STV.suspicious
@@ -393,8 +393,8 @@
 128	Wáa sáyú
 	how Q.FOC.DIST
 	‹Why›
-129	yatseeneit   x̱ʼusyík     tʼaḵká-x̱         kei wlishóo
-	living.thing foot.within beside.atop-PERT up= 3.PFV.extend
+129	yatseeneit   x̱ʼus-yík    tʼaḵ-ká-x̱         kei wlishóo
+	living.thing foot-within beside-HSFC-PERT up= 3.PFV.extend
 	‹were they going alongside the brown bear’s›
 130	yú     ḵaa    x̱ʼus.eetí.
 	D.DIST 4H.PSS footprints
@@ -408,11 +408,11 @@
 133	yóo  x̱ʼayaduḵá.
 	thus IMPFV.4H.say
 	‹is what people said.›
-134	Aan  yát-xʼ-i     yéi  sh    kalneek.
-	town child-PL-PSS thus RFLX= IMPFV.3.MID.tell
+134	Aan  yát-xʼ-i     yéi   sh    kalneek.
+	town child-PL-PSS thus= RFLX= IMPFV.3.MID.tell
 	‹Noble people said this.›
-135	Chʼa aa-dé  yéi  nay.oo          xʼwán.
-	just 3N-ALL thus 3.IMP.2PL.leave EMPH
+135	Chʼa aa-dé  yéi   nay.oo          xʼwán.
+	just 3N-ALL thus= 3.IMP.2PL.leave EMPH
 	‹Please excuse this.›
 136	Xʼéig̱aa shkalneek áyá
 	true    story     CPL.PROX
@@ -515,7 +515,7 @@
 	one    PART CONTR
 	‹One however›
 169	ká-t      x̱at  seiwaxʼákw.
-	atop-PNCT 1SG= PFV.forget
+	HSFC-PNCT 1SG= PFV.forget
 	‹I forgot.›
 170	Násʼk keitl
 	three dog
@@ -529,8 +529,8 @@
 173	Áwé
 	FOC.MDST
 	‹So›
-174	wáa nanéi          sáwé       yéi  yaawaḵaa
-	how 3.IMPFV.happen Q.FOC.MDST thus PFV.3.say
+174	wáa nanéi          sáwé       yéi   yaawaḵaa
+	how 3.IMPFV.happen Q.FOC.MDST thus= PFV.3.say
 	‹at some point the he said›
 175	“ax̱ téel-i  yan   sané         xʼwán
 	my shoe-PSS TERM= 3.IMP.2SG.do EMPH
@@ -545,13 +545,13 @@
 	just IRR.PRSP.MOD.1SG.search FOC.MDST
 	‹to search.›
 179	Ḵach     hóo-ch ḵu.aa síyú     gé a  ká-x̱      ḵukg̱washée            du     húnx̱w       gé?
-	actually 3H-ERG CONTR DUB.DIST YN 3N atop-PERT IRR.PRSP.MOD.3.search 3H.PSS old.brother YN
+	actually 3H-ERG CONTR DUB.DIST YN 3N HSFC-PERT IRR.PRSP.MOD.3.search 3H.PSS old.brother YN
 	‹But was he actually the one who would find his older brother?›
 180	Woosh wooxʼáanxʼ   yú     xʼáan sʼaat-xʼ-í    ḵu.aa.
 	RECIP PFV.angry.PL D.DIST anger master-PL-PSS CONTR
 	‹But those angry men were becoming quarrelsome.›
-181	Wáa nanéi          sáwé       yéi  yaawaḵaa  wé     shaawát,
-	how 3.IMPFV.happen Q.FOC.MDST thus PFV.3.say D.MDST woman
+181	Wáa nanéi          sáwé       yéi   yaawaḵaa  wé     shaawát,
+	how 3.IMPFV.happen Q.FOC.MDST thus= PFV.3.say D.MDST woman
 	‹At one point the female bear said,›
 182	“Haahá.
 	well
@@ -577,8 +577,8 @@
 189	tlél ḵúx̱-de  yóo  udatí
 	NEG  REV-ALL ALT= 3.IRR.IMPFV.MID.position
 	‹it wasn’t slowing down.›
-190	chʼu yéi  adaaneiyí              áwé      x̱ʼawool-t loowagúḵ           wé     át.
-	even thus 3.about.IMPFV.3.do.SUB FOC.MDST door-PNCT nose.PFV.3.push.PL D.MDST thing
+190	chʼu yéi   adaaneiyí              áwé      x̱ʼawool-t loowagúḵ           wé     át.
+	even thus= 3.about.IMPFV.3.do.SUB FOC.MDST door-PNCT nose.PFV.3.push.PL D.MDST thing
 	‹while she was still doing this they tracked to the entrance.›
 191	Á-ch   áwé      yá     yeedát xóots
 	3N-ERG FOC.MDST D.PROX moment brown.bear
@@ -605,8 +605,8 @@
 198	á  a-nax̱   áwé
 	3N 3N-PERL FOC.MDST
 	‹because of what happened›
-199	yeedát yéi  kwdayéin.
-	moment thus 3.IRR.IMPFV.MID.happen
+199	yeedát yéi   kwdayéin.
+	moment thus= 3.IRR.IMPFV.MID.happen
 	‹it’s this way today.›
 200	Aa-g̱áa  yú   gaaw ḵu.aa
 	3N-ADES D.DIST time CONTR
@@ -662,14 +662,14 @@
 217	Kasiyéi.
 	3.IMPFV.STV.strange
 	‹Strange looking.›
-218	Yóo  ksatán        yáa-xʼ   yú     at     doogú    a      kadzaasí
-	thus 3.IMPFV.curve PROX-LOC D.DIST 4N.PSS skin.PSS 3N.PSS atop.thong.PSS
+218	Yóo  ksatán        yáa-xʼ   yú     at     doogú    a      ka-dzaas-í
+	thus 3.IMPFV.curve PROX-LOC D.DIST 4N.PSS skin.PSS 3N.PSS HSFC-thong-PSS
 	‹The bow was curved right here, and strung with hide,›
 219	litseen.
 	3.IMPFV.STV.strong
 	‹it was strong.›
-220	Wé     a      lú   aa   ḵwá   yéi  kwdiyáatʼ.
-	D.MDST 3N.PSS nose PART CONTR thus 3.COMPV.IMPFV.MID.STV.long
+220	Wé     a      lú   aa   ḵwá   yéi   kwdiyáatʼ.
+	D.MDST 3N.PSS nose PART CONTR thus= 3.COMPV.IMPFV.MID.STV.long
 	‹But the points were this long.›
 221	Sʼaaḵ.
 	bone
@@ -717,8 +717,8 @@
 	Sometimes just
 	‹Sometime›
 {Page = 230}
-236	a      ká-a     daak  tux̱wdateení            i       xʼúxʼ káa      yéi  kg̱watée.
-	3N.PSS atop-LOC down= inside.PFV.1SG.see.SUB 2SG.PSS book  atop-LOC thus 3.IRR.PRSP.MOD.be
+236	a      ká-a     daak  tux̱wdateení            i       xʼúxʼ ká-a     yéi   kg̱watée.
+	3N.PSS HSFC-LOC down= inside.PFV.1SG.see.SUB 2SG.PSS book  HSFC-LOC thus= 3.IRR.PRSP.MOD.be
 	‹when I think of it, we’ll put it down on paper
 237	Aakʼé yaa   ḵoosgé i       jeewú           á.
 	good  MENT= wisdom 2SG.PSS possession-LOCP 3N
@@ -732,8 +732,8 @@
 240	Áwé
 	FOC.MDST
 	‹Then›
-241	yéi  ayawsiḵaa
-	thus 3.PFV.3.say
+241	yéi   ayawsiḵaa
+	thus= 3.PFV.3.say
 	‹Kaatsʼ said›
 242	Shaayeesxwáa
 	NAME
@@ -765,16 +765,16 @@
 251	x̱át áyá
 	1SG CPL.PROX
 	‹it’s me,›
-252	x̱ʼawug̱ané déi.”
-	mouth.??.do now
+252	x̱ʼawug̱ané                 déi.”
+	mouth.face.IRR.IMP.2SG.do now
 	‹tell him to stop barking.”›
 253	Ayalatín            du     húnx̱w.
 	3.face.IMPFV.3.look 3H.PSS old.brother
 	‹He stared at his older brother.›
-254	“Yáadu x̱át!”
+254	“Yáad-u   x̱át!”
 	PROX-LOCP 1SG
 	‹“Here I am!”›
-255	“Yáadu x̱át!”
+255	“Yáad-u   x̱át!”
 	PROX-LOCP 1SG
 	‹“Here I am!”›
 256	Tléixʼ táakw  áwé      de      tléil ḵoostí            x̱á.
@@ -796,10 +796,10 @@
 	here-ALL IRR.PRSP.MOD.2SG.go.SG
 	‹Come back.”›
 262	Du     tuwá-a        sigóowu           át    a      ká-a     yan   ayawsiḵáa
-	3H.PSS mind.face-LOC 3.IMPFV.STV.enjoy thing 3N.PSS atop-LOC TERM= 3.PFV.3.say
+	3H.PSS mind.face-LOC 3.IMPFV.STV.enjoy thing 3N.PSS HSFC-LOC TERM= 3.PFV.3.say
 	‹He asked him to get what he needed,›
-263	daa sá ash tuwáa sagoowú
-	what Q 3PRX.PSS mind.face-LOC 3.IMPFV.STV.enjoy.SUB
+263	daa  sá ash      tuwáa         sagoowú
+	what Q  3PRX.PSS mind.face-LOC 3.IMPFV.STV.enjoy.SUB
 	‹whatever he needed›
 264	yú     éeḵ-dáx̱.
 	D.DIST beach-ABL
@@ -898,25 +898,63 @@
 295	Héid-u    á.”
 	MPRX-LOCP 3N
 	‹There it is.”›
-296	Áa ash shukaawajáa anax̱ yeiḵ gug̱agut yé; chʼu yeedát áwu á.
-297	Yóo yú ixkée ḵu.oo yú Teiḵweidí,
-298	gán, haa een has akanéek.
-299	“Yóodu áxʼ wé yatseeneitch ḵuwsineix̱i yé; wéidu á; yáadu á,”
-300	yóodu Ketchikan.
-301	Yáadu aa tsí
-302	Yes Bay yóo duwasáakw.
-303	Yees G̱eey yóo duwasáakw; aatlein héen áwé
-304	yu a kát kaawadáa
-305	yáadu á á.
-306	X̱ʼaxʼáan hásch áwé haa een has akanéek.
-307	Teiḵweidí x̱áawé hás áwé yéi s woonei.
-308	Wé shukaade ḵáa áxʼ átx̱ wusiteeyi yé áwé.
-309	Áa atoosg̱eiwú.
+296	Á-a    ash   shukaawajáa  a-nax̱   yeiḵ   gug̱agut                  yé;   chʼu yeedát á-wu    á.
+	3N-LOC 3PRX= PFV.3.advise 3N-PERL beach= IRR.PRSP.MOD.3.go.SG.REL place just now    3N-LOCP 3N
+	‹Kaatsʼ showed him to where he was coming down; it’s still there today.›
+297	Yó-o     yú     ixkée ḵu.oo   yú     Teiḵweidí,
+	DIST-LOC D.DIST south dweller D.DIST Teiḵweidí
+	‹The Teiḵweidí people down south,›
+298	g̱án, haa een   has akanéek.
+	look 1PL INSTR PL= 3.IMPFV.3.tell
+	‹see, they told us about it.›
+299	“Yóod-u   á-xʼ   wé     yatseeneit-ch    ḵuwsineix̱i        yé;   wéi-du    á; yáad-u    á,”
+	DIST-LOCP 3N-LOC D.MDST living.thing-ERG 4H.PFV.3.save.REL place MDST-LOCP 3N PROX-LOCP 3N
+	‹“There’s where the brown bear saved a person; there it is; here it is,”›
+300	yóod-u    Ketchikan.
+	DIST-LOCP Ketchikan
+	‹Ketchikan is there.›
+301	Yáad-u    aa   tsú
+	PROX-LOCP PART also
+	‹Also this place›
+302	Yes Bay yóo   duwasáakw.
+	Yes Bay QUOT= IMPFV.4H.STV.call.REP
+	‹called Yes Bay.›
+303	Yees  G̱eey yóo   duwasáakw;            aatlein héen  áwé
+	Wedge Bay  QUOT= IMPFV.4H.STV.call.REP much    river CPL.MDST
+	‹It’s called Yes Bay; there’s a large river,›
+304	yú     a      kát       kaawadáa
+	D.DIST 3N.PSS HSFC-PNCT 3.PFV.STV.flow
+	‹the tributary that joins it this way›
+305	yáadu     á  á.
+	PROX-LOCP 3N 3N
+	‹is here.›
+306	X̱ʼaxʼáan hás-ch áwé      haa een   has akanéek.
+	NAME     PL-ERG FOC.MDST 1PL INSTR PL= 3.IMPFV.3.tell
+	‹X̱ʼaxʼáan and his group were the ones who told us.›
+307	Teiḵweidí x̱áawé    hás áwé      yéi   s   woonei.
+	Teiḵweidí PCL.MDST PL  FOC.MDST thus= PL= 3.PFV.STV.happen
+	‹They are the Teiḵweidí whom this happened to.›
+308	Wé     shu-kaa-de   ḵáa á-xʼ   át-x̱       wusiteeyi             yé    áwé.
+	D.MDST end-HSFC-ALL man 3N-LOC thing-PERT 3.PFV.INCH.STV.be.REL place CPL.MDST
+	‹That’s where their ancestor became a thing of value.›
+309	Á-a    atoosg̱eiwú.
+	3N-LOC IMPFV.1PL.seine
+	‹We seined there.›
 310	Haaw
-311	áwé at natí
-312	at natí
-313	áwé áx̱ ḵux̱ yé
-314	hasdu káa yán ḵoowatée du yátxʼi.
+	INTERJ
+	‹Now,›
+311	áwé      atnatí
+	FOC.MDST hunting
+	‹this is where they hunted,›
+312	atnatí
+	hunting
+	‹they hunted,›
+313	áwé      á-x̱     ḵux̱              yé
+	FOC.MDST 3N-PERT IMPFV.3.boat.REL place
+	‹where they paddled,›
+314	hasdu   káa      yán   ḵoowatée           du     yát-xʼ-i.
+	3PL.PSS HSFC-LOC TERM= AREAL.PFV.3.STV.be 3H.PSS child-PL-PSS
+	‹his children were one winter old.›
 315	Násʼgináx̱ áwé yatee
 316	wé ḵáaxʼw
 {Page = 234}
