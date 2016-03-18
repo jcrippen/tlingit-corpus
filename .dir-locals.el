@@ -1,5 +1,6 @@
 ;;; This file contains configuration stuff for editing corpus files in Emacs.
-((text-mode . ((whitespace-style . (face tabs trailing empty
+((text-mode . ((indent-tabs-mode . t)
+               (whitespace-style . (face tabs trailing empty
                                     space-before-tab space-after-tab
                                     tab-mark))
                (whitespace-display-mappings . ((space-mark 32 [183] [46])
