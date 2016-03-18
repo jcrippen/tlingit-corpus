@@ -124,8 +124,8 @@
 39	Héid-u    á-xʼ  yéi   at  kawdiyaayi   yé,
 	MPRX-LOCP 3-LOC thus= 4N= PFV.fall.REL way
 	‹Over here is where it happened,›
-40	Kichx̱áan-dáx̱  haan-dé  kaawaháa.
-	Ketchikan-ABL here-ALL 3.PFV.occur
+40	Kichx̱áan-dáx̱  haan-dé kaawaháa.
+	Ketchikan-ABL CIS-ALL 3.PFV.occur
 	‹it happened on the near side of Ketchikan.›
 41	Daḵ-ká      áwé.
 	inland-HSFC CPL.MDST
@@ -789,16 +789,16 @@
 259	hél keeneegéeḵ
 	NEG 3.IMPFV.2SG.tell.PHIB
 	‹don’t tell,›
-260	tsu   haa-dé   kg̱eegóot.
-	again here-ALL IRR.PRSP.MOD.2SG.go.SG
+260	tsu   haa-dé  kg̱eegóot.
+	again CIS-ALL IRR.PRSP.MOD.2SG.go.SG
 	‹come back again.›
-261	Haadé kg̱eegóot.”
-	here-ALL IRR.PRSP.MOD.2SG.go.SG
+261	Haa-dé  kg̱eegóot.”
+	CIS-ALL IRR.PRSP.MOD.2SG.go.SG
 	‹Come back.”›
 262	Du     tuwá-a        sigóowu           át    a      ká-a     yan   ayawsiḵáa
 	3H.PSS mind.face-LOC 3.IMPFV.STV.enjoy thing 3N.PSS HSFC-LOC TERM= 3.PFV.3.say
 	‹He asked him to get what he needed,›
-263	daa  sá ash      tuwáa         sagoowú
+263	daa  sá ash      tuwá-a        sagoowú
 	what Q  3PRX.PSS mind.face-LOC 3.IMPFV.STV.enjoy.SUB
 	‹whatever he needed›
 264	yú     éeḵ-dáx̱.
@@ -813,11 +813,11 @@
 267	Wáa sáyú
 	how Q.DIST
 	‹Why?›
-268	chʼáakw  áyú      hasdu   een   yoo  aya.átk                yú     keitl.
-	long.ago FOC.DIST 3PL.PSS INSTR ALT= 4H.IMPFV.STV.go.PL.REP D.DIST dog
+268	chʼáakw  áyú      hasdu   ee-n       yoo  aya.átk                yú     keitl.
+	long.ago FOC.DIST 3PL.PSS BASE-INSTR ALT= 4H.IMPFV.STV.go.PL.REP D.DIST dog
 	‹The dogs had gone with them many times before.›
-269	Toowú    sagú
-	mind.PSS 3.IMPFV.STV.enjoy.NMZ
+269	Too-wú   sagú
+	mind-PSS 3.IMPFV.enjoy
 	‹They were so happy›
 270	yo-ho-ho-ho
 	INTERJ
@@ -828,14 +828,14 @@
 272	Tle s   wududziteen.
 	and PL= 3.PFV.4H.see
 	‹People could see them.›
-273	Toowú sagú
-	mind.PSS 3.IMPFV.STV.enjoy.NMZ
+273	Too-wú   sagú
+	mind-PSS 3.IMPFV.enjoy
 	‹The dogs were so happy›
 274	áyú      s   duwaḵeet
 	FOC.DIST PL= 3.IMPFV.4H.STV.suspicious
 	‹people got suspicious›
-275	“Wáa sáhé   tláx̱ sdu     toowú    sigóo             hé     keitl.”
-	how  Q.MPRX very 3PL.PSS mind.PSS 3.IMPFV.STV.enjoy D.MPRX dog
+275	“Wáa sáhé   tláx̱ sdu     too-wú   sigóo             hé     keitl.”
+	how  Q.MPRX very 3PL.PSS mind-PSS 3.IMPFV.STV.enjoy D.MPRX dog
 	‹and said “Why are these dogs so happy?”›
 276	Tlél du     yaḵaayí             ḵoostí.
 	NEG  3H.PSS IMPFV.3.say.NMZ.PSS IRR.IMPFV.3.exist
@@ -856,8 +856,8 @@
 281	yóo  adaayaḵá      du     shát.
 	thus 3.about.3.say 3H.PSS wife
 	‹he said to his wife.›
-282	“Haadé kg̱wagóot.
-	here-ALL IRR.PRSP.MOD.3.go.SG
+282	“Haa-dé kg̱wagóot.
+	CIS-ALL IRR.PRSP.MOD.3.go.SG
 	‹“He will come.
 283	Aa-dé  ḵukg̱waháa.”
 	3N-ALL AREAL.IRR.PRSP.MOD.3.go.SG
@@ -904,8 +904,8 @@
 297	Yó-o     yú     ixkée ḵu.oo   yú     Teiḵweidí,
 	DIST-LOC D.DIST south dweller D.DIST Teiḵweidí
 	‹The Teiḵweidí people down south,›
-298	g̱án, haa een   has akanéek.
-	look 1PL INSTR PL= 3.IMPFV.3.tell
+298	g̱án, haa ee-n       has akanéek.
+	look 1PL BASE-INSTR PL= 3.IMPFV.3.tell
 	‹see, they told us about it.›
 299	“Yóod-u   á-xʼ   wé     yatseeneit-ch    ḵuwsineix̱i        yé;   wéi-du    á; yáad-u    á,”
 	DIST-LOCP 3N-LOC D.MDST living.thing-ERG 4H.PFV.3.save.REL place MDST-LOCP 3N PROX-LOCP 3N
@@ -928,8 +928,8 @@
 305	yáadu     á  á.
 	PROX-LOCP 3N 3N
 	‹is here.›
-306	X̱ʼaxʼáan hás-ch áwé      haa een   has akanéek.
-	NAME     PL-ERG FOC.MDST 1PL INSTR PL= 3.IMPFV.3.tell
+306	X̱ʼaxʼáan hás-ch áwé      haa ee-n       has akanéek.
+	NAME     PL-ERG FOC.MDST 1PL BASE-INSTR PL= 3.IMPFV.3.tell
 	‹X̱ʼaxʼáan and his group were the ones who told us.›
 307	Teiḵweidí x̱áawé    hás áwé      yéi   s   woonei.
 	Teiḵweidí PCL.MDST PL  FOC.MDST thus= PL= 3.PFV.STV.happen
@@ -1005,55 +1005,149 @@
 330	á-a    yéi   haa    kg̱watee             yé    áwé.”
 	3N-LOC thus= 1PL.O= IRR.PRSP.MOD.be.REL place CPL.MDST
 	‹the place where we will live.”›
-331	Wé x̱áat
-332	wé x̱áat héeni
-333	áxʼ áwé wdudziteen du x̱ʼus.eetí áwé.
-334	Kéi wlishóo wé xóots x̱ʼus.eetí áwé
-335	yáax̱ kei wlishóo du x̱ʼus.eetí.
-336	Chʼa ḵúnáx̱ yú tléixʼ.aach áwé tsá wsiteen
-337	kʼidéin
-338	aan yaa na.át.
-339	Á anax áwé wdudzikóo
-340	ách áwé du eeg̱áa at wootee x̱á.
-341	Yá shaawát áwé mistake yéi awsinei
-342	yá du shát yéeyi.
-343	Tlél yéi ng̱waneiyín ágwá.
-344	Áyá yá shaawát aadé yaawaḵaayi yé ḵúnáx̱ wé du shát yéeyi
-345	wé éeḵ aa.
-346	Ash een yakʼéi
-347	wé xóots
-348	wé aawashayi aa.
-349	Ash een tuli.aan
-350	du yátxʼi du jeewú de x̱á
-351	ash een tuli.aan.
-352	“Tlél du éex̱ x̱ʼeetaaníḵ xʼwán wé i shát,”
-353	yóo ash daayaḵá.
+331	Wé     x̱áat
+	D.MDST salmon
+	‹The salmon,›
+332	wé     x̱áat   héen-i
+	D.MDST salmon river-PSS
+	‹the salmon river,›
+333	á-xʼ   áwé      wdudziteen                du     x̱ʼus.eet-í    áwé.
+	3N-LOC FOC.MDST 3.PFV.4H.INCH.MID.STV.see 3H.PSS footprint-PSS CPL.MDST
+	‹is where her footprints were seen.›
+334	Kéi wlishóo          wé     xóots      x̱ʼus.eet-í    áwé
+	up= 3.PFV.STV.extend D.MDST brown.bear footprint-PSS CPL.MDST
+	‹The brown bear footprints lead upward,›
+335	yáa-x̱     kei wlishóo          du x̱ʼus.eet-í.
+	PROX-PERL up= 3.PFV.STV.extend 3H.PSS footprint-PSS
+	‹her footprints lead along here.›
+336	Chʼa ḵúnáx̱ yú     tléixʼ-.aa-ch áwé      tsá  wsiteen
+	just very  D.DIST one-PART-ERG  FOC.MDST only 3.PFV.3.STV.see
+	‹Only one person saw them›
+337	kʼi-déin
+	good-ADV
+	‹clearly,›
+338	aa-n     yaa    na.át.
+	3N-INSTR along= PROG.IMPFV.3.go.PL
+	‹he was walking with her.›
+339	Á  a-nax   áwé      wdudzikóo
+	3N 3N-PERL FOC.MDST 3.PFV.4H.STV.know
+	‹That was how they knew.›
+340	á-ch   áwé      du ee-g̱áa    at  wootee     x̱á.
+	3N-ERG FOC.MDST 3H BASE-ADES 4N= PFV.STV.be PCL
+	‹That’s why it seemed proper, you see.›
+341	Yá     shaawát áwé      mistake yéi   awsinei
+	D.PROX woman   FOC.MDST mistake thus= 3.PFV.3.CSV.STV.happen
+	‹It was the woman who made a mistake,›
+342	yá     du     shát yéeyi.
+	D.PROX 3H.PSS wife PAST
+	‹his former wife.›
+343	Tlél yéi  ng̱waneiyín                ágwá.
+	NEG  thus 3.IRR.POT.STV.happen.PAST FOC.YN.MDST
+	‹This wouldn’t have happened to him, don’t you agree?›
+344	Áyá      yá     shaawát aa-dé  yaawaḵaayi        yé  ḵúnáx̱ wé     du     shát yéeyi
+	FOC.PROX D.PROX woman   3N-ALL PFV.3.STV.say.REL way very  D.MDST 3H.PSS wife PAST
+	‹It was because of what the woman said, his former wife›
+345	wé     éeḵ   aa.
+	D.MDST beach PART
+	‹on the coast.›
+346	Ash  ee-n       yakʼéi
+	3PRX BASE-INSTR 3.IMPFV.STV.good
+	‹The brown bear,›
+347	wé     xóots
+	D.MDST brown.bear
+	‹the one who was his wife›
+348	wé     aawashayi             aa.
+	D.MDST 3.PFV.3.STV.marry.REL PART
+	‹was good to him.›
+349	Ash  ee-n       tuli.aan
+	3PRX BASE-INSTR 3.mind.IMPFV.STV.kind
+	‹She was kind to him,›
+350	du     yát-xʼ-i     du     jee-wú          de      x̱á
+	3H.PSS child-PL-PSS 3H.PSS possession-LOCP already PCL
+	‹she already had his children, you see,›
+351	ash  ee-n       tuli.aan.
+	3PRX BASE-INSTR 3.mind.IMPFV.STV.kind
+	‹she was kind to him.›
+352	“Tlél du ée-x̱      x̱ʼeetaaníḵ                xʼwán wé     i       shát,”
+	NEG   3H BASE-PERT mouth.IMPFV.STV.talk.PHIB IMP   D.MDST 2SG.PSS wife
+	‹“Please don’t speak to your wife,”›
+353	yóo   ash   daayaḵá.
+	QUOT= 3PRX= around.IMPFV.3.say
+	‹she said to him.›
 354	“Aaá”
-355	yóo yaawaḵaa.
-356	Tlél áx̱ x̱ʼeitaan.
+	yes
+	‹“Yes,”›
+355	yóo   yaawaḵaa.
+	QUOT= PFV.3.STV.say
+	‹he said.›
+356	Tlél á-x̱     x̱ʼeitaan.
+	NEG  3N-PERT mouth.IMPFV.STV.talk
+	‹He wouldn’t speak to her.›
 357	Wéitʼaa
+	MDST.PART
+	‹Those›
 {Page = 236}
-358	wé tsaa, héʼ
+358	wé     tsaa, héʼ
+	D.MDST seal, INTERJ
+	‹seals, lots!›
 {Comment = Line 359 sound effect is on following unnumbered line.}
-359	haat awoosḵoox̱ch. (Slap!)
-360	Toowú sagú!
-361	yá xóots.
-362	Hasdu éesh.
-363	Sagú áwé
-364	wé tsaa
-365	asag̱ahéinín dáaḵde
-366	a x̱ʼeis.
-367	Yáatʼaa áwé sdu x̱ʼeis.
-368	Tlél áwé du tuwáa ushgú
-369	a wanáak
-370	chʼa a wanáak
-371	áwé áa yéi yatee.
-372	Áwé héen áwé
-373	héen áwé héeng̱aa áwé woogoot Kaatsʼ ḵu.aa.
-374	Tlél jéalousx̱ ustú wé xóots du yís
-375	ash een tuli.aan.
-376	Chʼa l yéi óosh gé wuteeyín aadé óosh gé ng̱wateeyi yé dé.
-377	Chʼu tle átx̱ áwé nax̱wsateeyi át áwé yú.á yóo áwé dutláakw x̱á.
+359	haa-t    awoosḵoox̱ch. (Slap!)
+	CIS-PNCT 3.HAB.3.CSV.STV.boat
+	‹he would bring in by boat. (Slap)›
+360	Too-wú   sagú!
+	mind-PSS 3.IMPFV.joy
+	‹The brown bears›
+361	yá     xóots.
+	D.PROX brown.bear
+	‹were happy!›
+362	Hasdu   éesh.
+	3PL.PSS father
+	‹Their father.›
+363	Sagú                áwé
+	3.IMPFV.STV.joy.NMZ FOC.MDST
+	‹There was joy›
+364	wé    tsaa
+	D.MDST seal
+	‹when he wanted to bring the seals›
+365	asag̱ahéinín       dáaḵ-de
+	3.voice.CTNG.want inland-ALL
+	‹when he wanted to bring the seals›
+366	a      x̱ʼei-s.
+	3N.PSS mouth-BEN
+	‹for them to eat.›
+367	Yáatʼaa   áwé      sdu     x̱ʼeis.
+	PROX.PART CPL.MDST 3PL.PSS mouth-BEN
+	‹These were for them to eat.›
+368	Tlél áwé      du     tuwá-a        ushgú
+	NEG  FOC.MDST 3H.PSS mind.face-LOC 3.IRR.STV.enjoy
+	‹He didn’t want to›
+369	a      wanáak
+	3N.PSS apart
+	‹part from them›
+370	chʼa a      wanáak
+	just 3N.PSS apart
+	‹to live›
+371	áwé      á-a    yéi   yatee.
+	FOC.MDST 3N-LOC thus= 3.IMPFV.STV.be
+	‹apart from them.›
+372	Áwé      héen  áwé
+	FOC.MDST river FOC.MDST
+	‹There was a stream›
+373	héen  áwé      héen-g̱aa   áwé      woogoot     Kaatsʼ ḵu.aa.
+	river FOC.MDST water-ADES FOC.MDST 3.PFV.go.SG NAME   CONTR
+	‹a stream where Kaatsʼ went for water.›
+374	Tlél jéalous-x̱   ustí               wé     xóots      du yís
+	NEG jealous-PERT 3.IRR.IMPFV.STV.be D.MDST brown.bear 3H BEN
+	‹The brown bear wasn’t jealous over him,›
+375	ash  ee-n      tuli.aan.
+	3PRX BASE-INST 3.mind.IMPFV.STV.kind
+	‹she was kind to him.›
+376	Chʼa l   yéi  óosh gé wuteeyín          aa-dé  óosh gé ng̱wateeyi            yé  dé.
+	just NEG thus HYP  YN 3.PFV.STV.be.PAST 3N-ALL HYP  YN 3.IRR.POT.STV.be.REL way now
+	‹If only things hadn’t happened this way, how would it have been?›
+377	Chʼu tle át-x̱       áwé      nax̱wsateeyi          át    áwé      yú.á    yóo  áwé      dutláakw             x̱á.
+	just and thing-PERT FOC.MDST 3.IRR.POT.STV.be.REL thing FOC.MDST QUOT.3N QUOT FOC.MDST 3.IMPFV.4H.tell.myth PCL
+	‹It would have really been something, they say. That’s how it’t told, you see.›
 378	Ách áwé ḵaa x̱ʼaya.áx̱ch wéitʼát xóots.
 379	Lingít
 380	lingít ḵusteeyí.
