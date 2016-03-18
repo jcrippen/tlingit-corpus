@@ -955,24 +955,56 @@
 314	hasdu   káa      yán   ḵoowatée           du     yát-xʼ-i.
 	3PL.PSS HSFC-LOC TERM= AREAL.PFV.3.STV.be 3H.PSS child-PL-PSS
 	‹his children were one winter old.›
-315	Násʼgináx̱ áwé yatee
-316	wé ḵáaxʼw
+315	Násʼgináx̱ áwé      yatee
+	three.HUM FOC.MDST 3.IMPFV.STV.be
+	‹There were three of them,›
+316	wé     ḵáa-xʼw
+	D.MDST man-PL
+	‹male›
 {Page = 234}
 317	xóots.
-318	Hás áyá sʼuḵkasdúkx̱ has sitee yá yeedát
+	brown.bear
+	‹brown bears.›
+318	Hás áyá      sʼuḵkasdúk-x̱                   has sitee               yá     yeedát
+	3PL FOC.PROX bone.HSFC.IMPFV.solid.NMZ-PERT PL= 3.IMPFV.INCH.STV.be D.PROX moment
+	‹They are the ones that are called solid rib cage today,›
 319	hás áwé.
-320	Du yátxʼi áwé
+	3PL CPL.MDST
+	‹that’s them.›
+320	Du yát-xʼ-i         áwé
+	3H.PSS child-PL-PSS CPL.MDST
+	‹They are his children,›
 321	lingít áwé
-322	hú du tuwáatx̱.
-323	Yú aantḵeení s waḵshiyeexʼ ḵu.aa.
-324	Áwé át ugootch.
-325	At natí
+	person CPL.MDST
+	‹they are human›
+322	hú du     tuwáa-tx̱.
+	3H 3H.PSS mind.face-ABL
+	‹because of him.›
+323	Yú     aantḵeení    s       waḵshiyee-xʼ      ḵu.aa.
+	D.DIST town.dweller 3PL.PSS eye.end.below-LOC CONTR
+	‹But to people’s eyes though, they are bears.›
+324	Áwé      á-t     ugootch.
+	FOC.MDST 3N-PNCT HAB.3.go.SG
+	‹He would go there.›
+325	Atnatí
+	hunting
+	‹His younger brother›
 {Comment = Line 326 has the comment indented on a following unnumbered line.}
-326	du kéekʼ (whispered line, inaudible)
-327	Ash shukaawajáa wé du shát
-328	wé xóots
-329	“Yóodu á
-330	áa yéi haa kg̱watee yé áwé.”
+326	du     kéekʼ (whispered line, inaudible)
+	3H.PSS yg.brother
+	‹hunted.›
+327	Ash     shukaawajáa      wé     du     shát
+	3PRX.O= PFV.3.STV.advise D.MDST 3H.PSS wife
+	‹Kaatsʼ instructed›
+328	wé     xóots
+	D.MDST brown.bear
+	‹his brown bear wife,›
+329	“Yóod-u   á
+	DIST-LOCP 3N
+	‹“There it is,›
+330	á-a    yéi   haa    kg̱watee             yé    áwé.”
+	3N-LOC thus= 1PL.O= IRR.PRSP.MOD.be.REL place CPL.MDST
+	‹the place where we will live.”›
 331	Wé x̱áat
 332	wé x̱áat héeni
 333	áxʼ áwé wdudziteen du x̱ʼus.eetí áwé.
