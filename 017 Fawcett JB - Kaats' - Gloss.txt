@@ -1148,32 +1148,81 @@
 377	Chʼu tle át-x̱       áwé      nax̱wsateeyi          át    áwé      yú.á    yóo  áwé      dutláakw             x̱á.
 	just and thing-PERT FOC.MDST 3.IRR.POT.STV.be.REL thing FOC.MDST QUOT.3N QUOT FOC.MDST 3.IMPFV.4H.tell.myth PCL
 	‹It would have really been something, they say. That’s how it’t told, you see.›
-378	Ách áwé ḵaa x̱ʼaya.áx̱ch wéitʼát xóots.
+378	Á-ch   áwé      ḵaa x̱ʼaya.áx̱ch wéitʼát xóots.
+	3N-ERG FOC.MDST 4H= IMPFV.3.STV.understand.REP MDST.thing brown.bear
+	‹This is why the brown bears understand humans.›
 379	Lingít
-380	lingít ḵusteeyí.
-381	Yóo yagútk.
-382	De tsu s woo.aat
-383	at natí
-384	du kéekʼ hás.
+	person
+	‹Humans,›
+380	lingít ḵustee-yí.
+	person AREAL.IMPFV.3.exist.NMZ-PSS
+	‹the human way of life.›
+381	Yóo  yagútk.
+	ALT= IMPFV.3.STV.go.SG.REP
+	‹Kaatsʼ would go out.›
+382	De  tsu  s   woo.aat
+	now also PL= PFV.3.STV.go.PL
+	‹His younger brothers›
+383	atnatí
+	hunting
+	‹had gone out again›
+384	du     kéekʼ      hás.
+	3H.PSS yg.brother PL
+	‹to hunt.›
 385	Héʼ
-386	daa sá
-387	g̱aduwax̱aayi át.
-388	Áwé héen,
-389	wé héeng̱aa áwé
-390	héen x̱ʼé áwé át uwagút; hu ḵu.aa, Kaatsʼ ḵu.aa
-391	ash yayeet ásiwé gé wé hán gíwé
-392	wé du shát.
-393	Wé anáḵ ux̱ kéi uwatiyi x̱á.
-394	Dáx̱náx̱ áwé yatee du shát,
+	INTERJ
+	‹Lots!›
+386	daa  sá
+	what Q
+	‹whatever›
+387	g̱aduwax̱aayi          át.
+	3.POT.4H.STV.eat.REL thing
+	‹was for food.›
+388	Áwé      héen,
+	FOC.MDST water
+	‹It was water›
+389	wé     héen-g̱aa   áwé
+	D.MDST water-ADES FOC.MDST
+	‹it was for water›
+390	héen  x̱ʼé   áwé      á-t     uwagút;      hú ḵu.aa, Kaatsʼ ḵu.aa
+	water mouth FOC.MDST 3N-PNCT PFV.3.go.SG; 3H CONTR  NAME   CONTR
+	‹that he, Kaatsʼ, came to the mouth of the stream,›
+391	ash      ya-yee-t        á-sí-wé      gé wé     hán              gíwé
+	3PRX.PSS face-below-PNCT FOC-DUB-MDST YN D.MDST IMPFV.3.stand.SG YN.MDST
+	‹but his human wife›
+392	wé     du     shát.
+	D.MDST 3H.PSS wife
+	‹was standing there waiting for him, wasn’t she?›
+393	Wé     a-náḵ   ux̱     kéi uwatiyi          x̱á.
+	D.MDST 3N-ABES wrong= up= 3.PFV.STV.be.REL PCL
+	‹The one from before he got lost, you see.›
+394	Dáx̱náx̱  áwé      yatee          du     shát,
+	two.HUM FOC.MDST 3.IMPFV.STV.be 3H.PSS wife
+	‹He had two wives,›
 395	dáx̱náx̱.
+	two.HUM
+	‹two.›
 {Page = 238}
-396	Yá yanwáat áwé
-397	wé mistake yéi awsinei.
-398	Chʼá aadé yei kg̱ee.oo
-399	ax̱ sée
-400	yé á.
+396	Yá     yanwáat áwé
+	D.PROX older   FOC.MDST
+397	wé     mistake yéi   awsinei.
+	D.MDST mistake thus= 3.PFV.3.CSV.STV.happen
+	‹who made the mistake.›
+398	Chʼá aa-dé  yei   kg̱ee.oo
+	just 3N-ALL down= 3.IRR.PRSP.MOD.2SG.own
+	‹Please excuse›
+399	ax̱      sée
+	1SG.PSS daughter
+	‹this,›
+400	yé   á.
+	thus 3N
+	‹my daughter.›
 401	Tle true story áwé.
-402	Wáa sá yakʼéi eewóosʼi.
+	PCL true story CPL.MDST
+	‹This is a true story.›
+402	Wáa sá yakʼéi           eewóosʼi.
+	how Q  3.IMPFV.STV.good 3.IMPFV.2SG.ask.SUB
+	‹How good it is that you’re asking about it.›
 403	A tóonáx̱ ḵiydzitee Teiḵweidí
 404	xwasikóo kʼidéin
 405	i éesh,
