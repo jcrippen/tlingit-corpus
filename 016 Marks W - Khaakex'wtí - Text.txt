@@ -195,7 +195,8 @@
 179	tsu aan.
 180	Chookaneidí áwé naakéede ḵuwa.óo.
 181	A niyaadé ḵuwa.óo Kaagwaantaan.
-182	Ya Kaagwaantaan ḵu.aa áwé sdu íx̱tʼi ḵudzitee.
+{Comment = Line 162 has initial Ya instead of Yá.}
+182	Yá Kaagwaantaan ḵu.aa áwé sdu íx̱tʼi ḵudzitee.
 183	Á áwé át at shuwootéeych at sheeyí.
 184	Tlʼanaxéedáḵwt áwé ooltaanch.
 185	Yéi áwé ash waag̱í yatee.
