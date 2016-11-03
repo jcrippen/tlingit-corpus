@@ -223,7 +223,8 @@
 209	“chʼa tlákw yagiyee xʼwán a daa yanay.á.
 210	Yee yaagú dlinkwát yilatín.
 211	Aa.
-212	Tlél wáa sáyú uneigíḵ yóo
+{Comment = Line 212 had ‹sáyú› for ‹sá yoo›; phib alt rep impfv, see L91: 457.}
+212	Tlél wáa sá yoo uneigíḵ yóo
 213	ḵa haa at x̱aayí sákw tsú.
 214	Aa gax̱yilaxwáchsʼ
 215	wé x̱ʼóon doogú
