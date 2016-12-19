@@ -203,7 +203,8 @@
 186	a ginkáa wjḵaaḵ.
 187	Chʼa g̱íg̱aa kínde yóo yax̱ ash siné. Tléikʼ!
 188	Tle yá a geen
-189	tle yáa yá woosh tkán yóo awusneiyí áwé wóoshdáx̱ akaawasʼéilʼ.
+{Comment = Line 189 has tkán which is probably dakádin ‘facing opposite’.}
+189	tle yáa yá woosh dakádin yóo awusneiyí áwé wóoshdáx̱ akaawasʼéilʼ.
 190	Tle aawajáḵ.
 191	Aag̱áa áwé tsá yá át ḵín aa taan a x̱oot jiwdgút. Tle hóochʼ!
 192	A g̱óotx̱ yaa analyéx̱.
