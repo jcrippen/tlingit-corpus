@@ -95,8 +95,8 @@
 83      a jiyís
 84      Dei sgé yaa s g̱aa.áat; dei sgé yaa s g̱aa.áat á.
 85      Tlax̱ wáa yóo s ku.áat de xeewa.át tle.
-86      Ax' áyá uwax̱éet has uwa.át, "G̱aa déi ch'a yáax' has g̱axée."
-87      Ach áwé áa s uwax̱ée.
+86      Áx' áyá uwax̱éet has uwa.át, "G̱aa déi ch'a yáax' has g̱ax̱ée."
+87      Ách áwé áa s uwax̱ée.
 88      Hél wáa sá utí.
 89      Lingít áyú du waaḵx',
 90      ch'u tle lingít, ch'u shóogu lingít.
@@ -116,7 +116,7 @@
 104     Tle kéi wusgeedí 
 105     du toowú yóo woonei.
 106     A x̱'akwtóot wudlinúk.
-107     Ax' áyá yé
+107     Áx' áyá yé
 {Page = 200}
 108     tle tóo aawanúk wé xóots.
 109     Adayéen aa yax̱ uwatáa; tsu ch'u shóogu lingítx̱ sitee.
@@ -127,7 +127,7 @@
 114     Sh tugéit x̱at yaydziḵáa
 115     yáa lingít waḵkáax'.
 116     Tle l ushk'idéin x̱at yaysiḵáa.
-117     Ach áyá 
+117     Ách áyá 
 118     hél ḵu.aa ikḵwajaaḵ; tle ikḵwasháa ku.aa."
 119     Tlél tsu wáa sá du toowú utí.
 120     Ch'u shóogu lingít du wáaḵx' .
@@ -135,7 +135,7 @@
 122     Haa, wáannée sáyá ḵaa x̱oot has uwa.át.
 123     Yeis.
 124     Yeisdéi wáa ḵunáax' sá x̱áat héeni yée yéi teex̱.
-125     Aag̱á áwé
+125     Aag̱áa áwé
 126     tsá has woo.aat
 127     x̱áat aanídei.
 128     At x'aan
@@ -144,7 +144,7 @@
 131     Has at x'áan
 132     du wáaḵx'.
 133     Atx'aan sákw áyú yéi has adaané.
-134     Ayú yá gán
+134     Áyú yá gán
 135     yú du éen sháa
 136     dusgútx' .
 137     Tle yú héen táadax̱ shaaḵ áyá yei daaduné
