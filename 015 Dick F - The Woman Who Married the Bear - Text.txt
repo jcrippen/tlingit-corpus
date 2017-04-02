@@ -289,17 +289,41 @@
 270 	Yáax' áwé tsu
 271 	tle ch'u shóogu.
 272 	Neil yakoolg̱eechch
-272 	Tleiyéi yéi nateech.
-273 	Yáax' áwé tsu
-274 	tle ch'u shóogu.
-275 	Neil yakoolg̱eechch
-276 	wé keitl ḵa wé hás
-277 	has du ḵutéeni.
-278 	Yóo áwé wuduwasáa
-279 	has du ḵutéeni áwé.
-280 	Ch'a wéit'át waaḵx' áwé yéi yatee
-281 	ch'a wé yatseeneit.
-282 	Wé xóots waaḵx' áwé yéi yatee.
-283 	Wé ḵáa ḵutéeni
-284 	neildéi yakalg̱éech.
-285 	Áx' áwé s gadagútch.
+273	wé keitl ḵa wé hás
+274	has du ḵutéeni.
+275	Yóo áwé wuduwasáa
+276 	has du ḵutéeni áwé.
+277	Ch'a wéit'át waaḵx' áwé yéi yatee
+278 	ch'a wé yatseeneit.
+279 	Wé xóots waaḵx' áwé yéi yatee.
+280 	Wé ḵáa ḵutéeni
+281 	neildéi yakalg̱éech.
+282 	Áx' áwé s gadagútch.
+283 	Gándei ool'íx'ch.
+284 	Wáanée sáwé du jikaanáx̱ wootee.
+285 	Hél ayawudlaaḵ.
+286 	Aag̱áa áwé x̱'awoolt loowagúḵ
+287 	wé keitl
+288 	has du x̱'awool.
+289 	Haahá!
+290 	Du kaanáx̱ yaa at gatée áwé wé
+291 	wéit'át tlein.
+292 	Aag̱áa áwé yéi ayawsiḵaa
+293 	wé du shát.
+294 	"I gu.aa yáx̱ x'wán ja'.
+295 	De ax̱ kaanáx̱ at wootee.
+296 	De ax̱ kaanáx̱ wootee.
+297 	Hél ḵúx̱de yóo x̱wsanei."
+298 	At k'átsk'u
+299 	aawasáa
+300 	aadéi akg̱wasáakw yé.
+301	Saa a jeet aawatée
+302 	wé du yádi.
+303 	Tsu ḵáax̱ sateeyí ḵa ch'u shaawátx̱ sateeyí
+304 	aadéi akg̱wasáakw yé.
+305 	Aag̱áa áwé tsá áa wdihaan du jix̱an.ádi.
+306 	Haahá!
+307 	Hél sh yayeedé akakg̱wasgaan.
+308 	Hél du eedéi.
+309 	Ách yáwé éi ayawsiḵaa wé du x̱úx̱.
+310 	"Ihí! 	
