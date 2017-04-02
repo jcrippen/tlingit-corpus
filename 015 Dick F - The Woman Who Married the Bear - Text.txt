@@ -443,28 +443,45 @@
 419 	"Tlél du x̱'éix̱ at yitéex̱íḵ.
 420 	Ch'a yeeháanch gax̱yisakóo wáa sá at gug̱ateeyí
 421 	du x̱'éix̱ at yeeyteeyí yáa ax̱ x̱'akaanáx̱."
-423 	Ách áwé tle du x̱'éig̱aa.
-424 	Tlé du x̱'éig̱aa at wootee.
-425 	Hél du x̱'éix̱ at duteex̱.
-426 	De hóoch'.
-427 	De át wudig̱wáat'.
-428 	Tlax̱ wáa teeyí sáwé 
+422 	Ách áwé tle du x̱'éig̱aa.
+423 	Tlé du x̱'éig̱aa at wootee.
+424 	Hél du x̱'éix̱ at duteex̱.
+425 	De hóoch'.
+426 	De át wudig̱wáat'.
+427 	Tlax̱ wáa teeyí sáwé 
 {Page = 216}
-429 	yóonáx̱ naashóo aas
-430 	dúḵ gíyú,
-431 	ch'a yéi aas gwá gíyú,
-432 	"A k'éedei nagú.
-433	Híl du éex̱ yidasheeḵ.
-434 	Ch'a hú
-434	ch'a hú aadéi wdig̱wáat'.
-435 	Át wudig̱wát' wé aas k'í. 
-436 	Du chooneidí.
-437 	Hél tsú yéi yeekawuyáat'i áwé
-438 	anax̱ haat wdiḵín wé núkt.
-439 	Ch'a yáa du kináa wjiḵaaḵ.
-440 	Núkt.
-441 	Aawat'úk.
-442 	Tle yáa du x̱'aseiyíx' áwé wdzigeet.
-443 	S'eek áwé.
-444 	S'eekx̱ wusitee.
-445 	
+428 	yóonáx̱ naashóo aas
+429 	dúḵ gíyú,
+430 	ch'a yéi aas gwá gíyú,
+431 	"A k'éedei nagú.
+432	Híl du éex̱ yidasheeḵ.
+433 	Ch'a hú
+434 	ch'a hú aadéi ng̱agóot."
+436	ch'a hú aadéi wdig̱wáat'.
+436 	Át wudig̱wát' wé aas k'í. 
+437 	Du chooneidí.
+438 	Hél tsú yéi yeekawuyáat'i áwé
+439 	anax̱ haat wdiḵín wé núkt.
+440 	Ch'a yáa du kináa wjiḵaaḵ.
+441 	Núkt.
+442 	Aawat'úk.
+443 	Tle yáa du x̱'aseiyíx' áwé wdzigeet.
+444 	S'eek áwé.
+445 	S'eekx̱ wusitee.
+446 	Áwé tle ch'a yéi
+447	tlákw ch'a yei
+448 	wé s'eek
+449 	ḵoon yoo akaaníkk
+450	goot'á sá.
+451 	A káax' áwé aadé anagútch.
+452 	Aax̱ at du.een.
+453 	"Hél du éex̱ idasheeḵ tle ch'a hú
+454 	tle ch'a hóoch."
+455 	A yáx̱ áwé tlél du éex̱ dushee.
+456 	Tle ch'a hóoch.
+457 	Tle ch'a yéi teeyí áwé
+458 	yax̱ sh yawdzigoodán tle ch'a hú
+459 	tle yáax' áwé.
+460 	Haaw, yéi áyá shukatán yá sh kalneek.
+461 	Tle ch'a aadéi yéi kunaaliyéidei áyá x̱wsikóo.
+462 	Tle ch'a hóoch'.
