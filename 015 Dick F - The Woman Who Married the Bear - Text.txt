@@ -261,8 +261,7 @@
 245     Taakw.eetídei áwé.
 246     Daak has ayawdináḵ wé du éek' hás.
 247     Wududziteen.
-248     Wududziteen xóots x̱'us.eetí; t'aḵkáx̱ yawlishóo
-                du x'us.eetí.
+248     Wududziteen xóots x̱'us.eetí; t'aḵkáx̱ yawlishóo du x'us.eetí.
 249     Áwé yéi duwasáagu
 250     yéi dusáagun ch'áagu ḵáawuch
 251     "keitl wuduzinook."
@@ -272,8 +271,7 @@
 255     Keitl tín has woo.aat.
 256     Aawa.aat.
 257     Tle ch'u tle
-258     ch'u tle yú hít yeedáx̱ yux̱ wu.aadí yú du éek'
-	              hás
+258     ch'u tle yú hít yeedáx̱ yux̱ wu.aadí yú du éek' hás
 259     yú chooneit yáx̱ áwé neildéi kalgáas'
 260     has du ḵutéeni
 261     wé keitl,
@@ -325,7 +323,7 @@
 306 	Haahá!
 307 	Hél sh yayeedé akakg̱wasgaan.
 308 	Hél du eedéi.
-309 	Ách yáwé éi ayawsiḵaa wé du x̱úx̱.
+309 	Ách áwé yéi ayawsiḵaa wé du x̱úx̱.
 310 	"Ihí! 	
 {Page = 210}
 311 	Ihí ja' 
