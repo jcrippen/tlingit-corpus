@@ -6,7 +6,7 @@
 {Source = D&D 1987:62–71}
 {Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
 {Orthography = RP}
-{Dialect = Northern – Coastal – Angoon}
+{Dialect = Northern – Coastal – Angoon}
 {Page = 62}
 1	Yú haa aaní áyú
 2	yú haa aaní,
