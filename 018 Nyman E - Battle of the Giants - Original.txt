@@ -1,6 +1,6 @@
 {Number = 018}
 {Type = Text}
-{Title = Khudzitìyi ́at Khuɬagàwú / The Battle of the Giants}
+{Title = Khudzitìyi Át Khułagàwú / The Battle of the Giants}
 {Author = Seidayaa / Elizabeth Nyman}
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
 {Source = Nyman & Leer 1993:2-6}
@@ -9,11 +9,12 @@
 {Dialect = Northern - Interior - Atlin}
 {Page = 2}
 1       Tle wê / wùch kìká áwé át has datîyin yú.á,
-2       yâdu á wé ɬkùdasêts'k,
+2       yâdu á wé łkùdasêts'k,
 3       yâdu á wé Was'as'ê.
-4       Á ́awé tle wùch tugêt has xh'awdli.át.
-5       Tle k'adên wùch ìn has datîyin,
-6       ch'a wâ sáyá has at kàwa.àkhw tle ch'a wùch xh'ayáxh.
+4       Á áwé tle wùch tugêt has xhʼawdli.át.
+5       Tle kʼadên wùch ìn has datîyin,
+6       chʼa wâ sáyá has at kàwa.àkhw tle chʼa wùch xhʼayáxh.
 7       Á khu.as giant
 8       khudzitìyi át yê has ayasâkw.
-9       
+9       Á áwé
+10	tle chʼa yâkʼudé awé chʼu tle khuwdudlihà.
