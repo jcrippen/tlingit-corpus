@@ -151,84 +151,87 @@
 133	Atxʼaan sákw áyú yéi has adaané.
 134	Áyú yá gán
 135	yú du éen sháa
-136	dusgútxʼ .
-137	Tle yú héen táadax̱ shaaḵ áyá yei daaduné
-138	wudlitlʼákʼ .
-139	Awé hú ḵú.aa áwé
+136	dusgútxʼ.
+{Comment = Line 137 has táadax̱ which should be táadáx̱.}
+137	Tle yú héen táadáx̱ shaaḵ áyá yei daaduné
+138	wudlitlʼákʼ.
+139	Áwé hú ḵú.aa áwé
 140	chʼas wusixugu aa áwé aag̱áa ḵushée wé gán.
 141	E! wáa sá gagánch
-142	wé du éen aa has aayí ḵu.aa wé.
+142	wé du éen aa has aayí ḵu.aawé.
 143	chʼa yaadachóon wuduwaxugu yáx̱ áwé nateech.
-144	Haaw! wáannée sáyá háadéi anaa.aat
+144	Haaw! wáa nanée sáyá háadé anaa.aat
 145	tle lingít yáx̱.
 146	Haa!
-147	Kʼe yáa x̱át.
+147	Kʼe yá x̱át.
 {Page = 202}
 148	X̱át
 149	neil x̱waagút.
 150	Ax̱ kinaak.ádi kaax̱ kei ḵkwadatée
 151	kakḵwakéek.
 152	Yéi áyá,
-153	tle neildéi has na.aadí áyá
-154	yá has du kinaak.ádi
+153	tle neildé has na.aadí áyá
+154	yá hasdu kinaak.ádi
 155	kaax̱ kéi has adatéech.
 156	Kawdukéegi gankáxʼ áwé koodukíkch.
 157	Heʼ!
-158	dáat yáx̱ sá gagánch wé gán.
+{Comment = Line 158 has dáat which should be daat.}
+158	daat yáx̱ sá gagánch wé gán.
 159	Du aayí ḵu.aa áwé tle yakoolkéesʼch
 160	wé héenx̱ sateeyí.
 161	Wáanáx̱ sá yei kdayéini?
-162	Ách áwé áa shakawduwajáa yáa du yáx̱ sháach
+162	Ách áwé áa shakawduwajáa yá du yáx̱ sháach
 163	wudlitlʼakʼi aa.
-164	Neildéi na.aadí.
+164	Neildé na.aadí.
 165	Haaw,
 166	ḵaa jix̱an.ádi áwé,
 167	áwé has du jix̱an.ádi áwé has du oox̱ú
 168	wéi aatlénxʼ.
 169	Séitx̱ kéi kdutéech.
 170	Tʼáa yáx̱ daaḵ has awutéeych.
-171	Chʼu tle tʼáa áyú yú has du hídi
+171	Chʼu tle tʼáa áyú yú hasdu hídi
 172	tle lingít yáx̱.
 173	Yax̱ daaḵ woodutéeych
-174	dáḵdei yadul.áat
+174	dáḵde yadul.áat
 175	wé
 176	ḵaa naa.ádi.
 177	Chʼu yéi, chʼu yéi, tle chʼu yéi áwé tsu.
-178	Gwá! wáannée sáyá yeiḵ ḵukandakʼítʼ tsu.
+178	Gwá! wáa nanée sáyá yeiḵ ḵukandakʼítʼ tsu.
 179	Heʼ!
-180	x̱áat haa déi yéi daaduné.
+180	x̱áat haadé yéi daaduné.
 181	Táakw niyís at duxʼáan.
 182	At xʼáan.
 183	At duxʼáan.
 184	Uháan haa wáaḵxʼ ḵu.aa s tlél yéi s utí.
-185	Hás ax̱á áyú haa wáaḵxʼ ḵu.aa.
+{Comment = Line 185 has hás ax̱á which should be has ax̱á.}
+185	Has ax̱á áyú haa wáaḵxʼ ḵu.aa.
 186	Hásch ḵu.aa has at xʼáan áwé chʼa yá haa yáx̱.
 187	G̱unanaa jiyáx̱
-188	has at xʼáan. 
+188	has at xʼáan.
 {Page = 204}
-189	Ldinax̱kʼiyéidei yan at duxʼáan
-190	ldinax̱kʼiyéidei yan at duxʼáan áwé tsá
+189	Ldinax̱kʼiyéide yan at duxʼáan
+190	ldinax̱kʼiyéide yan at duxʼáan áwé tsá
 191	yéi ḵuyaawaḵaa.
-192	"Haahá
+192	“Haahá
 193	de at dax̱wuduwaxoon
-194	táakw aanídei."
+194	táakw aaníde.”
 195	Kʼe uhaan yú
 196	yú at xʼaan aanídáx̱ yú táakwxʼ áa yéi haa teeyí
-197	aadéi ḵux̱ tuda.aatch haa aaníxʼ. 
+197	aadé ḵux̱ tuda.aatch haa aaníxʼ.
 198	Yéi áwé at wuduwaxoon.
 199	Heʼ!
 200	At x̱ʼéeshi daat yáx̱ sá yakoogéi
 201	has du jee.
 202	Uháanch ḵwás tlél tooteen
-203	yá has du at xʼaaní.
+203	yá hasdu at xʼaaní.
 204	Áwé de
 205	de du kaanáx̱ at wootee
 206	wé yaa na.át
-207	wé kíndei.
+207	wé kínde.
 208	Ách áwé yéi ayawsiḵaa wé du x̱úx̱
 209	(wé shaawát x̱ʼéig̱aa
 210	a x̱ʼéig̱aa ḵoowatee)
-211	"Chʼa yáat dé."
+211	“Chʼa yáat dé.”
 212	Ayaawatín
 213	du éekʼ hás át na.átji yé.
 214	Ayaawatín,
@@ -237,25 +240,25 @@
 217	Tláakw kaaxát wéitʼát tlein
 218	wé a ḵoowú kahaa.
 219	Du waáḵxʼ ḵu.aa hít áwé,
-220	hít áwé dulyéix̱. 
+220	hít áwé dulyéix̱.
 221	Heʼ!
 222	yan uwanée wé hít.
 223	A yeenáx̱ yéi s uwa.át.
 224	A yeenáx̱ yéi has áat
-225	xʼoon áa has ux̱ée sá kwshí wé,
+225	xʼoon áa has ux̱ée sákwshíwé,
 226	du x̱ʼawoolí daak wujixíx
 227	wé naag̱asʼéi.
-228	De has du x̱ʼawoolí daak wushxeexí áwé
+228	De hasdu x̱ʼawoolí daak wushxeexí áwé
 {Page = 206}
 229	yéi ash yawsiḵaa.
-230	"He!
+230	“He!
 231	wáa sáyá ḵeeya.óo chx̱ánkʼ?
 232	Lingít x̱ʼusya.áak áyá.
 233	Lingít x̱ʼusya.áak áyá iya.óo
-234	chx̱ánkʼ. 
+234	chx̱ánkʼ.
 235	Yú keenaawú
 236	áx̱ kadéixʼ yé.
-237	Yú taakw kanadá áx̱ kadéixʼ yé." 
+237	Yú taakw kanadá áx̱ kadéixʼ yé.”
 238	Áwé ash een aawachʼéx̱ʼ.
 239	Ách áwé aa kei has uwa.át tsu.
 240	Áxʼ áwé tsá
@@ -263,13 +266,13 @@
 242	Tle áa yéi s wootee.
 243	Yáaxʼ áwé tsá
 244	taakw.eetí.
-245	Taakw.eetídei áwé.
+245	Taakw.eetíde áwé.
 246	Daak has ayawdináḵ wé du éekʼ hás.
 247	Wududziteen.
 248	Wududziteen xóots x̱ʼus.eetí; tʼaḵkáx̱ yawlishóo du xʼus.eetí.
 249	Áwé yéi duwasáagu
 250	yéi dusáagun chʼáagu ḵáawuch
-251	"keitl wuduzinook."
+251	“keitl wududzinook.”
 252	Gadusnúkch áwé yóo áwé duwasáakw keitl.
 253	Keitl tín aawa.aat.
 254	Á áyá yéi wduwasáa.
@@ -277,37 +280,37 @@
 256	Aawa.aat.
 257	Tle chʼu tle
 258	chʼu tle yú hít yeedáx̱ yux̱ wu.aadí yú du éekʼ hás
-259	yú chooneit yáx̱ áwé neildéi kalgáasʼ
-260	has du ḵutéeni
+259	yú chooneit yáx̱ áwé neildé kalgáasʼ
+260	hasdu ḵutéeni
 261	wé keitl,
-262	neildéi kalgasʼi yáx̱ yú chooneit.
-263	Neildéi kalgasʼi yáx̱ áwé yatee.
+262	neildé kalgasʼi yáx̱ yú chooneit.
+263	Neildé kalgasʼi yáx̱ áwé yatee.
 264	Kʼe hé g̱agaan.
 265	Gootʼá sá anax̱ ḵuyawóoli yeináx̱ neilx̱ kadagáan.
 266	A yáx̱ áwé ḵuwanóok.
 267	Áwé áa kdagútch.
 268	Gándei ḵúx̱dei ashakoolʼíxʼch.
 {Page = 208}
-269	Tleiyéi yéi nateech.
+269	Tliyéi yéi nateech.
 270	Yáaxʼ áwé tsu
 271	tle chʼu shóogu.
 272	Neil yakoolg̱eechch
 273	wé keitl ḵa wé hás
-274	has du ḵutéeni.
+274	hasdu ḵutéeni.
 275	Yóo áwé wuduwasáa
-276	has du ḵutéeni áwé.
+276	hasdu ḵutéeni áwé.
 277	Chʼa wéitʼát waaḵxʼ áwé yéi yatee
 278	chʼa wé yatseeneit.
 279	Wé xóots waaḵxʼ áwé yéi yatee.
 280	Wé ḵáa ḵutéeni
-281	neildéi yakalg̱éech.
+281	neildé yakalg̱éech.
 282	Áxʼ áwé s gadagútch.
-283	Gándei oolʼíxʼch.
-284	Wáanée sáwé du jikaanáx̱ wootee.
+283	Gánde oolʼíxʼch.
+284	Wáa nanée sáwé du jikaanáx̱ wootee.
 285	Hél ayawudlaaḵ.
 286	Aag̱áa áwé x̱ʼawoolt loowagúḵ
 287	wé keitl
-288	has du x̱ʼawool.
+288	hasdu x̱ʼawool.
 289	Haahá!
 290	Du kaanáx̱ yaa at gatée áwé wé
 291	wéitʼát tlein.
