@@ -1,0 +1,250 @@
+{Number = 020}
+{Type = Translation}
+{Title = Aakʼwtaatseen / Salmon Boy}
+{Author = Ḵaadishaan}
+{Clan = Kaasx̱ʼagweidí; ? yádi}
+{Source = Swanton 1909:311–320}
+{Translator = Dzéiwsh / James A. Crippen}
+{Note = Line numbers are approximately Swanton’s sentences.}
+{Note = Page numbers match Swanton’s original publication.}
+{Note = Paragraph numbers are from Swanton’s original.}
+{Paragraph = 1}
+{Page = 311}
+1	Those Sitka Kiks.ádi, a place where they summer over is called Daxéit.
+2	Aakʼwtaatseen’s father summered over there.
+3	That little boy is playing on the beach.
+4	After that, Aakʼwtaatseen is catching seagulls.
+5	Then he got hungry.
+6	He went home.
+7	There he cried out with hunger.
+8	He asked for dryfish.
+9	He was given some dryfish to eat;
+10	its end had gotten mouldy.
+11	He said “It’s just the one whose end is mouldy, isn’t it?”.
+12	He flung it up off there, into the food scraps.
+13	Again he went seagull catching.
+14	Then the seagulls are swimming away from him;
+15	so then he’s also wading back out.
+16	Then he swam wrongly and finally he was sucked down.
+17	He wasn’t seen again on the water.
+18	Later his father missed him and said
+19	“Where is my dear son?”.
+20	He tells his wife so.
+21	After that they stopped working.
+22	They’re looking outside.
+23	Then they’re calling out to him
+24	“Aakʼwtaatseen, where are you?”.
+25	They’re searching for him.
+{Page = 312}
+26	They’re just calling out to him in the air.
+27	Then, the place where he was catching them, they went there;
+28	they saw his footprints.
+29	Then they followed them into the water.
+30	While they’re crying they’re saying
+31	“What happened to you, my son!?”.
+32	Well apparently he’s wading out, and while crying he’s looking for his son, that man.
+33	Then, unsleeping, they search for their son.
+34	They searched everywhere from then through the morning, the bottom of the water and the camp.
+35	They didn’t eat anything after their son disappeared.
+36	From then, all of that summer they searched for him, for their son.
+37	Then months passed while they were searching for him, and then they gave up on him.
+{Paragraph = 2}
+38	After that, Aakʼwtaatseen however, it was the salmon people who apparently saved him.
+39	The ones swimming along with him were like ordinary people in his eyes.
+40	Then they went with him to the salmon people’s town.
+41	Then he was unhappy, he was always hungry.
+42	Then those salmon people said:
+43	“Let us head with him toward Ḵaa Tú Kax̱saké River”.
+44	Then they headed with him toward that river.
+45	Then they put his hands around the neck of it, that river mouth crane.
+{Page = 313}
+{Paragraph = 3}
+46	After that he was always hungry.
+47	Then on the beach below town there are lots of fish eggs and he grabbed them behind his back.
+48	People finally shouted out about him:
+49	“Shanyaakʼwtlaax̱ is eating fish eggs on the beach below town”.
+50	After that he felt bad.
+51	Behind it next door to him they were always showing their faces dancing.
+52	So then he looked inside, that place where people are dancing.
+53	After a while he looked into the house where they were dancing, and his face was all over fish eggs.
+54	Actually it was herring people who were telling stories and dancing; they were happy.
+55	Well then one woman called out to him;
+56	she said to him
+57	“Do you know the salmon people you offended, it’s them who rescued you?”
+58	Then she said to him
+59	“Do you know the river that flows here?
+60	Roast salmon from within it on a skewer wherever hunger has come to you.
+61	After that, when you finish eating, put all of your scraps into the water;
+62	and what is around your roasting stick, that too you must wash off of it.”
+63	So then when he got hungry, just how she had instructed him, that was how he acted.
+64	After that he felt very hungry again so again he went to spear one.
+{Page = 314}
+65	After that he ate his food scraps.
+66	The way that she instructs him, just like that he put his food scraps in the water;
+67	he also washed off his roasting stick.
+68	After that, in the evening, a salmon people’s aristocrat, his eye hurt.
+69	He is talking to himself about its burden.
+70	He can’t get to sleep.
+71	Then that woman said to him
+72	“Do you know that place where you cooked things for yourself?
+73	Perhaps it fell there, that man’s eye”.
+74	Then however, after his having done it, that aristocrat, his eye was safe.
+{Paragraph = 4}
+75	Then that woman said to him
+76	“Now they will prepare to go to your land with you”.
+77	After that all of the salmon people prepared to go with him to his land.
+78	Well after that they are swimming along and those salmon people say that they are afraid of a sʼéetʼ.
+79	At some point they saw it, that sʼéetʼ.
+80	Its mouth is opening and closing.
+81	It’s through it that they eventually have extended out, those salmon.
+82	Then some among those salmon are cut into chunks.
+83	After that they disappeared from there.
+84	They saw that between them had finally come some boats.
+85	“We have done all of our work before you.
+86	Your cheek flesh can save people; now it’s just eating them.
+87	Our herring eggs are our cheek flesh.”
+{Page = 315}
+{Paragraph = 5}
+88	After that they came to each other, those salmon.
+89	They say
+90	“Where are you going to appear at?”.
+91	Some among them said “Us however, we are for the Stikine”,
+92	some however said “to the Chilkat”,
+93	some said “to the Taku”,
+94	some said “to the Nass”,
+95	some said “to the Alsek”.
+96	They named every single one of the rivers.
+97	Then they spread out around the river mouths.
+98	Someone said
+99	“He will stand up there alongside the boat”.
+100	Then apparently it’s a jumper who stood up alongside the boat.
+101	After that those salmon are saying
+102	“Isn’t that fort ready?”.
+103	Just then they told one to go into the sight of it.
+104	Actually it’s apparently a fish trap that they’re calling a fort.
+105	Then as he returned, he said
+106	“It’s starting to happen”.
+107	At some point he said they were ready.
+108	Now the salmon people are ready.
+109	Then they swam to the river.
+110	They were very happy.
+111	Well, then that evening they went around it, that fort.
+112	Then all of those salmon, they ran to the river like two tribes.
+113	Then after that he saw her, his mother cutting fish on the beach, Aakʼwtaatseen did.
+114	Then he wanted to go near to his mother.
+115	Just then his mother called back for his father to spear him;
+{Page = 316}
+116	and apparently he just swam up to her.
+117	And then she also said to him there
+118	“A good salmon is swimming over here”.
+119	Then his father speared him.
+120	He just didn’t feel it when he was speared.
+121	Then he told his wife
+122	“Cut it for fresh fish”.
+123	Then however, as she cuts his neck off, it’s hard, and her knife is crumbling on something there.
+124	She saw the copper necklace around her son’s neck.
+125	Just then she called out to her self
+126	“Maybe this is my son;
+127	perhaps it’s the salmon people who rescued him.
+128	This is a copper necklace that is tied around his neck.”
+129	Then she took a mat down to the beach, and eagle down too.
+130	She’s using that mat.
+131	Then she put down around that salmon.
+132	After that she laid the mat down on top of the house.
+133	Inside however they keep singing shaman songs about him.
+{Paragraph = 6}
+134	Then it was trembling there during the night on the top of the house.
+135	After that the man looked at his son;
+136	he saw from his head however that he was human.
+137	Then again at him, he looked at him;
+138	what is it that has become a human from his waist to his top?
+{Page = 317}
+139	Then at him again, he looked at him;
+140	he is just completely human.
+141	Then the spirit inside him keeps speaking to him.
+142	Then it says
+143	“It’s me, I’m Shanyaakʼwtlaax̱”;
+144	thus it speaks, that spirit inside him.
+145	“It’s me” says that spirit inside him,
+146	“I am Crane at the Mouth of Ḵaa Tu Kax̱saké River”.
+147	Also it said, that spirit inside him,
+148	“It’s me, I’m Sʼéetʼ Spirit”.
+149	Then that woman who had advised him also became one of his spirits,
+150	“It’s me, I’m Woman Spirit”.
+151	Then also someone said inside him
+152	“It’s me, I’m Herring Spirit”.
+153	Then again to him also it was speaking inside him
+154	“It’s me, I’m Seagull Spirit”.
+155	Then again to him it said inside him
+156	“It’s me, I’m the Salmon People’s Canoe Spirit”.
+{Paragraph = 7}
+157	Then his father went up to him.
+158	That shaman says
+159	“From inside the house, wash all of the dirt outside”.
+160	Then he also says
+161	“Young women must not be inside the house;
+162	they should be in a different house”.
+163	Then he also said
+164	“Sand well that area around the fire”.
+165	Then he also said
+166	“Women must not look at me”.
+{Page = 318}
+167	Those spirits are singing inside him.
+168	Then he went stiff inside that mat.
+169	Then they took him inside.
+170	Inside, they put eagle down by his mouth.
+171	Then they’re singing, inside.
+172	Then he’s going around the fire.
+173	Then they made a rattle for him as his spirit instructed.
+174	Also he told them to work on his future shaman’s apron.
+175	Then they made his rattle like a harlequin duck;
+176	his apron however they painted like a sʼéetʼ.
+177	They painted his drum like a crane.
+178	Then they made his bone necklace;
+179	they made it up like salmon and like herring.
+180	Then the spirits inside him are dancing.
+181	After that, he can see those salmon so very well;
+182	it’s as though they are just like him, like humans.
+183	Then he would converse with the salmon people.
+184	How amazing it was to people that he is a shaman.
+185	His family lives however he said.
+186	Whatever he foretells, that’s the way it is.
+187	When someone is going to die, he tells people about it.
+188	And he tells about when someone is going to be safe, and so it is like that.
+189	He tells people “Go to camp” and whatever they will kill he tells them about it.
+{Page = 319}
+{Paragraph = 8}
+190	And so he says
+191	“Don’t move to town immediately; do it right in the middle of winter.”
+192	So it was.
+193	They weren’t moving with him.
+194	Then in the middle of winter they moved to town with him.
+195	But then they were very curious about him, the townspeople were.
+196	Then he says that one good man is going to become sick.
+197	They believe what he says.
+198	So it was: a good man became sick.
+199	They paid him to cure him.
+200	He was an aristocrat.
+201	He said to his townspeople
+202	“Let fast whoever is going to watch.”
+203	All of those townspeople were fasting;
+204	how curious they were.
+205	Well then that salmon and that herring and that crane and that sʼéetʼ, just however they behaved, that’s all how he was.
+206	It was so amazing to them;
+207	they are all telling each other.
+208	Those young women however weren’t watching him.
+209	And what he would eat is not much;
+210	only what his spirits had made good, just that was what he ate.
+211	And water he would drink too, when those spirits make it good.
+212	His spirits told him thus:
+213	“You will eat that thing, my master.”
+214	Then he eats it.
+215	Only all the things that his spirits tell him, only what they say does he do.
+{Page = 310}
+216	And he does not eat anything fresh.
+217	And he didn’t marry anyone.
+218	Whatever all the spirits tell him about, he is like that.
+219	Because of that he lived a long time.
+220	And his hair didn’t get white;
+221	he just became old after that.
+222	That’s it.
