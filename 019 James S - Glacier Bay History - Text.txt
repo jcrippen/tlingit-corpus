@@ -1,0 +1,10 @@
+{Number = 019}
+{Type = Text}
+{Title = Sítʼ Ḵaa Káx̱ Kana.áa / Glacier Bay History}
+{Author = Kaasgéiy / Susie James}
+{Clan = Chookaneidí; Tʼaḵdeintaan yádi}
+{Source = D&D 1987:244–259}
+{Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
+{Orthography = RP}
+{Dialect = Northern – Central – Hoonah}
+{Page = 244}
