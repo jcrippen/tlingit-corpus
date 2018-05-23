@@ -1,0 +1,253 @@
+{Number = 020}
+{Type = Text}
+{Title = Aakʼwtaatseen / Salmon Boy}
+{Author = Ḵaadishaan}
+{Clan = Kaasx̱ʼagweidí; ? yádi}
+{Source = Swanton 1909:311–320}
+{Transcriber = John R. Swanton}
+{Orthography = SWA}
+{Dialect = Northern – Transitional – Wrangell}
+{Note = Line numbers are approximately Swanton’s sentences.}
+{Note = Page numbers match Swanton’s original publication.}
+{Note = Paragraph numbers are from Swanton’s original.}
+{Page = 311}
+{Paragraph = 1}
+1	Yū′Cī′t!ka a Kîksᴀ′dî ā′ỵê hᴀs qo′satᴀntcyê ye dowasā′kᵘ Dᴀx̣ē′t.
+2	Ak!ᵘtatsī′n īc akō′ wudzitā′n.
+3	Yuỵadᴀ′k!u qosū′k!u īqq!.
+4	Adᴀ′xayu Āk!ᵘtatsī′n yukē′ʟ̣adî ᴀs!nū′t!a.
+5	Adᴀ′x duī′t ỵān uwaha′.
+6	Nēłe′ wugū′t.
+7	ᴀt ỵāntc wudzîg̣ā′x.
+8	ᴀtqē′cî āwaxō′x.
+9	Doq!wē′x wuduwati′ yuᴀtqē′cî,
+10	ᴀcuwu′ wudîʟᴀ′x.
+11	Ye ỵawaqa′ “Ts!ᴀs ᴀcuwu′ wudîʟᴀ′xe a kᵘcē′gî?”
+12	Qaq!ē′x ỵī′ti yū′de ke awułîju′q!.
+13	Ts!u wugū′t yukē′ʟ̣ᴀdi ᴀsnū′taỵe de.
+14	Adᴀ′x yukē′ʟ̣ᴀdî dudjînᴀ′q dāk nᴀkwᴀ′n
+15	tc!uʟe′ hūtc ts!u dāk acuyê′nᴀskwᴀn.
+16	Tc!uʟe′ qâkx wukwā′n dukanᴀ′x qō′cᴀkᴀn duwako′.
+17	Ts!u ʟēł dekī′ awustī′n.
+{Paragraph = 2}
+18	Adᴀ′x duī′ctc wusīha′
+19	ye ỵawaqa′ “Gusū′ ᴀxỵī′tk!.”
+20	Ducᴀ′t ye ᴀdaỵaqa′.
+21	Adᴀ′x tc!uʟe′ hᴀs wudînā′q.
+22	Gᴀ′ndî hᴀs qotī′s.
+23	Adᴀ′x hᴀs aī′q!
+24	“Āk!ᵘtatsī′n gusū′ we ê?”
+25	Hᴀs qocī′ āg̣a′.
+{Page = 312}
+26	Tcᴀwaỵîq! hᴀs aī′q!.
+27	Adᴀ′x ᴀq!ᵘ ᴀsnū′t!aỵê ᴀt hᴀs uwaᴀ′t;
+28	aq!o′s-īti′ hᴀs aosîtī′n
+29	tc!uʟe′ hīnx hᴀs akā′wusîke.
+30	Hᴀs g̣ᴀ′xsatê ye hᴀs q!aỵaqa′
+31	“Wā′sᴀ ī′wani ᴀxỵī′t!?”
+32	Adᴀ′kdage nakwᴀ′n g̣āx tīn duỵī′tg̣a qutī′s! yuqā′.
+33	Adᴀ′x tcūł hᴀs uxê′q!ᵘ xō hᴀs qucī′ hᴀsduỵī′tg̣a.
+34	Djᴀłdakᴀ′t ỵēt hᴀs qocī′ āx ts!utā′t yūhī′n tāq qā yên tcuka′.
+35	ʟēł hᴀs ᴀt uxwa′ tc!u hᴀsduỵī′t łqō′wustīỵî dᴀx.
+36	Adᴀ′x djᴀłdakᴀ′t yukutā′n hᴀs qocī′ hᴀsduỵī′tg̣a.
+37	Adᴀ′x dîs cūwax̣ī′x̣ ag̣ā′ hᴀs qociỵî′ ā hᴀs aołîx̣ā′tc.
+{Paragraph = 3}
+38	Adᴀ′xayu Ak!ᵘtatsī′n qo′a xāt qoa′nitc ᴀsgī′yu wusînē′x.
+39	Duī′n yā ỵᴀnᴀkwᴀ′n tc!aye′ łīngî′t yêx duwag̣e′ ỵᴀti′.
+40	Adᴀ′x duī′n xāt qoa′nî ānî′t ỵāwagū′.
+41	Adᴀ′x ʟēł tucqē′nutc tcᴀʟᴀ′kᵘ duī′t yān uha′îtc.
+42	Adᴀ′x yū′xāt qoa′nî ye ỵa′waqa,
+43	“Duī′n ỵᴀkᵘnᴀ′g̣ahā Kātᴀ′xwᴀxsᴀkᴀ-hī′nî de.”
+44	Adᴀ′x duī′n ỵᴀkuwuhā′ yuhīˈndê.
+45	Adᴀ′x asē′nᴀx djī′ỵᴀnduwati′ yuhī′n wᴀt dū′łî.
+{Page = 313}
+{Paragraph = 4}
+46	Aadáx̱ áwé du eet ÿaan uháaych.
+47	Aadáx̱ yú aan ig̱ayáa kaháakw sheeÿadihéin ḵa ÿatʼéináx̱ akawdisháat.
+48	Kei tʼaanduwa.éexʼ:
+49	«Shanyaakʼwtlaax̱ aan ig̱ayáa kaháagu aÿax̱á.»
+50	Aadáx̱ du toowú ÿanéekw.
+51	A tʼáak du kʼidaakaadé ÿag̱as.éich alʼeix̱.
+52	Aanáx̱ neil awdlig̱én, yú áa adulʼeix̱ yé.
+53	Chʼu tle du ÿakéek áa neil awuteeÿí chʼa ldakát du ÿakéek g̱áaxʼwx̱ wusitee.
+54	X̱áju yaaw ḵwáani áyú atlaakw, alʼeix̱; hasdu toowú sigóo.
+55	Hé aadáx̱ tléináx̱ shaawátch woox̱oox̱;
+56	yéi ash daaÿaḵá
+57	«Isikóo gí x̱áat ḵwáanix̱ x̱ʼanÿaa ḵeedlig̱át; á áyá iwu̬sineix̱?»
+58	Aadáx̱ yéi ash yawsiḵaa
+59	«Isikóo gé héix̱ kaawadaaÿi héen?
+60	A yíkdáx̱ x̱áat nadáx̱ ganeeltsíkx̱ chʼa gooxʼ sá i eexʼ ÿaan háa.
+61	Aadáx̱ yan ix̱aaÿí i x̱ʼa.eetí chʼa ldakát héende yéi yoo nasnéek;
+62	i tséegi daa, á tsú a daadáx̱ yoo na.úsʼkw.»
+63	Chʼu tle du eet ÿaan wuhaaÿí, chʼa wáa sá shukanduwajáa, chʼa a yáx̱ ḵoowanook.
+64	Aadáx̱ tsu aatlein du eet ÿaan uwaháa tsu woogoot ag̱ataag̱ít.
+{Page = 314}
+65	Aadáx̱ aawax̱áa du x̱ʼa.eetí.
+66	Aadé shukdujeisʼi ÿé chʼa a yáx̱ du x̱ʼa.eetí héende yéi awsinei;
+67	du tséegi tsú adaawoo.óosʼ.
+68	Aadáx̱ xáanaa x̱áat ḵwáani aanḵáawu du waaḵ ÿanéekw.
+69	A jiÿeet sh daaÿadaḵaa.
+70	Tléil wooteix̱.
+71	Aadáx̱ áyú shaawát yéi ash ÿawsiḵaa
+72	«Isikóo gí yú áa at gaÿi̬dzi.éeÿi ÿé?
+73	Gwál a káa wooxeex yú ḵáa waag̱í.»
+74	Aadáx̱ ḵu.aa yéi awusneeÿí ítx̱, yú aanḵáawu, chʼu tle wooneix̱ du waaḵ.
+{Paragraph = 5}
+75	Aadáx̱ yú shaawát yéi ash ÿawsiḵaa
+76	«De i aaníde i een kei at gax̱duxóon».
+77	Aadáx̱ chʼa ldakát yú x̱áat ḵwáani du een at wooxoon du aaníde.
+78	Hé aadáx̱ yéi ÿaa nakwán, yú x̱áat ḵwáani kaduneek sʼéetʼ has akwdlix̱éetlʼ, yú x̱áat ḵwáani.
+79	Wáa nanée sáyú wududziteen yú sʼéetʼ.
+80	Wóoshde yoo ḵudinúkk.
+81	Aanáx̱ áyú yéi naa.áa yú x̱áat.
+82	Aadáx̱ áyú a x̱oo.aa yú x̱áat kaldóochʼ.
+83	Aadáx̱ áyú a náḵ has woohaa.
+84	Has awsiteen hasdu g̱eidé ÿanaagóo wé yaakw.
+85	«Ÿee shukát ḵu.aayá kantóoli tléil ÿeedádi gwéijích.
+86	Ÿee washtux̱ʼúx̱uch ḵug̱waax̱sineix̱; de chʼa ax̱á.
+87	Haa washtux̱ʼúx̱u áyú haa g̱áaxʼu.»
+{Page = 315}
+{Paragraph = 6}
+88	Aadáx̱ áyú woosh x̱ánt has ÿawdigóo yú x̱áat.
+89	Yéi has x̱ʼaÿaḵá
+90	«Goodé sá ÿiÿakwg̱waháa?».
+91	A x̱oo.aa yéi ÿaawaḵaa «Uháan ḵu.aa Shtaxʼhéende»,
+92	a x̱oo.aa ḵu.aa «Jilḵáatde»,
+93	a x̱oo.aa «Tʼaaḵóode»,
+94	a x̱oo.aa «Naasdé»,
+95	a x̱oo.aa «Aalséix̱de».
+96	Chʼa ldakát yá héen has aawasáakw.
+97	Aadáx̱ áwé héen wátt wusixeex wé x̱áat.
+98	Yéi ḵuÿaawaḵaa
+99	«Yaakwnáx̱ áa gux̱daháani.»
+100	Aadáx̱ áyú kei wutáani ásgéyú yaakwnáx̱ wudihaan.
+101	Aadáx̱ áyú yú x̱áat yéi has ÿanaḵéich
+102	«Yú noow ágí tléil yan uneech?».
+103	Chʼu tle tléináx̱ a keekánde akanduḵéich.
+104	X̱áju yú sháal ásgíyú yú noow yéi has aÿasáakw.
+105	Chʼu tle ḵux̱ wudaxʼaakch, yéi ÿanaḵéich
+106	«De yánde ÿaa naneen».
+107	Wáa nanée sáyú yan uwanée yéi ÿaawaḵaa.
+108	X̱áat ḵwáani de yan uwanée.
+109	Chʼu tle héent uwaxʼák yú x̱áat.
+110	Tlax̱ hasdu toowú yakʼéi.
+111	Hé aadáx̱ yú xáanaa a daadé aawa.aat yú noow.
+112	Aadáx̱ chʼa ldakát yú x̱áat, déix̱ naa yáx̱ héent ÿaawa.áa.
+113	Aadáx̱ a ítx̱ awsiteen, du tláa éeg̱i daxásh, Aakʼwtaatseen.
+114	Aadáx̱ du tláa x̱ánde ÿaa nagút du toowúch.
+115	Chʼu tle du tláach tʼaaÿaawaḵaa du éeshch g̱ataag̱ít;
+{Page =  316}
+116	ḵa chʼu a x̱ánt ásgí uwaxʼák.
+117	Aadáx̱ tsú a eet tsú át aÿaawaḵaa
+118	«Aakʼé x̱áat héix̱ uwaxʼák».
+119	Aadáx̱ ḵu.aa du éeshch uwatáḵ.
+120	Chʼu tle tléil sh daax̱ awdanook wudutaag̱í.
+121	Aadáx̱ ḵu.aa du shát yéi aÿawsiḵaa
+122	«Tóoch sákw naxásh».
+123	Aadáx̱ ḵu.aa kaax̱ yax̱ asaÿalít, yatʼéexʼ, du lítaaÿi át yoo ÿashix̱ʼélk, daa sáyú.
+124	Awsiteen du ÿéet séi eeḵ katʼéexʼi.
+125	Chʼu tle kei sh tʼaaÿawdiḵaa
+126	«Ax̱ ÿéetkʼ ásgéyá;
+127	x̱áat ḵwáanich ásgí wusneix̱ín.
+128	Du seit katlʼéeni eeḵ katʼéexʼi áyá ÿatee.»
+129	Chʼu tle g̱aach éeg̱i aawashát, x̱ʼwáalʼ tsú.
+130	Yéi aÿa.óo yú g̱aach.
+131	Chʼu tle yú x̱áat daa yéi aawa.óo yú x̱ʼwáalʼ.
+132	Aadáx̱ yú hít káa yan awsitáa yú g̱aach.
+133	Neil ḵu.aa chʼa tlákw íx̱tʼ sheeÿí dushí du daaxʼ.
+{Paragraph = 7}
+134	Aadáx̱ ḵu.aa aadé kawdinét yú taat ÿeen yú hít kaadé.
+135	Aadáx̱ ḵu.aa yú ḵáa du ÿéett awdlig̱én;
+136	wsiteen du shaanáx̱ ḵu.aa chʼu tle leengítx̱ sitee.
+137	Aadáx̱ tsu a eet át awdlig̱én;
+138	daa sáyú du katʼóotdáx̱ du kínde leengítx̱ sitee?
+{Page = 317}
+139	Aadáx̱ a eet tsu át awdlig̱én;
+140	chʼa ldakát leengítx̱ sitee.
+141	Aadáx̱ a eet aadé yéik du tóo yoo x̱ʼaÿatánk.
+142	Aadáx̱ ḵu.aa yéi x̱ʼaÿaḵá
+143	«X̱át áyá, Shanyaakʼwtlaax̱ áyá x̱át»;
+144	yóo x̱ʼḁÿaḵá yú yéik du tóoxʼ.
+145	«X̱át áyá» yóo x̱ʼaÿaḵá du tóoxʼ yú yéik,
+146	«Ḵaa Tú Kax̱saké Héeni Wát Ká Dóoli áyá x̱át».
+147	Tsu yéi ÿaawaḵaa yú yéik du tóoxʼ
+148	«X̱át áyá, Sʼéetʼ Ḵuyéigi áyá x̱át».
+149	Aadáx̱ yú shaawát ashukawujaaÿí tsú du yéigíx̱ wusitee,
+150	«X̱át áyá Shaawát Ḵuyéigi áyá x̱át».
+151	Aadáx̱ tsú du tóoxʼ yéi aÿaawaḵaa
+152	«X̱át áyá, Yaaw Ḵuyéigi áyá x̱át».
+153	Aadáx̱ tsu a eet tsú du tóoxʼ ÿaa x̱ʼawditaan
+154	«X̱át áyá, Kéidladi Ḵuyéigi áyá x̱át».
+155	Aadáx̱ tsu a eet yéi ÿaawaḵaa du tóoxʼ
+156	«X̱át áyá, X̱áat Ḵwáani Yaagú Ḵuyéigi áyá x̱át».
+{Paragraph = 8}
+157	Aadáx̱ du éesh du x̱ánt uwagút.
+158	Yéi x̱ʼaÿaḵá yú íx̱tʼ
+159	«Wé neilÿee ldakát chʼéix̱ʼw aax̱ gánde nay.óosʼ».
+160	Aadáx̱ tsu yéi x̱ʼaÿaḵá
+161	«Yées aa sháa líl wé neilxʼ yéi;
+162	chʼa g̱óot aa hít ÿeexʼ yéi has nag̱atee».
+163	Aadáx̱ tsu yéi ÿaawaḵaa
+164	«Wé neilÿeegándaa kʼédéin naylʼéiwu».
+165	Aadáx̱ tsu yéi ÿaawaḵaa
+166	«Líl shaawát x̱áax̱ oolg̱einíḵ».
+{Page = 318}
+167	At shí yú yéik du tóo.
+168	Aadáx̱ yú g̱aach tóoxʼ kawlitʼík.
+169	Aadáx̱ neil wuduwashát.
+170	Neilxʼ x̱ʼwáalʼ du x̱ʼéi yéi wduwa.óo.
+171	Aadáx̱ at shí, neilxʼ.
+172	Chʼu tle gándaax̱ ÿagoot.
+173	Aadáx̱ du yéigi x̱ʼayáx̱ sheishóox̱ wududliyéx̱ du jeeÿís.
+174	Tsu du kʼideidí sákw áa ajikaawaḵaa.
+175	Aadáx̱ du sheishóox̱u ḵu.aa sʼúsʼ yáx̱ wududliyéx̱;
+176	du kʼideidí ḵu.aa sʼéetʼ yáx̱ kandujixít.
+177	Du gaawú dóol yáx̱ kandujixít.
+178	Aadáx̱ du sʼaḵseidí wududliyéx̱;
+179	x̱áat yáx̱ ḵa yaaw yáx̱ yan wududliyéx̱.
+180	Aadáx̱ alʼeix̱ yéik du tóoxʼ.
+181	Aadáx̱ yú x̱áat tlax̱ wáa sá aÿatéen;
+182	oowaÿáa chʼa du yáx̱, leengít yáx̱.
+183	Aadáx̱ yú x̱áat ḵwáani tin yoo x̱ʼala.átgi nooch.
+184	Tlax̱ wáa sá ḵaa ÿáa ḵut wooneiÿí íx̱tʼix̱ sitee.
+185	Yú du x̱oonxʼí tláx̱ wáa sá du x̱ʼayáx̱ ḵudzitee.
+186	Chʼa daa sá akanéek chʼu tle a yáx̱ yoo ÿateek.
+187	Ḵukg̱wanaawú chʼu tle ḵóon yóo akanéek.
+188	Ḵa yéi ḵukg̱waneex̱í chʼu tle yóo akaníkk, a yáx̱ yoo ÿateek.
+189	«Ÿanshóode naḵúx̱» yóo yoo ḵuÿasiḵéik, daa sá gax̱dujáaḵ ḵóon yoo akaÿaníkk.
+{Page = 319}
+{Paragraph = 9}
+190	Ḵa yéi x̱ʼaÿaḵá
+191	«Líl chʼayóokʼ aanx̱ ax̱ een ÿee ulgáasʼiḵ; tlax̱ táakw ÿeenxʼ tsá.».
+192	A yáx̱ wootee.
+193	Tléil du een áhé ulgásʼch.
+194	Tlax̱ táakw ÿeenxʼ tsa du een aant awligásʼ.
+195	Aadáx̱ ḵu.aa tlax̱ yoo kwduwajeek, yú aantḵéinich.
+196	Aadáx̱ yéi x̱ʼaÿaḵá tléináx̱ ÿakʼéiÿi ḵáa kei kg̱wanéekw.
+197	Tlax̱ du x̱ʼéi aduwaheen.
+198	A yáx̱ wootee: tléináx̱ ÿakʼéiÿi ḵáa woonéekw.
+199	A káxʼ wuduwahee aawasán.
+200	Chʼu tle aanḵáawux̱ wusitee.
+201	Du aantḵéini yéi aÿawsiḵaa
+202	«X̱ʼag̱ax̱eiÿí aadóo sá at gux̱latéen».
+203	Chʼa ldakát yú aantḵéini x̱ʼeix̱éich;
+204	wáa sá yoo kwduwajeek.
+205	Hé aadáx̱ yú x̱áat ḵa yú yaaw ḵa yú dóol ḵa yú sʼéetʼ, chʼa wáa sá ḵoonoogún, chʼa ldakát yéi wootee.
+206	Tlax̱ ḵaa ÿáa ḵut woonee;
+207	chʼa ldakát woosh teen kadunéek.
+208	Yú yées sháa ḵu.aa tléil ash ultín.
+209	Ḵa yú at gug̱wax̱aaÿí tléil chʼa koogéiÿi;
+210	tsʼas du yéigich kʼédéin wusneeÿí, tsʼa at ux̱áaych.
+211	Ḵa héen agux̱danaaÿí tsu yú yéikch kʼédéin yoo sineek.
+212	Daa sá yú du yéigich yéi ÿawsiḵaa:
+213	«Yóotʼát gag̱eex̱áa, ax̱ sʼaatí».
+214	Aag̱áa tsá ax̱éix̱.
+215	Chʼa ldakát át tsʼas du yéigi x̱ʼaaḵáak, tsʼa tsá a x̱ʼayáx̱ tsá yéi yoo asineek.
+{Page = 310}
+216	Ḵa tléil litóoji át oox̱á.
+217	Ḵa tléil awushá.
+218	Chʼa ldakát yéikch aadé daaÿaḵaaÿí a yáx̱ ḵudzitee.
+219	Ÿeewuÿáatʼ aag̱áa ḵudziteeÿí.
+220	Ḵa du shax̱aawú tléil dleitx̱ wunee;
+221	chʼa aax̱ wudishán.
+222	Hóochʼ áyá.
