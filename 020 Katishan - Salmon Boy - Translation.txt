@@ -27,6 +27,7 @@
 15	so then he’s also wading back out.
 16	Then he swam wrongly and finally he was sucked down.
 17	He wasn’t seen again on the water.
+{Paragraph = 2}
 18	Later his father missed him and said
 19	“Where is my dear son?”.
 20	He tells his wife so.
@@ -48,7 +49,7 @@
 35	They didn’t eat anything after their son disappeared.
 36	From then, all of that summer they searched for him, for their son.
 37	Then months passed while they were searching for him, and then they gave up on him.
-{Paragraph = 2}
+{Paragraph = 3}
 38	After that, Aakʼwtaatseen however, it was the salmon people who apparently saved him.
 39	The ones swimming along with him were like ordinary people in his eyes.
 40	Then they went with him to the salmon people’s town.
@@ -58,7 +59,7 @@
 44	Then they headed with him toward that river.
 45	Then they put his hands around the neck of it, that river mouth crane.
 {Page = 313}
-{Paragraph = 3}
+{Paragraph = 4}
 46	After that he was always hungry.
 47	Then on the beach below town there are lots of fish eggs and he grabbed them behind his back.
 48	People finally shouted out about him:
@@ -89,7 +90,7 @@
 72	“Do you know that place where you cooked things for yourself?
 73	Perhaps it fell there, that man’s eye”.
 74	Then however, after his having done it, that aristocrat, his eye was safe.
-{Paragraph = 4}
+{Paragraph = 5}
 75	Then that woman said to him
 76	“Now they will prepare to go to your land with you”.
 77	After that all of the salmon people prepared to go with him to his land.
@@ -104,7 +105,7 @@
 86	Your cheek flesh can save people; now it’s just eating them.
 87	Our herring eggs are our cheek flesh.”
 {Page = 315}
-{Paragraph = 5}
+{Paragraph = 6}
 88	After that they came to each other, those salmon.
 89	They say
 90	“Where are you going to appear at?”.
@@ -152,7 +153,7 @@
 131	Then she put down around that salmon.
 132	After that she laid the mat down on top of the house.
 133	Inside however they keep singing shaman songs about him.
-{Paragraph = 6}
+{Paragraph = 7}
 134	Then it was trembling there during the night on the top of the house.
 135	After that the man looked at his son;
 136	he saw from his head however that he was human.
@@ -177,7 +178,7 @@
 154	“It’s me, I’m Seagull Spirit”.
 155	Then again to him it said inside him
 156	“It’s me, I’m the Salmon People’s Canoe Spirit”.
-{Paragraph = 7}
+{Paragraph = 8}
 157	Then his father went up to him.
 158	That shaman says
 159	“From inside the house, wash all of the dirt outside”.
@@ -213,7 +214,7 @@
 188	And he tells about when someone is going to be safe, and so it is like that.
 189	He tells people “Go to camp” and whatever they will kill he tells them about it.
 {Page = 319}
-{Paragraph = 8}
+{Paragraph = 9}
 190	And so he says
 191	“Don’t move to town immediately; do it right in the middle of winter.”
 192	So it was.
