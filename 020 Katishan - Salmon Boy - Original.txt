@@ -108,34 +108,34 @@
 87	“Awᴀctu′ q!o′xo ayu′ hag̣ā′q!u.”
 {Page = 315}
 {Paragraph = 6}
-88	Aadáx̱ áyú woosh x̱ánt has ÿawdigóo yú x̱áat.
-89	Yéi has x̱ʼaÿaḵá
-90	«Goodé sá ÿiÿakwg̱waháa?».
-91	A x̱oo.aa yéi ÿaawaḵaa «Uháan ḵu.aa Shtaxʼhéende»,
-92	a x̱oo.aa ḵu.aa «Jilḵáatde»,
-93	a x̱oo.aa «Tʼaaḵóode»,
-94	a x̱oo.aa «Naasdé»,
-95	a x̱oo.aa «Aalséix̱de».
-96	Chʼa ldakát yá héen has aawasáakw.
-97	Aadáx̱ áwé héen wátt wusixeex wé x̱áat.
-98	Yéi ḵuÿaawaḵaa
-99	«Yaakwnáx̱ áa gux̱daháani.»
-100	Aadáx̱ áyú kei wutáani ásgéyú yaakwnáx̱ wudihaan.
-101	Aadáx̱ áyú yú x̱áat yéi has ÿanaḵéich
-102	«Yú noow ágí tléil yan uneech?».
-103	Chʼu tle tléináx̱ a keekánde akanduḵéich.
-104	X̱áju yú sháal ásgíyú yú noow yéi has aÿasáakw.
-105	Chʼu tle ḵux̱ wudaxʼaakch, yéi ÿanaḵéich
-106	«De yánde ÿaa naneen».
-107	Wáa nanée sáyú yan uwanée yéi ÿaawaḵaa.
-108	X̱áat ḵwáani de yan uwanée.
-109	Chʼu tle héent uwaxʼák yú x̱áat.
-110	Tlax̱ hasdu toowú yakʼéi.
-111	Hé aadáx̱ yú xáanaa a daadé aawa.aat yú noow.
-112	Aadáx̱ chʼa ldakát yú x̱áat, déix̱ naa yáx̱ héent ÿaawa.áa.
-113	Aadáx̱ a ítx̱ awsiteen, du tláa éeg̱i daxásh, Aakʼwtaatseen.
-114	Aadáx̱ du tláa x̱ánde ÿaa nagút du toowúch.
-115	Chʼu tle du tláach tʼaaÿaawaḵaa du éeshch g̱ataag̱ít;
+88	Adᴀ′xayu wucxᴀ′nt hᴀs ỵa′odîgu yū′xāt.
+89	Ye hᴀs q!ā′ỵaqa,
+90	“Gudē′sa ỵī′ỵᴀkᵘgwaha.”
+91	ᴀxō′a ye ỵawaqa′ “Ohā′n qō′a Stîq!hī′nde,”
+92	axō′a “Qō′a Djîłqā′tdê,”
+93	axō′a, “T!aqo′dê,”
+94	axō′a, “Nā′sdê,”
+95	ᴀxō′a “Ałsē′xdê.”
+96	Djîłdakᴀ′t yahī′n hᴀs awasā′kᵘ.
+97	Adᴀ′xawe hīn wᴀtt wus!îx̣ī′x̣ wē′xāt.
+98	Ye qoỵā′waqa
+99	“Yākᵘ nᴀx ā′gūx dᴀhā′nî.”
+100	Adᴀ′xayu qᴀdu′ ke wutā′nî ᴀsgē′yu yākᵘ nᴀx wudîhā′n.
+101	Adᴀ′xayu yū′xāt ye hᴀs ỵânaqē′tc,
+102	“Yū′nū ᴀgî′ ʟēł yên unī′tc.”
+103	Tc!uʟe′ ʟē′nᴀx ᴀkīkᴀ′ndî akᴀ′nduqē′tc.
+104	Hᴀdju′ yucā′ł ᴀ′sgîyu yunū′wu ye hᴀs aỵasā′kᵘ.
+105	Tc!uʟe′ qox wudaq!ā′ktc ye ỵânaqē′tc
+106	“Deyêndê ỵanᴀnī′n.”
+107	Wananī′sayu yên uwanī′ ye ỵawaqa′.
+108	Xāt qoa′nî de yên uwanī′.
+109	Tc!uʟe′ hīn uwaq!ᴀ′q yū′xāt.
+110	ʟᴀx hᴀsdutuwu′ yuk!e′.
+111	He adᴀ′x yux̣ā′na ᴀdade′ ā′waāt yūnū′.
+112	Adᴀ′x djîłdakᴀ′t yū′xāt dēxnayê′x hīnt ỵā′waa.
+113	Adᴀ′x aî′t aosîtī′n duʟā′ īg̣edᴀx̣ᴀ′c Ak!ᵘtatsī′n.
+114	Adᴀ′x duʟā′ xᴀ′ndî ỵānagu′t dutuwu′tc.
+115	Tc!uʟe′ duʟā′tc t!a′yawaqa duī′ctc g̣ᴀtag̣ê′t
 {Page =  316}
 116	ḵa chʼu a x̱ánt ásgí uwaxʼák.
 117	Aadáx̱ tsú a eet tsú át aÿaawaḵaa
