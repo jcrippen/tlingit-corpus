@@ -8,3 +8,28 @@
 {Orthography = RP}
 {Dialect = Northern – Central – Hoonah}
 {Page = 244}
+1	G̱athéeni yóo áwé duwasáakw
+2	wé haa aani.
+3	G̱athéeni,
+4	wé Sitʼ Eeti G̱eey.
+5	A áwé á duwa.óo.
+6	Ldakát yéidei x̱áat ḵu.aa áwé áx̱ ya.aa.
+7	A káx̱ áwé duwa.óo; wé aanx̱ wududliyéx̱.
+8	Ldakát yéidei x̱áat áwu á.
+9	Yakʼéiyi x̱áat áx̱ ya.aayéen.
+10	Awé chʼu áa yéi ḵuteeyée áwé
+11	wé hitxʼ.
+12	Tlax̱ keijin yaanax̱ giwé át udaḵeen
+13	wé hitxʼ:
+14	yá Kaagwaantaan
+15	ḵa wé Wooshkeetaan
+16	ḵa wé Eechhittaan
+17	ḵa
+18	yá ooháan Chookaneidéex̱ haa sateeyi,
+19	ldakát uhaan áwé awu.á.
+20	Aa yéi haa yatee.
+21	A áwé
+22	chʼu wáa yóo tukdatángi sá kwshiwé
+23	wé shaatk' ḵwá
+24	wooweidł? At tʼéit dus.áa.
+{Page = 246}
