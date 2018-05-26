@@ -158,7 +158,7 @@
 {Paragraph = 7}
 134	Aadáx̱ ḵu.aa aadé kawdinét yú taat ÿeen yú hít kaadé.
 135	Aadáx̱ ḵu.aa yú ḵáa du ÿéett awdlig̱én;
-136	wsiteen du shaanáx̱ ḵu.aa chʼu tle leengítx̱ sitee.
+136	awsiteen du shaanáx̱ ḵu.aa chʼu tle leengítx̱ sitee.
 137	Aadáx̱ tsu a eet át awdlig̱én;
 138	daa sáyú du katʼóotdáx̱ du kínde leengítx̱ sitee?
 {Page = 317}
