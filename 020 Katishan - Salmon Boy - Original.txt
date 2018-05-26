@@ -93,6 +93,7 @@
 72	“Isîkū′ gî yū′a ᴀt gaỵîsī′ỵiỵê?
 73	Gwᴀł a kao-ux̣ī′x̣ yuqā′wag̣ê.”
 74	Adᴀ′x qo′a ye awū′sniỵî ît yū′anqawo tc!uʟe′ wunē′x duwā′q.
+{Paragraph = 6}
 75	Adᴀ′x yū′cāwᴀt ye acia′osîqa,
 76	“De îānê′de îī′n ke ᴀt g̣ᴀx dux̣ū′n.”
 77	Adᴀ′x djîłdakᴀ′t yū′xāt qoa′nî duī′n ᴀt wux̣ū′n duānî′de.
@@ -107,7 +108,7 @@
 86	“Ỵī′wᴀctu q!o′xōtc qog̣ā′xsînēx dē′djᴀᴀxa′.”
 87	“Awᴀctu′ q!o′xo ayu′ hag̣ā′q!u.”
 {Page = 315}
-{Paragraph = 6}
+{Paragraph = 7}
 88	Adᴀ′xayu wucxᴀ′nt hᴀs ỵa′odîgu yū′xāt.
 89	Ye hᴀs q!ā′ỵaqa,
 90	“Gudē′sa ỵī′ỵᴀkᵘgwaha.”
@@ -137,117 +138,117 @@
 114	Adᴀ′x duʟā′ xᴀ′ndî ỵānagu′t dutuwu′tc.
 115	Tc!uʟe′ duʟā′tc t!a′yawaqa duī′ctc g̣ᴀtag̣ê′t
 {Page =  316}
-116	ḵa chʼu a x̱ánt ásgí uwaxʼák.
-117	Aadáx̱ tsú a eet tsú át aÿaawaḵaa
-118	«Aakʼé x̱áat héix̱ uwaxʼák».
-119	Aadáx̱ ḵu.aa du éeshch uwatáḵ.
-120	Chʼu tle tléil sh daax̱ awdanook wudutaag̱í.
-121	Aadáx̱ ḵu.aa du shát yéi aÿawsiḵaa
-122	«Tóoch sákw naxásh».
-123	Aadáx̱ ḵu.aa kaax̱ yax̱ asaÿalít, yatʼéexʼ, du lítaaÿi át yoo ÿashix̱ʼélk, daa sáyú.
-124	Awsiteen du ÿéet séi eeḵ katʼéexʼi.
-125	Chʼu tle kei sh tʼaaÿawdiḵaa
-126	«Ax̱ ÿéetkʼ ásgéyá;
-127	x̱áat ḵwáanich ásgí wusneix̱ín.
-128	Du seit katlʼéeni eeḵ katʼéexʼi áyá ÿatee.»
-129	Chʼu tle g̱aach éeg̱i aawashát, x̱ʼwáalʼ tsú.
-130	Yéi aÿa.óo yú g̱aach.
-131	Chʼu tle yú x̱áat daa yéi aawa.óo yú x̱ʼwáalʼ.
-132	Aadáx̱ yú hít káa yan awsitáa yú g̱aach.
-133	Neil ḵu.aa chʼa tlákw íx̱tʼ sheeÿí dushí du daaxʼ.
-{Paragraph = 7}
-134	Aadáx̱ ḵu.aa aadé kawdinét yú taat ÿeen yú hít kaadé.
-135	Aadáx̱ ḵu.aa yú ḵáa du ÿéett awdlig̱én;
-136	wsiteen du shaanáx̱ ḵu.aa chʼu tle leengítx̱ sitee.
-137	Aadáx̱ tsu a eet át awdlig̱én;
-138	daa sáyú du katʼóotdáx̱ du kínde leengítx̱ sitee?
-{Page = 317}
-139	Aadáx̱ a eet tsu át awdlig̱én;
-140	chʼa ldakát leengítx̱ sitee.
-141	Aadáx̱ a eet aadé yéik du tóo yoo x̱ʼaÿatánk.
-142	Aadáx̱ ḵu.aa yéi x̱ʼaÿaḵá
-143	«X̱át áyá, Shanyaakʼwtlaax̱ áyá x̱át»;
-144	yóo x̱ʼḁÿaḵá yú yéik du tóoxʼ.
-145	«X̱át áyá» yóo x̱ʼaÿaḵá du tóoxʼ yú yéik,
-146	«Ḵaa Tú Kax̱saké Héeni Wát Ká Dóoli áyá x̱át».
-147	Tsu yéi ÿaawaḵaa yú yéik du tóoxʼ
-148	«X̱át áyá, Sʼéetʼ Ḵuyéigi áyá x̱át».
-149	Aadáx̱ yú shaawát ashukawujaaÿí tsú du yéigíx̱ wusitee,
-150	«X̱át áyá Shaawát Ḵuyéigi áyá x̱át».
-151	Aadáx̱ tsú du tóoxʼ yéi aÿaawaḵaa
-152	«X̱át áyá, Yaaw Ḵuyéigi áyá x̱át».
-153	Aadáx̱ tsu a eet tsú du tóoxʼ ÿaa x̱ʼawditaan
-154	«X̱át áyá, Kéidladi Ḵuyéigi áyá x̱át».
-155	Aadáx̱ tsu a eet yéi ÿaawaḵaa du tóoxʼ
-156	«X̱át áyá, X̱áat Ḵwáani Yaagú Ḵuyéigi áyá x̱át».
+116	qᴀ′dju ᴀxᴀ′nt ᴀ′skî ūwaq!ᴀ′q.
+117	Adᴀ′x ts!u aî′t ts!u ᴀt aỵawaqā′,
+118	“Ak!ê′ xāt hēx uwaq!ᴀ′q.”
+119	Adᴀ′x qō′a duī′ctc uwatᴀ′q.
+120	Tc!uʟe′ ʟēł ctāx aodanu′kᵘ wudutā′g̣ê.
+121	Adᴀ′x qō′a ducᴀ′t ye aỵa′osîqa,
+122	“Tūdj sᴀkᵘ nᴀx̣ᴀ′c.”
+123	Adᴀ′x qō′a kāx yᴀx āsaỵa′ʟîq!, yêtī′q! dułî′taỵî ᴀt yuỵᴀcîq!ēłk dā′sayu.
+124	Aosîtī′n duỵī′t sî ēq kᴀtî′q!î.
+125	Tc!uʟe′ ke ct!aỵa′odîqa,
+126	“ᴀxỵī′tk! ᴀsgē′ya
+127	xāt qoa′nitc ᴀ′sk!î wusnexê′n.
+128	Dusē′t kᴀłī′nî ēq kᴀtî′q! a′ya ỵā′tî.”
+129	Tc!uʟe′ g̣ātc ī′qg̣e awacᴀ′t q!oaʟ!ᴀtū′.
+130	Ye aỵaū′ yug̣ātc.
+131	Tc!uʟe′ yūxā′t daỵê′ awaū′ yuq!oa′ʟ!.
+132	Adᴀ′x yuhî′t ka yên aosîta′ yug̣ā′tc.
+133	Nēł qo′a tcᴀʟᴀ′kᵘ îxt! cī′ỵê ducî′ dudā′q!.
 {Paragraph = 8}
-157	Aadáx̱ du éesh du x̱ánt uwagút.
-158	Yéi x̱ʼaÿaḵá yú íx̱tʼ
-159	«Wé neilÿee ldakát chʼéix̱ʼw aax̱ gánde nay.óosʼ».
-160	Aadáx̱ tsu yéi x̱ʼaÿaḵá
-161	«Yées aa sháa líl wé neilxʼ yéi;
-162	chʼa g̱óot aa hít ÿeexʼ yéi has nag̱atee».
-163	Aadáx̱ tsu yéi ÿaawaḵaa
-164	«Wé neilÿeegándaa kʼédéin naylʼéiwu».
-165	Aadáx̱ tsu yéi ÿaawaḵaa
-166	«Líl shaawát x̱áax̱ oolg̱einíḵ».
-{Page = 318}
-167	At shí yú yéik du tóo.
-168	Aadáx̱ yú g̱aach tóoxʼ kawlitʼík.
-169	Aadáx̱ neil wuduwashát.
-170	Neilxʼ x̱ʼwáalʼ du x̱ʼéi yéi wduwa.óo.
-171	Aadáx̱ at shí, neilxʼ.
-172	Chʼu tle gándaax̱ ÿagoot.
-173	Aadáx̱ du yéigi x̱ʼayáx̱ sheishóox̱ wududliyéx̱ du jeeÿís.
-174	Tsu du kʼideidí sákw áa ajikaawaḵaa.
-175	Aadáx̱ du sheishóox̱u ḵu.aa sʼúsʼ yáx̱ wududliyéx̱;
-176	du kʼideidí ḵu.aa sʼéetʼ yáx̱ kandujixít.
-177	Du gaawú dóol yáx̱ kandujixít.
-178	Aadáx̱ du sʼaḵseidí wududliyéx̱;
-179	x̱áat yáx̱ ḵa yaaw yáx̱ yan wududliyéx̱.
-180	Aadáx̱ alʼeix̱ yéik du tóoxʼ.
-181	Aadáx̱ yú x̱áat tlax̱ wáa sá aÿatéen;
-182	oowaÿáa chʼa du yáx̱, leengít yáx̱.
-183	Aadáx̱ yú x̱áat ḵwáani tin yoo x̱ʼala.átgi nooch.
-184	Tlax̱ wáa sá ḵaa ÿáa ḵut wooneiÿí íx̱tʼix̱ sitee.
-185	Yú du x̱oonxʼí tláx̱ wáa sá du x̱ʼayáx̱ ḵudzitee.
-186	Chʼa daa sá akanéek chʼu tle a yáx̱ yoo ÿateek.
-187	Ḵukg̱wanaawú chʼu tle ḵóon yóo akanéek.
-188	Ḵa yéi ḵukg̱waneex̱í chʼu tle yóo akaníkk, a yáx̱ yoo ÿateek.
-189	«Ÿanshóode naḵúx̱» yóo yoo ḵuÿasiḵéik, daa sá gax̱dujáaḵ ḵóon yoo akaÿaníkk.
-{Page = 319}
+134	Adᴀ′x qo′a ade′ kaodinê′t yū′tāt ỵīn yuhî′t kādê′.
+135	Adᴀ′x qo′a yuqā′ duỵī′t aoʟ̣îg̣ê′n
+136	aosîtē′n ducā′nᴀx qo′a tc!uʟe′ łīngî′tx sîti′.
+137	Adᴀ′x ts!u a-î′t ᴀt aoʟ̣îg̣ê′n
+138	dāsayu′ dukᴀtū′t dᴀx dukî′ndî łīngî′tx sîti′.
+{Page = 317}
+139	Adᴀ′x a-î′t ts!u ᴀt aoʟ̣îg̣ê′n.
+140	Djîłdakᴀ′t łīngî′tx sîti′.
+141	Adᴀ′x a-î′t ade′ yēk dutu′ yuq!aỵatᴀ′nk.
+142	Adᴀ′x qo′a yē q!aỵaqᴀ′
+143	“Xᴀta′ỵa Cᴀnyak!ᵘʟā′x, ᴀxāt,′”
+144	yū′q!ỵaqᴀ yuyē′k dutū′q!.
+145	“Xᴀta′ỵa,” yuq!aỵaqa′ dutū′q! yuyē′k,
+146	“Qatukwᴀ′x-sᴀka-hī′nî-wᴀtkᴀ-dū′łî a′ỵa xᴀt.”
+147	Ts!u ye ỵawaqa′ yuyē′k dutū′q!,
+148	“Xᴀ′taỵa Sîī′t-koyē′ga xᴀt.”
+149	Adᴀ′x yū′cāwᴀt ᴀcukawudjā′ỵî ts!u duyē′gîx osîte′,
+150	“Xᴀta′ỵa Cāwᴀ′t-qoyē′k ᴀ′xᴀt.”
+151	Adᴀ′x ts!u dutū′q! ye aỵā′waqa
+152	“Xᴀta′ỵa, yao-qoyē′k ᴀ′xᴀt.”
+153	Adᴀ′x ts!u a-î′t ts!u dutū′q! āq!aodîta′,
+154	“Xᴀ′taỵe Kē′ʟ̣adî-qoyē′k axᴀ′t.”
+155	Adᴀ′x ts!u a-î′t ye ỵawaqa′ dutū′q!
+156	“Xᴀta′ỵa Xāt-qoa′nî-yā′gu-qoyē′k, ᴀxᴀ′t.”
 {Paragraph = 9}
-190	Ḵa yéi x̱ʼaÿaḵá
-191	«Líl chʼayóokʼ aanx̱ ax̱ een ÿee ulgáasʼiḵ; tlax̱ táakw ÿeenxʼ tsá.».
-192	A yáx̱ wootee.
-193	Tléil du een áhé ulgásʼch.
-194	Tlax̱ táakw ÿeenxʼ tsa du een aant awligásʼ.
-195	Aadáx̱ ḵu.aa tlax̱ yoo kwduwajeek, yú aantḵéinich.
-196	Aadáx̱ yéi x̱ʼaÿaḵá tléináx̱ ÿakʼéiÿi ḵáa kei kg̱wanéekw.
-197	Tlax̱ du x̱ʼéi aduwaheen.
-198	A yáx̱ wootee: tléináx̱ ÿakʼéiÿi ḵáa woonéekw.
-199	A káxʼ wuduwahee aawasán.
-200	Chʼu tle aanḵáawux̱ wusitee.
-201	Du aantḵéini yéi aÿawsiḵaa
-202	«X̱ʼag̱ax̱eiÿí aadóo sá at gux̱latéen».
-203	Chʼa ldakát yú aantḵéini x̱ʼeix̱éich;
-204	wáa sá yoo kwduwajeek.
-205	Hé aadáx̱ yú x̱áat ḵa yú yaaw ḵa yú dóol ḵa yú sʼéetʼ, chʼa wáa sá ḵoonoogún, chʼa ldakát yéi wootee.
-206	Tlax̱ ḵaa ÿáa ḵut woonee;
-207	chʼa ldakát woosh teen kadunéek.
-208	Yú yées sháa ḵu.aa tléil ash ultín.
-209	Ḵa yú at gug̱wax̱aaÿí tléil chʼa koogéiÿi;
-210	tsʼas du yéigich kʼédéin wusneeÿí, tsʼa at ux̱áaych.
-211	Ḵa héen agux̱danaaÿí tsu yú yéikch kʼédéin yoo sineek.
-212	Daa sá yú du yéigich yéi ÿawsiḵaa:
-213	«Yóotʼát gag̱eex̱áa, ax̱ sʼaatí».
-214	Aag̱áa tsá ax̱éix̱.
-215	Chʼa ldakát át tsʼas du yéigi x̱ʼaaḵáak, tsʼa tsá a x̱ʼayáx̱ tsá yéi yoo asineek.
+157	Adᴀ′x duī′c duxᴀ′nt uwagu′t.
+158	Yē q!aỵaqa′ yuî′xt!,
+159	“Wé′nēłỵi łdakᴀ′t tcēq! āxgᴀ′ndî naiū′s!.”
+160	Adᴀ′x ts!u ye q!aỵaqᴀ′,
+161	“Yīs aca′ łîł wé′nełq! ye
+162	tcᴀg̣ō′t āhî′t ỵīq! ye hᴀs nᴀgᴀti′.”
+163	Adᴀ′x ts!u ye ỵawaqa′
+164	“Wé′nēłye gᴀ′nda k!êdē′n naiʟ!ē′wu.”
+165	Adᴀ′x ts!u ye ỵawaqa′
+166	“Łîł cāwᴀ′t xāx ułg̣enê′q.”
+{Page = 318}
+167	ᴀt cî yū′yēk dutu′.
+168	Adᴀ′x yū′g̣ātc tūq! kaołît!î′k.
+169	Adᴀ′x nēł wuduwacᴀ′t.
+170	Nēłq! q!oaʟ! duq!we′ ye duwau′.
+171	Adᴀ′x ᴀt cî′ nēłq!.
+172	Tc!uʟe′ gᴀ′nda ỵᴀgū′t.
+173	Adᴀ′x duyē′gî q!a yᴀx cecu′x wuduʟ̣îyᴀ′x dudjiỵî′s.
+174	Ts!u duk!êdē′dî sᴀkᵘ ā′kadjî kā′waqa.
+175	Adᴀ′x ducecū′xu qo′a s!ūs! yêx wuduʟ̣îyê′x
+176	duk!îde′di qo′a sîī′t yêx kᴀndū′djîxît.
+177	Dugā′wu dū′łi yêx kandudjîxî′t.
+178	Adᴀ′x dus!ᴀqse′dî wuduʟ̣îyê′x
+179	xāt yêx qa yao yêx yên duʟ̣îyê′x.
+180	Adᴀ′x aʟ!ē′x yēk dutū′q!.
+181	Adᴀ′x yuxā′t ʟᴀx wā′sᴀ aỵatī′n
+182	uwaỵa′ tcᴀ duyê′x łīngî′t yêx.
+183	Adᴀ′x yuxā′t qoa′nî tîn yuq!o′łaᴀtgînutc.
+184	ʟᴀx wâ′sa qaya′ qot wuneỵî′ îxt!î′x sitî′.
+185	Yudoxō′nq!î ʟᴀx wâ′sa doq!wa′ yêx qodziti′.
+186	Tc!ᴀ dā′sa ᴀkᴀnī′k tc!uʟe′ ayê′x yuỵatī′k.
+187	Qokᵘgwanā′wu tc!uʟe′ qōn yuᴀkānî′k.
+188	Qaye′ qō′kᵘgwanēxe tc!uʟe′ yuᴀkanî′kk ayê′x yū′ỵᴀtīk.
+189	Yên cū′dê naqo′x yuyukoỵasîqē′k dā′sᴀ g̣ᴀx dujā′q qōn yuᴀkā′ỵanîkk.
+{Page = 319}
+{Paragraph = 10}
+190	Qa ye q!aỵaqᴀ′
+191	“Łîł tc!a yūk ānx ᴀxī′n ỵīułg̣ā′s!î ʟᴀx tā′guỵīnq! tsa.”
+192	Ayê′x wuti′.
+193	ʟēł duī′n nahe′ułgᴀstc.
+194	ʟᴀx tā′kᵘỵīn tsa duī′n ān aołîgā′s!.
+195	Adᴀ′x qo′a ʟᴀx yūk dū′wadjīk yū′āntqenitc.
+196	Adᴀ′x ye q!aỵaqa′ ʟē′nᴀx ỵᴀk!ē′ỵî qa kēkᵘg̣wᴀnī′kᵘ.
+197	ʟᴀx dok!ē′ ᴀduwahī′n.
+198	Ayᴀ′x wutī′ ʟē′nᴀx yuk!ē′ỵi qa wunī′k!ᵘ.
+199	ᴀkᴀ′q! wuduwahi′ āwasê′n.
+200	Tc!uʟe′ ānqā′wo wusîti′.
+201	Duāntqenî′ ye aỵa′osîqa,
+202	“Q!ᴀg̣axeỵî adō′sᴀ ᴀt g̣ox łatī′n.”
+203	Tcᴀłdakᴀ′t yuāntqenî′ q!exē′tc
+204	wā′sa yūk dū′wadjīk.
+205	He-adᴀ′x yū′xāt qa yū′yao qayudū′ł qa yusîī′t tcᴀ wāsa kunūgu′n djîłdakᴀ′t wuti′.
+206	ʟᴀx qaỵa′ qot wunê′
+207	djᴀtdakᴀ′t wuctī′n kᴀdunī′k.
+208	Yuyī′s ca qo′a ʟēł ᴀc ūłtī′n.
+209	Kayū′ ᴀt gugwaxā′ỵî ʟēł tc!ᴀ kugē′ỵî
+210	ts!ᴀs duyē′gitc k!êdē′n wūsniỵî′ ts!a ᴀt uxwa′îtc.
+211	Qa hīn ᴀgu′x dᴀnaî′ ts!u yuyē′ktc k!êdē′n yusînī′k.
+212	Dā′sᴀỵ duyē′gîtc ye ỵaosîqa′,
+213	“Yūt!ᴀ′t gᴀg̣e′xa, ᴀxs!ā′tî.”
+214	ᴀg̣a′ tsᴀ ᴀxē′x.
+215	Djᴀłdakᴀ′t-ᴀt ts!ᴀs duyē′gî q!ᴀqā′k ts!ᴀ′tsᴀ ᴀq!ayê′x tsa ye yuᴀsînē′q.
 {Page = 310}
-216	Ḵa tléil litóoji át oox̱á.
-217	Ḵa tléil awushá.
-218	Chʼa ldakát yéikch aadé daaÿaḵaaÿí a yáx̱ ḵudzitee.
-219	Ÿeewuÿáatʼ aag̱áa ḵudziteeÿí.
-220	Ḵa du shax̱aawú tléil dleitx̱ wunee;
-221	chʼa aax̱ wudishán.
-222	Hóochʼ áyá.
+216	Qa ʟēł ʟ̣îtū′djî ᴀt uxua′.
+217	Qa ʟēł awucᴀ′.
+218	Tcîłdakᴀ′t yēktc ade′ daỵaqaỵî′ ayê′x qodzîte′.
+219	Ỵiwuyā′t! ag̣a′ kodzitiỵî′.
+220	Qa ducᴀxā′wu ʟēł ʟ̣etî′x wunî′
+221	tca āx wudicî′n.
+222	Hū′tc!aya.
