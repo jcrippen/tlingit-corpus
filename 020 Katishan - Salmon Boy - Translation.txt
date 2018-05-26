@@ -65,6 +65,7 @@
 48	People finally shouted out about him:
 49	“Shanyaakʼwtlaax̱ is eating fish eggs on the beach below town”.
 50	After that he felt bad.
+{Paragraph = 5}
 51	Behind it next door to him they were always showing their faces dancing.
 52	So then he looked inside, that place where people are dancing.
 53	After a while he looked into the house where they were dancing, and his face was all over fish eggs.
@@ -90,7 +91,7 @@
 72	“Do you know that place where you cooked things for yourself?
 73	Perhaps it fell there, that man’s eye”.
 74	Then however, after his having done it, that aristocrat, his eye was safe.
-{Paragraph = 5}
+{Paragraph = 6}
 75	Then that woman said to him
 76	“Now they will prepare to go to your land with you”.
 77	After that all of the salmon people prepared to go with him to his land.
@@ -105,7 +106,7 @@
 86	Your cheek flesh can save people; now it’s just eating them.
 87	Our herring eggs are our cheek flesh.”
 {Page = 315}
-{Paragraph = 6}
+{Paragraph = 7}
 88	After that they came to each other, those salmon.
 89	They say
 90	“Where are you going to appear at?”.
@@ -153,7 +154,7 @@
 131	Then she put down around that salmon.
 132	After that she laid the mat down on top of the house.
 133	Inside however they keep singing shaman songs about him.
-{Paragraph = 7}
+{Paragraph = 8}
 134	Then it was trembling there during the night on the top of the house.
 135	After that the man looked at his son;
 136	he saw from his head however that he was human.
@@ -178,7 +179,7 @@
 154	“It’s me, I’m Seagull Spirit”.
 155	Then again to him it said inside him
 156	“It’s me, I’m the Salmon People’s Canoe Spirit”.
-{Paragraph = 8}
+{Paragraph = 9}
 157	Then his father went up to him.
 158	That shaman says
 159	“From inside the house, wash all of the dirt outside”.
@@ -214,7 +215,7 @@
 188	And he tells about when someone is going to be safe, and so it is like that.
 189	He tells people “Go to camp” and whatever they will kill he tells them about it.
 {Page = 319}
-{Paragraph = 9}
+{Paragraph = 10}
 190	And so he says
 191	“Don’t move to town immediately; do it right in the middle of winter.”
 192	So it was.

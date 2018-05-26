@@ -66,6 +66,7 @@
 47	Aadáx̱ yú aan ig̱ayáa kaháakw sheeÿadihéin ḵa ÿatʼéináx̱ akawdisháat.
 48	Kei tʼaanduwa.éexʼ:
 49	«Shanyaakʼwtlaax̱ aan ig̱ayáa kaháagu aÿax̱á.»
+{Paragraph = 5}
 50	Aadáx̱ du toowú ÿanéekw.
 51	A tʼáak du kʼidaakaadé ÿag̱as.éich alʼeix̱.
 52	Aanáx̱ neil awdlig̱én, yú áa adulʼeix̱ yé.
@@ -92,7 +93,7 @@
 72	«Isikóo gí yú áa at gaÿi̬dzi.éeÿi ÿé?
 73	Gwál a káa wooxeex yú ḵáa waag̱í.»
 74	Aadáx̱ ḵu.aa yéi awusneeÿí ítx̱, yú aanḵáawu, chʼu tle wooneix̱ du waaḵ.
-{Paragraph = 5}
+{Paragraph = 6}
 75	Aadáx̱ yú shaawát yéi ash ÿawsiḵaa
 76	«De i aaníde i een kei at gax̱duxóon».
 77	Aadáx̱ chʼa ldakát yú x̱áat ḵwáani du een at wooxoon du aaníde.
@@ -107,7 +108,7 @@
 86	Ÿee washtux̱ʼúx̱uch ḵug̱waax̱sineix̱; de chʼa ax̱á.
 87	Haa washtux̱ʼúx̱u áyú haa g̱áaxʼu.»
 {Page = 315}
-{Paragraph = 6}
+{Paragraph = 7}
 88	Aadáx̱ áyú woosh x̱ánt has ÿawdigóo yú x̱áat.
 89	Yéi has x̱ʼaÿaḵá
 90	«Goodé sá ÿiÿakwg̱waháa?».
@@ -155,7 +156,7 @@
 131	Chʼu tle yú x̱áat daa yéi aawa.óo yú x̱ʼwáalʼ.
 132	Aadáx̱ yú hít káa yan awsitáa yú g̱aach.
 133	Neil ḵu.aa chʼa tlákw íx̱tʼ sheeÿí dushí du daaxʼ.
-{Paragraph = 7}
+{Paragraph = 8}
 134	Aadáx̱ ḵu.aa aadé kawdinét yú taat ÿeen yú hít kaadé.
 135	Aadáx̱ ḵu.aa yú ḵáa du ÿéett awdlig̱én;
 136	awsiteen du shaanáx̱ ḵu.aa chʼu tle leengítx̱ sitee.
@@ -180,7 +181,7 @@
 154	«X̱át áyá, Kéidladi Ḵuyéigi áyá x̱át».
 155	Aadáx̱ tsu a eet yéi ÿaawaḵaa du tóoxʼ
 156	«X̱át áyá, X̱áat Ḵwáani Yaagú Ḵuyéigi áyá x̱át».
-{Paragraph = 8}
+{Paragraph = 9}
 157	Aadáx̱ du éesh du x̱ánt uwagút.
 158	Yéi x̱ʼaÿaḵá yú íx̱tʼ
 159	«Wé neilÿee ldakát chʼéix̱ʼw aax̱ gánde nay.óosʼ».
@@ -216,7 +217,7 @@
 188	Ḵa yéi ḵukg̱waneex̱í chʼu tle yóo akaníkk, a yáx̱ yoo ÿateek.
 189	«Ÿanshóode naḵúx̱» yóo yoo ḵuÿasiḵéik, daa sá gax̱dujáaḵ ḵóon yoo akaÿaníkk.
 {Page = 319}
-{Paragraph = 9}
+{Paragraph = 10}
 190	Ḵa yéi x̱ʼaÿaḵá
 191	«Líl chʼayóokʼ aanx̱ ax̱ een ÿee ulgáasʼiḵ; tlax̱ táakw ÿeenxʼ tsá.».
 192	A yáx̱ wootee.
