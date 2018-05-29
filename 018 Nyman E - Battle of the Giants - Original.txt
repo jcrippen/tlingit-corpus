@@ -5,16 +5,84 @@
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
 {Source = Nyman & Leer 1993:2-6}
 {Transcriber =  Weihá / Jeff Leer}
-{Orthography = YNL}
-{Dialect = Northern - Interior - Atlin}
+{Orthography = L}
+{Dialect = Northern - Inland - Atlin}
 {Page = 2}
-1       Tle wê / wùch kìká áwé át has datîyin yú.á,
-2       yâdu á wé łkùdasêts'k,
-3       yâdu á wé Was'as'ê.
-4       Á áwé tle wùch tugêt has xhʼawdli.át.
-5       Tle kʼadên wùch ìn has datîyin,
-6       chʼa wâ sáyá has at kàwa.àkhw tle chʼa wùch xhʼayáxh.
-7       Á khu.as giant
-8       khudzitìyi át yê has ayasâkw.
-9       Á áwé
-10	tle chʼa yâkʼudé awé chʼu tle khuwdudlihà.
+1	Tle wê / wùch kìká áwé át has datîyin yú.á,
+2	yâdu á wé Łkùdasêtsʼk,
+3	yâdu á wé Wasʼasʼê.
+4	Á áwé tle wùch tugêt has xhʼawdli.át.
+5	Tle kʼadên wùch ìn has datîyin,
+6	chʼa wâ sáyá has at kàwa.àkhw tle chʼa wùch xhʼayáxh.
+7	Á khu.as giant
+8	khudzitìyi át yê has ayasâkw.
+9	Á áwé
+10	tle chʼa yâkʼudé áwé chʼu tle khuwdudlihà.
+11	Tléł tsu wâ sá utîyin yú.á yá shàx'w,
+12	chʼu tle dàt yáxh sá daghàti.
+13	Áyú has khułagàwu áwé yû,
+14	ách áwé yû daghàti a xhù à áwé yû,
+15	yû,
+16	wé shà.
+17	Á áwé,
+18	“Xhát axh àyíxh naxhsati yá T'àkhú,”
+19	yû áwé wùch has dàyadakhá.
+20	“Tlêkʼ, de yan xhá xhwànuk,
+21	tléł àdé àxh ghunayê khwànùgu yé,”
+22	tle yê yàwakhà.
+23	Tle wé kàxh shagaxhdułʼixʼ à yù xhʼatánk áwé.
+24	A shukát khu.a chʼa wùch has xhʼadaxîtt xhá,
+25	chʼu tle kát has sèxʼàkhwch tle,
+26	tle tsu yâx' áwé chʼu tle a dà kè has xhʼèł.àtch,
+27	wùch has xhʼadaxîtt.
+28	De wâ nanî sáwé chʼu tle wûsht has at jishùwanê.
+29	Tle àwashât, wé Wasʼasʼêch áwé wùshât yú.á.
+30	Tle khúnáxh tle ya a shàyi tle yâxʼ tle àxh àwałʼîxʼ,
+31	kàxh asèwałʼîxʼ.
+32	Tle yú diyâde áwé kè àwaghíxʼ,
+{Page = 4}
+33	“Łkùdasêtsʼk shàyíxh / naxhsatì.”
+34	Áwé chʼu tle yû yatì,
+35	àsxʼi sâni â yù kawsi.â.
+36	Tle a têxhʼi áwé tle àxh kè àwaxhútʼ,
+37	wé Tʼàkhú ash jikáxh akawułkhìdích áwé.
+38	Yá du têxhʼ,
+39	“Łkùdasêtsʼk têxhʼi khu.a Tʼàkhú Têxhʼixh naxhsatì.”
+40	áwé tle wê yê nàdà tle yê,
+41	tle yât uwaxíx.
+42	Tle yú khà têxhʼi yáxh kayaxát.
+43	Yá a łèkachûxhʼu khu.a awé tlaxh yû
+44	yínde àwayísh
+45	áwé tsá anaxh kè àwayísh.
+46	Tle yât yáxh kayaxát wêt.
+47	Chʼa dàt yís sáwé yât às â wsi.à yât,
+48	ha tle yá khà xhikshá yáxh tle yû.
+49	Yât áwé wé a łèkachûxhʼunáxh kè àwaxhútʼ,
+50	tle yât,
+51	tle áxh nàdà tle yû.
+52	“Ya Tʼàkhú kàdé nghadà yá tʼîxʼ kahîni,
+53	chʼa łdakát khà xh'ès,
+54	Łingít xhʼès,” yú.á.
+55	Á áwé
+56	wâ sá i tûch tsu gúxʼà / tlél katułałʼúxʼxh àdé si.âtʼi yé
+57	wé hîn.
+58	Áwé yìdát áwé a káxh has xhʼaxhawûsʼ–
+59	wé Chânkʼi Îsh yê sh kałnìk
+60	tle a kanaxh yè uwagút wé xʼâtʼkʼátskʼu xhá,
+{Comment = Line 62 has a spurious ł in akwdłighínk.}
+61	tle kʼadên a dà yù akwdlighínk yû akanîk.
+62	Chʼu tle té áwé yê yatì,
+63	chʼu tle solid rock áwé yê yatì yû akanîk.
+64	Chʼu tle yu diyíndáxh áwé yê kwsikàk
+65	wé té.
+66	Well, it could be, you know, wé du [łèkachûxhʼu].
+67	Wé ghîlʼ xhâwé yê yatì wé Łkùdasêtsʼk,
+68	shà,
+69	shà áwé / yê yatì.
+70	Á áwé–
+{Page = 6}
+71	[Wé Wasʼasʼê áktsú?]
+72	Wé Wasʼasʼê khu.a áwé tle
+73	du tûn at wùtì.
+74	Hú khu.a,
+75	“Kèshixjixʼà kìkàdé yê kkhwasgît.”
