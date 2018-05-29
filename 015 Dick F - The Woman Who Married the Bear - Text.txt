@@ -316,62 +316,63 @@
 291	wéitʼát tlein.
 292	Aag̱áa áwé yéi ayawsiḵaa
 293	wé du shát.
-294	"I gu.aa yáx̱ xʼwán jaʼ.
+294	“I gu.aa yáx̱ xʼwán jaʼ.
 295	De ax̱ kaanáx̱ at wootee.
 296	De ax̱ kaanáx̱ wootee.
-297	Hél ḵúx̱de yóo x̱wsanei."
+297	Hél ḵúx̱de yóo x̱wsanei.”
 298	At kʼátskʼu
 299	aawasáa
-300	aadéi akg̱wasáakw yé.
+300	aadé akg̱wasáakw yé.
 301	Saa a jeet aawatée
 302	wé du yádi.
 303	Tsu ḵáax̱ sateeyí ḵa chʼu shaawátx̱ sateeyí
-304	aadéi akg̱wasáakw yé.
+304	aadé akg̱wasáakw yé.
 305	Aag̱áa áwé tsá áa wdihaan du jix̱an.ádi.
 306	Haahá!
 307	Hél sh yayeedé akakg̱wasgaan.
-308	Hél du eedéi.
+308	Hél du eedé.
 309	Ách áwé yéi ayawsiḵaa wé du x̱úx̱.
-310	"Ihí! 	
+310	“Ihí!
 {Page = 210}
-311	Ihí jaʼ 
+311	Ihí jaʼ
 312	ihí!
 313	Yéi x̱ʼandulyéich.
 314	Yéi yoo x̱ʼadudli.átk.
-315	"Jaʼ, ihí!
+315	“Jaʼ, ihí!
 316	I kaani yán át na.atji yé áyá.
-317	Ihí."
+317	Ihí.”
 318	Chʼa yéi gwá gushé.
 319	Séitx̱ kéi yéi ajikawdzinéi.
 320	Yax̱ daaḵ yéi ayawsinéi tsu.
 321	Yax̱ daaḵ ayaawatée tsu du jix̱an.ádi.
 322	Aag̱áa áwé tsá
-323	chʼú wé neildéi tláakw kadudzixát wé x̱ʼawool
+{Comment = Line 323 has chʼú corrected to chʼu.}
+323	chʼu wé neildé tláakw kadudzixát wé x̱ʼawool
 324	wé chooneit.
 325	Áwé wé tléixʼ yateeyi aa áwé neil awax̱útʼ wé keitl.
 326	Áwé hú ḵu.aa áwé wé shaawát
-327	tayeedéi awdix̱eech.
+327	tayeedé awdix̱eech.
 328	Tayeet as.áa.
 329	Ayaawatín du éekʼ hás keidlí áyú.
 330	Aag̱áa áwé yux̱ gug̱agut nóok yéi ash yawsiḵaa,
-331	"Goosú wéidei i jeet x̱waax̱ích keitl?
-332	Haahí!" 
-333	"Tlél keitl áhé tsáaxʼ áhé."
+331	“Goosú wéide i jeet x̱waax̱ích keitl?
+332	Haahí!”
+333	“Tlél keitl áhé tsáaxʼ áhé.”
 334	Tsáaxʼ áhé yóo áwé aawasáa aan.
 335	Ách áwé gáant sh wudligásʼ.
-336	Gáani yux̱ yaa yanas.éini áwé has aawajáḵ. 
+336	Gáani yux̱ yaa yanas.éini áwé has aawajáḵ.
 337	Tle yóoooooooo
-338	éeḵdei wooleet.
+338	éeḵde wooleet.
 339	A ítx̱ ḵaa loowagooḵ.
 340	Yú éeḵxʼ áwé ḵaa jiyeeg̱áa wootee.
 341	Aag̱áa áwé wé kikʼi aa
 342	wé kikʼi aa áwé yéi yawdudziḵaa,
-343	"Aadéi nagú!
-344	aadéi nagú!
+343	“Aadé nagú!
+344	aadé nagú!
 345	Yux̱ naltlʼeet.
 346	Ldakát yá a yee
 347	yux̱ naltlʼeet
-348	a yeedáx̱."
+348	a yeedáx̱.”
 {Page = 212}
 349	Chʼa áa kéi nagúdi áwé awsiteen
 350	wé chooneit.
@@ -380,7 +381,7 @@
 353	Wé chooneit lʼéexʼi yá a x̱ʼawoolí
 354	a x̱ʼawool goojí
 355	a kát satéen.
-356	"X̱át áyá íkʼ.
+356	“X̱át áyá íkʼ.
 357	X̱át áyá.
 358	Tlél ix̱éix̱iḵ.
 359	Yee káani áwé.
@@ -388,24 +389,24 @@
 361	Du shakwtóot x̱ʼáan yaysatí íkʼ.
 362	I tláa
 363	i tláa yéi s yanasḵá
-364	̱ax̱ naa.ádi tín haat has g̱a.aat."
-365	Ách áwé aadéi woogoot yíndei
+364	ax̱ naa.ádi tín haat has g̱a.aat.”
+365	Ách áwé aadé woogoot yíndei
 366	akaawaneek.
-367	"Haa káani áwé,
+367	“Haa káani áwé,
 368	haa káani áwé.
-369	Yéi x̱át daayaḵá áx̱ dlaakʼ, 
-370	ʼdu shakwtóot x̱ʼáan yaysatí
-371	yee káani áwé.ʼ"
+369	Yéi x̱át daayaḵá áx̱ dlaakʼ,
+370	‘du shakwtóot x̱ʼáan yaysatí
+371	yee káani áwé.’”
 372	Háa!
-373	Aadéi nagú!
+373	Aadé nagú!
 374	Yiyjáḵ!
 375	Wáa sáyá ḵuwa.éin yéixʼ?
 376	Wuduwajág̱i yéixʼ l g̱adux̱aa?
 377	Aawa.áx̱.
 378	Chʼa yú dikeedáx̱.
-379	Yan akawli.áx̱ yú ḵaa shukaadéi háni áwé.
+379	Yan akawli.áx̱ yú ḵaa shukaadé háni áwé.
 380	Yei x̱ʼayaḵá du x̱ʼeis wuduwajáḵ.
-381	Ách áwé hú ḵu.aa wé kʼikʼi aa áwé tle dáak wujixíx du tláa hás x̱ándei.
+381	Ách áwé hú ḵu.aa wé kʼikʼi aa áwé tle dáak wujixíx du tláa hás x̱ánde.
 382	Woogoot.
 383	Du tlaa ḵa du éesh
 384	yéi áwé áa kéi s uwa.át
@@ -432,37 +433,38 @@
 404	Du x̱ʼayáx̱ wé kʼikʼi aa hás.
 405	A tayeet awduwa.ák.
 406	Aawa.aat.
-407	Aag̱áa áwé tsá ḵoon akaawaneek,"yóodu,
+407	Aag̱áa áwé tsá ḵoon akaawaneek, “yóodu,
 408	yóodei nay.á.
-409	Yóonáx̱ shatán sʼeiḵ"
-410	ḵoon akaawaneek, "yóonáx̱ shatán sʼeiḵ
-411	sʼeek áwé."
-412	Áwé aadéi ḵukaawanáa.
+409	Yóonáx̱ shatán sʼeiḵ”
+410	ḵoon akaawaneek, “yóonáx̱ shatán sʼeiḵ
+411	sʼeek áwé.”
+412	Áwé aadé ḵukaawanáa.
 413	Wuduwajáḵ aax̱.
 414	Á áwé wé
-415	wé ḵaa shukaadei ḵáa
+{Comment = Line 415 has shukaade corrected to shukaadé.}
+415	wé ḵaa shukaadé ḵáa
 416	wé ḵaa húnx̱u tlein.
 417	Tlél du tuwáa ushgú du x̱ʼéix̱ at wuduteeyí.
 418	Akáa jiyawlisík tle.
-419	"Tlél du x̱ʼéix̱ at yitéex̱íḵ.
+419	“Tlél du x̱ʼéix̱ at yitéex̱íḵ.
 420	Chʼa yeeháanch gax̱yisakóo wáa sá at gug̱ateeyí
-421	du x̱ʼéix̱ at yeeyteeyí yáa ax̱ x̱ʼakaanáx̱."
+421	du x̱ʼéix̱ at yeeyteeyí yáa ax̱ x̱ʼakaanáx̱.”
 422	Ách áwé tle du x̱ʼéig̱aa.
 423	Tlé du x̱ʼéig̱aa at wootee.
 424	Hél du x̱ʼéix̱ at duteex̱.
 425	De hóochʼ.
 426	De át wudig̱wáatʼ.
-427	Tlax̱ wáa teeyí sáwé 
+427	Tlax̱ wáa teeyí sáwé
 {Page = 216}
 428	yóonáx̱ naashóo aas
 429	dúḵ gíyú,
 430	chʼa yéi aas gwá gíyú,
-431	"A kʼéedei nagú.
+431	“A kʼéede nagú.
 432	Híl du éex̱ yidasheeḵ.
 433	Chʼa hú
-434	chʼa hú aadéi ng̱agóot."
-435	chʼa yéi áwés aadéi wdig̱wáatʼ.
-436	Át wudig̱wátʼ wé aas kʼí. 
+434	chʼa hú aadé ng̱agóot.”
+435	chʼa yéi áwés aadé wdig̱wáatʼ.
+436	Át wudig̱wátʼ wé aas kʼí.
 437	Du chooneidí.
 438	Hél tsú yéi yeekawuyáatʼi áwé
 439	anax̱ haat wdiḵín wé núkt.
@@ -479,13 +481,13 @@
 450	gootʼá sá.
 451	A káaxʼ áwé aadé anagútch.
 452	Aax̱ at du.een.
-453	"Hél du éex̱ idasheeḵ tle chʼa hú
-454	tle chʼa hóoch."
+453	“Hél du éex̱ idasheeḵ tle chʼa hú
+454	tle chʼa hóoch.”
 455	A yáx̱ áwé tlél du éex̱ dushee.
 456	Tle chʼa hóoch.
 457	Tle chʼa yéi teeyí áwé
 458	yax̱ sh yawdzigoodán tle chʼa hú
 459	tle yáaxʼ áwé.
 460	Haaw, yéi áyá shukatán yá sh kalneek.
-461	Tle chʼa aadéi yéi kunaaliyéidei áyá x̱wsikóo.
+461	Tle chʼa aadé yéi kunaaliyéide áyá x̱wsikóo.
 462	Tle chʼa hóochʼ.
