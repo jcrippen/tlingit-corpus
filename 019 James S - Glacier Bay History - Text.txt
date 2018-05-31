@@ -9,7 +9,7 @@
 {Dialect = Northern – Central – Hoonah}
 {Page = 244}
 1	G̱athéeni yóo áwé duwasáakw
-2	wé haa aani.
+2	wé haa aaní.
 3	G̱athéeni,
 4	wé Sitʼ Eeti G̱eey.
 5	A áwé á duwa.óo.
@@ -18,18 +18,54 @@
 8	Ldakát yéidei x̱áat áwu á.
 9	Yakʼéiyi x̱áat áx̱ ya.aayéen.
 10	Awé chʼu áa yéi ḵuteeyée áwé
-11	wé hitxʼ.
-12	Tlax̱ keijin yaanax̱ giwé át udaḵeen
-13	wé hitxʼ:
+11	wé hítxʼ.
+12	Tlax̱ keijín yaanax̱ gíwé át udaḵeen
+13	wé hítxʼ:
 14	yá Kaagwaantaan
 15	ḵa wé Wooshkeetaan
 16	ḵa wé Eechhittaan
 17	ḵa
-18	yá ooháan Chookaneidéex̱ haa sateeyi,
+18	yá ooháan Chookaneidéex̱ haa sateeyí,
 19	ldakát uhaan áwé awu.á.
 20	Aa yéi haa yatee.
 21	A áwé
-22	chʼu wáa yóo tukdatángi sá kwshiwé
-23	wé shaatk' ḵwá
-24	wooweidł? At tʼéit dus.áa.
+22	chʼu wáa yóo tukdatángi sá kwshíwé
+23	wé shaatkʼ ḵwá
+24	wooweidí? At tʼéit dus.áa.
 {Page = 246}
+25	Násʼk táakw áwé at tʼéi yéi anúkjeen.
+26	Ach áwé tlax̱ haa shaya dahéi neen yá lingítx̱ ha sateeyí,
+27	yá haa yádi aadéi tulatini yé.
+28	Tle yá nasʼgi aa táakw áwé tsá du x̱úx̱ sákw jee jidunaaḵch
+29	tle chʼa wé at tʼéidáx̱.
+30	Shaawát yát áwé du een yéi jidunéiyeen.
+31	A áwé yéi áwé yéi áwé at tʼéit áa; dé déix̱ táakw áwé; nasʼgi aa táakw áwé a kaadéi yaa ḵunahéin.
+32	De tlél nalé áwé
+33	jigax̱dunaag̱í.
+34	Gax̱dushaayi de tlél nalé.
+35	A áwé shuxʼaa g̱aadí áwé duxʼáan.
+36	Tlé tʼéexʼ
+37	tʼéexʼ tayeet woo.áayjeen g̱aat; yeedát tlél yéi at utí.
+38	A áwé duxʼan nuch.
+39	Dusxuk nuch.
+40	A áwé chʼa wáa yoo at koodayáa sá kwshíwé.
+41	Wé shaatkʼ ḵu.aa du eedée.
+42	Teey áwé anax̱ yóot wuduliyéx̱,
+43	wé hít kʼiyee anax̱ 
+44	teey.
+45	A yee áwé áa yéi duwa.óo wé shaatkʼ.
+46	Tle yóo naakée áwé s tlél gooháa yú.a.
+47	A áwé yá shaaxʼ x̱oonáx̱ áwé duwatini sitʼ áwé yóo naakéeeeeeee; yeisu yéi googenkʼi át áwé.
+48	Ax̱ wulixáatʼ yóo naakée.
+49	Tlax̱ wé héen yíkdax̱ tlél duteen; tle yóo
+50	deikéetx̱ áwé tsá duteen nuch.
+51	Awsikóo ḵu.aa yú sitʼ áa yéi teeyí.
+52	Ach áwé tle akaawagéis
+53	wé sítʼ
+54	“Sítʼ!
+55	Geis,
+56	geis.”
+57	Wé atx̱ʼéeshi aawax̱ayí, a daa x̱ʼées hi áwé tle
+58	yu keitl jiyáx̱ áwé yá aadéi ḵʼastóox̱; áwé tle ách akoolgéis.
+59	“Sítʼ
+{Page = 248}
