@@ -35,7 +35,7 @@
 25	Shaayeexáak
 26	ḵa Wasdéik.
 27	Yá ax̱ tlaakáak hás
-28	has du sh kalneegí áyá yee een kakḵwalaneek,
+28	hasdu sh kalneegí áyá yee een kakḵwalaneek,
 29	Ḵaax̱ʼachgóok daak wulsʼeesí.
 30	Sheetʼká yóo wduwasayi yé
 31	yá Lingít aaní áwé
@@ -122,7 +122,7 @@
 110	Yéi s yanaysaḵá,
 111	‘Woosáani eetínáx̱ áyá yatee Ḵaax̱ʼachgóok
 112	woosáani eetínáx̱.’”
-113	Neil has áat áwé has du ítx̱ áwé yaa yéi ndusnein
+113	Neil has áat áwé hasdu ítx̱ áwé yaa yéi ndusnein
 114	tlax̱ wáa dagaakʼéiyi aa woosáanxʼi sáwé
 115	du kaaniyán jeedáx̱ át á.
 116	Sʼootaat áwé yaax̱ has woo.aat.
@@ -135,9 +135,9 @@
 123	Yá Chʼalʼg̱eiyita.aan
 124	yakáa yéi dag̱aateeyi xʼáatʼ
 125	deikéenax̱.áa s kaháa áwé
-126	chʼa yeisú yaa naskʼén has du shukáx̱.
+126	chʼa yeisú yaa naskʼén hasdu shukáx̱.
 127	Chʼa a ítx̱ yaa s naḵúx̱u
-128	kʼeeljáa tlein has du kát agoowashát.
+128	kʼeeljáa tlein hasdu kát agoowashát.
 129	Tup!
 130	At wushtóogu yáx̱ áwé woonei.
 131	Tle tláakw áwé ḵúx̱dei s ayawdli.át yándei.
@@ -183,7 +183,7 @@
 170	Aa sá kwshí yóo gé tlax̱ yéi daléich?
 171	Ldaag̱éinax̱ áwé shanáadáx̱ daaḵ awdiyísh du xʼóowu.
 172	Yatx̱ awdlig̱én.
-173	Yánt áwé yoo liháshk has du yaagú ḵu.a.
+173	Yánt áwé yoo liháshk hasdu yaagú ḵu.a.
 174	Analg̱éin áwé gwál lʼawxʼáatʼi tlein gwáa yóo gé? Tlax̱ ligéi yú xʼáatʼ tlein.
 175	A kaanáx̱ áwé kawdi.áa kayaanxʼí.
 176	Chʼu tle wdziḵʼíkʼ áyú yú át ḵu.a; kaneilx̱ʼú
@@ -202,7 +202,7 @@
 188	Goo sá kwshí yá át ḵuwlihásh?
 189	Tlél yawduteen.
 190	Daaḵ has at kajéil
-191	aag̱áa áwé daaḵ wuduwatán has du yaagú; at gutóoxʼ
+191	aag̱áa áwé daaḵ wuduwatán hasdu yaagú; at gutóoxʼ
 192	daaḵ has aawatán.
 193	“Dlinkwát xʼwan yilatín
 194	yee yaagú, ax̱ keilkʼi hás.
@@ -372,7 +372,7 @@
 353	Dushóoch.
 354	Kʼidéin yan sh dusnéi,
 355	Ḵaax̱ʼachgóok ḵu.aa wé té yát áwé uwagút; áxʼ áwé akatʼeix̱ʼ.
-356	Has du yoo kooneigí áwé
+356	Hasdu yoo kooneigí áwé
 357	a yáa akatéix̱ʼ wé té.
 358	Chʼa yeisú áa yéi téeyin du ji.eetí.
 359	(Á áyá aadéi gax̱tooḵóox chʼa gooxʼ sá.)
@@ -461,8 +461,8 @@
 440	taan x̱ʼadaadzaayí.
 441	Kʼidéin yan at dux̱áa
 442	yan sh kalnéek
-443	has du yoo kooneigí, yan aklanéek
-444	áa ḵaa	jikaawaḵaa,
+443	hasdu yoo kooneigí, yan aklanéek
+444	áa ḵaa jikaawaḵaa,
 445	“Yóo xʼwán
 446	ḵaa jix̱oox̱ yala.át wé...
 447	ḵaa jix̱oox̱ yéi yaa gaysané
@@ -498,6 +498,6 @@
 476	aadéi x̱ʼayaḵáayi yé!
 477	Chʼa á ḵu.aa yás
 478	tlél gax̱i.aax̱.
-479	Has du ḵunóogu de yan shuwjix̱ín.
+479	Hasdu ḵunóogu de yan shuwjix̱ín.
 480	Ách áyá
 481	tlél gax̱yi.aax̱.
