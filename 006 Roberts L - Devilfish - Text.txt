@@ -6,7 +6,7 @@
 {Clan = Naasteidí, Deikee Noow Hít; Teeyneidí yádi}
 {Source = Velten 1939:66–67}
 {Transliterator = Dzéiwsh / James A. Crippen}
-{Note = Vowelless classifiers written unaspirated, e.g. CL[+D,s,+I] = “dz” (Northern “dzi”) not “ts” in “yóo sh wudzwádi”.}
+{Note = Vowelless classifiers written unaspirated, e.g. d-s-i- = “dz” (Northern “dzi”) not “ts” in “yóo sh wudzwádi”.}
 {Page = 66}
 1	Taakw eetí g̱aat yan yawu.aayí ayú
 2	gáan g̱agaanxʼ eina kaanáx̱ ldakát yóo aan
