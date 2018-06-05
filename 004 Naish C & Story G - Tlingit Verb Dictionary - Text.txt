@@ -7,13 +7,13 @@
 {Orthography = RP}
 {Dialect = Northern – Coastal – Angoon}
 {Note = The original speakers in the dictionary are anonymous, but all were from Angoon.}
-{Note = Some speakers may have a Transitional Northern subdialect rather than Coastal Northern.}
+{Note = Some speakers may have a Transitional Northern subdialect.}
 {Page = 15}
 1	Deikeenaa jeet awlitlʼít
 2	ax̱ shát x̱at wulitlʼeet
 3	at x̱alig̱aas
 4	wududlig̱aas
-5	du yoox̱ʼatángi ḵaa tóog̱aa yatee
+5	du yoo x̱ʼatángi ḵaa tóog̱aa yatee
 6	ax̱ sáni ḵaa tóog̱aa yatee
 7	ax̱ ée sh dlix̱án wé keitl
 8	áa yaa sh nalx̱án
@@ -28,39 +28,79 @@
 16	áx̱ yaa yi tunadéin ágé, ixkéexʼ yéi tí?
 17	bosst uwanúk
 18	ánkʼwt uwanúk i káalkʼw
-19	tléil yax̱ oodatsʼéin: tlákw at daa yéi jiné
+19	tléil yax̱ udatsʼéin: tlákw at daa yéi jiné
 20	xʼáaxʼ shayanalhá
 21	ax̱ aatch shayawlihaa
-22	a x̱ooníde yéi aa gax̱toosanée
-23	keijínináx̱ a x̱oonít aa oowa.át
-24	a tʼaaḵt tsú aawatée, “haat yee.á”
-25	i yát x̱ʼax̱wdliyóo ax̱ kéekʼ sákw, ax̱ kéekʼx̱ i nax̱sateet
-26	du kéekʼ yóo ayá x̱ʼalyóo
+22	a x̱ooníde yéi aa gax̱tusanée
+23	keijínináx̱ a x̱oonít aa uwa.át
+24	a tʼaaḵt tsú aawatée, «haat yee.á»
+25	i yát x̱ʼax̱wdliyóo ax̱ kéekʼ sákw, ax̱ kéekʼx̱ inax̱sateet
+26	du kéekʼ yóo áyá x̱ʼalyóo
 {Page = 17}
-27	ax̱ yáa i liḵʼéi i yoox̱ʼatángi aadé yateeyí yé
+27	ax̱ yáa iliḵʼéi i yoo x̱ʼatángi aadé yateeyi yé
 28	chʼa wa.é, i aayíx̱ has layéx̱
-29	yátx̱ x̱at woodoodliyéx̱
+29	yátx̱ x̱at wududliyéx̱
 30	éeḵde yaa kana.úk
 31	dáanaa yéi adaané áa x̱at shukakg̱eejáa
 32	yéi áwé áa i shukx̱wajeisʼ
 33	ax̱ éesh seet adaax̱éen
-34	ax̱ káak adaax̱ ashgóogoon
+34	ax̱ káak adaax̱ ashgóogun
 35	haa een a goog̱atée
 36	yóo aan ka.á haa een wootee
 37	dákde daak naltít
-38	sháal daat wooliteet
+38	sháal daat wuliteet
 {Page = 18}
-39	ax̱ keidlíxʼ agé akeedlix̱éetlʼ?
+39	ax̱ keidlíxʼ ágé akeedlix̱éetlʼ?
 40	du x̱ʼéi akoox̱dlix̱eetlʼ
 41	ax̱ tláach yéi x̱at seiwahaa
 42	akaawakéts
 43	ijikx̱waakéts
 44	tlákw yan jikakéts: yéi jiné tléil ushgóok
 45	chʼa yeisú yatseen
-46	yi tseení, x̱ʼaan ganaltáade yi gax̱dug̱éech
+46	yitseení, x̱ʼaan ganaltáade yigax̱dug̱éech
 47	tléil latseen haa jee yéi utí, naná ḵaa jeedé yanax̱tusaḵaat
 48	ax̱ jeenáx̱ kaawaháa jix̱wanaag̱í
 49	du latseení ax̱ yáa ḵut woonee: tuháayi tlein akaawalʼéexʼ
 50	ldakát hasdu yáa ḵut kei at gug̱anée
-51	ḵúnáx̱ áwé lisʼàaḵ
+51	ḵúnáx̱ áwé lisʼaaḵ
 {Page = 19}
+52	yóoxʼ shagax̱toosyáa
+53	ax̱ yaagú shax̱wsiyaa
+54	shayéinaa héende kawdudzigúḵ
+55	daak áwé ashanastéen du yaagú
+56	yaakw yeex̱ yei naléini, dákde daak shasatí
+57	du sheiyí tléil ulcheen
+58	uwaxʼán
+59	woosh has kawdlixʼán
+60	ikakwḵalaxʼáan
+61	tʼaayawduwaḵaa, «wé x̱áat héen yíkt uwahín»
+62	ax̱ yoo x̱ʼatángi yeey.áx̱ch: yaa tʼaanx̱a.íxʼ
+63	dáa déi, yaa x̱at neesgáxʼ
+64	jeewsitaaní teet ligaaw: yaa nasgáxʼ
+65	x̱at x̱ʼawsigáxʼ
+{Page = 20}
+66	x̱ʼax̱wsigáxʼ
+67	du ée x̱at jeeyanéekw
+68	tléil tóo haa ushḵeet
+69	dei tóoxʼ áwé kei nax̱shaḵít
+70	a yáaxʼ ax̱ eet x̱ʼatán
+71	a yáaxʼ yéi ayawsiḵaa, «aadóo x̱ánt sá g̱atuwa.aat?»
+72	tléil a yáaxʼ ax̱ jeet kayeeshxeet
+73	i.éexʼ áwé: aneeda.ei
+74	dei ax̱wdi.ei
+75	shux̱sitee áyá kaxéelʼ ax̱ káa yéi wuneeyí
+76	tsu hasdu waḵsheeyeexʼ yéi sh wudzinee
+77	hasdu waḵsheeyee yéi wootee
+78	gági uwagút
+79	i yát x̱walijáḵw
+{Page = 21}
+80	ax̱ éeshch a tóo daak x̱at wusigút
+81	a tóo daak has wududzi.át
+82	tlax̱ ḵúnáx̱ áyá ax̱ toowú yakʼéi i eedé, aadé ax̱ jeeyís yan yéi jeeyanéiyi yé
+83	tlákw du eex̱ akx̱wakétsch
+84	du x̱ʼéix̱ akx̱waakéts
+85	aantḵeeních kashéix̱ʼ hasdu tuwáa sigóo, Dikée Aanḵáawuch kashéix̱ʼ yáanáx̱
+86	wáachwaanxʼ du eeg̱áa kawduwaḵaa, gax̱dusháadit
+87	has akaawa.aaḵw has awusháadi
+88	shaa yadaax̱ kei nagút
+{Page = 22}

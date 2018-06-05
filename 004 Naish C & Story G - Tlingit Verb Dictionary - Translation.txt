@@ -60,3 +60,43 @@
 50	they will all be amazed
 51	he’s really ambitious
 {Page = 19}
+52	we’re going to anchor over there
+53	I anchored my boat
+54	they dropped anchor
+55	he keeps moving his boat and anchoring it further out
+56	when the tide is falling near the boat, move it further out!
+57	he’s anemic
+58	he’s angry all the time, with everyone
+59	they are angry at each other (and won’t speak)
+60	I’m going to be angry with you (said jokingly, but meant deep down)
+61	they announced, “the salmon are swimming in the creek”
+62	you hear my sayings: I announce them loudly/I call them out
+63	stop now! you are getting me annoyed (with your chattering)
+64	the waves beating (on the shore) are loud: it’s getting him annoyed (tired of it)
+65	he annoyed me by keeping on talking (so that I had to keep on replying)
+{Page = 20}
+66	I made him talk so much that he was annoyed (and hardly knew what he was saying)
+67	everything I do annoys him
+68	he’s not annoyed with us/not tired of us (that is, of our visiting him)
+69	he’s beginning to annoy me/I’m getting tired of him (that is, of his constant borrowing)
+70	answer me!
+71	he answered him, “to whom should we go?”
+72	you haven’t answered me (replied in writing)
+73	he’s calling you: answer him!
+74	I answered already/I said “yes” already
+75	I’m anticipating difficulty/I’m expecting some bad trouble is going to hit me
+76	he appeared to them again
+77	he appeared to them
+78	he appeared (came where all could see him, having been previously out of sight)
+79	I apply it to you (that is, something I have experienced I apply to you to illustrate my point)
+{Page = 21}
+80	my father appointed me (to fill the position)
+81	they were appointed
+82	I really appreciate what you have done for me
+83	I’m apprehensive all the time concerning him (fearful he will cause trouble, etc.)
+84	I’m fearful that he’ll say something that will offend someone
+85	they wanted the approval of men, more than the approval of God
+86	they sent guards to arrest him
+87	they tried to arrest him
+88	he is ascending (climbing up) the mountain
+{Page = 22}
