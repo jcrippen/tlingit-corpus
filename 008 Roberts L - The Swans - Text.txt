@@ -1,0 +1,40 @@
+{Number = 008}
+{Type = Text}
+{Title = G̱úḵlʼ / The Swans}
+{Author = Yeex̱aas / Lester Roberts}
+{Clan = Naasteidí, Deekee Noow Hít; Teeyneidí yádi}
+{Source = Velten 1944:169–170}
+{Transcriber = Henry Velten}
+{Dialect = Southern - Henya - Klawock}
+{Page = 169}
+1	Chʼáakw ldakát yéide gáaxw,
+2	ḵaax̱ ḵa kindachooneit tlax̱
+3	waa shyadahéini sáyú a yayeexʼ
+4	át dulyex̱ noojéen atx̱á yís.
+5	Héen yíkxʼ áyú hítkʼ yáx̱
+6	at dulyeix̱ch chʼa a yeet
+7	aháni yéix̱. A x̱ʼawoolxʼ áyú chʼu
+8	yei yagu.áatlʼkʼ hasdu atx̱aayí
+9	x̱áat kaháagu aadé has akuléetch
+10	yú hítkʼ niyaadé chʼa ḵwa
+11	shyadahéindéin tle ya ḵunax̱einí
+12	áyú yú ḵaax̱ kindachooneit
+13	chʼu chʼa daa sá chʼas yú hít
+14	x̱ʼawoolnáx̱ neildé yaa ldíx̱ʼ natsáag̱i
+15	áyú a káax̱ yú sá
+16	kawduwatíx̱k. Tléixʼ yakyee kaanáx̱
+17	áyú násʼk jinkaat tlax̱ tlʼág̱aa
+18	wudashátx̱ sitee. Tléixʼ yakyee áyú
+19	tléináx̱ ḵáa chʼu du hítkʼi yeexʼ át
+20	yawuyeigí deix̱ g̱úḵʼ
+21	a x̱ʼawoolnáx̱ neil ḵuwax̱áa tle
+22	chʼu deix̱ ashaawatleiḵw. Du hítkʼi
+23	yeedáx̱ daak has ash saxát
+24	áyú cha chʼa íxde
+25	ash een has kawdltʼaatl. Tle
+26	yú geeyí ḵáaxʼ deikéexʼ daak
+27	has kaltʼáatl áyú tsa a káax̱
+28	a sá kaawateex̱. Aax̱ áyú
+29	du yeexʼ daak yakw uwaháa tle
+30	aax̱ yan yawduwax̱aa du g̱úḵlʼi
+31	een.
