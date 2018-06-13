@@ -100,3 +100,35 @@
 87	they tried to arrest him
 88	he is ascending (climbing up) the mountain
 {Page = 22}
+89	the deer climb up to the mountain pastures (in July)
+90	“who pulled it out?” he was asking (people)
+91	he’s asking me about it
+92	don’t ask him!
+93	they were asking each other (asked among themselves)
+94	they went through the houses asking
+95	keep on asking me!
+96	I hesitate to go alone, so I’m asking you to accompany me
+97	I’m always asking her to go along
+98	he keeps asking to go with me
+99	I asked her for fruit/berries
+100	he asked me for money
+101	he’s always asking me for money
+102	he asked for a fishtrap
+103	he asked for money
+104	our master has come and is asking for you
+105	the medicine man asked for more (blankets, bracelets, money, etc.)
+106	ask for more adzes (medicine man instructing his helper)
+{Page = 23}
+107	that is where they assemble
+108	they are coming together/assembling for a meeting
+109	I’m very surprised at what you are telling me
+110	he stood with his legs apart
+111	he began to walk with legs far apart, struggling to carry the buoy weight
+112	they (one attacking force) attacked in our absence
+113	the dog jumped out at him
+114	their town was attacked (and captured)
+115	we attacked/invated (as a war party)
+116	they went on a war party (to attack the enemy)
+117	I avoided the man who was driving (coming here by car)
+118	a big brown bear is an awful sight
+{Page = 24}
