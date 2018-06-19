@@ -132,3 +132,30 @@
 117	I avoided the man who was driving (coming here by car)
 118	a big brown bear is an awful sight
 {Page = 24}
+119	the sound of people weeping sounds awful
+120	the house we used to own leaks: it’s no good now
+121	their work is bad
+122	the deer meat they have left hanging outside is going bad: it is getting mold on it
+123	it’s always bad weather when fall comes
+124	we bailed all the water out of the boat
+125	bail it out with the bailer!
+126	he finished baiting his halibut hooks
+127	I’m baiting with herring
+128	the skin has no hair on it
+129	he’s getting bald-headed
+{Page = 25}
+130	he’s bald like a rich man
+131	he was baptized
+132	they were baptized
+133	they were baptized
+134	I’m making barbs on a spearhead
+135	he’s making barbs on an arrowhead
+136	his dog barked at him
+137	the dog will bark at you
+138	he barks while a person is still a long way off
+139	children are bashful/timid with people
+140	long ago a young woman was trained to be shy of men
+141	he batted the ball (which was thrown to him)
+142	hockey (that is, batting the can)
+143	I batted it (hit the ball up)
+{Page = 26}
