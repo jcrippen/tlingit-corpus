@@ -193,3 +193,22 @@
 174	they don’t behave like that/they don’t do such things
 175	long ago they used to kill people who behaved like that (who used to do those things)
 {Page = 28}
+176	I belched
+177	he believed
+178	you do not believe my words
+179	I believe you (what you say)
+180	he believes me all the time
+181	I’ll put on a belt
+182	he had dollars in his belt
+183	I put on a belt
+184	he bent the nail
+185	I bent my gun
+186	he bent over
+187	bend your knees right up!
+188	he can bend one leg
+189	he didn’t bend his arm
+190	he can’t bend his knee
+191	he was betting me something
+192	he’s going to make some big bets
+193	he told on it (something which had been done in secret (usually something wrong) and he informed everyone about it)
+{Page = 29}
