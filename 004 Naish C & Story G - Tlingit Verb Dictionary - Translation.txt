@@ -159,3 +159,37 @@
 142	hockey (that is, batting the can)
 143	I batted it (hit the ball up)
 {Page = 26}
+144	I’m going to take a bath
+145	I bathed the baby
+146	strong men bathed (in the sea for training)
+147	I’m going to bathe my feet
+148	it’s battered
+149	how are they?
+150	the yarn is all colors
+151	you are really upright/honest
+152	my father is a seine fisherman
+153	is your mother still living?
+154	there isn’t anything
+155	what’s the weather like outside?
+156	it will be the same weather tomorrow maybe
+157	he’s beating the drum (or, less usual, he’s ringing the bell)
+{Page = 27}
+158	the bell is ringing (lit. beating itself)
+159	he always beats the drum too fast
+160	he started off on correct beat and is getting too fast
+161	the waves are really beating hard on shore
+162	the waves always come in and beat hard on the seaward side
+163	he beat me up
+164	we’re going to beat them up (said by children)
+165	he beat me up, hitting me in the face
+166	beat it (soapberries) up with your hands!
+167	we’re beating up soapberries
+168	they beckoned them
+169	you’ll beckon with your hand
+170	he became a preacher
+171	put your son to bed (to sleep)!
+172	daughter, put your children to bed!
+173	they are doing that (behaving like that) all the time
+174	they don’t behave like that/they don’t do such things
+175	long ago they used to kill people who behaved like that (who used to do those things)
+{Page = 28}
