@@ -72,7 +72,7 @@
 57	du sheiyí tléil ulcheen
 58	uwaxʼán
 59	woosh has kawdlixʼán
-60	ikakwḵalaxʼáan
+60	ikakḵwalaxʼáan
 61	tʼaayawduwaḵaa, «wé x̱áat héen yíkt uwahín»
 62	ax̱ yoo x̱ʼatángi yeey.áx̱ch: yaa tʼaanx̱a.íxʼ
 63	dáa déi, yaa x̱at neesgáxʼ
@@ -105,7 +105,7 @@
 88	shaa yadaax̱ kei nagút
 {Page = 22}
 89	aan káa kei átch g̱uwakaan
-90	“aadóoch sá daak uwax̱útʼ?” yóo áyá ḵuwóosʼ
+90	«aadóoch sá daak uwax̱útʼ?» yóo áyá ḵuwóosʼ
 91	a káx̱ x̱at x̱ʼawóosʼ
 92	tléil yoo x̱ʼeiwóosʼguḵ
 93	woosh has x̱ʼadawóosʼ
@@ -175,7 +175,7 @@
 153	i tláa ágé chʼa yeisú ḵudzitee?
 154	tléil daa sá ḵoostí
 155	wáa sá ḵoowatee gáanxʼ?
-156	tsu chʼu yéi shakdé ḵukg̱watée seig̱án
+156	tsu chʼu yéi shákdé ḵukg̱watée seig̱án
 157	gaaw agwáal
 {Page = 27}
 158	gaaw sh dagwáal
