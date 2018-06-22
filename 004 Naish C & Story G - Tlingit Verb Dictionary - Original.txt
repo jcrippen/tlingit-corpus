@@ -252,3 +252,39 @@
 226	the lamp chimney got black
 227	my firewood went down and turned black instead of burning (esp. of hemlock)
 {Page = 31}
+228	adawóotl doo káa kaawaháa
+229	ee káa kax̱wsiháa
+230	ḵwáaḵ-t yee woonèiyee, ax̱ káa kagax̱doos.háa
+231	doo jèe-t at shoowdoowatée; hóo-ch ḵu.àa áx̱ akawliyáakw
+232	Dikée Aanḵáawoo dàa-xʼ l a yáx̱ yóo-x̱ x̱ʼawditàan
+233	yáa a géi-dei Dikée Aanḵáawoo dàa-xʼ yóo-x̱ x̱ʼawditàan
+234	at dool.únxʼw
+235	shé doo jín-t kaawadáa
+236	ḵúnax̱ haa wlix̱éitl
+237	kei nalx̱étl
+238	Dikée Aanḵáawoo haa kawlix̱étl
+239	àan x̱at kawdoodlix̱édlee át-x̱ sitèe
+240	jinkàat táakw tléil ḵoox̱shatéen
+241	tléil ḵoox̱shatéeneen; yáa yeedát ḵu.àa ḵux̱aatéen
+242	ax̱waalʼúk
+{Page = 32}
+243	doo jintáak a.óoxsʼ
+244	tu.óoxsʼ yèit gax̱too.óox
+245	awli.óox ayá yáa ḵusax̱a ḵwáan kélʼtʼee
+246	káast át woolisʼées
+247	haa jináḵ yóo a keekàa-dei oolsʼéesch
+248	góosʼ ḵut kawdlisʼées
+249	kayàanee kalsʼísx̱
+250	x̱wadinál
+251	ḵúnax̱ át oowaxíx yáa xáanaa
+252	kʼeeljáa has doo kát oowaxíx
+253	xóon woodoowanúk
+254	ldakát yéi-nax̱ awé hàa-x̱ doonòok óoxjaa
+255	ayakawli.úx
+256	tsàa yòowoo kax̱waa.úx
+257	té dynamite tèen akshatúkt
+258	lítaa yawdig̱íl
+259	eelí: yakg̱eelag̱éel
+260	ax̱ kooxéedaayee loowdig̱íl
+261	ax̱ kooxéedaayee tléil oolkʼátsʼ
+{Page = 33}
