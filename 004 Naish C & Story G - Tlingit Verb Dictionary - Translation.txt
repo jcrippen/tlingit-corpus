@@ -284,3 +284,42 @@
 260	my pencil is blunt
 261	my pencil is blunt
 {Page = 33}
+262	that’s enough of that boasting
+263	he’s always bragging (saying how good he is)
+264	he boasts/talks big of his status and wealth (but with no truth in it)
+265	the captain is taking the boat out
+266	boil the water!
+267	it’s not boiling yet
+268	he boiled fish/salmon
+269	they boil humpy salmon
+270	boil the meat!
+271	they used to boil elderberries
+272	they bolted the door
+273	these herring are really bony
+274	halibut isn’t bony
+275	I’m uninteresting/I’m no good at jokes (said when pressed to speak at a party)
+276	he was born there
+277	he’s going to borrow it
+278	he’s getting credit (borrowing along) from the store
+{Page = 34}
+279	our table has been borrow4ed
+280	he borrowed my gun
+281	go and borrow it (globe)!
+282	he borrowed a pencil
+283	he annoys me/he keeps interrupting (because he thinks his work is more important)
+284	don’t bother me!
+285	don’t bother me (to children demanding attention)
+286	he’s bothering him
+287	it (ball) is bouncing
+288	flat stones bounce on the water
+289	they used to braid their hair
+290	braid it!
+291	she has her hair braided all the time
+292	I’m going to braid my hair
+293	the iceberg broke off from the glacier
+294	the canoe split (down the center)
+295	he’s breaking off small chunks at a time
+296	he’s breaking off pieces of dried fish
+297	he broke the plate (into many pieces)
+298	the pencil is broken (crushed by something heavy, not snapped across)
+{Page = 35}
