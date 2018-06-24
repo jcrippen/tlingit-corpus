@@ -1,5 +1,6 @@
 {SWA = Swanton, as in Tlingit Myths and Texts}
 {BS  = Boas 1917, Shotridge 1915, and Velten 1939, 1944}
+{NST = Naish-Story transcription as in Naish 1966}
 {NS1 = Naish-Story 1 as in Gospel of John}
 {NS2 = Naish-Story 2 as in Tlingit Verb Dictionary}
 {RP  = Revised Popular as used by the Dauenhauers}
