@@ -323,3 +323,59 @@
 297	he broke the plate (into many pieces)
 298	the pencil is broken (crushed by something heavy, not snapped across)
 {Page = 35}
+299	he broke the plate in half
+300	he broke the cup to pieces
+301	I broke an egg
+302	they break the light bulbs
+303	I broke a stick
+304	the engine broke
+305	the broom broke
+306	I broke the bush
+307	I broke my needle
+308	he broke the pencil into short pieces
+309	he broke upo all his halibut hooks
+310	I broke the rock in pieces with fire
+311	the bread crumbles easily
+312	he was smashing up the door
+313	the rope is broken
+314	the scar keeps breaking open there
+315	I broke the yarn
+316	the thread is going to break (beginning to ravel)
+317	I broke the door off from there
+318	the children broke it (fence) right off
+319	he broke (a prong) off the alder tree
+320	he breathed slowly
+321	he’s still breathing
+{Page = 36}
+322	he’s getting out of breath (while running)
+323	we get short-winded
+324	I’ll get my wind back now (esp. needing rest when packing deer)
+325	things produce their young then (in May)
+326	the dog produced young ones
+327	it’s bright (of particularly brilliant star)
+328	bring a knife!
+329	bring a ball!
+330	bring a bucket!
+331	bring a bow!
+332	bring a herring rake!
+333	bring hammers!
+334	bring the baby!
+335	bring salmon!
+336	bring the cloth!
+337	bring water!
+338	bring the bundles!
+339	bring some rice in your hands!
+340	bring the large pot!
+{Page = 37}
+341	broil the salmon fast (still tastes somewhat raw)!
+342	he broiled the herring (catching the broth in a clam shell and pouring it over)
+343	he brushed his clothes
+344	clothesbrush
+345	it (cooking) is bubbling
+346	it’s beginning to bubble, fermenting
+347	tiny bubbles are coming up from the bottom (that is, from the mud)
+348	it’s bubbling up from the bottom of the water
+349	as the salmon swim along, they make tiny bubbles
+350	the spring is bubbling out/coming out real strongly
+351	it leaks real fast/it keeps bubbling out
+{Page = 38}

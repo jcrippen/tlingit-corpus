@@ -327,3 +327,59 @@
 297	sʼíxʼ akaawawálʼ
 298	kooxéedaa kaawawálʼ
 {Page = 35}
+299	sʼíxʼ wóosh-dax̱ awliwáalʼ
+300	gúxʼaa akawliwálʼ
+301	kʼwátʼ kakax̱wliwálʼ
+302	has akaklawálʼt yóo sʼeenáa
+303	ḵáasʼ x̱waalʼéexʼ
+304	washéen woolʼéexʼ
+305	xítʼaa woolilʼéexʼ
+306	wásʼ x̱walilʼéexʼ
+307	ax̱ táaxʼalʼee kax̱waalʼéexʼ
+308	kooxéedaa akawlilʼéexʼ
+309	doo jèe-x̱ at shayawlilʼéexʼ
+310	x̱ʼàan tèen té kax̱waaxʼéil
+311	sakwnéin yéi kdaxʼélch
+312	x̱ʼaháat áx̱ yei akanalxʼél
+313	tíxʼ wookʼòots
+314	wéi tèel áa yoo ayakʼútsk
+315	kakéin x̱walikʼòots
+316	tás goox̱lakʼóots
+317	x̱ʼaháat àa-x̱ yóo-t x̱waakʼwách
+318	àa-dax̱ has aawakʼwách wéi at yátxʼee-ch
+319	keishísh awlikʼwáach
+320	kaldaag̱éinax̱ awé woodisàa
+321	chʼa yèisoo diséikw
+{Page = 36}
+322	yaa kanasháḵ
+323	haa kasháḵx̱
+324	kakwḵadasèig̱akw sʼé
+325	a ká at woodix̱èet
+326	kèitl woodzix̱èet
+327	lig̱éi
+328	lítaa hàa-t tí
+329	koochʼéitʼaa hàa-t katí
+330	xʼeesháa hàa-t tán
+331	sáḵs hàa-t satán
+332	xídlaa hàa-t katán
+333	táḵl hàa-t yéi saní
+334	tʼukanéiyee hàa-t sanú
+335	x̱áat hàa-t satá
+336	sʼísaa hàa-t áx̱
+337	héen hàa-t sa.ín
+338	g̱alnáatʼanee hàa-t laná
+339	kóox hàa-t kwách
+340	kʼwátl tlèin hàa-t yeesahát
+{Page = 37}
+341	x̱áat latúch
+342	yàaw awlitsík
+343	doo naa.ádee akawsixéetʼ
+344	àan kadoosxítʼkw át
+345	woodzikúḵ
+346	yaa naskúḵ
+347	héen táak woodoowasún
+348	héen táa-nax̱ woodlisún
+349	x̱áat yaa nahínee, x̱ʼeisúnch
+350	gòon anax̱ woodoowakúḵ
+351	dookúḵx̱
+{Page = 38}

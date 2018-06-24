@@ -157,7 +157,7 @@
 136	du keidlí kei aawasháa
 137	keitl yei iyagux̱lasháa
 138	yeisú naleiyí yéi ayalashéich
-139	at yátxʼi ḵukwliseek
+139	atyátxʼi ḵukwliseek
 140	chʼáakw ḵu.aa yées shaawát ḵaa akwliseek
 141	koochʼéitʼaa aawaḵʼísh
 142	gúxʼaa át kanduḵʼíshji
@@ -327,3 +327,59 @@
 297	sʼíxʼ akaawawálʼ
 298	kooxéedaa kaawawálʼ
 {Page = 35}
+299	sʼíxʼ wóoshdáx̱ awliwáalʼ
+300	gúxʼaa akawliwálʼ
+301	kʼwátʼ kakax̱wliwálʼ
+302	has akaklawálʼt yú sʼeenáa
+303	ḵáasʼ x̱waalʼéexʼ
+304	washéen woolʼéexʼ
+305	xítʼaa wulilʼéexʼ
+306	wásʼ x̱walilʼéexʼ
+307	ax̱ táaxʼálʼi kax̱waalʼéexʼ
+308	kooxéedaa akawlilʼéexʼ
+309	du jeex̱ at shayawlilʼéexʼ
+310	x̱ʼaan teen té kax̱waaxʼéil
+311	sakwnéin yéi kdaxʼélch
+312	x̱ʼaháat áx̱ yei akanalxʼél
+313	tíxʼ wookʼoots
+314	wé teel áa yoo ayakʼútsk
+315	kakéin x̱walikʼoots
+316	tás gux̱lakʼóots
+317	x̱ʼaháat aax̱ yóot x̱waakʼwách
+318	aadáx̱ has aawakʼwách wé atyátxʼich
+319	keishísh awlikʼwáach
+320	kaldaag̱éináx̱ áwé wudisaa
+321	chʼa yeisú diséikw
+{Page = 36}
+322	yaa kanasháḵ
+323	haa kasháḵx̱
+324	kakḵwadaseig̱ákw sʼé
+325	a ká at wudix̱eet
+326	keitl wudzix̱eet
+327	lig̱éi
+328	lítaa haat tí
+329	koochʼéitʼaa haat katí
+330	xʼeesháa haat tán
+331	sáḵs haat satán
+332	xídlaa haat katán
+333	táḵl haat yéi saní
+334	tʼukanéiyi haat sanú
+335	x̱áat haat satá
+336	sʼísaa haat áx̱
+337	héen haat sa.ín
+338	g̱alnáatʼani haat laná
+339	kóox haat  kwách
+340	kʼwátl tlein haat yeesahát
+{Page = 37}
+341	x̱áat latúch
+342	yaaw awlitsík
+343	du naa.ádi akawsixéetʼ
+344	aan kadusxítʼkw át
+345	wudzikúḵ
+346	yaa naskúḵ
+347	héen táak wuduwasún
+348	héen táanáx̱ wudlisún
+349	x̱áat yaa nahíni, x̱ʼeisúnch
+350	goon anax̱ wuduwakúḵ
+351	dookúḵx̱
+{Page = 38}
