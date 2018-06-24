@@ -1,0 +1,87 @@
+{Number = 021}
+{Type = Text}
+{Title =  Bear Encounter}
+{Author = Asx̱ʼaak / George Betts}
+{Clan = Kaagwaantaan}
+{Source = Naish 1966:138–152}
+{Transcriber = Constance Naish; Gillian Story}
+{Orthography = NST}
+{Dialect = Northern – Coastal – Angoon}
+{Note = Line numbers are from the text collection version.}
+{Page = 139}
+1	Yées ḵáax̱ x̱at sateeyíxʼ áyú yaakw yíxʼ yéi jix̱ané;
+2	asg̱eiwú yéi daax̱ané.
+3	Áwé Ḵáacht áwé haa wduwax̱ách.
+4	Tléil át yawugoowún asg̱eiwú;
+5	át has nadux̱áchjin tugboat-ch.
+{Page = 140}
+6	Áwé wáa nanée sáwé tle yéi ḵuyaawaḵaa
+7	«kʼé alʼóon nax̱too.aadí».
+8	Áwé tle ldakát áwé alʼóon kei aawa.át.
+9	Chʼa yá shayadaa át wutuwa.aadi yé áwé áxʼ g̱uwakaan wutuwajáḵ.
+10	Tle éeḵde g̱unyéi x̱waayáa.
+{Page = 141}
+11	Chʼu yaa nx̱wayéini áwé sháchk káa daak x̱wadiyáa.
+12	Tléiḵw áwé áa yagéi áwé; kx̱ashx̱á.
+13	Tle yá sháchk káa daak x̱wadayaayí áwe Déilkʼi ax̱ keekánnáx̱ daak uwagút.
+14	Tle áwé óonaa áwé yát awdlishát yá ax̱ niyaadé.
+{Page = 142}
+15	«Wáa sákwshé at nanée!» yóo ax̱ tuwatee.
+16	«Wáa sáhé ḵuwanóok yóo…?»
+17	Tle yéi x̱at yawsiḵaa
+18	«Tleyéi yan hán!».
+19	Chʼu tle «Tleyéi yan hán;
+20	Tléil g̱unyéi eegútx̱iḵ.»
+21	Tle ax̱ x̱ánde áwé g̱unyéi uwagút.
+{Page = 143}
+22	Chʼa du yáwu wé óonaa; tlákw at yaawayék.
+23	Ax̱ x̱ánde yaa gagóot áwé tle yéi yaawaḵaa
+24	«Ax̱ waaḵ ásgíwé chʼa g̱óot yéide wudig̱áat.»
+25	Chʼu tle yéi «I ítde áwé x̱wsiteen xóots gúgu».
+{Page = 144}
+26	Chʼu tle yóo yawuḵaayí een áwé ax̱ díx̱ʼde ax̱wdlig̱een.
+27	«Daa sáwé áx̱ kaawayaa – wé xóots?»
+28	Chʼu tle du eedé yaa anx̱walg̱íni een áwé ax̱ yáx̱ wudigoot.
+29	Chʼu tle kei ndagúdi een áwé Shnawtaan, Déilkʼix̱ siteeyi át, wudli.óon.
+{Page = 145}
+30	A lidíx̱ʼ áwé aawa.ún wé xóots.
+31	Tle kei uwa.íxʼ wé xóots;
+32	át sh kawdlixeet.
+{Page = 146}
+33	Éexʼ tle tléil ash wujaaḵ.
+34	Chʼa g̱asgéet áwé déix̱ aanáx̱ hat aa jiwdi.át tsu haa eedé.
+35	Tíxʼ een áwé yaa nx̱ayáan.
+36	Ḵútx̱ kax̱waadúxʼ.
+37	Kax̱akélʼx̱ áwé tléil yoo wux̱adláḵwk.
+{Page = 147}
+38	Wáa nanée sáwé at x̱waaxásh.
+39	At únt, Déilkʼi ḵu.aa at únt.
+40	Áwé át woosh kawdlixeet wé xóots ḵu.aa.
+41	Wáa nanée sáwé yéi x̱at yawsiḵaa
+42	«De tléixʼ áyá ax̱ jeewú yá atkaté.
+{Page = 148}
+43	G̱unyéi isheex dé;
+44	chʼa wa.é sh káx̱ at gag̱idatée.
+45	Tsu haa x̱einínáx̱ has wu.aadí tléil wáa sá utí;
+46	chʼa tléixʼ ḵu.aa yá ax̱ jeewú á.»
+47	«X̱át tsú tsu tléixʼ ax̱ jeewú á yá atkaté.»
+48	Áwé tle g̱unyéi haa loowagúḵ.
+{Page = 149}
+49	Ax̱ shuká chʼas ax̱ x̱ʼéix̱ kei nashíx Déilkʼi.
+50	Áwé yá ḵútlʼkw áayi kaanáx̱ áwé kei wujikʼén.
+51	Áwé a ḵínx̱ wudzigeet.
+52	Chʼu tle du keey kinaadé kawdziyeeḵ yá ḵútlʼkw.
+53	Ax̱ tundatáani yéi yatee du x̱ánxʼ ayaḵasheex.
+{Page = 150}
+54	Chʼu yéi ax̱ tundatáani yatee «tléikʼ».
+55	Áwé du x̱áni ayax̱wjixíx.
+56	Du x̱áni ayax̱ashéex áwé aadáx̱ kei x̱waax̱útʼ.
+57	Aag̱áawé tsu g̱unyéi haa loowagúḵ.
+58	Yú xóots ḵu.aa aadé s yayikduwa.áx̱ch.
+{Page = 151}
+59	Yeiḵ too.áat áwé atkaté tsu yéi kawtusinee.
+60	Haa een áa ḵux̱ wuduwa.át.
+61	Áa ḵux̱ tuda.áat áwé chʼu násʼk yateeyi aa, chʼu násʼgináx̱ has woonaa.
+62	Haa ítx̱ yaa s na.ádin chʼa yá dei káxʼ ḵu.aa áwé s woonaa.
+{Page = 152}
+63	Yéi áwé koogéi yá xóots daat át.
