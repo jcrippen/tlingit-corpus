@@ -5,7 +5,7 @@
 {Source = N&S 1973:15–252}
 {Transcriber = Constance Naish, Gillian Story}
 {Orthography = RP}
-{Dialect = Northern – Coastal – Angoon}
+{Dialect = Northern – Coastal – Angoon}
 {Note = The original speakers in the dictionary are anonymous, but all were from Angoon.}
 {Note = Some speakers may have a Transitional Northern subdialect.}
 {Page = 15}
@@ -19,13 +19,13 @@
 8	áa yaa sh nalx̱án
 9	du een woo.aat
 10	du eenx̱ sh wudliyéx̱
-11	ax̱ éesh een yi géide yoo x̱ʼax̱li.átk
+11	ax̱ éesh een yee géide yoo x̱ʼax̱li.átk
 12	aanáx̱ ḵwáakt has ax̱ʼakwg̱aawáasʼi át áyá, du géide has akax̱sahaat
 {Page = 16}
 13	haa éex̱ yaa nadéin
 14	hasdu x̱ʼéix̱ woodaa
 15	áx̱ x̱at tukwg̱adáa shákdé
-16	áx̱ yaa yi tunadéin ágé, ixkéexʼ yéi tí?
+16	áx̱ yaa yitunadéin ágé, ixkéexʼ yéi tí?
 17	bosst uwanúk
 18	ánkʼwt uwanúk i káalkʼw
 19	tléil yax̱ udatsʼéin: tlákw at daa yéi jiné
@@ -368,7 +368,7 @@
 336	sʼísaa haat áx̱
 337	héen haat sa.ín
 338	g̱alnáatʼani haat laná
-339	kóox haat  kwách
+339	kóox haat kwách
 340	kʼwátl tlein haat yeesahát
 {Page = 37}
 341	x̱áat latúch
@@ -381,7 +381,7 @@
 348	héen táanáx̱ wudlisún
 349	x̱áat yaa nahíni, x̱ʼeisúnch
 350	goon anax̱ wuduwakúḵ
-351	dookúḵx̱
+351	dukúḵx̱
 {Page = 38}
 352	yéi ayawsiḵaa yaakw tlein ax̱layeix̱ít
 353	yan x̱ʼusshax̱wsigóo
@@ -394,7 +394,7 @@
 360	xʼéedadi kínde x̱asagántʼ
 361	naa.át aksagántʼ
 362	wé at doogú wudix̱ʼéx̱ʼ
-363	doo jín yatʼaayi héench wulix̱ʼéx̱ʼ
+363	du jín yatʼaayi héench wulix̱ʼéx̱ʼ
 364	ax̱ jín x̱ʼwalix̱ʼéx̱ʼ, yu sdoox tóot ax̱a.aagí
 365	daak x̱at kanalx̱ʼéx̱ʼ
 366	awshikéilʼ
