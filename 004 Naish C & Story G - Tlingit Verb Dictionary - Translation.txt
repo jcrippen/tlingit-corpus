@@ -379,3 +379,55 @@
 350	the spring is bubbling out/coming out real strongly
 351	it leaks real fast/it keeps bubbling out
 {Page = 38}
+352	he told them to build a large boat
+353	I bumped my foot
+354	he bumped his nose
+355	your pot (that is, your cooking) is going to burn
+356	the wood is burnt
+357	it (house) is burning down from top to bottom
+358	the boat burned up
+359	because the sun was strong, our faces got sunburnt
+360	I’m burning tree stumps
+361	he’s burning (old) clothes (on the beach)
+362	that skin has been burned/shriveled
+363	he scalded his hand with hot water
+364	I burned my hand making up the fire (stove)
+365	I was forced to move back (from fierce fire) because I was burning hot
+366	he burned it to ashes
+367	they used to burn yellow cedar bark to ashes
+{Page = 39}
+368	the cold bursts them (raven eggs)
+369	a cloudburst came on us/rain burst forth
+370	the water burst forth (that is, the dam broke)
+371	the water poured down suddenly and fast/the water broke forth (when trapped above)
+372	the sack (of flour) has burst open
+373	his appendix burst
+374	the seal stomach burst open making a popping sound
+375	did they bury him in Angoon?
+376	the dog is burying the bones
+377	he gave his uncle a good burial
+378	four days have passed since they buried him
+379	where have you buried him?
+380	I’m just busying myself with my garden
+381	button up your shirt!
+382	he buttoned it up
+383	we’re going out to camp, so we will buy food to take with us
+384	don’t buy a thing: we’ve already bought some!
+{Page = 40}
+385	I bought a hundred pound sack of potatoes
+386	he bought a ball
+387	he bought a pencil for his daughter
+388	he bought lots of bread
+389	I’m going to buy lots of things (at the sale)
+390	I caulked my boat with rags (stuffed rags in the cracks)
+391	call a nurse!
+392	you are called to the Eagle House; they are going to pay off
+393	he sang about a member of the opposite clan and caused that one to respond
+394	he composes tribal love-songs which call forth a response
+395	is he calling on the spirits?
+396	he calls on the spirits
+397	they were shouting at me from outside
+398	I called out to my mother
+399	I hollered at my mother repeatedly
+400	her son is always running off, and she’s always calling him
+{Page = 40}
