@@ -430,4 +430,69 @@
 398	I called out to my mother
 399	I hollered at my mother repeatedly
 400	her son is always running off, and she’s always calling him
-{Page = 40}
+{Page = 41}
+401	someone used to call out, “the tide is changing”
+402	the teacher called the roll
+403	there’s going to be a big matter (at the meeting), so they’re going to call the roll
+404	the palm of my hand is calloused
+405	there’s a corn on the side of my foot
+406	it is calm/peaceful
+407	it is calm with no wind or storm at all
+408	his boat capsized with him
+409	the canoe is tippy and given to capsizing
+410	I was captured
+411	they held him in jail (when not necessarily guilty)
+412	they don’t care (about public opinion)
+413	I cared for my grandchild
+414	my mother is taking care of him
+415	I care for you with all my heart
+{Page = 42}
+416	she doesn’t care for her children
+417	he’s carrying a book
+418	he’s carrying a radio
+419	he’s carrying a ball
+420	she’s carrying a string of beads
+421	she’s carrying a pot
+422	he’s carrying a gun
+423	he’s carrying a stick
+424	he’s carrying an arrow
+425	he’s carrying marble
+426	he’s carrying ladders (one at a time)
+427	he’s carrying his tools
+428	he’s carrying a chicken
+429	he’s carrying halibut
+430	he’s carrying his coat
+431	he’s carrying clams (in a bucket)
+432	he’s carrying bundles
+433	he’s carrying a deer on his back
+434	he’s carrying his child on his back
+{Page = 43}
+435	he’s carrying his rifle on his shoulder
+436	she’s carrying apples in her apron
+437	he’s carrying sand in his cupped hands
+438	she’s carrying flowers grasped in her hand
+439	she’s carrying lots of little oddments pressed together in her hands
+440	she’s carrying more than she can manage, dropping some and pressing the rest to herself
+441	he’s carrying it clasped against himself
+442	they are carrying a dead body (finding it heavy)
+443	it (dog) is carrying a bone in its mouth
+444	it carried away houses too (after dam burst)
+445	small pieces of driftwood were being carried along and washed up on shore
+446	from there the strong tide took them way south
+447	the tied took it right across (bay)
+448	they carved a totem pole
+449	they carve with an adze
+450	he carved an oil dish
+451	he knows how to carve spoon handles
+{Page = 44}
+452	he’s carving a bracelet
+453	he has a cataract
+454	he won’t get caught: he goes faster than anybody
+455	we’ve caught lots of salmon (said as looking into the net)
+456	I caught the ball
+457	they celebrated his birthday
+458	they are going to celebrate Christmas
+459	I always set a prisoner free during the time you are celebrating Passover
+460	they challenged each other to a fight
+{Page = 45}
+
