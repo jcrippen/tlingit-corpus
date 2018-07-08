@@ -495,4 +495,34 @@
 459	I always set a prisoner free during the time you are celebrating Passover
 460	they challenged each other to a fight
 {Page = 45}
-
+461	he dared him to steal
+462	a person’s life has changed completely to the opposite direction (lit. has tipped up)
+463	I’ve burned the toast/reduced it to charcoal
+464	it just chars along the edge of the wood (of wood suitable for canoe-making)
+465	he made charcoal
+466	it’s with material from a partially burned log that they paint the face (with charcoal)
+467	when they are hunting seal they paint their faces (so they won’t be seen)
+468	they’ll charge him
+469	how much does your mother charge for that dried fish?
+470	he had charge of her treasure
+471	they took charge of the child
+472	they chartered a plane
+473	he chased him out (from the house)
+474	chase me!
+475	he chased them out
+{Page = 46}
+476	he’s chasing sheep
+477	it didn’t cost me much
+478	the rice is cheaper over there
+479	the storekeeper cheated me
+480	he got mad, because he had been cheated
+481	he cares for his wife (cherishing her and putting her first in everything)
+482	I care for them (material things)
+483	I’m chewing something
+484	I’m going to chew snuff
+485	he’s chipping out a cottonwood tree for a canoe
+486	he choked on a bone
+487	don’t sip it up noisily (drawing air in to cool it); you will choke!
+488	they choose/point suddenly at a man’s hand
+489	you chose
+{Page = 47}
