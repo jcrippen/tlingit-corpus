@@ -526,3 +526,70 @@
 488	they choose/point suddenly at a man’s hand
 489	you chose
 {Page = 47}
+490	he chopped a cord of wood
+491	he chopped up large blocks for firewood
+492	everybody chops wood
+493	he chopped down a sapling
+494	we’re going to chop it in two
+495	he’s chopping off branches
+496	he’s going to chop down some small trees
+497	he chopped up halibut heads for boiled fish
+498	they chop up meat with a hatchet (esp. ribs for storing in seal oil)
+499	they (beaver) chop off the tree limbs
+500	sometimes you circumcise a boy on the sabbath
+501	he was circumcised
+502	we claim two towns
+503	the land they were going to claim (that is, the Promised Land)
+504	I claim your rigle (which was going to be destroyed)
+505	I’m going to claim this and put money in its place (that is, will give its value when the owner dies)
+506	he clapped his hands
+507	clap your hands!
+508	they applauded (by clapping) so they had to come back (for encore)
+{Page = 48}
+509	I clasped a book under my arm (to carry it)
+510	he’s clasping (a heavy object) to himself in order to be able to carry it
+511	they kept themselves clean
+512	they cleared the beach (of rocks) for a canoe landing place
+513	they are clearing bushes away
+514	it’s clearing from us (that is, rain is leaving us)
+515	the mist has seemed to be lying solidly on you; that’s why (we say) it is going to lift
+516	maybe the sky is going to clear
+517	they sky is clear/there are no clouds
+518	he climbed the tree (holding on around it)
+519	he’s climbing a steep part of the mountain (holding on and pulling himself up)
+{Page = 49}
+520	it (octopus) is clinging tightly and can’t be moved
+521	the clock is going
+522	it’s ten after four
+523	I closed (pages of) the big book
+524	close them!
+525	he closed the window (pulled it closed)
+526	he closed the door
+527	he never closes the door
+528	the hunting season is closed
+529	close the door quietly!
+530	he closes the door really quietly
+531	he fixed a breakwater (of posts)
+532	they closed up the door permanently
+533	he put them close together, thus closing it
+534	we closed up our house completely (no air could get in even)
+535	the mayor has his mouth closed (he doesn’t wish to talk or give information)
+536	the child is keeping his mouth closed (refusing to eat his food)
+537	his chest healed rapidly and completely from that bullet wound
+538	it has closed up/become one whole
+{Page = 50}
+539	the pipe is plugged up
+540	you still never opened that ‘cheese’ (that is coho eggs packed in seal stomach)
+541	close your eyes
+542	I’m going to close my eyes
+543	I had my eyes tight closed (but was watching all the same)
+544	his eyes are closed
+545	it’s going to be cloudy
+546	it’s not cloudy
+547	he was clubbing salmon there
+548	he’s going to hit it
+549	I’m like a real clumsy person (when trying to thread a needle)
+550	he’s clutching it
+551	she’s clutching a load of things
+{Page = 51}
+
