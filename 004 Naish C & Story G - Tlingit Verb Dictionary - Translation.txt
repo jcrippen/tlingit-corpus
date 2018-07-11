@@ -592,4 +592,60 @@
 550	he’s clutching it
 551	she’s clutching a load of things
 {Page = 51}
-
+552	they coiled the rope
+553	he coiled the wire
+554	I’ve coiled my line
+555	he cooled the water
+556	my feet are always cold
+557	my face is cold
+558	we feel cold
+559	maybe it’s going to be cold this winter
+560	the whole house collapsed
+561	the deadfall trap fell
+562	I sprang the trap/caused it to collapse
+563	his house was collapsed by the storm
+564	we collect all sorts in our house
+565	have you collected it (mail)?
+566	they were getting the people together in the house
+567	sockeye has changed color
+568	coho also changes color
+{Page = 52}
+569	he combed his hair with a comb
+570	I combed my hair
+571	he came to our house every day
+572	we’re coming to your place
+573	hasn’t he come (arrived) yet?
+574	we came by boat
+575	did any letters come for you?
+576	a new lamp will be coming for me
+577	winter is coming
+578	the time will be coming round when they go seining
+579	he’s coming to/coming back to consciousness after drinking
+580	he’s going to get back his senses
+581	we came upon a bear in its den
+{Page = 53}
+582	I came upon him and saw him in the very act of taking it
+583	we found him cooking
+584	he comforted him
+585	we’re going to comfort her/cheer her up
+586	he comforted him (lit. he warmed his inner feelings)
+587	I’m sitting very comfortably, just the way I want to be
+588	I’m going to make myself really comfortable
+589	he commands/he is in command
+590	I commented on the food
+591	my aunts, I have composed a song about you
+592	he composed a song concerning the sale of Alaska
+593	he composed a song about his relatives in the opposite clan
+{Page = 54}
+594	we concentrated on the Tlingit language (put effort into speaking Tlingit)
+595	what is on your mind/what is troubling you?
+596	I am concerned/I have no peace of mind/I don’t feel good (about something)
+597	I can’t find any reason to condemn him (that is, I don’t find in him anything for which he could be punished)
+598	is there no one left who condemns you (that is, who lays the blame on you)?
+599	whoever confessed Jesus is the messiah will be thrown out
+600	I confessed all my sins before God
+601	the fog confused me, and I went the wrong way
+602	the noise of the waves confuses people
+603	they were confused (that is, they didn’t understand what was happening)
+604	he was perplexed/bewildered (that is, his mind was really troubled)
+{Page = 55}

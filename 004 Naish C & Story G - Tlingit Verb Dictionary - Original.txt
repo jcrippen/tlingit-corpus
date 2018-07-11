@@ -596,3 +596,61 @@
 550	akaawag̱úk
 551	yaa at natléxʼw
 {Page = 51}
+552	tíxʼ kawdoodlix̱él
+553	g̱ayéisʼ kaxéesʼ ajikawlix̱él
+554	ax̱ tíxʼee jikax̱wlix̱él
+555	héen awsi.átʼ
+556	ax̱ x̱ʼoos oos.átʼch
+557	x̱at yawdzi.átʼ
+558	haa seiwa.átʼ
+559	yáa táakw ḵugoox̱sa.áatʼ shakdéi
+560	hít seiwaxèex
+561	g̱àataa seiwaxèex
+562	g̱àataa sax̱waag̱éexʼ
+563	kʼeeljáa-ch seiwag̱éexʼ doo hídee
+564	ldakát át neil katoojélch
+565	woosh kàa-nax̱ agé keeyajèil?
+566	lingít nèil kadooljèilt
+567	g̱àat woodzix̱ʼákw
+568	lʼòok tsú isx̱ʼákwx̱
+{Page = 52}
+569	xéidoo tèen shakawdziyàa
+570	shakax̱wdziyàa
+571	chʼa ldakát yakyèe haa hídee-x̱ gòot
+572	ee x̱án-dei gax̱too.áat
+573	tléil agé hàa-t ḵootèench?
+574	hàa-t wootoowaḵúx̱
+575	xʼúxʼ agé ee jèe-t jeewaháa?
+576	yées sʼeenáa ax̱ jèe-dei jikwg̱aháa
+577	táakw-dei yaa ḵunahéin
+578	àa-dei yaa ḵugahéich, yáa àa-g̱aa adoosg̱èiwoo yé
+579	ḵaa dàa yaa anadáḵ
+580	dàa akwg̱adáak
+581	xóots a ḵòowoo-xʼ wootooliháa
+{Page = 53}
+582	a káa jix̱wliháa àa-dax̱ awoosháadee
+583	a káa daak jeewtooliháa at gas.èeyee
+584	chʼa doo tòowoo yáa-xʼ awsiháa
+585	chʼa doo tòowoo yáa-xʼ kagax̱toosaháa
+586	doo tòowoo awlitʼáa
+587	yan sh kax̱wjixʼáḵw
+588	yán-dei sh kakwḵashxʼáaḵw
+589	akaawanáay
+590	atx̱á awé kax̱ashéix̱ʼ
+591	ax̱ àat hás, yee dàa-dax̱ at kax̱wlishèe
+592	Alaska woodoohòonee dàa-dax̱ at kawlishèe
+593	has doo dàa-dax̱ at shukawlishèe
+{Page = 54}
+594	Lingít yoox̱ʼatángee wootoowaxích
+595	daa sá kwshé gé ee tukaawadín?
+596	x̱at tukawdidín
+597	tléil a x̱ʼáa yanax̱doowajèeyee át doo ée x̱waatʼèi
+598	tléil agé chʼa àa sá yáat, ee géi-dei at kawsiháyee àa?
+599	aadoo sá yéi yaawaḵàa Jesus dikée-nax̱ yoo kawdoodzitéeyee àa-x̱ satèeyee, gáan-dei has akakwg̱anáa
+{Comment = Line 600 has misspelled «Aaḵáawoo» for «Aanḵáawoo».}
+600	Dikée Aanḵáawoo yáxʼ ldakát ax̱ l ooshkʼèiyee yax̱wsiḵàa
+601	ḵugwáasʼ ax̱ dàa yaa ḵoowsig̱át: chʼa g̱óot yéi-dei x̱waagòot
+602	tèet kayéik ḵaa dàa yaa ḵusagátch
+603	tléil has doo dàa yaa ḵushuwoosgé, waa sá at kawdayàayee
+604	doo tòowoo aatlèin kawdixílʼ
+{Page = 55}
