@@ -677,4 +677,36 @@
 629	they used to cook inner parts of the deer on a stick fast
 630	they corked up the bottle
 {Page = 57}
-631	
+631	I’m coughing
+632	he coughs all the time
+633	how many can you count?
+634	count to twenty!
+635	cover it/put the cover on!
+636	put the cover on the rice!
+637	looks like it’s going to rain; cover the fish drying racks with canvas
+638	we covered it all over with sand
+639	his skull is fractured
+640	I have a broken/cracked bone
+641	I cracked the cup deliberately
+642	the cup is cracked
+643	crack the ice!
+644	it’s not cracked/it won’t crack easily (that is, good material)
+645	a cracked dish is no good: it harbors germs
+{Page = 58}
+646	he cracked it (rock) into two pieces
+647	the fire is crackling
+648	do you have cramp in your foot?
+649	watch yourself (take care); you might get shocked!
+650	he’s starting to crawl
+651	he’s crawling along on hands and knees
+652	I’ve just crawled here (said by old person)
+653	those kids are crazy/too lively
+654	it’s not good to be crazy
+655	he talks foolishly/says too much/his speech is crazy
+656	whenever a storm hits my house, it always creaks
+657	branches of the trees are creaking as they rub against each other
+658	the table is creaking
+659	I crept forward through the grass on hands and toes, keeping real low
+660	they are going to creep along (stalking game)
+661	they used to cremate dead people
+{Page = 59}
