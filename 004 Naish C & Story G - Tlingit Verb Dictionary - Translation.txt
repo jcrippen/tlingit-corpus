@@ -710,3 +710,37 @@
 660	they are going to creep along (stalking game)
 661	they used to cremate dead people
 {Page = 59}
+662	they used to cremate children too
+663	put some of that tobacco in oven to crispen up!
+664	he really ran me down (he said hard things about me)
+665	he ran him down and criticized him to others behind his back
+666	crochet hook
+667	they are crocheting/hooking yarn
+668	the wood/plank is crooked
+669	he is cross-eyed (that is, has a crooked eye)
+670	he is crooked (working for his own ends only)
+671	the crowd is jammed together (is thick) there
+672	we are crowded (with too many things in our house)
+673	our little things (that is, all our many knickknacks) are crowding us
+674	he is crowded (cramped for space) by his machines
+675	they crucified him/nailed him on a cross
+676	the (new) one dollar bill is crumpled up
+{Page = 60}
+677	the paper is crumpled up
+678	he’s crumpling paper
+679	I crumpled the paper (in my hand)
+680	they crunch carrots and pilot bread
+681	dogs make lots of noise chewing bones
+682	he wept
+683	you (pl) will cry
+684	the child went home crying
+685	she cried out when she saw the mouse
+686	he (child) cried loudly (in temper)
+687	I’m going to make him cry
+688	she made me cry
+689	he’ll be really crying soon (although he’ll try to hold it back)
+690	the child is almost crying (he doesn’t want to, but can’t hold it in any longer; his face is puckered and he is about to break into tears or sobs)
+691	the sickness was removed by the medicine man
+692	it’s sick people that they cure (in this manner)
+{Page = 61}
+693	

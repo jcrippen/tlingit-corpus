@@ -715,4 +715,38 @@
 660	has goog̱atlóoxʼ
 661	woonàawoo ḵáa yei kadoosgánjeen
 {Page = 59}
-662	
+{Comment = Line 662 has a typo kʼátsʼkoo for kʼátskʼoo}
+662	at kʼátskʼoo tsú tlèi yei kagánch
+663	wéi g̱ánch aa lasʼúk
+664	tláakw x̱at yawsiḵàa
+665	a yatʼéik tláakw ayawsiḵàa
+666	àan kadooskʼéx̱ʼt
+667	kakéin kadooskʼéx̱ʼt
+668	lʼòowu kawdzitéx̱ʼ
+669	doo wàaḵ kawdzitéx̱ʼ
+670	doo tòowoo kawdzitéx̱ʼ
+671	aantḵèenee áa wdiḵʼíkʼ
+672	haa oodaḵʼíkʼch
+673	haa átxʼ sáanee haa oosḵʼíkʼch
+674	doo washéenee-ch woosiḵʼíkʼ
+675	kanéist káx̱ yan jikawdoodzixʼóo
+676	tléixʼ dáanaa kawdichúk
+{Page = 60}
+677	kawdidútl wéi xʼúxʼ
+678	xʼúxʼ akladòotl
+679	xʼúxʼ kax̱wlig̱úk
+680	sʼín ḵa g̱áatl kadoox̱ʼáal
+681	kèitl sʼàaḵ akax̱ʼáal
+682	woog̱àax̱
+683	kei g̱ax̱-gax̱yeesatée
+684	at kʼátskʼoo neil woodzig̱áx̱
+685	kootsʼèen ax̱satéen, kadag̱áax̱
+686	kawdig̱àax̱
+687	kakwḵasag̱áax̱
+688	x̱at kawsig̱àax̱
+689	kei agoox̱shaxwéin
+690	at kʼátskʼoo kei akawshixwén
+691	íx̱tʼ-ch oowasán
+692	yanéegoo ḵáa awé doosáan
+{Page = 61}
+693	
