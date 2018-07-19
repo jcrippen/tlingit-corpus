@@ -743,4 +743,34 @@
 691	the sickness was removed by the medicine man
 692	it’s sick people that they cure (in this manner)
 {Page = 61}
-693	
+693	I curled my hair (with iron)
+694	it’s curly
+695	her hair is curly
+696	she had a ‘permanent’
+697	it (dog) is curly-haired
+698	they cursed him (that is, spoke to him in an attitude of anger)
+699	he cut the cloth in two, with scissors
+700	I cut it with a knife
+701	he cut the rope from there
+702	cut that bush from there (with a knife)!
+703	cut that bush from there (with a saw)!
+704	I cut the skin in several pieces
+705	he butchered it up/cut it in quite small pieces
+706	they cut deer open (in abdominal section ready to clean it)
+707	my mother has never had her hair cut
+708	she’s going to cut my hair
+709	I cut open the halibut
+710	he cut up humpy salmon (for boiling)
+711	I cut myself with the axe
+712	he cut his hand
+{Page = 62}
+713	they cut through anything soft (e.g. soap) with wire
+714	he cut the seal blubber in small strips
+715	I’m cutting carrot in small pieces
+716	one doesn’t cut onion thus (that is against one’s thumb with cutting edge of knife facing one)
+717	I dabbed it on there
+718	they stuff up the cracks in the dammed-up place
+719	beavers dam up rivers
+720	they are going to dam it to get drinking water
+721	I dammed the water in order to extend it towards the beach
+{Page = 63}
