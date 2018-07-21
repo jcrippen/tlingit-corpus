@@ -774,3 +774,34 @@
 720	they are going to dam it to get drinking water
 721	I dammed the water in order to extend it towards the beach
 {Page = 63}
+722	he damped the clothes
+723	the dried fish is getting damp
+724	it (fish) is damp
+725	it’s going to get damp (it will become warmer)
+726	we are going to dance tomorrow
+727	dance (with rapid little foot movements)!
+728	dance (sliding your feet)!
+729	I’m going to dance lightly
+730	I’m going to dance (by swaying my body only)
+731	it’s a dangerous thing when the waves are beating hard
+732	brown bears are dangerous
+733	it’s getting dark (on the verge of being dark, with no moon, etc.)
+734	it’s dark in the woods always
+735	it’s real dark
+736	it’s daylight
+737	in summer it is full daylight by 9:00
+738	it’s getting dusk/daylight is fading
+{Page = 65}
+739	I thrust a light in his face and it dazzled him
+740	a dazzling light
+741	it (light) is so strong it can’t be looked at
+742	he decided to go back (by boat)
+743	they decided to go back (by boat)
+745	they’ve invited us: at the party they are going to put clan emblems on that one
+746	they decorate baskets (by interweaving grass on the surface)
+747	down in a ravine the snow is deep
+748	the pine needles are thick (on the ground)
+749	the snow is getting deep
+750	they make the moss thick there
+{Page = 65}
+751	
