@@ -804,4 +804,36 @@
 749	the snow is getting deep
 750	they make the moss thick there
 {Page = 65}
-751	
+751	I shoveled the snow there and made it deep (on sides of roadway)
+752	make the flour thicker (that is, sift more onto table)!
+753	he always loses (that is, they always beat him)
+754	the big dog defended himself
+755	he really talked hard for himself
+756	he deflated it (balloon)
+757	I’ll try to talk you out of something valuable
+758	the white man defrauded them of their land
+759	I was delayed for four days
+760	her father prevented her (from attending)
+761	storms delay people
+762	he doesn’t delay after meals (he jumps up quickly and goes off)
+763	I’m going to be detained her one week
+764	what was it delayed him?
+765	I delayed my father (each time he started leaving I said something else to him, so he couldn’t get away)
+766	you delayed me in speaking / you slowed down my talk by butting in
+{Page = 66}
+767	I didn’t speak up right away / I was slow to speak
+768	what made you be delayed in speaking? / what kept you from speaking right away?
+769	there are delicate matters in the mayor’s speech
+770	it’s a touchy subject and if not dealt with diplomatically it could cause trouble
+771	things you need to treat delicately, which you should hesitate to talk about
+772	she demonstrated how they sew
+773	he performed magic before the people
+774	the bucket is bent in
+775	he dented my hat
+776	don’t! you’ll dent the bucket
+777	I denied what he said / contradicted him
+778	we cannot deny it / we cannot say it isn’t true
+779	I denied it / I told him “no” (esp. when asked if one still has any dried fish, money, etc. to give or lend)
+780	when they asked him, he denied it all the time
+{Page = 67}
+781	
