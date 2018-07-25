@@ -9,7 +9,7 @@
 2	my wife deserted me
 3	I abstain (from things such as eating meat)
 4	they are keeping from various foods and activities (in observance of Lent)
-5	his speech is acceptable/satisfactory
+5	his speech is acceptable / satisfactory
 6	my uncle is popular / my uncle is acceptable to people
 7	that dog really likes me / follows me around
 8	he’s beginning to go round with him / becoming friendly
@@ -70,21 +70,21 @@
 59	they are angry at each other (and won’t speak)
 60	I’m going to be angry with you (said jokingly, but meant deep down)
 61	they announced, “the salmon are swimming in the creek”
-62	you hear my sayings: I announce them loudly/I call them out
+62	you hear my sayings: I announce them loudly / I call them out
 63	stop now! you are getting me annoyed (with your chattering)
 64	the waves beating (on the shore) are loud: it’s getting him annoyed (tired of it)
 65	he annoyed me by keeping on talking (so that I had to keep on replying)
 {Page = 20}
 66	I made him talk so much that he was annoyed (and hardly knew what he was saying)
 67	everything I do annoys him
-68	he’s not annoyed with us/not tired of us (that is, of our visiting him)
-69	he’s beginning to annoy me/I’m getting tired of him (that is, of his constant borrowing)
+68	he’s not annoyed with us / not tired of us (that is, of our visiting him)
+69	he’s beginning to annoy me / I’m getting tired of him (that is, of his constant borrowing)
 70	answer me!
 71	he answered him, “to whom should we go?”
 72	you haven’t answered me (replied in writing)
 73	he’s calling you: answer him!
-74	I answered already/I said “yes” already
-75	I’m anticipating difficulty/I’m expecting some bad trouble is going to hit me
+74	I answered already / I said “yes” already
+75	I’m anticipating difficulty / I’m expecting some bad trouble is going to hit me
 76	he appeared to them again
 77	he appeared to them
 78	he appeared (came where all could see him, having been previously out of sight)
@@ -110,7 +110,7 @@
 96	I hesitate to go alone, so I’m asking you to accompany me
 97	I’m always asking her to go along
 98	he keeps asking to go with me
-99	I asked her for fruit/berries
+99	I asked her for fruit / berries
 100	he asked me for money
 101	he’s always asking me for money
 102	he asked for a fishtrap
@@ -120,14 +120,14 @@
 106	ask for more adzes (medicine man instructing his helper)
 {Page = 23}
 107	that is where they assemble
-108	they are coming together/assembling for a meeting
+108	they are coming together / assembling for a meeting
 109	I’m very surprised at what you are telling me
 110	he stood with his legs apart
 111	he began to walk with legs far apart, struggling to carry the buoy weight
 112	they (one attacking force) attacked in our absence
 113	the dog jumped out at him
 114	their town was attacked (and captured)
-115	we attacked/invated (as a war party)
+115	we attacked / invaded (as a war party)
 116	they went on a war party (to attack the enemy)
 117	I avoided the man who was driving (coming here by car)
 118	a big brown bear is an awful sight
@@ -153,7 +153,7 @@
 136	his dog barked at him
 137	the dog will bark at you
 138	he barks while a person is still a long way off
-139	children are bashful/timid with people
+139	children are bashful / timid with people
 140	long ago a young woman was trained to be shy of men
 141	he batted the ball (which was thrown to him)
 142	hockey (that is, batting the can)
@@ -166,7 +166,7 @@
 148	it’s battered
 149	how are they?
 150	the yarn is all colors
-151	you are really upright/honest
+151	you are really upright / honest
 152	my father is a seine fisherman
 153	is your mother still living?
 154	there isn’t anything
@@ -190,7 +190,7 @@
 171	put your son to bed (to sleep)!
 172	daughter, put your children to bed!
 173	they are doing that (behaving like that) all the time
-174	they don’t behave like that/they don’t do such things
+174	they don’t behave like that / they don’t do such things
 175	long ago they used to kill people who behaved like that (who used to do those things)
 {Page = 28}
 176	I belched
@@ -212,7 +212,7 @@
 192	he’s going to make some big bets
 193	he told on it (something which had been done in secret (usually something wrong) and he informed everyone about it)
 {Page = 29}
-194	they will betray me to them/they will deliver me into their hands
+194	they will betray me to them / they will deliver me into their hands
 195	he betrayed him
 196	one from among you is going to betray me
 197	they bewitched him
@@ -236,7 +236,7 @@
 214	the screw is too fat (for the hole)
 215	this needle is a little too fat
 216	make yourself bigger!
-217	I bound up his hand/I bandaged his hand
+217	I bound up his hand / I bandaged his hand
 218	a mosquito bit me
 219	a dog bit me
 220	a shark bit me
@@ -279,25 +279,25 @@
 255	he blew it (light) out
 256	I blew up a seal stomach
 257	they are blowing up the rocks with dynamite
-258	the knife is dull/blunt
+258	the knife is dull / blunt
 259	don’t! you’re going to blunt it
 260	my pencil is blunt
 261	my pencil is blunt
 {Page = 33}
 262	that’s enough of that boasting
 263	he’s always bragging (saying how good he is)
-264	he boasts/talks big of his status and wealth (but with no truth in it)
+264	he boasts / talks big of his status and wealth (but with no truth in it)
 265	the captain is taking the boat out
 266	boil the water!
 267	it’s not boiling yet
-268	he boiled fish/salmon
+268	he boiled fish / salmon
 269	they boil humpy salmon
 270	boil the meat!
 271	they used to boil elderberries
 272	they bolted the door
 273	these herring are really bony
 274	halibut isn’t bony
-275	I’m uninteresting/I’m no good at jokes (said when pressed to speak at a party)
+275	I’m uninteresting / I’m no good at jokes (said when pressed to speak at a party)
 276	he was born there
 277	he’s going to borrow it
 278	he’s getting credit (borrowing along) from the store
@@ -306,7 +306,7 @@
 280	he borrowed my gun
 281	go and borrow it (globe)!
 282	he borrowed a pencil
-283	he annoys me/he keeps interrupting (because he thinks his work is more important)
+283	he annoys me / he keeps interrupting (because he thinks his work is more important)
 284	don’t bother me!
 285	don’t bother me (to children demanding attention)
 286	he’s bothering him
@@ -376,8 +376,8 @@
 347	tiny bubbles are coming up from the bottom (that is, from the mud)
 348	it’s bubbling up from the bottom of the water
 349	as the salmon swim along, they make tiny bubbles
-350	the spring is bubbling out/coming out real strongly
-351	it leaks real fast/it keeps bubbling out
+350	the spring is bubbling out / coming out real strongly
+351	it leaks real fast / it keeps bubbling out
 {Page = 38}
 352	he told them to build a large boat
 353	I bumped my foot
@@ -389,7 +389,7 @@
 359	because the sun was strong, our faces got sunburnt
 360	I’m burning tree stumps
 361	he’s burning (old) clothes (on the beach)
-362	that skin has been burned/shriveled
+362	that skin has been burned / shriveled
 363	he scalded his hand with hot water
 364	I burned my hand making up the fire (stove)
 365	I was forced to move back (from fierce fire) because I was burning hot
@@ -397,9 +397,9 @@
 367	they used to burn yellow cedar bark to ashes
 {Page = 39}
 368	the cold bursts them (raven eggs)
-369	a cloudburst came on us/rain burst forth
+369	a cloudburst came on us / rain burst forth
 370	the water burst forth (that is, the dam broke)
-371	the water poured down suddenly and fast/the water broke forth (when trapped above)
+371	the water poured down suddenly and fast / the water broke forth (when trapped above)
 372	the sack (of flour) has burst open
 373	his appendix burst
 374	the seal stomach burst open making a popping sound
@@ -436,7 +436,7 @@
 403	there’s going to be a big matter (at the meeting), so they’re going to call the roll
 404	the palm of my hand is calloused
 405	there’s a corn on the side of my foot
-406	it is calm/peaceful
+406	it is calm / peaceful
 407	it is calm with no wind or storm at all
 408	his boat capsized with him
 409	the canoe is tippy and given to capsizing
@@ -497,7 +497,7 @@
 {Page = 45}
 461	he dared him to steal
 462	a person’s life has changed completely to the opposite direction (lit. has tipped up)
-463	I’ve burned the toast/reduced it to charcoal
+463	I’ve burned the toast / reduced it to charcoal
 464	it just chars along the edge of the wood (of wood suitable for canoe-making)
 465	he made charcoal
 466	it’s with material from a partially burned log that they paint the face (with charcoal)
@@ -523,7 +523,7 @@
 485	he’s chipping out a cottonwood tree for a canoe
 486	he choked on a bone
 487	don’t sip it up noisily (drawing air in to cool it); you will choke!
-488	they choose/point suddenly at a man’s hand
+488	they choose / point suddenly at a man’s hand
 489	you chose
 {Page = 47}
 490	he chopped a cord of wood
@@ -554,7 +554,7 @@
 514	it’s clearing from us (that is, rain is leaving us)
 515	the mist has seemed to be lying solidly on you; that’s why (we say) it is going to lift
 516	maybe the sky is going to clear
-517	they sky is clear/there are no clouds
+517	they sky is clear / there are no clouds
 518	he climbed the tree (holding on around it)
 519	he’s climbing a steep part of the mountain (holding on and pulling himself up)
 {Page = 49}
@@ -576,7 +576,7 @@
 535	the mayor has his mouth closed (he doesn’t wish to talk or give information)
 536	the child is keeping his mouth closed (refusing to eat his food)
 537	his chest healed rapidly and completely from that bullet wound
-538	it has closed up/become one whole
+538	it has closed up / become one whole
 {Page = 50}
 539	the pipe is plugged up
 540	you still never opened that ‘cheese’ (that is coho eggs packed in seal stomach)
@@ -602,7 +602,7 @@
 559	maybe it’s going to be cold this winter
 560	the whole house collapsed
 561	the deadfall trap fell
-562	I sprang the trap/caused it to collapse
+562	I sprang the trap / caused it to collapse
 563	his house was collapsed by the storm
 564	we collect all sorts in our house
 565	have you collected it (mail)?
@@ -620,26 +620,26 @@
 576	a new lamp will be coming for me
 577	winter is coming
 578	the time will be coming round when they go seining
-579	he’s coming to/coming back to consciousness after drinking
+579	he’s coming to / coming back to consciousness after drinking
 580	he’s going to get back his senses
 581	we came upon a bear in its den
 {Page = 53}
 582	I came upon him and saw him in the very act of taking it
 583	we found him cooking
 584	he comforted him
-585	we’re going to comfort her/cheer her up
+585	we’re going to comfort her / cheer her up
 586	he comforted him (lit. he warmed his inner feelings)
 587	I’m sitting very comfortably, just the way I want to be
 588	I’m going to make myself really comfortable
-589	he commands/he is in command
+589	he commands / he is in command
 590	I commented on the food
 591	my aunts, I have composed a song about you
 592	he composed a song concerning the sale of Alaska
 593	he composed a song about his relatives in the opposite clan
 {Page = 54}
 594	we concentrated on the Tlingit language (put effort into speaking Tlingit)
-595	what is on your mind/what is troubling you?
-596	I am concerned/I have no peace of mind/I don’t feel good (about something)
+595	what is on your mind / what is troubling you?
+596	I am concerned / I have no peace of mind / I don’t feel good (about something)
 597	I can’t find any reason to condemn him (that is, I don’t find in him anything for which he could be punished)
 598	is there no one left who condemns you (that is, who lays the blame on you)?
 599	whoever confessed Jesus is the messiah will be thrown out
@@ -647,15 +647,15 @@
 601	the fog confused me, and I went the wrong way
 602	the noise of the waves confuses people
 603	they were confused (that is, they didn’t understand what was happening)
-604	he was perplexed/bewildered (that is, his mind was really troubled)
+604	he was perplexed / bewildered (that is, his mind was really troubled)
 {Page = 55}
 605	they connected the wire
 606	I connected the wires together
 607	the wire is connected up with it
-608	we connected it up/tied it up to this
+608	we connected it up / tied it up to this
 609	he is consecrated to God
 610	my father consecrated me (that is, caused me to enter into it (a particular task))
-611	he came to his senses/he thought things over
+611	he came to his senses / he thought things over
 612	you’d better consider yourself (think over your life): you are going in the wrong direction!
 613	he’s eaten too many berries; he’ll be constipated
 614	he was converted
@@ -836,4 +836,70 @@
 779	I denied it / I told him “no” (esp. when asked if one still has any dried fish, money, etc. to give or lend)
 780	when they asked him, he denied it all the time
 {Page = 67}
-781	
+781	he descended the mountain
+782	they’re coming down the mountain without anything (that is, having hunted unsuccessfully)
+783	I’m anxious to acquire it
+784	he really desired a bear / he was anxious to go after it and get it
+785	all hopes of your returning had been given up
+786	don’t despair!
+787	we are giving up hope
+788	they will destroy our temple
+789	he made nothing of the speeches / he threw them out as being worthless
+790	he’s determined to go trolling
+791	I’m going to die
+792	he was dead when I found him
+793	he pretended to be dead
+794	it (tree) is dead, but still standing
+{Page = 68}
+795	my mother died / she no longer exists
+796	how did they die?
+797	he died / he stopped breathing (soft expression)
+798	they all died (one at a time)
+799	if we don’t take any action, they’ll all die off
+800	they all died off (leaving just a few of us in the village)
+801	he’s digging up clams
+802	whjen it comes fall time, they dig up the potatoes
+803	they are going to dig up the large boat (ancient remains)
+804	I dipped it up carefully into this bucket
+805	he dipped up water from it (spring)
+806	it’s getting dirty (from being worn)
+807	don’t! you will dirty your dress
+808	the neck of my shirt is dirty
+809	his boat is real dirty / there’s lots of rubbish in it
+810	he got himself dirty (e.g., by tumbling in the mud)
+811	it’s real dirty (dust, papers, and rubbish all over)
+812	the bucket is dirty inside
+{Page = 69}
+813	they disagreed with each other
+814	they disagree and argue about hearsay (that is, about things they don’t really know about)
+815	yáa daaxʼòon àa, áx̱ kawdihàa
+816	camphor disappears
+817	I’ll take you some place else / cause you to disappear as if by magic (said jokingly)
+818	I’m disappointed (lit. my mind is broken)
+819	I’m disappointed (lit. my mind is stinging)
+820	the water is muddy / dirty
+821	the children muddied the water
+822	clay clouds water
+823	when it rains the salmon creeks get discolored
+824	if you pour the medicine in the water, it will be discolored
+825	his face is discolored (from bruising)
+826	children discolor it (water) with mud
+827	the water is discolored (fresh water with whitish clay in it after heavy rain)
+{Page = 70}
+828	your face is discolored (for any reason such as jaundice, bruising)
+829	he tried to discourage him and stop him doing it
+830	we tried to discourage our son from doing it
+831	he’s discouraging me from doing it (he’s telling me I won’t be able to, etc.)
+832	I’m not discouraging you (that is, I think you should go ahead)
+833	we discussed making a large canoe
+834	the young fellows are discussing it
+835	I am disliked / nobody wants me
+836	you’re not going to like me
+837	I don’t want to go home: it’s too cold
+838	don’t you like it? / do you dislike it?
+839	I dislike it that he is lazy and talks back (when I tell him to do anything)
+840	he doesn’t like it very well / he disapproves
+841	he dislocated his knee
+842	he continually disobeys
+{Page = 71}
+843	
