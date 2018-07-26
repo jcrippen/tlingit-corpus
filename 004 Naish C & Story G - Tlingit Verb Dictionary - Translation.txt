@@ -902,4 +902,18 @@
 841	he dislocated his knee
 842	he continually disobeys
 {Page = 71}
-843	
+843	I told him to leave the books, but he disobeyed me and took them
+844	seal blubber is distasteful / too rich (for many people)
+845	he distributed the money
+846	I’m going to pass out the food
+847	the hair seal dived
+848	I surface-dived
+849	the ducks dived
+850	he dived in (lit. jumped in the water upside down)
+851	I’m dizzy all the time
+852	looking down from a cliff top makes one dizzy
+853	he’ll do something
+854	I didn’t do it / I’m not the one who did it.
+855	he was hurt (lit. they did it to him in a hurting way)
+{Page = 73}
+856	
