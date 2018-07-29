@@ -976,4 +976,52 @@
 910	rain water was driving in (during heavy storm)
 911	put a drop of your medicine in mine
 {Page = 76}
-912	
+912	it (a spark) dropped on the roof
+913	my father was drowned way out
+914	all of them were drowned
+915	your laundry has dried already
+916	my throat is dry
+917	we are going to dry deer meat
+918	all my clothes were dried by machine (that is, in the clothes dryer)
+919	this (pot) isn’t dry
+920	the flour is dry
+921	he dried out the pot
+922	after the north wind has been blowing, everything seems to be dry
+923	it’s dry and crisp (somewhat chilly)
+924	I’m going to make dried fish this summer
+925	he’s smoking sockeye
+926	the book has dried apart / come unglued
+927	he is dumb
+928	I dumped it (garbage)
+929	he dumped the clothes
+{Page = 77}
+930	I dyed my topcoat red
+931	I’m going to put polish on my shoes (changing their color)
+932	when the store is having a sale, clothes are easily gotten (that is, are cheap there)
+933	deer are easy to get close to at the edge of the swamp
+934	we will eat deer meat
+935	they ate as much as they wanted
+936	Tlingits eat everything (that is, have a varied diet)
+937	he is eating his hand (of infant)
+938	don’t just eat the berries, pick them (that is, for taking home)!
+939	they eat gumboots (chiton) raw from the beach
+940	I ate the sea urchin
+941	they eat cockles raw too
+942	we’ll dip it in the oil and eat it
+{Page = 78}
+943	eat the sea urchins!
+944	eat it with your fingers (esp. dip your fingers into the food)
+945	let’s pretend to eat!
+946	we’ll clean up this plate with our fingers (showing real enjoyment of the food)
+947	I ate up the whole broiled herring
+948	they ate it all up (lots of pieces)
+949	finish it up!
+950	he finished the food I gave him
+951	the thunder echoed back and forth
+952	it resounds, like an echo
+953	he is elected (that is, the choice fell on him)
+954	just two were elected (that is, they fell into office)
+955	they were elected
+956	there’s nothing there (in the dish): maybe the dog ate it up
+957	the potato sack is empty
+{Page = 79}
