@@ -997,7 +997,7 @@
 925	g̱aat ax̱ʼáan
 926	xʼúxʼ wóoshdáx̱ kawdlixúk
 927	tléil yoo x̱ʼeishtánk
-928	a kaa-dax̱ yax̱ kax̱wsixáa
+928	a kaadáx̱ yax̱ kax̱wsixáa
 929	naa.át yax̱ akawsixáa
 {Page = 77}
 930	ax̱ kinaak.ádi x̱ʼaan yáx̱ kax̱wliyésʼ
@@ -1030,3 +1030,65 @@
 956	tléil kooda.át: keitl shákdé a kaax̱ uwakʼít
 957	kʼúntsʼ gwéil tléil kooda.át
 {Page = 79}
+958	inxʼeesháa tléil tooda.át
+959	kei duhúkch
+960	kei aawahúk du xwáaxʼu teen
+961	du g̱altóo at shoowlixeex
+962	át ashoowlixíx
+963	g̱eiwú teen adaawsihát
+964	chʼa yeedát neeyís daawtusihát; x̱ʼaháat áa yéi gax̱too.oo
+965	du yáx̱ ayax̱wlix̱ʼéyxʼ
+966	atyátxʼi yáx̱ has awulx̱ʼéiyin
+967	i toowú galatseen
+968	du x̱ánt uwagút, du toowú agax̱latseent
+969	táakw yánde yaa shunashx̱ín
+970	g̱uwakaan lʼóon yan shoowjix̱ín
+971	násʼk yakyee shunaaxéex
+972	shukg̱waxéex haa yoo x̱ʼatángi
+973	tʼaawáḵ dísi áyá yaa kanakísʼ
+974	kaawakísʼi aa dís
+{Page = 80}
+975	yá dís yaa yakanakísʼ
+976	likoodzí aadé du toowú litseeni yé, yá atkʼátskʼu: tléil yoo kwdag̱áx̱k du éeshch x̱íshdi
+977	aatlein yéi tunook a tóonáx̱ yaawagút
+978	ax̱ toowáa yiḵʼawsigoo: i at shéeyi wookʼei
+979	Kíswás ḵu.éexʼi kei ḵʼagux̱sagóo
+980	tlax̱ ḵʼasigóo
+981	Kíswás káxʼ ḵugax̱dus.ookʼ
+982	ḵus.ookʼ
+983	tsaa kax̱wlidútl
+984	toot kax̱wlidútl wé atkʼátskʼu
+985	keitl kanagéis
+986	ldakát át kadugéis
+987	aax̱ akawlixílʼ
+988	aadáx̱ kakḵwaxéelʼ
+989	aadáx̱ nas.há
+990	dei aadáx̱ x̱wasihaa
+{Page = 81}
+991	kei ayawdigút
+992	kei s ayawdi.át
+993	kei s ayawdiḵúx̱
+994	a yáx̱ sh kudlidáal
+995	ḵaa yáanáx̱ ikux̱lidáal
+996	l yan shoowjix̱íni ḵustí du jee yéi kg̱watée
+997	yee eenx̱ gux̱satée, tléil yan shuwooshx̱eeníde
+998	Dikée Aanḵáawouch kée yatx̱ uwatée
+999	at yáxʼ awooné tóonáx̱ kée yatx̱ akg̱watée
+1000	haa daa yagax̱dus.áa
+1001	haat áyá x̱at kawduwaḵáa, yee ḵusteeyí a daa yanḵas.aa
+1002	i lʼaagí káxʼ ix̱waaḵéenás
+{Page = 82}
+1003	yaakw káxʼ aawaḵéenás
+1004	Lingítx̱ óosh gé satéeyin, a káa nḵwaḵéenásin
+1005	atdoogú daséixʼ áwé yadustánch óonaa
+1006	a daséixʼ ayaawatán chʼa haa aayee
+1007	haa daséixʼán wudihaan gánde
+1008	woosh daséixʼ yax̱tula.aadí kwshé
+1009	woosh daséixʼ yakx̱waajél
+1010	a yayeedé x̱ʼayeesdáy
+1011	x̱ʼayawdzidáy
+1012	at x̱waliḵáx̱
+1013	awliḵáx̱
+1014	chʼa ldakát yéide áwé át sh x̱ʼayeedlijaaḵw
+1015	uwasáḵw
+{Page = 83}
