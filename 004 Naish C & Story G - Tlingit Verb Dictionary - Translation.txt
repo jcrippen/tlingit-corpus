@@ -1087,3 +1087,32 @@
 1014	you are making all kinds of excuses (as to why you lost the race)
 1015	he’s exhausted
 {Page = 83}
+1016	he’s getting all in
+1017	I’m getting stiff (with sitting); I’m going to stand up
+1018	he’s all in, because he drank water (and thus reduced his body temperature)
+1019	packing (deer) gets me really exhausted
+1020	I’m tired out (after hunting or paddling)
+1021	they used to paddle after the fur seal until he was exhausted (then they could get close enough to kill it)
+1022	when you take a trip, we shall expect you back again
+1023	I’m expecting my son
+1024	Angoon is expecting visitors
+1025	he looked at them, expecting to get something from them
+1026	an attacking force was expected
+1027	how expensive was it for you?
+1028	I’ll explain to you
+1029	why don’t you explain it to me?
+{Page = 84}
+1030	the stove exploded (that is, the explosion came through the door or lid)
+1031	someone fired a gun and the explosion was heard
+1032	he exploits the mountain (he goes up when he has a chance and every time he comes back with deer, etc.)
+1033	what he as been doing (in secret) has now been exposed
+1034	the road extends to the forest
+1035	there’s a furrow the whole length of the garden
+1036	the forest extends for a long way (to a far place)
+1037	he’s making faces at us
+1038	I made faces at that girl
+1039	I always fail / I never succeed
+1040	he failed (in an attempt to get stove to work)
+1041	I failed (for instance to return a greeting suitably)
+1042	but he failed (to get message across, though he spoke well enough)
+{Page = 85}
