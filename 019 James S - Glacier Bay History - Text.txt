@@ -114,7 +114,7 @@
 {Page = 250}
 102	kayáanax̱ áyu dulyaaḵw yóo kdunéek, aadéi yaa kana.ein yé.
 103	Ha áyu akoolx̱éitlʼ déin ḵoowanéi.
-104	Yá tléix' táakw yándei yaa shagahéek áwé
+104	Yá tléixʼ táakw yándei yaa shagahéek áwé
 105	yéi sh kawdudlineek.
 106	Sítʼkʼi Tʼoochʼ áwé chʼu chʼáakwdax̱ áa yéi yatee.
 107	Sítʼkʼi Tʼoochʼ yóo duwasáagu yé.
@@ -264,4 +264,48 @@
 248	Ách áwé tle yaakw yídei du náḵ g̱unayéi aawa.át.
 249	De shakastíxʼi áwé yaakw.
 250	Naanaa Hítná x̱ aa kéi kawduwashée wé shí.
- 
+{Comment = First Song}
+251	Ehee iyaa
+252	ehee yei hei yaa
+253	yei aalaa hei yaahaa
+254	ei hei hayoo oo
+255	aalaa iyaa aa laa
+256	
+257	Ax̱  aali
+258	gushei, hei yaa
+259	yei aalaa hei yaa aa
+{Page = 258}
+260	yei hei hayoo ooo
+261	aalaa iyaa aa haaa
+262	
+263	Ax̱ hidi,
+264	gushei, hei yaa
+265	yei aalaa hei yaahaa
+266	yei hei hayoo 000
+267	aalaa iyaa aa haaa
+268	Hwee-e-e-e-e-e. G̱aax̱ a.
+{Comment = Second Song (sung twice)}
+269	Ishaan gushei hei
+270	ax̱ aani hee
+271	i shaan gushei, hei
+272	ax̱ aani hee
+273	dinaḵ yaa kx̱agoot aa
+274	hee hee hee hee
+275	ahaa haa haa haa
+276	yee hee hee hee
+277	aha a haa haaa
+278	yee hee yaa hee hee.
+279	
+280	Ishaan gushei hei
+281	ax̱ hidi hee
+282	ishaan gushei hei
+283	ax̱ hidi hee
+284	dinaḵ yaa kx̱aaḵoox̱, aa
+285	hee hee hee hee
+286	ahaa haa haa haaa
+287	yee hee hee hee
+288	ahaa haa haa
+289	yee hee yaa hee.
+290	
+291	G̱aax̱ aa...
+292	G̱aax̱ daa sheeyí áyá.
