@@ -1121,3 +1121,40 @@
 1041	tléil g̱áa x̱at wooshtee
 1042	tléil ḵu.aa g̱áa wooshtee
 {Page = 85}
+1043	x̱at kawdikei
+1044	tléil ikawdaké
+1045	wé ḵáa dliwú
+1046	yéil ilwéini …
+1047	du g̱altóowu wusʼéilʼi, dáanaa aadáx̱ yei kakg̱wasóos
+1048	tʼéexʼ kaanáx̱ yei s kaawasóos
+1049	ax̱ jeedáx̱ kax̱wlisóos
+1050	kawóot ax̱ jeedáx̱ wudiḵóosh
+1051	gúxʼaa daak wudiḵúsh
+1052	dzeit káx̱ wudzigeet
+{Comment = Line 1053: L91 predicts «g̱waax̱dzigeedi» for the potential.}
+1053	tléil aadé tʼéexʼ káxʼ has g̱oox̱dzigeedi yé
+1054	ḵʼwátl doo jee-dax̱ woojix̱een
+1055	xʼóow tíxʼ kaa-x̱ woowooḵ
+1056	ee keenaak.ádee a kaa-x̱ yei kwg̱awóoḵ
+1057	tléiḵw dei kawdig̱áat
+1058	kadásʼ kadag̱átch
+1059	ee kaa-dei yaa shanashx̱ín
+1060	daak shawjix̱ín
+{Page = 86}
+1061	xʼúxʼ nadáakw kaadáx̱ daak uwaxíx
+1062	radio daak wusixíx
+1063	tíxʼ wookʼoodzí áwé ḵóok yei saxíxch
+1064	kʼúnsʼ daak kaawaxíx
+1065	daak kawsixíx
+1066	dleit daak gux̱satáan shákdé
+1067	kadásʼ daak woostaanín
+1068	tlax̱ yáa naakée wulixʼáas
+1069	sʼíxʼ wóoshdáx̱ wudig̱áat
+1070	té wdutʼéix̱ʼi, wóoshdáx̱ yei dag̱átch
+1071	sdoox x̱ʼatsáagi wóoshdáx̱ kei x̱ʼawdig̱át
+1072	Kanasnoowxʼ hasdu hítxʼi yéeyi áa sadag̱átch
+1073	héen x̱ookadzeidí sawdig̱átch
+1074	gáaxw tʼaawú a daadáx̱ isg̱átch
+1075	ax̱ shax̱aawú ax̱ sháadáx̱ isg̱átch
+1076	ax̱ shax̱aawú aax̱ yei kanalsóos
+{Page = 87}

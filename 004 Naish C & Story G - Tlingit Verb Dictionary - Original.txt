@@ -1123,3 +1123,40 @@
 1041	tléil g̱áa x̱at wooshtèe
 1042	tléil ḵu.àa g̱áa wooshtèe
 {Page = 85}
+1043	x̱at kawdikèi
+1044	tléil ee kawdaké
+1045	wéi ḵáa dliwú
+1046	yéil ilwéinee …
+1047	doo g̱altóowoo woosʼéilʼee, dáanaa àa-dax̱ yei kakwg̱asóos
+1048	tʼéexʼ kàa-nax̱ yei s kaawasóos
+1049	ax̱ jèe-dax̱ kax̱wlisóos
+1050	kawóot ax̱ jèe-dax̱ woodiḵóosh
+1051	gúxʼaa daak woodiḵúsh
+1052	dzèit káx̱ woodzigèet
+1053	tléil àa-dei tʼéexʼ káxʼ has g̱oox̱dzigèedee yé
+{Comment = Line 1054 has a typo «kʼwátl» instead of «ḵʼwátl».}
+1054	ḵʼwátl doo jèe-dax̱ woojix̱èen
+1055	xʼóow tíxʼ kàa-x̱ woowòoḵ
+1056	ee keenaak.ádee a kàa-x̱ yei kwg̱awóoḵ
+1057	tléiḵw dei kawdig̱áat
+1058	kadásʼ kadag̱átch
+1059	ee kàa-dei yaa shanashx̱ín
+1060	daak shawjix̱ín
+{Page = 86}
+1061	xʼúxʼ nadáakw kàa-dax̱ daak oowaxíx
+1062	radio daak woosixíx
+1063	tíxʼ wookʼòodzee awé ḵóok yei saxíxch
+1064	kʼúnsʼ daak kaawaxíx
+1065	daak kawsixíx
+1066	dlèit daak goox̱satáan shakdéi
+1067	kadásʼ daak woostàaneen
+1068	tlax̱ yáa naakée woolixʼáas
+1069	sʼíxʼ wóosh-dax̱ woodig̱áat
+1070	té wdootʼéix̱ʼee, wóosh-dax̱ yei dag̱átch
+1071	sdòox x̱ʼatsáagee wóosh-dax̱ kei x̱ʼawdig̱át
+1072	Kanasnòow-xʼ has doo hítxʼee yéeyee áa sadag̱átch
+1073	héen x̱ookadzèidee sawdig̱átch
+1074	gáaxw tʼàawoo a dàa-dax̱ isg̱átch
+1075	ax̱ shax̱àawoo ax̱ sháa-dax̱ isg̱átch
+1076	ax̱ shax̱àawoo àa-x̱ yei kanalsóos
+{Page = 87}
