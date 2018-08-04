@@ -1152,3 +1152,52 @@
 1075	my hair is falling out
 1076	my hair is falling out
 {Page = 87}
+1077	my uncle is famous / he is known all over
+1078	this is a fancy table
+1079	he’s a prominent man / attracts attention by his dress, ‘high-brow’
+1080	is their town far away?
+1081	he won’t be far from you
+1082	it’s not far / for a short while (that is, not distant in time)
+1083	how far did you go?
+1084	the Klukwan people are coming here to dance: I think it will be a fascinating, a wonderful sight
+1085	I love to watch it / I am fascinated by it
+1086	he’s a fascinating speaker (his presentation is so good and his actions go right along with it)
+1087	his story was fascinating, one was compelled to listen
+1088	I think he’ll be fast
+1089	he was fast with bow and arrow
+1090	he goes faster than anybody
+1091	I fasted four days
+1092	men fasted before going out on hunting trips
+1093	he’s gaining weight / getting fat
+1094	a fat man
+{Page = 88}
+1095	what kind of a feeling am I getting (what am I starting to feel)?
+1096	he doesn’t feel well
+1097	I felt something cold on my neck
+1098	you will feel that I love you
+1099	he got angry / he felt like anger
+1100	I feel mad at him
+1101	they fell big trees
+1102	they are going to fell the tree onto skids
+1103	he went to fetch firewood
+1104	fetch a nurse!
+1105	I fought him
+{Page = 89}
+1106	they have observed him and figured him out (as being good or bad)
+1107	you investigate it and consider all that’s involved!
+1108	he filed it
+1109	he filed it with a grindstone
+1110	that box will be filled up
+1111	we filled our boat
+1112	he filled the day (with what he was doing)
+1113	this town is full of dogs
+1114	the pitcher is full
+1115	fill that bucket with water!
+1116	our barrel is full to the brim of rainwater
+1117	we’ll fill it to overflowing
+1118	fill it half full!
+1119	I filled it (suitcase)
+1120	he didn’t fill it
+1121	he’s the one who is filling the boat (with fish)
+1122	fill it half full (esp. with berries, salt, etc.)!
+{Page = 90}
