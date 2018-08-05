@@ -1201,3 +1201,36 @@
 1121	he’s the one who is filling the boat (with fish)
 1122	fill it half full (esp. with berries, salt, etc.)!
 {Page = 90}
+1123	he found the hammer under the table
+1124	I found a rope
+1125	he found the Canada goose eggs
+1126	we found a pencil on the floor
+1127	I found him at his uncle’s place
+1128	he never did find it
+1129	maybe it will be fine weather tomorrow
+1130	are my clothes finished yet (when being altered)?
+1131	all the preparations are completed / everything is ready
+1132	he never finishes anything / never completes it
+1133	have you finished (altering) my clothes yet?
+1134	it is finished (e.g. school course) (lit. it is filled up)
+1135	he fired that cannon
+1136	he’s shooting off (a machine gun) (that is, going along firing)
+1137	I fixed the fire in it
+1138	have they already made a fire?
+1139	we’ll make a (wood) fire in the morning
+{Page = 91}
+1140	I fixed the fire
+1141	he was seining humpy salmon
+1142	he fished with a dipnet
+1143	they dip net for eulachon (candlefish)
+1144	he hauled in (caught) a large king salmon
+1145	what kind of fish are they catching (with a line)?
+1146	he’s not jigging herring
+1147	he caught it with a hook
+1148	they are trolling
+1149	let’s go to the river, gaffing
+1150	they are hooking salmon
+1151	where have you been halibut fishing?
+1152	I’m going fishing with a halibut hook
+1153	he raked herring
+{Page = 92}
