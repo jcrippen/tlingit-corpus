@@ -1234,3 +1234,52 @@
 1152	I’m going fishing with a halibut hook
 1153	he raked herring
 {Page = 92}
+1154	it (clothing) fits me
+1155	they (gloves) fit me
+1156	they (shoes) fit me
+1157	they have fitted it (name) to her (that is, the name she has been given fits her, because she is like the former bearer of that name)
+1158	I have fitted it (jigsaw puzzle) together
+1159	your uncles are good speakers / say what is fitting
+1160	I didn’t think it (pieces of jigsaw) would fit just there
+1161	it just fits what you said / it has turned out just as you said
+1162	fit that piece of lumber onto the other one!
+1163	he fitted his plans there (that is, actually did what he had been talking about)
+1164	his way of life is fitting / proper
+1165	it is fitting
+1166	his speech is fitting / fits in with his actual lineage
+1167	the fish flesh is coming apart in flakes: it’s because it’s fresh it’s like that
+1168	they roll out silver and also copper
+1169	the tin can was flattened
+{Page = 93}
+1170	his dog has fleas
+1171	it doesn’t have fleas
+1172	he fled from me
+1173	I became conscious of a bear, so I turned back from it
+1174	the people fled into the woods
+1175	they turned back and started for shore to get out of the storm
+1176	all the sheep flee / scatter in different directions
+1177	he flung it (book) aside roughly
+1178	I flung him over there (in wrestling)
+1179	he flung his halibut hook into the water
+1180	I flipped the marble / I hit the marble
+1181	I threw a small rock (by hitting it with back of thumb)
+1182	the herring are flipping their tails (just flicking them above surface)
+1183	iron doesn’t float
+1184	he’s drifting back
+1185	it drifted to a good sandy beach
+1186	shells are floating (during very calm weather)
+{Page = 94}
+1187	trees were floating around
+1188	I put lots of firewood on board; then my boat floated real low in the water
+1189	it is flooding / water is rising
+1190	our basement was flooded
+1191	the town is flooded
+1192	the creek flooded
+1193	the creek is flowing
+1194	the tide caught us (that is, flowed onto us)
+1195	the liquid is half gone / flowed away
+1196	a small waterfall is flowing over the cliff and hitting a certain place down below
+1197	he turned the hose on the floor (caused the water to pour out over the floor)
+1198	it’s beginning to flower / coming into bloom
+1199	the salmonberry is flowering
+{Page = 95}
