@@ -1283,3 +1283,94 @@
 1198	it’s beginning to flower / coming into bloom
 1199	the salmonberry is flowering
 {Page = 95}
+1200	a duck is flying toward us
+1201	we’re going to fly to Angoon tomorrow
+1202	the geese are flying northward
+1203	the ravens are flying across the valley
+1204	mosquitoes are flying around
+1205	sparks are flying
+1206	soapberries foam up
+1207	the egg (that is, the white being beaten) is starting to foam
+1208	the waves are breaking into foam
+1209	the boiling soapy water is going to foam up
+1210	my glasses are fogged up / steamed over
+1211	the oil filmed it over / made it smeary
+1212	it is foggy today
+1213	he folded it up
+1214	it was lying there folded
+1215	it’s going going to fold
+1216	he followed us into the house
+1217	let’s follow him!
+{Page = 96}
+1218	I’ve been following you all over the place (trying to catch you)
+1219	we however are foolish / we don’t reason things out
+1220	when he was a young man he was foolish / unwise (in the way he behaved)
+1221	it’s forbidden to touch the medicine man’s things
+1222	my father forced me to do it
+1223	they were using force to make him do it
+1224	we forget
+1225	he didn’t forget me
+1226	we made them forget their sorrow
+1227	forgive us!
+1228	we were able to get a deer just when we needed it (that is, the spirits sent it to us and favored us with it just the right time)
+1229	I was really fortunate: I found work
+{Page = 97}
+1230	my shin bone fractured
+1231	the berry bushes used to be real fragrant in the spring
+1232	flowers grow there: how fragrant it is / how sweet it smells
+1233	I am beginning to freeze
+1234	it’s a shame (real sad) they froze
+1235	the fish is fresh / still twitching
+1236	we were thoroughly scared and frightened (in a big storm)
+1237	he made a fringe in the edge of the blanket
+1238	he’s going to fringe that cloth around the edge
+1239	it’s frosty
+1240	it’s going to be frosty
+1241	he frowned with bad temper (in ill-humor)
+1242	he frowned / puckered his forehead (when thinking and bothered)
+1243	he fried the fish
+1244	they fried it with oil
+{Page = 98}
+1245	he said this, so that what he had said might be fulfilled / might come true
+1246	it was fulfilled / it happened that way
+1247	I’ve furrows in my garden (along the sides, to retain the water)
+1248	she made a fuss and talked to her husband (about seeing him with another woman)
+1249	they accused each other of improper conduct (because jealous of attentions to others)
+1250	they are real particular with their food
+1251	we have gained three halibut
+1252	he’s acquired a new boat
+1253	he’s gambling with the sticks
+1254	it’s forbidden to gamble now
+{Page = 99}
+1255	we gargle
+1256	gargle with this medicine
+1257	they gather a woman’s skirt (put gathers in it)
+1258	gather those blocks of wood together
+1259	he put a raft together (tying together in a loose way)
+1260	they gathered up all the pieces left over
+1261	gather up all the pencils!
+1262	it got back into joint by itself
+1263	give your aunt this letter!
+1264	he was given (he obtained) strength
+1265	I’m going to give the money to my grandfather
+1266	give me (hand me) a new pencil!
+1267	he gave her earrings
+1268	they are not going to give out the mail
+1269	she gave me a dress
+{Page = 100}
+1270	they (of the opposite clan) are giving food to you
+1271	they gave them sugar and pilot bread to take away
+1272	I am giving you a little extra (for free)
+1273	aren’t you going to give a little extra free?
+1274	didn’t they give you anything?
+1275	we could have given it to the poor
+1276	they are going to be giving to people at the party this evening (said to someone who has been absent from village and so doesn’t know the stage reached)
+1277	give my paternal aunt twenty dollars extra!
+1278	the ANB presented it to us
+1279	by his death he gave us life
+1280	they’ll give him a drink
+1281	they give him drink (usually at communion)
+1282	give him pilot bread (to eat)!
+1283	I’ll be glad when I find it
+1284	was he glad to see you?
+{Page = 101}
