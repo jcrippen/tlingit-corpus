@@ -1374,3 +1374,38 @@
 1283	I’ll be glad when I find it
 1284	was he glad to see you?
 {Page = 101}
+1285	lawyers are glib / they always have something to say
+1286	it (canoe) is going down slowly with people in it
+1287	planes glide (that is, fly with engine shut off)
+1288	my Father, may your name be glorified
+1289	we glorify your name (we honor it and make it well known and holy)
+1290	there’s still sparks in the ashes
+1291	a spark has landed there and is starting to burn
+1292	the dog is gnawing a bone
+1293	I gnawed on dry bread
+1294	your song was good
+1295	does that seem good to you?
+1296	he doesn’t gossip now
+1297	they were gossiping / telling tales about each other
+1298	grab that puppy!
+1299	I grabbed the bucket
+{Page = 102}
+1300	he grabbed the egg
+1301	he grabbed a pencil (and hurried off with it)
+1302	he grabbed them and brought them in one at a time
+1303	I don’t know what I grabbed up (e.g., when escaping from fire)
+1304	they each grabbed up a rifle
+1305	I am grateful to you
+1306	the skin grazed off (in a fall)
+1307	you are greedy; eat slowly (to child)!
+1308	he isn’t greedy; he eats like a gentleman
+1309	he ground it up
+1310	he’s grinding meat
+1311	the pliers gripped the screw
+1312	Eskimos grip the skin in their teeth when making moccasins
+1313	trouble has me in its grip (when one disaster follows another) (lit. trouble has bitten on me)
+1314	he’s growing
+1315	he was very old (that is, really matured)
+1316	they nourished him (child)
+1317	springtime is coming; the leaves are coming out / the plants are growing
+{Page = 103}
