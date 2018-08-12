@@ -1409,3 +1409,32 @@
 1316	they nourished him (child)
 1317	springtime is coming; the leaves are coming out / the plants are growing
 {Page = 103}
+1318	what is growing in your garden?
+1319	the rain and sunshine are making plants grow
+1320	let your hair grow (implying it has been cut short before)!
+1321	the brown bear gave a great growl
+1322	I protected them and not one of them was lost
+1323	he spoke to the girl guarding the gate
+1324	I’ll guide you there (leading and pointing out landmarks, so that you’ll know the way another time)
+1325	thank you for guiding me
+1326	you are still guilty (that is, the sin lies against you)
+1327	you would not be guilty (that is, they could not lay the blame on you)
+1328	you are not guilty (that is, there is nothing for which you could be punished)
+1329	he’s guilty (that is, he did it)
+1330	the boards are gummy
+1331	the bread dough is getting sticky (with too much water)
+{Page = 104}
+1332	it had become habitual for me to do it (e.g., change gears a certain way)
+1333	if you live well, it will become a habit with you
+1334	we like to go hunting (and we go frequently)
+1335	she’s in the habit of going berry-picking
+1336	a deer is hairy
+1337	he’s growing hair on his face (beginning to get hairy)
+1338	it has a hairy body
+1339	that china doll has lots of hair
+1340	I handed over to you the song or story for you to complete (or substitute another for it)
+1341	he handed over to me, so I finished telling it
+1342	bats hang down in clusters from the ceiling
+1343	it’s hanging there (string, rope, or cobwebs)
+1344	berries are hanging in clusters on the bushes
+{Page = 104}
