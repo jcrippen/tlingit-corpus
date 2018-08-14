@@ -1458,3 +1458,55 @@
 1362	crab apple wood is hard
 1363	it’s not hard / not tough (of boards, rope)
 {Page = 106}
+1364	that meat is tough (hard to chew on)
+1365	the crab apples are still hard (still green)
+1366	my life is hard for me
+1367	sewing skins is hard
+1368	the Russian language is very hard for me (to speak)
+1369	explain it to her, then it won’t be difficult for her!
+1370	silver that has been melted solidifies again
+1371	the cement has already hardened
+1372	the salt has hardened / caked into one mass
+1373	the clay has hardened at the bottom of the bucket
+1374	harden it in a can!
+1375	they harden tallow
+1376	he harps on it / keeps telling me over and over (till I’m tired of it)
+1377	he hated me
+1378	they hate you
+1379	they are hauling the mail (using horse and sled)
+1380	they are hauling the mail (using motor truck)
+{Page = 107}
+1381	we are headed for Angoon (in a boat)
+1382	I’m going to steer into the storm
+1383	she’s being cured / getting better / recovering
+1384	your hand never heals
+1385	he healed me
+1386	he healed the sick man
+1387	I didn’t hear the bell / drum
+1388	he heard the message
+1389	the table is creaking, squeaking
+1390	I think I hear a sound coming from the island
+1391	do you understand it now (that is, have you finally heard)?
+1392	he heard my voice
+1393	maybe I heard a bear’s voice
+1394	the stove is heated (real hot)
+1395	this board is heavy for me
+{Page = 108}
+1396	your baggage is going to be heavy
+1397	the child is not heavy
+1398	I’m getting heavier / gaining weight
+1399	that anchor is not heavy enough (that is, to hold the boat)
+1400	help me with the sewing!
+1401	I’m not going to help you: I don’t know how
+1402	our master is asking for help
+1403	I’m asking you to help me to carry this
+1404	they put an edging of rabbitskins
+1405	I hemmed up the blanket (or bound its edges)
+1406	because he’s not there, I hesitate (to do something)
+1407	he’s still hesitating (waiting to see what the other will do)
+1408	I hesitate to do it (because I don’t know how it will turn out)
+1409	he hesitated to sit / he was reluctant to sit
+1410	he hesitated to say anything (because it was such a weighty matter)
+1411	he’s hiccuping
+1412	I frequently have hiccups
+{Page = 109}
