@@ -1437,4 +1437,24 @@
 1342	bats hang down in clusters from the ceiling
 1343	it’s hanging there (string, rope, or cobwebs)
 1344	berries are hanging in clusters on the bushes
-{Page = 104}
+{Page = 105}
+1345	kées yóo duwasáagu át aadé kdulxwásʼch
+1346	aast wududziyíḵ
+1347	yan sh wudziyíḵ
+1348	g̱ílʼ yáx̱ g̱aashóo
+1349	dzeit hít káx̱ g̱alishóo
+1350	katéx̱ʼaa x̱ʼéix̱ kaawashoo
+1351	g̱uwakaan dleeyí atx̱ʼaan hídi yeex̱ ashayaawatée
+1352	haa óosʼi gáanx̱ shayawtuwatée
+1353	aadé shayawsitee
+1354	likoodzí, aadé wooneeyi yé
+1355	dleewkát latín; aag̱áa tléil tsu yéi ikg̱wanee
+1356	l.ushkʼidéin woonee
+1357	neekwdéin x̱at woonee
+1358	wáa sá yan has kawdiyáa?
+1359	tléil x̱wasakú wáa sá yan kawdayaayí yú shaawát
+1360	ax̱ toowú sigóo ix̱wsateení
+1361	tsu yei yeekḵwasatéen ḵu.aa; aag̱áa áwé yee toowú kei gux̱sagóo, ḵúnáx̱
+1362	xʼáaxʼ wásʼi yawóosʼ
+1363	tléil uwóosʼ
+{Page = 106}
