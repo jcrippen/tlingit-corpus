@@ -1510,3 +1510,35 @@
 1411	he’s hiccuping
 1412	I frequently have hiccups
 {Page = 109}
+1413	I hid it in my pocket
+1414	he hid under the table
+1415	it’s a high waterfall
+1416	his fort had walls 100 feet high
+1417	that island has a high hill on it
+1418	he’s come here looking for a job
+1419	I’m going around trying to hire myself out and get a job
+1420	he aimed at the can with a rock and hit it
+1421	they are going to aim at the small birds and hit them (with rocks)
+1422	he’s going to hit it on the head with a piece of firewood (which he will throw at it)
+1423	the bullet hit it (the place aimed for)
+1424	it hit him (he was killed by a shot)
+1425	he hit the halibut on the head
+{Page = 110}
+1426	they’ve been hitting each other (that is, there has been war)
+1427	he hit the basketball with his fist
+1428	he kept hitting me in the face with his fist
+1429	he really hit out at him (fast) and floored him
+1430	he wants it all for himself, right now
+1431	he’s going to keep it all for himself
+1432	your boat holds more
+1433	this one contains twice what that does
+1434	you held it under your arm (e.g., book)
+1435	he didn’t hold it (e.g., trying to hold papers down on a table when the wind blows)
+1436	I’m holding a bucket
+1437	he was holding on to the boat, and they saved him
+1438	she’s holding her little daughter (helping her to stand)
+1439	is there a keyhole in your door?
+1440	my nose is blocked (that is, has no outlet)
+1441	I made holes in the window (with a shotgun)
+1442	they bored holes through the hellebore (the length of the stems)
+{Page = 111}
