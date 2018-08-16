@@ -791,7 +791,7 @@
 736	it’s daylight
 737	in summer it is full daylight by 9:00
 738	it’s getting dusk/daylight is fading
-{Page = 65}
+{Page = 64}
 739	I thrust a light in his face and it dazzled him
 740	a dazzling light
 741	it (light) is so strong it can’t be looked at
@@ -1542,3 +1542,62 @@
 1441	I made holes in the window (with a shotgun)
 1442	they bored holes through the hellebore (the length of the stems)
 {Page = 111}
+1143	the bucket has a hole in it (rusted through)
+1144	my shoes are holey / they have many holes in them
+1145	they honored him with a party (or a present) in farewell
+1146	I gave a memorial party for my maternal uncle (I did all expected of me to honor his name)
+1147	the hooked down a cloud
+1148	he hooked it with his foot
+1149	they hook it back from there
+1150	he hooked it back in (a seal he had shot)
+1151	he’s hopping along
+1152	I hopped around
+1153	I hope you catch a halibut
+1154	we hope so
+1155	a cow has horns
+{Comment = Line 1156 erroneously has ‘mountain sheep’ for jánwu.}
+1156	does a female mountain goat have horns?
+{Page = 112}
+1157	hot water (often designating coffee or tea)
+1158	it’s red hot
+1159	the sun is really heating
+1160	the open fire is throwing lots of heat (throwing it a long way)
+1161	I’m real hot (from stove)
+1162	I’m hot (from embarrassment)
+1163	it throws heat in the room
+1164	the sun is shining through the window, and so it’s real hot
+1165	it is hovering
+1166	wolves are howling
+1167	he’s hungry
+1168	I don’t get hungry
+{Page = 113}
+1169	nothing makes him hungry
+1170	he’s really hungry for it / anxious to eat it
+1171	I’m hungry for what you are already eating
+1172	he went hunting
+1173	we’re going to hunt brown bear
+1174	they are always in a hurry
+1175	I’m not in a hurry
+1176	eat a little faster!
+1177	he hurt his hand again
+1178	it will hurt
+1179	imitate me!
+1180	he’s going to imitate a brown bear
+1181	they imitated me to my face (to stop me doing it)
+1182	did he mimic you?
+1183	don’t imitate my speech!
+{Page = 114}
+1184	you have an important (aristocratic) name (lit. a heavy name); live up to it!
+1185	if she practices sewing, the sewing will improve
+1186	his behavior is improving
+1187	it increases very much (lit. swells up)
+1188	I eat a great deal of seal oil (I indulge myself in eating it)
+1189	he’s sleeping too much
+1190	there is pus in it
+1191	it is suppurating / getting full of pus
+1192	they inherited from his things
+1193	I’ll inherit from you
+1194	they’ll make him inherit (that is, will give it him as his inheritance)
+1195	my hand was injured and rendered useless
+1196	he’s going to inspect us (watch us to see we don’t make mistakes)
+{Page = 115}
