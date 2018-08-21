@@ -1639,29 +1639,79 @@
 1224	kawdoowatlàakw doo ḵustèeyee
 1225	yaa kagax̱dootláakw
 {Page = 117}
-1126	dlèit ḵáa ḵustèeyee yan kax̱wsinúk
-1127	át woohàa
-1128	tléil ee èe-dei gooháa ee ḵustèeyee
-1129	tléil x̱at woodoo.éexʼ
-1130	yei ḵukwḵa.éexʼ
-1131	ee x̱waa.éexʼ x̱àan at g̱eex̱àat
-1132	haa naa.ádee kagax̱tooshax̱ʼéelʼ
-1133	ax̱ dàa yaa kanalxwétl
-1134	ax̱ leitóox̱ kawlixwétl
-1135	yáa x̱ʼaháat-nax̱ tléil nèil-x̱ oohàa; yan oowakʼítʼ
-1136	yan oowakʼítʼ-éi yáx̱ yatèe haa ḵustèeyee
-1137	woosh has yawdzitéey
-1138	doo shát ayawsitéey
+1226	dlèit ḵáa ḵustèeyee yan kax̱wsinúk
+1227	át woohàa
+1228	tléil ee èe-dei gooháa ee ḵustèeyee
+1229	tléil x̱at woodoo.éexʼ
+1230	yei ḵukwḵa.éexʼ
+1231	ee x̱waa.éexʼ x̱àan at g̱eex̱àat
+1232	haa naa.ádee kagax̱tooshax̱ʼéelʼ
+1233	ax̱ dàa yaa kanalxwétl
+1234	ax̱ leitóox̱ kawlixwétl
+1235	yáa x̱ʼaháat-nax̱ tléil nèil-x̱ oohàa; yan oowakʼítʼ
+1236	yan oowakʼítʼ-éi yáx̱ yatèe haa ḵustèeyee
+1237	woosh has yawdzitéey
+1238	doo shát ayawsitéey
 {Page = 118}
-1139	gàaw káa-xʼ awé adoog̱íkʼx̱
-1140	wáa yatèeyee yéi-xʼ tléil oog̱íkʼx̱
-1141	dzántee ax̱ jeewatsʼútsʼ
-1142	yaa nx̱ashkʼén
-1143	tléil tʼáa káx̱ eeshkʼéineeḵ
-1144	a kàa-nax̱ haa kagax̱dookʼénxʼ
-1145	kei yee kdookʼéin
-1146	chʼa kindachóon awé kei tánch cháasʼ
-1147	deix̱dahéen kei oowatán
-1148	át woodix̱èet
-1149	yaa shanaḵʼétʼ
+1239	gàaw káa-xʼ awé adoog̱íkʼx̱
+1240	wáa yatèeyee yéi-xʼ tléil oog̱íkʼx̱
+1241	dzántee ax̱ jeewatsʼútsʼ
+1242	yaa nx̱ashkʼén
+1243	tléil tʼáa káx̱ eeshkʼéineeḵ
+1244	a kàa-nax̱ haa kagax̱dookʼénxʼ
+1245	kei yee kdookʼéin
+1246	chʼa kindachóon awé kei tánch cháasʼ
+1247	deix̱dahéen kei oowatán
+1248	át woodix̱èet
+1249	yaa shanaḵʼétʼ
 {Page = 119}
+1250	woodoodlitsáakw chál káxʼ
+1251	gax̱toolatsáagoo, wéi haa x̱òonee hàa-t ḵuwootèenee yís
+1252	doo èen sh x̱ʼax̱wdzidóok
+1253	x̱át tsú doo èen kei sh x̱ʼakakwḵasdóok
+1254	ax̱ x̱ʼòos eeyatséx̱
+1255	chʼa yèisoo at tséx̱t
+1256	neil ashukawlitséx̱ wéi x̱ʼaháat
+1257	tsaag̱álʼ tèen xóots aawajáḵ
+1258	káaxʼ haa atx̱àayee sákw gax̱toojáaḵ
+1259	tsaag̱álʼ-ch awlijáḵ
+1260	g̱oowakàan aawa.èen
+1261	dáa-ch woo.èen yáa káaxʼ
+1262	gandaadagóok-ch ayá wooliláx̱ yáa àas
+1263	g̱oowakàan ḵútx̱ shoowtoolixèex
+1264	hóochʼ: dei ḵútx̱ shoowaxèex
+1265	ḵútx̱ yoo ḵaa shuyaxíxk
+{Page = 120}
+1266	ax̱ tʼàaḵxʼee, gunalchéesh àa-dei x̱àan yee tuli.àanee yé
+1267	tléil x̱àan has tool.àan
+1268	doo sée x̱ʼéi-dei yawdzi.áa
+1269	ḵaa x̱ʼéi-t yawoos.á
+1270	sakwnéin akaawachúx
+1271	yan tóoxʼ-oowatsóow
+1272	tléil a yee yax̱ tóoxʼ-dootsóow
+1273	x̱ʼawòol kadoogwálsʼ
+1274	nadáakw akaawagwál
+1275	káa-yag̱ajèit kax̱ ashawsig̱éexʼ
+1276	nadáakw kax̱ ashawlig̱ích
+1277	ḵútx̱ kax̱waadúxʼ
+1278	tʼáa dlishèey
+1279	àas lishèey
+1280	has doo ée ee x̱wsikóo … anax̱ tóo has ag̱anòokt has eesax̱ánee
+1281	x̱at yeesikóo agé?
+1282	ldakát ayá wootoosikóo yáa shkalnèek
+{Page = 121}
+1283	ee yagóok
+1284	àa-dei aawagóogoo yéi-ch, chʼoo tlèi ḵútx̱ yoo ashulixíxk
+1285	asg̱èiwoo tléil oox̱shagóok
+1286	Lingít ḵustèeyee eeshigóok
+1287	tléil ayá ee x̱ʼakooshgóok
+1288	ee téelee x̱ʼakladzás
+1289	doo kʼoodásʼee ax̱ʼakawlidzás
+1290	ax̱ daséigoo ax̱ jèe koowáachʼ
+1291	tléixʼ dáanaa wooyèix̱
+1292	násʼk sʼíxʼ awé ooyéx̱
+1293	tléixʼ sunday ooyéx̱, hàa-dei ḵukwg̱atèenee
+1294	tléil yoo kooshgútkw
+1295	gáaxw át woojiḵáḵ
+1296	kaawayík-yàagoo áa yei ishḵáḵch
+{Page = 122}
