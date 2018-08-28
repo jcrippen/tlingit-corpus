@@ -1708,3 +1708,41 @@
 1295	the duck landed
 1296	the plane lands there
 {Page = 122}
+1297	because I took good care of it, it lasted a long time
+1298	my coat is not durable
+1299	firewood that is knotty lasts a long time
+1300	he really laughed (after an excellent joke)
+1301	I don’t laugh at all now
+1302	his speeches don’t make me laugh
+1303	they try to cheer them up / make them laugh
+1304	the child went home laughing
+1305	his elder brothers mocked him
+1306	he laughed at us
+1307	I’m going to launch out (by pushing against the bottom)
+1308	I’m real lazy
+1309	he’s lazy to get firewood (he won’t make any effort)
+1310	you are lazy to talk
+1311	I’ll lead you home
+1312	he led me to the river’s edge
+1313	he’s leading the sheep
+{Page = 123}
+1314	she leads her children around
+1315	he led the dog along on a string
+1316	he leads him in a bad way, teaching him bad habits
+1317	he’s leading the singing (giving the words of the song ahead)
+1318	my shoes are leaking
+1319	old roofs are always leaking
+1320	I leaned against the wall
+1321	don’t lean back!
+1322	I am learning (that is, beginning to know)
+1323	I learned from him
+1324	we are learning how to sew
+1325	I learned to read
+1326	her husband left her
+1327	all the children have left
+1328	the people are all coming down to the beach (leaving only a few behind)
+1329	I leave them alone / don’t bother them
+1330	leave me alone!
+1331	he’s left-handed
+1332	using it all the time, he’ll become left-handed
+{Page = 124}
