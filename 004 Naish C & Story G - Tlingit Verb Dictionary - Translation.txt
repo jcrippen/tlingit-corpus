@@ -1746,3 +1746,77 @@
 1331	he’s left-handed
 1332	using it all the time, he’ll become left-handed
 {Page = 124}
+1333	lend it to me!
+1334	he’s lent the lamp to somebody
+1335	lend it (large object) to me!
+1336	lend me a ball!
+1337	lend me a boating pole!
+1338	he’s going to let it go again
+1339	he is giving away seal meat
+1340	he let the blanket go (announcing that he did not want any reimbursement for it in the pay-off) (lit. he killed it)
+1341	let the cat in!
+1342	don’t let him out!
+1343	they let the dogs in
+1344	a cat licks itself
+1345	I licked / lapped up the water
+1346	he’s lying
+1347	don’t tell lies: always tell the truth (lit. they tell the truth)!
+1348	he’s a liar
+1349	there’s a rock lying there
+{Page = 125}
+1350	there are seal rocks over there
+1351	the egg is (lying) in the nest
+1352	pencils are (lying) on the table
+1353	the spoon is (lying) on the stovetop
+1354	there’s a ladder lying behind the house
+1355	the paddle is (lying) under the house
+1356	there’s an arrow lying here
+1357	the screws are (lying) on the table
+1358	your shirt is lying over there
+1359	he’s lying on the bed
+1360	I’m going to lie down
+1361	they are already lying down
+1362	he lights a lamp / turns on a light
+1363	we didn’t light the stove
+1364	the bark (of those trees) is just the same / there is no difference between them
+1365	my younger sister looks just like my mother
+1366	I am like his older brother (according to clan relationships)
+1367	you are going to be as a brother to me
+{Page = 126}
+1368	they became like brothers
+1369	they were like walruses
+1370	all their thoughts were like each other’s (that is, there was unanimous agreement)
+1371	he doesn’t limp now
+1372	the doctor says he will always limp
+1373	they are linking middle fingers, to try each other’s strength
+1374	I’m listening to you
+1375	he’s listening to it
+1376	bring just a little!
+1377	there were few springs of water there
+1378	he lives alone in his house
+1379	they lived at the same time
+1380	they made lots of noise when they played
+1381	he’s really crazy / lively
+{Page = 127}
+1382	we loaded the boat, took everything aboard
+1383	they take lots of food aboard
+1384	we’re going to load the boxes on the boat
+1385	I put the bullet in
+1386	I loaded it
+1387	did you lock the door?
+1388	I’m going to lock the door
+1389	I’m lonesome
+1390	we’re really going to miss you / be lonesome for you
+1391	I’m lonesome for my aunt / I want her company
+1392	you’ll be happy to see each other
+1393	I’m longing to see him again (wondering when he’ll be coming back and so lonesome for him)
+1394	the seal spear shaft is long
+1395	the stick is long
+1396	her hair is getting long
+1397	it is ten feet long (pole)
+1398	it’s a long thread
+1399	the black seaweed is long
+1400	the days are long
+1401	not long ago
+1402	how long is he going to stay?
+{Page = 128}
