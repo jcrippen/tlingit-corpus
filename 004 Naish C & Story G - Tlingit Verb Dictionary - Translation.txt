@@ -1820,3 +1820,34 @@
 1401	not long ago
 1402	how long is he going to stay?
 {Page = 128}
+1403	you look real sad / long-faced
+1404	he looked in
+1405	they looked around at each other
+1406	they were looking at it (for a long time) from the woods
+1407	don’t look at me / don’t watch me
+1408	look at this magazine (that is, study and take good note of all that is in it)
+1409	I’ve already taken a good look at his work (in order to copy it)
+1410	I took out all my dishes and had a look at them
+1411	I’m looking for shells, keeping my eyes open as I roam around and picking them up when I find them
+1412	he’s on the lookout for anything he can find as he’s walking around
+1413	I’m looking out for my father (expecting him to come)
+1414	he’s looking for an eagle (standing and gazing around intently)
+1415	I lost them from my purse
+{Page = 129}
+1416	I lost my bucket
+1417	he lost his boat (as a wreck)
+1418	on account of my working so hard I lost my wife (she died because I didn’t have time to care for her)
+1419	I lost my knife in the woods
+1420	she lost her ribbon in the street
+1421	I was lost / I didn’t know whereabouts I was
+1422	a man’s voice too may be lost
+1423	I lost my voice through having a cold
+1424	he’s lost his voice / he’s hoarse
+1425	a dog began barking at him: it was really loud
+1426	he’s knocking loudly
+1427	when he is noisy, his aunt sends him outdoors
+1428	he has a loud, powerful voice
+1429	they were lousy / had lots of lice on them
+1430	we love him, because he first loved us
+1431	he lowered his boat (over the rapids)
+{Page = 130}
