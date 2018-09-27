@@ -1851,3 +1851,16 @@
 1430	we love him, because he first loved us
 1431	he lowered his boat (over the rapids)
 {Page = 130}
+1432	let’s lower the box down into the boat!
+1433	it’s not deep: my line has already reached bottom (that is, has been completely lowered)
+1434	the anchor line is being lowered / is going down in the water
+1435	I’m lowering down my line
+1436	he lowered it (piece of string) (and left it dangling)
+1437	she whistled softly and put the baby to sleep
+1438	she’s lulling the baby to sleep, whistling softly
+1439	the meat is full of worms
+1440	they used to make magic at the salmon streams (perform rites such as returning salmon eggs and milt to the stream); that’s why the salmon used to be plentiful
+1441	they are going to make magic (pass someone through the fire for offending ‘the world’, and so restore good weather)
+1442	they performed magic on you when you were a baby: they buried your umbilical cord at the foot of an eagle’s tree
+1443	they made magic on you with a ptarmigan foot, so you are going to be swift (thus encouraging youngster by autosuggestion)
+1444	{Page = 131}
