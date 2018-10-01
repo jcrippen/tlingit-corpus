@@ -983,7 +983,7 @@
 {Page = 76}
 912	hít kát yawsixíx
 913	ax̱ éesh deikéexʼ héench yéi wsinee
-914	ldakát hás héench yéi s woosinee
+914	ldakát hás héench yéi s wusinee
 915	i óosʼi dei uwaxúk
 916	ax̱ leitóox̱ uwaxúk
 917	g̱uwakaan dleeyí gax̱toosaxóok
