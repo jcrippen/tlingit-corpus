@@ -27,7 +27,7 @@
 17	ḵa
 18	yá ooháan Chookaneidéex̱ haa sateeyí,
 19	ldakát uhaan áwé awu.á.
-20	Aa yéi haa yatee.
+20	Áa yéi haa yatee.
 21	Á áwé
 22	chʼu wáa yóo tukdatángi sá kwshíwé
 23	wé shaatkʼ ḵwá
@@ -66,7 +66,7 @@
 55	Geis,
 56	geis.”
 57	Wé atx̱ʼéeshi aawax̱ayí, a daa x̱ʼéeshi áwé tle
-58	yu keitl jiyáx̱ áwé yá aadéi ḵʼastóox̱; áwé tle ách akoolgéis.
+58	yú keitl jiyáx̱ áwé yá aadéi ḵʼastóox̱; áwé tle ách akoolgéis.
 59	“Sítʼ
 {Page = 248}
 60	Geis.
@@ -128,8 +128,8 @@
 115	yá lʼéiw tóox̱ yaa kana.éin aa, áyu yéi kaaxát.
 116	Yóo yú kíndei dag̱átch yóo héen takaanáx̱.
 117	Haat yáx̱ ḵuwanéekw yóo xʼóolʼ kíndei dag̱átch.
-118	Wé sít áx̱ yaa kana.en yé áwé yéi kaaxát.
-119	Yóo míngi yáx̱ kawduwahéen yu sʼé.
+118	Wé sítʼ áx̱ yaa kana.en yé áwé yéi kaaxát.
+119	Yóo míngi yáx̱ kawduwahéen yú sʼé.
 120	Sʼé áyú chʼu tle mínk kawduhéeni yáx̱ yatee wé.
 121	Aag̱áa áwé dawóotl déin ḵoowanei.
 122	Wáa sá yóo? Tlél aadéi ḵux̱dei yóo nax̱dudzineiyi yé.
@@ -156,7 +156,7 @@
 142	du tláa een akanéek
 143	Shaawatséekʼ een áwé akanéek,
 144	“X̱ʼayaaḵuwdlig̱adi yáx̱ áwé yatee i dachx̱án” yóo ayawsiḵaa.
-145	“Yóo sitʼ áwé akaawagéis.
+145	“Yóo sítʼ áwé akaawagéis.
 146	Áwé de yaa haa kunalséin áwé aadéi,
 147	aadéi yaa kana.en yé.
 148	Tle keitl yaa nashíxi yáx̱ áwé akana.éin.
@@ -208,7 +208,7 @@
 192	yéi yawaḵaa hú ḵu.aa
 193	yú ḵaa tláa
 194	du x̱úx̱ teen akanéek
-195	“Yóo áwé x̱ʼayaḵá ax̱  tláa ḵa yóo, ḵa yóo.”
+195	“Yóo áwé x̱ʼayaḵá ax̱ tláa ḵa yóo, ḵa yóo.”
 196	Aag̱áa áwé wé ḵaa káak ḵu.aa
 197	shí alyéix̱.
 198	Shí alyéix̱.
@@ -228,7 +228,7 @@
 212	haa dakélʼni.”
 213	“Yakʼéi” tle yóo yaawaḵaa, “yakʼé
 214	Daa yóo tux̱aatangi át áwé.
-215	Saa yóo tux̱aatánk.
+215	Daa yóo tux̱aatánk.
 216	Yándei kḵwasanéi”
 217	yóo áwé ash yawsiḵaa.
 218	“A káaxʼ áwé tle
@@ -265,7 +265,7 @@
 247	yá ax̱ léelkʼw hás hídi ax̱ tlaa káak hás hídi teen yóo x̱at kakg̱watée” yóo áwé x̱ʼayaḵá.
 248	Ách áwé tle yaakw yíkdei du náḵ g̱unayéi aawa.át.
 249	De shakastíxʼi áwé yaakw.
-250	Naanaa Hítná x̱ aa kéi kawduwashée wé shí.
+250	Naanaa Hítnáx̱ aa kéi kawduwashée wé shí.
 {Comment = First song, first verse.}
 251	Ehee iyaa
 252	ehee yei hei yaa
