@@ -272,41 +272,41 @@
 254	ei hei hayoo oo
 255	aalaa iyaa aa laa
 {Comment = First song, second verse.}
-257	Ax̱  aali
-258	gushei, hei yaa
-259	yei aalaa hei yaa aa
+256	Ax̱ aaṉí
+257	gushéi, hei yaa
+258	yei aaṉaa hei yaa aa
 {Page = 258}
-260	yei hei hayoo ooo
-261	aalaa iyaa aa haaa
+259	yei hei hayoo ooo
+260	aaṉaa iyaa aa haaa
 {Comment = First song, third verse.}
-263	Ax̱ hidi,
-264	gushei, hei yaa
-265	yei aalaa hei yaahaa
-266	yei hei hayoo ooo
-267	aalaa iyaa aa haaa
-268	Hwee-e-e-e-e-e. G̱aax̱ a.
+261	Ax̱ hídi,
+262	gushéi, hei yaa
+263	yei aaṉaa hei yaahaa
+264	yei hei hayoo ooo
+265	aaṉaa iyaa aa haaa
+266	Hwee-e-e-e-e-e. G̱aax̱ á.
 {Comment = Second song, first verse. Note says “sung twice”.}
-269	Ishaan gushei hei
-270	ax̱ aani hee
-271	i shaan gushei, hei
-272	ax̱ aani hee
-273	dinaḵ yaa kx̱agoot aa
-274	hee hee hee hee
-275	ahaa haa haa haa
-276	yee hee hee hee
-277	aha a haa haaa
-278	yee hee yaa hee hee.
+267	Eesháan gushéi hei
+268	ax̱ aaní hee
+269	eesháan gushéi, hei
+270	ax̱ aaní hee
+271	dináḵ yaa kx̱agóot aa
+272	hee hee hee hee
+273	ahaa haa haa haa
+274	yee hee hee hee
+275	aha a haa haaa
+276	yee hee yaa hee hee.
 {Comment = Second song, second verse.}
-280	Ishaan gushei hei
-281	ax̱ hidi hee
-282	ishaan gushei hei
-283	ax̱ hidi hee
-284	dinaḵ yaa kx̱aaḵoox̱, aa
-285	hee hee hee hee
-286	ahaa haa haa haaa
-287	yee hee hee hee
-288	ahaa haa haa
-289	yee hee yaa hee.
-{Comment = Second song, third verse.}
-291	G̱aax̱ aa...
-292	G̱aax̱ daa sheeyí áyá.
+277	Eesháan gushéi hei
+278	ax̱ hídi hee
+279	eesháan gushéi hei
+280	ax̱ hídi hee
+281	dináḵ yaa kx̱aaḵóox̱, aa
+282	hee hee hee hee
+283	ahaa haa haa haaa
+284	yee hee hee hee
+285	ahaa haa haa
+286	yee hee yaa hee.
+{Comment = Second song, comment.}
+287	G̱aax̱ aa...
+288	G̱aax̱ daa sheeyí áyá.
