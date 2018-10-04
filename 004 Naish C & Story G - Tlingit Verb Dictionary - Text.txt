@@ -1133,12 +1133,12 @@
 1052	dzeit káx̱ wudzigeet
 {Comment = Line 1053: L91 predicts «g̱waax̱dzigeedi» for the potential.}
 1053	tléil aadé tʼéexʼ káxʼ has g̱oox̱dzigeedi yé
-1054	ḵʼwátl doo jee-dax̱ woojix̱een
-1055	xʼóow tíxʼ kaa-x̱ woowooḵ
-1056	ee keenaak.ádee a kaa-x̱ yei kwg̱awóoḵ
+1054	ḵʼwátl du jeedáx̱ wujix̱een
+1055	xʼóow tíxʼ kaax̱ woowooḵ
+1056	i kinaak.ádi a kaax̱ yei kg̱wawóoḵ
 1057	tléiḵw dei kawdig̱áat
 1058	kadásʼ kadag̱átch
-1059	ee kaa-dei yaa shanashx̱ín
+1059	i kaadé yaa shanashx̱ín
 1060	daak shawjix̱ín
 {Page = 86}
 1061	xʼúxʼ nadáakw kaadáx̱ daak uwaxíx
