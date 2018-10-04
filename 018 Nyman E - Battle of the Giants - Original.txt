@@ -25,7 +25,7 @@
 15	yû,
 16	wé shà.
 17	Á áwé,
-18	“Xhát axh àyíxh naxhsati yá T'àkhú,”
+18	“Xhát axh àyíxh naxhsatì yá Tʼàkhú,”
 19	yû áwé wùch has dàyadakhá.
 20	“Tlêkʼ, de yan xhá xhwànuk,
 21	tléł àdé àxh ghunayê khwànùgu yé,”
@@ -122,4 +122,3 @@
 109	dàyadukhá.
 110	Á áwé
 111	khà xhʼaya.áxhch wé át, wé shà tsú.
-{Page = 8}
