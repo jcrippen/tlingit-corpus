@@ -1542,325 +1542,325 @@
 1441	I made holes in the window (with a shotgun)
 1442	they bored holes through the hellebore (the length of the stems)
 {Page = 111}
-1143	the bucket has a hole in it (rusted through)
-1144	my shoes are holey / they have many holes in them
-1145	they honored him with a party (or a present) in farewell
-1146	I gave a memorial party for my maternal uncle (I did all expected of me to honor his name)
-1147	the hooked down a cloud
-1148	he hooked it with his foot
-1149	they hook it back from there
-1150	he hooked it back in (a seal he had shot)
-1151	he’s hopping along
-1152	I hopped around
-1153	I hope you catch a halibut
-1154	we hope so
-1155	a cow has horns
+1443	the bucket has a hole in it (rusted through)
+1444	my shoes are holey / they have many holes in them
+1445	they honored him with a party (or a present) in farewell
+1446	I gave a memorial party for my maternal uncle (I did all expected of me to honor his name)
+1447	the hooked down a cloud
+1448	he hooked it with his foot
+1449	they hook it back from there
+1450	he hooked it back in (a seal he had shot)
+1451	he’s hopping along
+1452	I hopped around
+1453	I hope you catch a halibut
+1454	we hope so
+1455	a cow has horns
 {Comment = Line 1156 erroneously has ‘mountain sheep’ for jánwu.}
-1156	does a female mountain goat have horns?
+1456	does a female mountain goat have horns?
 {Page = 112}
-1157	hot water (often designating coffee or tea)
-1158	it’s red hot
-1159	the sun is really heating
-1160	the open fire is throwing lots of heat (throwing it a long way)
-1161	I’m real hot (from stove)
-1162	I’m hot (from embarrassment)
-1163	it throws heat in the room
-1164	the sun is shining through the window, and so it’s real hot
-1165	it is hovering
-1166	wolves are howling
-1167	he’s hungry
-1168	I don’t get hungry
+1457	hot water (often designating coffee or tea)
+1458	it’s red hot
+1459	the sun is really heating
+1460	the open fire is throwing lots of heat (throwing it a long way)
+1461	I’m real hot (from stove)
+1462	I’m hot (from embarrassment)
+1463	it throws heat in the room
+1464	the sun is shining through the window, and so it’s real hot
+1465	it is hovering
+1466	wolves are howling
+1467	he’s hungry
+1468	I don’t get hungry
 {Page = 113}
-1169	nothing makes him hungry
-1170	he’s really hungry for it / anxious to eat it
-1171	I’m hungry for what you are already eating
-1172	he went hunting
-1173	we’re going to hunt brown bear
-1174	they are always in a hurry
-1175	I’m not in a hurry
-1176	eat a little faster!
-1177	he hurt his hand again
-1178	it will hurt
-1179	imitate me!
-1180	he’s going to imitate a brown bear
-1181	they imitated me to my face (to stop me doing it)
-1182	did he mimic you?
-1183	don’t imitate my speech!
+1469	nothing makes him hungry
+1470	he’s really hungry for it / anxious to eat it
+1471	I’m hungry for what you are already eating
+1472	he went hunting
+1473	we’re going to hunt brown bear
+1474	they are always in a hurry
+1475	I’m not in a hurry
+1476	eat a little faster!
+1477	he hurt his hand again
+1478	it will hurt
+1479	imitate me!
+1480	he’s going to imitate a brown bear
+1481	they imitated me to my face (to stop me doing it)
+1482	did he mimic you?
+1483	don’t imitate my speech!
 {Page = 114}
-1184	you have an important (aristocratic) name (lit. a heavy name); live up to it!
-1185	if she practices sewing, the sewing will improve
-1186	his behavior is improving
-1187	it increases very much (lit. swells up)
-1188	I eat a great deal of seal oil (I indulge myself in eating it)
-1189	he’s sleeping too much
-1190	there is pus in it
-1191	it is suppurating / getting full of pus
-1192	they inherited from his things
-1193	I’ll inherit from you
-1194	they’ll make him inherit (that is, will give it him as his inheritance)
-1195	my hand was injured and rendered useless
-1196	he’s going to inspect us (watch us to see we don’t make mistakes)
+1484	you have an important (aristocratic) name (lit. a heavy name); live up to it!
+1485	if she practices sewing, the sewing will improve
+1486	his behavior is improving
+1487	it increases very much (lit. swells up)
+1488	I eat a great deal of seal oil (I indulge myself in eating it)
+1489	he’s sleeping too much
+1490	there is pus in it
+1491	it is suppurating / getting full of pus
+1492	they inherited from his things
+1493	I’ll inherit from you
+1494	they’ll make him inherit (that is, will give it him as his inheritance)
+1495	my hand was injured and rendered useless
+1496	he’s going to inspect us (watch us to see we don’t make mistakes)
 {Page = 115}
-1197	he came here to look over the situation (for example, the welfare man)
-1198	we are instructing him how to move around (in speeches and dances)
-1199	you showed us how to do it
-1200	they are giving you instructions
-1201	thank you for showing me
-1202	he instructed them to take the dead bodies out to the island
-1203	he’s going to instruct him (or ask him) to say or sing something
-1204	a mother gives instruction in private (lit. spits into a person’s ear)
-1205	do you think it’s going to be insufficient?
-1206	this food is not enough
-1207	have we offended you by what we said?
-1208	he insulted me (he said cutting things that hit me pretty hard)
-1209	did we insult you by our actions?
-1210	he insulted me (he acted contrary to the standard I’ve set and I was offended by what he did)
-1211	he was offended, because of the way they spoke (what they said)
-1212	he’s kind: he never takes offense
+1497	he came here to look over the situation (for example, the welfare man)
+1498	we are instructing him how to move around (in speeches and dances)
+1499	you showed us how to do it
+1500	they are giving you instructions
+1501	thank you for showing me
+1502	he instructed them to take the dead bodies out to the island
+1503	he’s going to instruct him (or ask him) to say or sing something
+1504	a mother gives instruction in private (lit. spits into a person’s ear)
+1505	do you think it’s going to be insufficient?
+1506	this food is not enough
+1507	have we offended you by what we said?
+1508	he insulted me (he said cutting things that hit me pretty hard)
+1509	did we insult you by our actions?
+1510	he insulted me (he acted contrary to the standard I’ve set and I was offended by what he did)
+1511	he was offended, because of the way they spoke (what they said)
+1512	he’s kind: he never takes offense
 {Page = 116}
-1213	you are intelligent, but you haven’t considered this matter
-1214	through his actions one can see he’s going to be intelligent (of small child)
-1215	so they were quoted (either in the original language or interpreted into a second language)
-1216	I’ll interpret for you (act as your interpreter)
-1217	he is intoxicated / drunk
-1218	liquor intoxicated him
-1219	just thinking about you acts like an intoxicant to me
-1220	the man who introduced the killerwhale
-1221	he introduced the white man’s way of life
-1222	he introduced himself to me (that is, explained himself to me)
-1223	introduce yourself / tell him your name!
-1224	they investigated his way of life
-1225	they are going to investigate / find out what happened
+1513	you are intelligent, but you haven’t considered this matter
+1514	through his actions one can see he’s going to be intelligent (of small child)
+1515	so they were quoted (either in the original language or interpreted into a second language)
+1516	I’ll interpret for you (act as your interpreter)
+1517	he is intoxicated / drunk
+1518	liquor intoxicated him
+1519	just thinking about you acts like an intoxicant to me
+1520	the man who introduced the killerwhale
+1521	he introduced the white man’s way of life
+1522	he introduced himself to me (that is, explained himself to me)
+1523	introduce yourself / tell him your name!
+1524	they investigated his way of life
+1525	they are going to investigate / find out what happened
 {Page = 117}
-1226	I’ve been investigating the white man’s way of life (working to find out how he lives)
-1227	it’s invisible, floating in the air
-1228	it can be seen what kind of life you live
-1229	I’m not invited
-1230	I’m going to invite people
-1231	I’m inviting you to eat with me
-1232	we’re going to iron our clothes
-1233	my body is starting to itch all over
-1234	my throat is tickling
-1235	it (table) won’t go through the door; it’s jammed
-1236	our life is like something stuck diagonally in a box (that is, the troubles we’ve had can’t be straightened out)
-1237	they both keep watch on each other in suspicion and jealousy
-1238	he is jealous and so keeps constant watch on his wife
+1526	I’ve been investigating the white man’s way of life (working to find out how he lives)
+1527	it’s invisible, floating in the air
+1528	it can be seen what kind of life you live
+1529	I’m not invited
+1530	I’m going to invite people
+1531	I’m inviting you to eat with me
+1532	we’re going to iron our clothes
+1533	my body is starting to itch all over
+1534	my throat is tickling
+1535	it (table) won’t go through the door; it’s jammed
+1536	our life is like something stuck diagonally in a box (that is, the troubles we’ve had can’t be straightened out)
+1537	they both keep watch on each other in suspicion and jealousy
+1538	he is jealous and so keeps constant watch on his wife
 {Page = 118}
-1239	they make different fast movements in keeping the rhythmm of the drum
-1240	sometimes he missed the time / jerked his head out of time with the drum
-1241	a flounder was jerking my line
-1242	I’m jumping
-1243	don’t jump on the floor!
-1244	we’ll all jump over
-1245	jump (all of you)!
-1246	humpback jumps straight up
-1247	it jumped twice
-1248	the salmon are jumping around on shore
-1249	he staggers along and keels over (esp. of drunkard)
+1539	they make different fast movements in keeping the rhythmm of the drum
+1540	sometimes he missed the time / jerked his head out of time with the drum
+1541	a flounder was jerking my line
+1542	I’m jumping
+1543	don’t jump on the floor!
+1544	we’ll all jump over
+1545	jump (all of you)!
+1546	humpback jumps straight up
+1547	it jumped twice
+1548	the salmon are jumping around on shore
+1549	he staggers along and keels over (esp. of drunkard)
 {Page = 119}
-1250	they kept it in the cellar (for about six months)
-1251	let’s save it for when our friend comes
-1252	I put it firmly before him / there is no way to change me and I shall say no more on the subject to him
-1253	I, too, shall say nothing to him / shall be silent about it
-1254	you kicked my foot
-1255	he’s still kicking
-1256	he kicked the door in
-1257	he killed a bear with a spear
-1258	we’ll kill a chicken for our meal
-1259	he killed it with a spear
-1260	he killed deer (pl.)
-1261	a weasel killed all the chickens
-1262	a woodpecker killed this tree
-1263	we killed off all the deer
-1264	there were no more: they were all killed off
-1265	lots of people get killed (for instance, in railroad accidents)
+1550	they kept it in the cellar (for about six months)
+1551	let’s save it for when our friend comes
+1552	I put it firmly before him / there is no way to change me and I shall say no more on the subject to him
+1553	I, too, shall say nothing to him / shall be silent about it
+1554	you kicked my foot
+1555	he’s still kicking
+1556	he kicked the door in
+1557	he killed a bear with a spear
+1558	we’ll kill a chicken for our meal
+1559	he killed it with a spear
+1560	he killed deer (pl.)
+1561	a weasel killed all the chickens
+1562	a woodpecker killed this tree
+1563	we killed off all the deer
+1564	there were no more: they were all killed off
+1565	lots of people get killed (for instance, in railroad accidents)
 {Page = 120}
-1266	my brothers, thank you for being so kind to me
-1267	they haven’t been kind to me
-1268	she kissed her daughter
-1269	a kiss
-1270	he kneaded the bread
-1271	he knelt
-1272	they don’t kneel in there (in that church)
-1273	someone is knocking at the door
-1274	he knocked on / rapped on the table
-1275	he knocked over a chair
-1276	he knocked over the tables
-1277	I knotted it too tight
-1278	the board has lots of knots in it
-1279	the tree has lots of branches
-1280	I make you known to them … so that they might be conscious of your love for them
-1281	do you know me?
-1282	all of us know this story
+1566	my brothers, thank you for being so kind to me
+1567	they haven’t been kind to me
+1568	she kissed her daughter
+1569	a kiss
+1570	he kneaded the bread
+1571	he knelt
+1572	they don’t kneel in there (in that church)
+1573	someone is knocking at the door
+1574	he knocked on / rapped on the table
+1575	he knocked over a chair
+1576	he knocked over the tables
+1577	I knotted it too tight
+1578	the board has lots of knots in it
+1579	the tree has lots of branches
+1580	I make you known to them … so that they might be conscious of your love for them
+1581	do you know me?
+1582	all of us know this story
 {Page = 121}
-1283	you know how to do things / you are competent
-1284	because of how practiced he was, he killed them all
-1285	I don’t know how to seine
-1286	you know the Tlingit way of life / how to live as a Tlingit
-1287	you don’t know how to speak in public
-1288	lace your shoes!
-1289	he laced his shirt
-1290	I’m going to die soon (that is, my life is too short)
-1291	it lacks one dollar (either one is missing, or one is needed in order to buy something)
-1292	there are three plates too few (implying that these should be brought right away)
-1293	he will be coming one week from now (that is, it lacks one week, when he will be coming)
-1294	he is lame
-1295	the duck landed
-1296	the plane lands there
+1583	you know how to do things / you are competent
+1584	because of how practiced he was, he killed them all
+1585	I don’t know how to seine
+1586	you know the Tlingit way of life / how to live as a Tlingit
+1587	you don’t know how to speak in public
+1588	lace your shoes!
+1589	he laced his shirt
+1590	I’m going to die soon (that is, my life is too short)
+1591	it lacks one dollar (either one is missing, or one is needed in order to buy something)
+1592	there are three plates too few (implying that these should be brought right away)
+1593	he will be coming one week from now (that is, it lacks one week, when he will be coming)
+1594	he is lame
+1595	the duck landed
+1596	the plane lands there
 {Page = 122}
-1297	because I took good care of it, it lasted a long time
-1298	my coat is not durable
-1299	firewood that is knotty lasts a long time
-1300	he really laughed (after an excellent joke)
-1301	I don’t laugh at all now
-1302	his speeches don’t make me laugh
-1303	they try to cheer them up / make them laugh
-1304	the child went home laughing
-1305	his elder brothers mocked him
-1306	he laughed at us
-1307	I’m going to launch out (by pushing against the bottom)
-1308	I’m real lazy
-1309	he’s lazy to get firewood (he won’t make any effort)
-1310	you are lazy to talk
-1311	I’ll lead you home
-1312	he led me to the river’s edge
-1313	he’s leading the sheep
+1597	because I took good care of it, it lasted a long time
+1598	my coat is not durable
+1599	firewood that is knotty lasts a long time
+1600	he really laughed (after an excellent joke)
+1601	I don’t laugh at all now
+1602	his speeches don’t make me laugh
+1603	they try to cheer them up / make them laugh
+1604	the child went home laughing
+1605	his elder brothers mocked him
+1606	he laughed at us
+1607	I’m going to launch out (by pushing against the bottom)
+1608	I’m real lazy
+1609	he’s lazy to get firewood (he won’t make any effort)
+1610	you are lazy to talk
+1611	I’ll lead you home
+1612	he led me to the river’s edge
+1613	he’s leading the sheep
 {Page = 123}
-1314	she leads her children around
-1315	he led the dog along on a string
-1316	he leads him in a bad way, teaching him bad habits
-1317	he’s leading the singing (giving the words of the song ahead)
-1318	my shoes are leaking
-1319	old roofs are always leaking
-1320	I leaned against the wall
-1321	don’t lean back!
-1322	I am learning (that is, beginning to know)
-1323	I learned from him
-1324	we are learning how to sew
-1325	I learned to read
-1326	her husband left her
-1327	all the children have left
-1328	the people are all coming down to the beach (leaving only a few behind)
-1329	I leave them alone / don’t bother them
-1330	leave me alone!
-1331	he’s left-handed
-1332	using it all the time, he’ll become left-handed
+1614	she leads her children around
+1615	he led the dog along on a string
+1616	he leads him in a bad way, teaching him bad habits
+1617	he’s leading the singing (giving the words of the song ahead)
+1618	my shoes are leaking
+1619	old roofs are always leaking
+1620	I leaned against the wall
+1621	don’t lean back!
+1622	I am learning (that is, beginning to know)
+1623	I learned from him
+1624	we are learning how to sew
+1625	I learned to read
+1626	her husband left her
+1627	all the children have left
+1628	the people are all coming down to the beach (leaving only a few behind)
+1629	I leave them alone / don’t bother them
+1630	leave me alone!
+1631	he’s left-handed
+1632	using it all the time, he’ll become left-handed
 {Page = 124}
-1333	lend it to me!
-1334	he’s lent the lamp to somebody
-1335	lend it (large object) to me!
-1336	lend me a ball!
-1337	lend me a boating pole!
-1338	he’s going to let it go again
-1339	he is giving away seal meat
-1340	he let the blanket go (announcing that he did not want any reimbursement for it in the pay-off) (lit. he killed it)
-1341	let the cat in!
-1342	don’t let him out!
-1343	they let the dogs in
-1344	a cat licks itself
-1345	I licked / lapped up the water
-1346	he’s lying
-1347	don’t tell lies: always tell the truth (lit. they tell the truth)!
-1348	he’s a liar
-1349	there’s a rock lying there
+1633	lend it to me!
+1634	he’s lent the lamp to somebody
+1635	lend it (large object) to me!
+1636	lend me a ball!
+1637	lend me a boating pole!
+1638	he’s going to let it go again
+1639	he is giving away seal meat
+1640	he let the blanket go (announcing that he did not want any reimbursement for it in the pay-off) (lit. he killed it)
+1641	let the cat in!
+1642	don’t let him out!
+1643	they let the dogs in
+1644	a cat licks itself
+1645	I licked / lapped up the water
+1646	he’s lying
+1647	don’t tell lies: always tell the truth (lit. they tell the truth)!
+1648	he’s a liar
+1649	there’s a rock lying there
 {Page = 125}
-1350	there are seal rocks over there
-1351	the egg is (lying) in the nest
-1352	pencils are (lying) on the table
-1353	the spoon is (lying) on the stovetop
-1354	there’s a ladder lying behind the house
-1355	the paddle is (lying) under the house
-1356	there’s an arrow lying here
-1357	the screws are (lying) on the table
-1358	your shirt is lying over there
-1359	he’s lying on the bed
-1360	I’m going to lie down
-1361	they are already lying down
-1362	he lights a lamp / turns on a light
-1363	we didn’t light the stove
-1364	the bark (of those trees) is just the same / there is no difference between them
-1365	my younger sister looks just like my mother
-1366	I am like his older brother (according to clan relationships)
-1367	you are going to be as a brother to me
+1650	there are seal rocks over there
+1651	the egg is (lying) in the nest
+1652	pencils are (lying) on the table
+1653	the spoon is (lying) on the stovetop
+1654	there’s a ladder lying behind the house
+1655	the paddle is (lying) under the house
+1656	there’s an arrow lying here
+1657	the screws are (lying) on the table
+1658	your shirt is lying over there
+1659	he’s lying on the bed
+1660	I’m going to lie down
+1661	they are already lying down
+1662	he lights a lamp / turns on a light
+1663	we didn’t light the stove
+1664	the bark (of those trees) is just the same / there is no difference between them
+1665	my younger sister looks just like my mother
+1666	I am like his older brother (according to clan relationships)
+1667	you are going to be as a brother to me
 {Page = 126}
-1368	they became like brothers
-1369	they were like walruses
-1370	all their thoughts were like each other’s (that is, there was unanimous agreement)
-1371	he doesn’t limp now
-1372	the doctor says he will always limp
-1373	they are linking middle fingers, to try each other’s strength
-1374	I’m listening to you
-1375	he’s listening to it
-1376	bring just a little!
-1377	there were few springs of water there
-1378	he lives alone in his house
-1379	they lived at the same time
-1380	they made lots of noise when they played
-1381	he’s really crazy / lively
+1668	they became like brothers
+1669	they were like walruses
+1670	all their thoughts were like each other’s (that is, there was unanimous agreement)
+1671	he doesn’t limp now
+1672	the doctor says he will always limp
+1673	they are linking middle fingers, to try each other’s strength
+1674	I’m listening to you
+1675	he’s listening to it
+1676	bring just a little!
+1677	there were few springs of water there
+1678	he lives alone in his house
+1679	they lived at the same time
+1680	they made lots of noise when they played
+1681	he’s really crazy / lively
 {Page = 127}
-1382	we loaded the boat, took everything aboard
-1383	they take lots of food aboard
-1384	we’re going to load the boxes on the boat
-1385	I put the bullet in
-1386	I loaded it
-1387	did you lock the door?
-1388	I’m going to lock the door
-1389	I’m lonesome
-1390	we’re really going to miss you / be lonesome for you
-1391	I’m lonesome for my aunt / I want her company
-1392	you’ll be happy to see each other
-1393	I’m longing to see him again (wondering when he’ll be coming back and so lonesome for him)
-1394	the seal spear shaft is long
-1395	the stick is long
-1396	her hair is getting long
-1397	it is ten feet long (pole)
-1398	it’s a long thread
-1399	the black seaweed is long
-1400	the days are long
-1401	not long ago
-1402	how long is he going to stay?
+1682	we loaded the boat, took everything aboard
+1683	they take lots of food aboard
+1684	we’re going to load the boxes on the boat
+1685	I put the bullet in
+1686	I loaded it
+1687	did you lock the door?
+1688	I’m going to lock the door
+1689	I’m lonesome
+1690	we’re really going to miss you / be lonesome for you
+1691	I’m lonesome for my aunt / I want her company
+1692	you’ll be happy to see each other
+1693	I’m longing to see him again (wondering when he’ll be coming back and so lonesome for him)
+1694	the seal spear shaft is long
+1695	the stick is long
+1696	her hair is getting long
+1697	it is ten feet long (pole)
+1698	it’s a long thread
+1699	the black seaweed is long
+1700	the days are long
+1701	not long ago
+1702	how long is he going to stay?
 {Page = 128}
-1403	you look real sad / long-faced
-1404	he looked in
-1405	they looked around at each other
-1406	they were looking at it (for a long time) from the woods
-1407	don’t look at me / don’t watch me
-1408	look at this magazine (that is, study and take good note of all that is in it)
-1409	I’ve already taken a good look at his work (in order to copy it)
-1410	I took out all my dishes and had a look at them
-1411	I’m looking for shells, keeping my eyes open as I roam around and picking them up when I find them
-1412	he’s on the lookout for anything he can find as he’s walking around
-1413	I’m looking out for my father (expecting him to come)
-1414	he’s looking for an eagle (standing and gazing around intently)
-1415	I lost them from my purse
+1703	you look real sad / long-faced
+1704	he looked in
+1705	they looked around at each other
+1706	they were looking at it (for a long time) from the woods
+1707	don’t look at me / don’t watch me
+1708	look at this magazine (that is, study and take good note of all that is in it)
+1709	I’ve already taken a good look at his work (in order to copy it)
+1710	I took out all my dishes and had a look at them
+1711	I’m looking for shells, keeping my eyes open as I roam around and picking them up when I find them
+1712	he’s on the lookout for anything he can find as he’s walking around
+1713	I’m looking out for my father (expecting him to come)
+1714	he’s looking for an eagle (standing and gazing around intently)
+1715	I lost them from my purse
 {Page = 129}
-1416	I lost my bucket
-1417	he lost his boat (as a wreck)
-1418	on account of my working so hard I lost my wife (she died because I didn’t have time to care for her)
-1419	I lost my knife in the woods
-1420	she lost her ribbon in the street
-1421	I was lost / I didn’t know whereabouts I was
-1422	a man’s voice too may be lost
-1423	I lost my voice through having a cold
-1424	he’s lost his voice / he’s hoarse
-1425	a dog began barking at him: it was really loud
-1426	he’s knocking loudly
-1427	when he is noisy, his aunt sends him outdoors
-1428	he has a loud, powerful voice
-1429	they were lousy / had lots of lice on them
-1430	we love him, because he first loved us
-1431	he lowered his boat (over the rapids)
+1716	I lost my bucket
+1717	he lost his boat (as a wreck)
+1718	on account of my working so hard I lost my wife (she died because I didn’t have time to care for her)
+1719	I lost my knife in the woods
+1720	she lost her ribbon in the street
+1721	I was lost / I didn’t know whereabouts I was
+1722	a man’s voice too may be lost
+1723	I lost my voice through having a cold
+1724	he’s lost his voice / he’s hoarse
+1725	a dog began barking at him: it was really loud
+1726	he’s knocking loudly
+1727	when he is noisy, his aunt sends him outdoors
+1728	he has a loud, powerful voice
+1729	they were lousy / had lots of lice on them
+1730	we love him, because he first loved us
+1731	he lowered his boat (over the rapids)
 {Page = 130}
-1432	let’s lower the box down into the boat!
-1433	it’s not deep: my line has already reached bottom (that is, has been completely lowered)
-1434	the anchor line is being lowered / is going down in the water
-1435	I’m lowering down my line
-1436	he lowered it (piece of string) (and left it dangling)
-1437	she whistled softly and put the baby to sleep
-1438	she’s lulling the baby to sleep, whistling softly
-1439	the meat is full of worms
-1440	they used to make magic at the salmon streams (perform rites such as returning salmon eggs and milt to the stream); that’s why the salmon used to be plentiful
-1441	they are going to make magic (pass someone through the fire for offending ‘the world’, and so restore good weather)
-1442	they performed magic on you when you were a baby: they buried your umbilical cord at the foot of an eagle’s tree
-1443	they made magic on you with a ptarmigan foot, so you are going to be swift (thus encouraging youngster by autosuggestion)
-1444	{Page = 131}
+1732	let’s lower the box down into the boat!
+1733	it’s not deep: my line has already reached bottom (that is, has been completely lowered)
+1734	the anchor line is being lowered / is going down in the water
+1735	I’m lowering down my line
+1736	he lowered it (piece of string) (and left it dangling)
+1737	she whistled softly and put the baby to sleep
+1738	she’s lulling the baby to sleep, whistling softly
+1739	the meat is full of worms
+1740	they used to make magic at the salmon streams (perform rites such as returning salmon eggs and milt to the stream); that’s why the salmon used to be plentiful
+1741	they are going to make magic (pass someone through the fire for offending ‘the world’, and so restore good weather)
+1742	they performed magic on you when you were a baby: they buried your umbilical cord at the foot of an eagle’s tree
+1743	they made magic on you with a ptarmigan foot, so you are going to be swift (thus encouraging youngster by autosuggestion)
+{Page = 131}
