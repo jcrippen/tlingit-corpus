@@ -329,7 +329,8 @@
 311	wé héen.
 312	Xʼoon ḵux̱éi sáwé
 313	yá éilʼ káxʼ.
-314	Tléináx̱ ach áwé tʼaayaawaḵaa
+{Comment = Line 314 had a missing ḵ and high tone in ḵáach.}
+314	Tléináx̱ ḵáach áwé tʼaayaawaḵaa
 315	“Háa! wé kéidladi x̱áa wé! Haa shukát wulihaash.
 316	Yóodu a!
 317	Aadéi yanal.á!
