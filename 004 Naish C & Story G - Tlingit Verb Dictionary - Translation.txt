@@ -1555,7 +1555,7 @@
 1453	I hope you catch a halibut
 1454	we hope so
 1455	a cow has horns
-{Comment = Line 1156 erroneously has ‘mountain sheep’ for jánwu.}
+{Comment = Line 1456 erroneously has ‘mountain sheep’ for jánwu.}
 1456	does a female mountain goat have horns?
 {Page = 112}
 1457	hot water (often designating coffee or tea)
