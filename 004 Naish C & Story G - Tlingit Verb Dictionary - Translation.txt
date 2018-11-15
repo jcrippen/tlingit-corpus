@@ -1864,3 +1864,38 @@
 1742	they performed magic on you when you were a baby: they buried your umbilical cord at the foot of an eagle’s tree
 1743	they made magic on you with a ptarmigan foot, so you are going to be swift (thus encouraging youngster by autosuggestion)
 {Page = 131}
+1744	they are constructing a road
+1745	he’s just making up stories about me
+1746	they haven’t all reported yet
+1747	we are going to start now
+1748	she knitted socks
+1749	they weave Chilkat blankets
+1750	there are lots of berries
+1751	there are going to be many of us (that is, my grandchildren are becoming numerous)
+1752	there are quite a few herring
+1753	he has many pieces of baggage
+1754	he doesn’t have many clothes
+1755	he marked a line on it
+1756	he marked a black line on his face
+1757	he marked a line on it with a pencil
+1758	I marked around it with a pencil
+1759	they marked us (by putting registration ribbons on us)
+1760	you have marked your pencil (with your name)
+{Page = 132}
+1761	who married her?
+1762	they marry on the other side
+1763	mash the potatoes!
+1764	I’m mashing a banana
+1765	he mashed the berries (with his hand)
+1766	they’re already mashed
+1767	mash the potatoes!
+1768	the osteopath massaged my back
+1769	he’s mean / bad-tempered
+1770	in the Greek language this name means Christ
+1771	Jesus meant thta he had died (that is, he called death sleep)
+1772	what does this mean? (that is, what is happening?)
+1773	you don’t mean that we are blind too (that is, is it that you are telling us?)
+1774	he measured the length of the table
+1775	they took his temperature (that is, they measured his heat)
+1776	he’s finished measuring (everything)
+{Page = 133}
