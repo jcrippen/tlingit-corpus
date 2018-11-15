@@ -1,0 +1,56 @@
+{Number = 022}
+{Type = Original}
+{Title =  Leer 1973}
+{Author = Various}
+{Source = Leer 1973}
+{Transcriber = Jeff Leer}
+{Orthography = Mixed}
+{Dialect = Mixed}
+{Page = 01/02}
+1	shay̱adihéin
+2	shay̱awdihaa
+3	shay̱athei·n
+4	tl. shawoodahe·n
+5	shay̱adahei·nin
+6	shay̱awthaa`
+7	kei shay̱akux̱dahaa·
+8	yàa sháyándáhéin
+9	tlákw sháyándáhèich
+10	ah shuyudihéin
+11	shuyudihéinee
+12	sheiyuwdihàh
+13	shuyudahéin déin
+14	shā-yŭ-dĭ-hān
+15	shay̱awthaa`
+16	shay̱awdahaa`y̱in
+{Page = 01/03}
+17	sheiyadihéin
+18	at jiyalihéin
+19	shayadahendéin du daatiwduwatée
+20	shayadahendéin du daatiduteech
+21	Gaawtʼaḵ.aanxʼ ḵushayadahéinin
+22	tléil shawoolhéin óonaa
+23	yaa shanadahéin
+{Page = 01/04}
+24	ḵàa yáhàayí
+25	ḵaa yahaayí áwé du éesh
+26	ḵutx̱ ayanaháa
+27	ḵutx̱ anahaa`
+28	ḵúdáx̱ ánáhá
+29	ḵudax̱ anaháa
+30	ḵudax̱ ayanahá
+31	ḵutx̱.ayanaháa
+32	ḵudax̱ anaháa
+{Page = 01/05}
+33	tle a ḵoowóodei woohaa yóo xóots
+34	aadé woohaa
+35	aadáx̱ woohaa
+36	woohaa`
+37	tl. aa`de has noo`hei·ch
+38	aa`x̱ aws.haa`
+39	yaháa
+40	aax̱ sh wudlihaa
+41	y̱aa` nahei·n
+42	y̱aa` has nahei·n
+43	aatx̱ x̱at woohaa
+{Page = 01/06}

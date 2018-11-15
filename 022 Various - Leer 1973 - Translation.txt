@@ -1,0 +1,54 @@
+{Number = 022}
+{Type = Translation}
+{Title =  Leer 1973}
+{Author = Various}
+{Source = Leer 1973}
+{Transcriber = Jeff Leer}
+{Page = 01/02}
+1	they are numerous, plentiful
+2	they became plentiful
+3	there is lots
+4	there isn’t lots (neg.)
+5	there had been lots (dec.)
+6	there was lots (perf.)
+7	there will be lots (fut.)
+8	there is getting to be lots (prog.)
+9	there is always lots (occ.)
+10	there are many of them there
+11	many, several
+12	there were many of them
+13	severally, several times
+14	plenty, many (KW)
+15	they were numerous (T)
+16	they had been numerous (dec.)
+{Page = 01/03}
+17	they are many
+18	he has a lot of stuff
+19	he was ennobled many times
+20	he is repeatedly ennobled many times
+21	there used to be many people at Hoonah (lit. Town by Drum)
+22	there aren’t very many rifles
+23	they are getting to be many
+{Page = 01/04}
+24	picture (H)
+25	his father is reincarnation of someone else
+26	star
+27	star (T)
+28	star (H)
+29	stars (S)
+30	star (KW)
+31	star (Ven)
+32	star
+{Page = 01/05}
+33	that brown bear slipped right into its den
+34	it appeared there, got there by means unknown or unseen
+35	it disappeared from there
+36	he got there unseen
+37	they didn’t get there (i.e. in boats)
+38	he missed it (came to get it but it was gone)
+39	moves fast (Y)
+40	he made himself scarce, disappeared
+41	it’s going on surface of water (canoe)
+42	they (canoes) are going on surface of water
+43	I slipped away
+{Page = 01/06}
