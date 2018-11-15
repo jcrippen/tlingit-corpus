@@ -5,7 +5,7 @@
 {Clan = Kaagwaantaan}
 {Source = Naish 1966:138–152}
 {Transcriber = Constance Naish; Gillian Story}
-{Orthography = NST}
+{Orthography = RP}
 {Dialect = Northern – Coastal – Angoon}
 {Note = Line numbers are from the text collection version.}
 {Page = 139}
