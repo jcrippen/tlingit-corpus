@@ -1899,3 +1899,32 @@
 1775	they took his temperature (that is, they measured his heat)
 1776	he’s finished measuring (everything)
 {Page = 133}
+1777	you’ll measure off three fathoms from here (pointing along a tree to be used for canoe)
+1778	I measured off two fathoms
+1779	you are meddling
+1780	medicate him all the time with this medicine
+1781	I dosed myself the Tlingit way
+1782	didn’t anything come before your eyes / didn’t you see anything (when hunting)?
+1783	it (ice) is melting all over
+1784	the snow is melting away
+1785	salt dissolves in water
+1786	the lead has already melted
+1787	the silver is melted
+1788	he’s going to melt copper
+1789	he mended his canoe by pulling the crack together with roots and tightening the stitches by means of a wedge
+{Page = 134}
+1790	maybe this is going to be a mild winter
+1791	it’s getting mild and damp
+1792	do you milk the cows every morning?
+1793	he’s mischievous / full of practical jokes (no one can control him)
+1794	keep an eye on him: he’s always misplacing things (he never knows where he puts anything)!
+1795	I’ve mislaid my needle (I don’t know where I put it)
+1796	miss the target when shooting with a gun
+1797	miss when punching with fist
+1798	miss when slapping with hand
+1799	miss when shooting in basketball
+1800	miss when hitting in baseball
+1801	miss when hitting in baseball or (originally) shinny
+1802	miss when grabbing for
+1803	he mixed together red and white paint
+{Page = 135}
