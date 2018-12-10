@@ -1,5 +1,5 @@
 {Number = 003}
-{Type = Text}
+{Type = Translation}
 {Title = Ḵaax̱ʼachgóok}
 {Author = Íx̱tʼikʼ Éesh / A.P. Johnson}
 {Clan = Kiks.ádi; Kaagwaantaan yádi}
