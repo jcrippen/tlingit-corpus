@@ -4,7 +4,7 @@
 {Author = Naakil.aan / Frank Dick Sr.}
 {Clan = Lʼuknax̱.ádi; Kaagwaantaan yádi}
 {Source = D&D 1987:194-216}
-{Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
+{Translator = Ḵeixwnéi / Nora Marks Dauenhauer}
 {Orthography = RP}
 {Dialect = Northern - Coastal - Dry Bay}
 {Page = 195}
