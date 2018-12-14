@@ -3,7 +3,7 @@
 {Title =  Leer 1973}
 {Author = Various}
 {Source = Leer 1973}
-{Transcriber = Jeff Leer}
+{Translator = Jeff Leer}
 {Page = 01/02}
 1	they are numerous, plentiful
 2	they became plentiful
