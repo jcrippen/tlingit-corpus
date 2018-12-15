@@ -225,10 +225,10 @@
 209	It was really that way long ago.
 210	When a maternal uncle died
 211	the wife
-212	was elaimed by the nephew.
+212	was claimed by the nephew.
 213	But he didn’t even notice the young one.
 214	People didn’t know what his name was,
-215	50 his name became G̱alwéitʼ, his maternal uncle’s name.
+215	his name became G̱alwéitʼ, his maternal uncle’s name.
 216	His wife’s name too
 217	was not known either by some.
 218	But
@@ -240,6 +240,6 @@
 223	Her name was Seitéew.
 224	People in many places don't know her name.
 225	But because of them
-226	and because this came from their ancestors,
-227	he knew.
-228	This is where this story ends.
+{Comment = Line 226 had “he knew” on another line not matching the text.}
+226	and because this came from their ancestors, he knew.
+227	This is where this story ends.
