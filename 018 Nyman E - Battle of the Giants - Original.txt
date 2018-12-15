@@ -1,5 +1,5 @@
 {Number = 018}
-{Type = Text}
+{Type = Original}
 {Title = Khudzitìyi Át Khułagàwú / The Battle of the Giants}
 {Author = Seidayaa / Elizabeth Nyman}
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
