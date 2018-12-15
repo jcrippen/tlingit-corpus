@@ -1928,3 +1928,40 @@
 1802	miss when grabbing for
 1803	he mixed together red and white paint
 {Page = 135}
+1804	she mixed the sugar and flour together
+1805	she mixed them (various ingredients) and stirred them up well
+1806	he has mold on his clothes
+1807	the dried fish is starting to go moldy
+1808	they make lots of money, when the salmon are plentiful
+1809	the stores make a lot of money
+1810	it’s a new moon
+1811	it’s a full moon
+1812	‘black bear moon’ (February) has passed
+1813	the moon is shining
+1814	he is motionless (either because so weak through sickness, or because giving whole attention to speech)
+1815	the cans are moving along behind one another (on the conveyor belt)
+1816	the sand is moving fast (through his fingers)
+1817	the clouds are moving along
+1818	the canoe started off / moved over there
+1819	it (car) is moving along
+{Page = 136}
+1820	the sea lion is moving along, coming to the surface and then going down again
+1821	it (long object) bounced down from there (having been thrown up against a wall)
+1822	it (mercury in a thermometer) moves up and down
+1823	the arrow went through him
+1824	a meteor (shooting star) shot across the sky
+1825	it is moving (of boat on horizon); (it is moving so slowly that one can only tell it after a period of time)
+1826	I’ve come to the conclusion there’s something moving round on it (boat, way out at sea)
+1827	it (light on boat) is beginning to move
+1828	I kept running (even after reaching the finishing line my legs continued to keep moving forward fast)
+1829	it moves forward even after the engine has been shut off
+1830	it is moving objects that get out of control
+1831	canoes get out of control (if paddlers not strong enough to resist force of the waves)
+1832	it (curtain) moved away from him (on the stage)
+1833	her dress kept moving around (loosely, as she was active)
+1834	it (swamp) is moving back and forth, like it’s drifting
+1835	the waters (of Red Sea) came together real fast
+1836	the water began to be moved
+1837	I made the salmon move (by slapping water, etc.)
+1838	he’s causing the fish to move in a certain direction
+{Page = 137}
