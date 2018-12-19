@@ -1965,3 +1965,33 @@
 1837	I made the salmon move (by slapping water, etc.)
 1838	he’s causing the fish to move in a certain direction
 {Page = 137}
+1839	in spring the robins move in / come around
+1840	we’re going to move from here / never coming back
+1841	he moved south permanently
+1842	we’re going to move from here (probably returning after a few years)
+1843	we are going to move from here
+1844	I moved it just a tiny bit (even though exerting all my strength)
+1845	don’t move it the slightest bit, it’s too full
+1846	she moved all her dishes (in order to look at them all)
+1847	I’m going to move my boat down to the water (by lifting one end and swiveling and then the other end)
+1848	I’ve already moved the dish carefully to another place
+1849	the boat is moving very slowly (reason not specified)
+1850	a sick man moves around very slowly and carefully
+{Page = 138}
+1851	he moved his hands rapidly over things
+1852	put on some other shoes, for that road is muddy
+1853	his tribe is multiplying
+1854	the numbers (of animals) are getting bigger
+1855	I’m murmuring / being disagreeable
+1856	he’s talking behind me (grumbling and complaining under his breath, but I can hear some of what he’s saying)
+1857	he’s muscular
+1858	deer are getting a little more meat on them
+1859	he’s nailed up his windows
+1860	they’re nailing shingles
+1861	he’s driving in nails
+1862	nail something over it (rat hole)!
+1863	how is he named (what do they call him)?
+1864	tell him your name!
+1865	they named him for his trade (that is, gave him a name connected with his work)
+1866	they named this town for the trail that went across the isthmus
+{Page = 139}
