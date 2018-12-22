@@ -2026,3 +2026,37 @@
 1893	obey him!
 1894	he obeys his mother
 {Page = 141}
+1895	I came here, in order to observe people’s way of life (how people live here)
+1896	I’m going to observe her way of life / I’m going to watch carefully how she acts, etc. (so that I can copy her)
+1897	he is really obstinate / he has a hard mind (is determined to go his own way)
+1898	he’s obstinate, unable to take to new ideas / he won’t listen to others
+1899	forgive me: maybe I have offended you!
+1900	he offended people / he did what wasn’t approved of
+1901	I’m going to oil the wooden platter
+1902	I’m going to oil the skin
+1903	he oiled his face (to keep the charcoal on for dance)
+1904	oil your face with the face oil (originally deer tallow)!
+1905	I anointed my hair
+1906	I’m going to put sweet oil (vaseline) on my hair
+1907	I’m growing old
+1908	you don’t show any signs of age
+{Page = 142}
+1909	your hair is turning white
+1910	one eyelid droops down, only one eye opens wide
+1911	he has only one eye (the other is permanently closed / eyeball has been removed)
+1912	I looked down my rifle with one eye closed
+1913	I opened it (book)
+1914	he opened all his books
+1915	I’m going to open it (book)
+1916	I’ve already opened it up
+1917	open it / pull it open!
+1918	he opened the door
+1919	prison doors were opened
+1920	open (the door) real quietly!
+1921	at the end of the summer, the hunting season opens
+1922	it will soon be open / it isn’t far from opening time
+1923	open your mouth wide, so I can look at your throat
+1924	he leaves his mouth open all the time
+1925	they operated on me (lit. cut me)
+1926	when are they going to operate?
+{Page = 143}
