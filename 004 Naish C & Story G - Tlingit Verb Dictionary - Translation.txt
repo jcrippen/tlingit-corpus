@@ -797,7 +797,8 @@
 741	it (light) is so strong it can’t be looked at
 742	he decided to go back (by boat)
 743	they decided to go back (by boat)
-745	they’ve invited us: at the party they are going to put clan emblems on that one
+744	they’ve invited us: at the party they are going to put clan emblems on that one
+745	the young fellows decorated it (tree)
 746	they decorate baskets (by interweaving grass on the surface)
 747	down in a ravine the snow is deep
 748	the pine needles are thick (on the ground)
