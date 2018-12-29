@@ -2098,6 +2098,7 @@
 1955	ḵaa shukát yan kawdichák
 1956	Aangóon-dei yaa nax̱datʼík
 1957	nandachóon kooḵadatʼéek
+{Page = 145}
 1958	Èeḵ Héenee-dei adoox̱áa nòojeen
 1959	tláakw ax̱áa
 1960	ax̱ yàagoo x̱anéegwalʼ
@@ -2112,4 +2113,63 @@
 1969	g̱agàan ḵúnax̱ has doo keenáa yaawaxíx wéi yakyèe
 1970	ax̱ jèe-dei woodoodliyàaḵw
 1971	ax̱ tláa-ch yan x̱at yawsiḵáa doo àayee ee jèe-dei yan ḵalayàag̱oot
-{Page = 145}
+{Page = 146}
+1972	a x̱oo.àa náakw ḵaa dàa yaa ḵulag̱átch
+1973	ax̱ dàa yaa ḵoowlig̱át
+1974	tʼukanéiyee aldléigoo
+1975	doo x̱ʼásʼ x̱walidléigoo
+1976	ax̱ kʼoodásʼee x̱atéeysʼ
+1977	dei aawatéey
+1978	haa tlʼátgee woodoodzigéy
+1979	yawdoodzigéy; tléil ḵu.àas a yáx̱ kawoogé
+1980	haa nahéesʼadee tléil wootooḵé
+1981	asg̱èiwoo ít-xʼ ee kwḵaḵéi
+1982	jinkàat dáanaa-ch x̱at woodoodziḵéi
+1983	tléil ách wootoosaḵé
+1984	ldakát agé yee jeewtoowaḵéi?
+1985	waa sá ldakát x̱áat ee ée jeewdoowaḵéi?
+1986	íx̱tʼ x̱waahèe doo káxʼ
+1987	íx̱tʼ ayú doohèexʼeen
+1988	yáa watch wéi íx̱tʼ ách nas.hèe
+{Page = 147}
+1989	adawóotl tlèin yan shooshx̱éen, at woodoodlikʼèi
+1990	gandaadagóok àas dàa agóok
+1991	át sh kanaltséx̱ch
+1992	kʼúnsʼ daakx̱ayéix̱
+1993	orange daax̱asʼéilʼ
+1994	yaana.èit daakakwḵasʼéilʼ
+1995	tèey wòodee akaawasʼéilʼ
+1996	kei shoowadlúx
+1997	a shadaadòogoo kei shukwḵaladléixw
+1998	doo hídee-nax̱ yóo-x̱ yaa yanas.éin
+1999	anax̱ kei yawdzi.áa
+{Page = 148}
+2000	doo dàa-t yawdixún
+2001	haa kaawawálʼ
+2002	lingít àanee káxʼ tléil daa sá yan woojàaḵw
+2003	Dikée Aanḵáawoo yoox̱ʼatángee ldakát át yáa-nax̱ oowanéeyee át-x̱ sitèe
+2004	John ḵa Mary yan has oowanée
+2005	doo éexʼ yéi s atoowlinúk
+2006	ax̱ tóo kei at woolinúk
+2007	ax̱ tóo daak has ḵukalnúkʼch
+2008	doo sh danéegoo doo tóo-x̱ yei jikanaxíx
+2009	tòowoo sagú doo tóo-x̱ jikaxèex
+2010	a tsʼáayee chʼa ldakát yáa neilyèe-x̱ shakaawayàa
+{Page = 149}
+2011	doo éesh akshaxèet
+2012	àan ḵukdooshxit át
+2013	aatlèin kanatʼá wootoowa.ín
+2014	tléiḵw akwg̱a.éen
+2015	laaḵʼásk as.èen
+2016	ḵukʼéetʼ woogòot
+2017	tatgé ḵux̱waakʼítʼ
+2018	kax̱wlitátskw kadádzaa yèit kàa-dei
+2019	tléil ldakát tléiḵw kadooltátskw
+2020	kanatʼá awé kax̱wdlitàats kadádzaa yèit kàa-dei
+2021	woosh x̱òo-dax̱ yawdoowag̱ích
+2022	doo ganaswáanee sákw ayaawag̱ích
+2023	wéi téel àa-x̱ gatí
+2024	tʼàaw ḵóok yík-dax̱ kei katàan
+2025	tléil kei yéi eesanèejeeḵ
+2026	ax̱ kèitl yádee kei kwḵasanóok
+{Page = 150}

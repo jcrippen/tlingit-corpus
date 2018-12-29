@@ -2096,6 +2096,7 @@
 1955	ḵaa shukát yan kawdichák
 1956	Aangóonde yaa nax̱datʼík
 1957	nandachóon kuḵadatʼéek
+{Page = 145}
 1958	Eeḵ Héenidé adux̱áa noojín
 1959	tláakw ax̱áa
 1960	ax̱ yaagú x̱anéegwálʼ
@@ -2110,4 +2111,63 @@
 1969	g̱agaan ḵúnáx̱ hasdu keenáa yaawaxíx wé yakyee
 1970	ax̱ jeedé wududliyaaḵw
 1971	ax̱ tláach yan x̱at yawsiḵáa du aayí i jeedé yan ḵalayaag̱út
-{Page = 145}
+{Page = 146}
+1972	a x̱oo.aa náakw ḵaa daa yaa ḵulag̱átch
+1973	ax̱ daa yaa ḵoowlig̱át
+1974	tʼukanéiyee aldléigu
+1975	du x̱ʼásʼ x̱walidléigu
+1976	ax̱ kʼoodásʼi x̱atéeysʼ
+1977	dei aawatéey
+1978	haa tlʼátgi wududzigéy
+1979	yawdudzigéy; tléil ḵu.aa s a yáx̱ kawugé
+1980	haa nahéesʼadi tléil wutuḵé
+1981	asg̱eiwú ítxʼ ikḵwaḵéi
+1982	jinkaat dáanaach x̱at wududziḵéi
+1983	tléil ách wutusaḵé
+1984	ldakát ágé yee jeewtuwaḵéi?
+1985	wáa sá ldakát x̱áat ee ée jeewduwaḵéi?
+1986	íx̱tʼ x̱waahee du káxʼ
+1987	íx̱tʼ áyú duheexʼín
+1988	yáa wáach wé íx̱tʼ ách nas.hee
+{Page = 147}
+1989	adawóotl tlein yan shushx̱éen, at wududlikʼei
+1990	gandaadagóok aas daa agóok
+1991	át sh kanaltséx̱ch
+1992	kʼúntsʼ daakx̱ayéix̱
+1993	áanjís daax̱asʼéilʼ
+1994	yaana.eit daakakḵwasʼéilʼ
+1995	teey woodí akaawasʼéilʼ
+1996	kei shoowadlúx
+1997	a shadaadoogú kei shukḵwaladléixw
+1998	du hídináx̱ yóox̱ yaa yanas.éin
+1999	anax̱ kei yawdzi.áa
+{Page = 148}
+2000	du daat yawdixún
+2001	haa kaawawálʼ
+2002	lingít aaní káxʼ tléil daa sá yan wujaaḵw
+2003	Dikée Aanḵáawoo yoo x̱ʼatángi ldakát át yáanáx̱ uwanéeyi átx̱ sitee
+2004	John ḵa Mary yan has uwanée
+2005	du éexʼ yéi s atoowlinúk
+2006	ax̱ tóo kei at woolinúk
+2007	ax̱ tóo daak has ḵukalnúkʼch
+2008	du sh danéegu du tóox̱ yei jikanaxíx
+2009	toowú sagú du tóox̱ jikaxeex
+2010	a tsʼáayi chʼa ldakát yá neilyeex̱ shakaawayaa
+{Page = 149}
+2011	du éesh akshaxeet
+2012	aan ḵukdushxit át
+2013	aatlein kanatʼá wutuwa.ín
+2014	tléiḵw akwg̱a.éen
+2015	laaḵʼásk as.een
+2016	ḵukʼéetʼ woogoot
+2017	tatgé ḵux̱waakʼítʼ
+2018	kax̱wlitátskw kadádzaa yeit kaadé
+2019	tléil ldakát tléiḵw kadultátskw
+2020	kanatʼá áwé kax̱wdlitaats kadádzaa yeit kaadé
+2021	woosh x̱oodáx̱ yawduwag̱ích
+2022	du ganaswáani sákw ayaawag̱ích
+2023	wé téel aax̱ gatí
+2024	tʼaaw ḵóok yíkdáx̱ kei kataan
+2025	tléil kei yéi eesaneejíḵ
+2026	ax̱ keitl yádi kei kḵwasanóok
+{Page = 150}

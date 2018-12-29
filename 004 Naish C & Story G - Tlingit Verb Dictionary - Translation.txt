@@ -2092,6 +2092,7 @@
 1955	he was through packing before the others
 1956	I’m paddling to Angoon (going alone and taking time)
 1957	I am going to paddle straight up the bay
+{Page = 145}
 1958	they used to paddle all the way to Copper River
 1959	paddle quickly!
 1960	I’m painting my boat
@@ -2106,4 +2107,63 @@
 1969	the sun had passed to the highest point above them (that is, it was midday)
 1970	it was willed to me / they passed it on to me
 1971	my mother told me to pass this on to you
-{Page = 145}
+{Page = 146}
+1972	some medicines make a person pass out
+1973	I’m all turned around
+1974	she’s rocking / patting the baby
+1975	I patted her on the chin (esp. grandparent, of child)
+1976	I’m patching my shirt
+1977	she already patched it
+1978	they are paying for our land
+1979	they paid for the injury to his face, but it was not enough
+1980	we didn’t pay our bill
+1981	I’ll pay you after fishing
+1982	they paid me ten dollars
+1983	we didn’t pay with it (that is, the item formerly agreed upon for exchange)
+1984	did we pay all of you (for what you did)?
+1985	how much did they pay you for all the salmon?
+1986	I’ve already paid the medicine man to have him healed
+1987	they used to give wages to the medicine man
+1988	pay the medicine man with this watch!
+{Page = 147}
+1989	they made peace after the big battle
+1990	the woodpecker pecks around the tree
+1991	he’s pedaling (his bicycle)
+1992	I’m peeling potatoes
+1993	I’m peeling the orange
+1994	I’ll peel the celery
+1995	he peeled off yellow cedar bark
+1996	it’s peeling off
+1997	I’m going to peel off skin from its (coho’s) head
+1998	he’s peeping out from his house
+1999	he looked up (on deck) (he peered through the hatch)
+{Page = 148}
+2000	they (wolves) gathered round and peered at him
+2001	we are penniless (lit. we are broke)
+2002	there is nothing perfect or lasting on earth
+2003	God’s Word is more permanent than anything else
+2004	John and Mary are made permanent (that is, they got married)
+2005	they persecued him (that is, caused him suffering)
+2006	he persuaded me (he talked about it so much that I became willing to go)
+2007	they’re trying to persuade me / make me change my mind
+2008	his rheumatism is going all over his body
+2009	he feels completely happy / gets filled with happiness (happiness pervades his being)
+2010	its fragrance filled the whole house
+{Page = 149}
+2011	he’s taking pictures of his father
+2012	camera
+2013	we picked lots of blueberries
+2014	he’s going to pick berries
+2015	he’s picking black seaweed
+2016	he’s gone berry-picking
+2017	I picked berries yesterday
+2018	I shook berries into a berrying basket
+2019	they don’t gather all berries by shaking them off the bushes
+2020	I hit off blueberries into the big flat basket
+2021	they pick them out (e.g. sockeye from other fish)
+2022	he picked out / selected his crew men
+2023	pick up that shoe!
+2024	take the pinion feather out of the box!
+2025	don’t lift them!
+2026	I’ll pick up my puppy and carry it
+{Page = 150}
