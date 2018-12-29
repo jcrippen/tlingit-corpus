@@ -2167,3 +2167,37 @@
 2025	don’t lift them!
 2026	I’ll pick up my puppy and carry it
 {Page = 150}
+2027	pick up the lumber and pack it on your shoulder
+2028	we’re going to pick up the apples and carry them in our aprons
+2029	did they take their lunch?
+2030	we’re going to take a picnic
+2031	a splinter went into my finger
+2032	a nail pierced it
+2033	he piled it (firewood) under the stairs
+2034	he was through packing before the others
+2035	we’ll pile up those branches for bedding
+2036	the snow is piling up
+2037	at dòogoo óonaa kolayáatʼee yáx̱, kei wdoodzig̱át
+2038	I’m piling up firewood
+2039	he’s pinching his little sister
+2040	don’t pinch me!
+2041	he was always pinching his sister (spitefully)
+2042	he has a habit of pinching
+{Page = 151}
+2043	don’t pinch!
+2044	he piped water into the house
+2045	they’re bringing water across the bay by pipeline
+2046	they pitch fish
+2047	they pitch the fish into it (the tender)
+2048	have pity (on him)
+2049	he was moved with compassion
+2050	he placed a stick upright in the ground
+2051	put in the housepost!
+2052	he placed several sticks upright in the ground
+2053	they (knives and forks) were placed upright in the can
+2054	place them (flowers) upright in a bottle!
+2055	it has been planned out
+2056	we planned thus
+2057	it’s too thick, and so he’s planing it
+2058	he added planks (on the side of his boat, because so full)
+{Page = 152}

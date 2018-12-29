@@ -2173,3 +2173,37 @@
 2025	tléil kei yéi eesanèejeeḵ
 2026	ax̱ kèitl yádee kei kwḵasanóok
 {Page = 150}
+2027	tʼáa gasagú
+2028	xʼáaxʼ kei gax̱toohóot
+2029	has woodiwóo agé?
+2030	gax̱toodawóo
+2031	ḵáasʼ ax̱ tlʼèiḵ-t yawdig̱ích
+2032	tuháayee anax̱ yawdig̱ích
+2033	dzèit tayèe akaawachák
+2034	ḵaa shukát yan kawdichák
+2035	chʼa wéi cháash kax̱toolacháak yee.át sákw
+2036	dlèit kei ndag̱át
+2037	l tlákw yéi jix̱wanèiyee, ax̱ yéi jinèiyee kei goox̱dag̱áat
+2038	gán kei nax̱sag̱át
+2039	doo dlaakʼátskʼoo atsʼíkʼwt
+2040	tléil x̱at eetsʼíkʼwdeeḵ
+2041	doo dlàakʼ tlákw altsʼéekʼw nòoch
+2042	asʼóoshkw akwshitán
+{Page = 151}
+2043	tléil eesʼóoshgooḵ
+2044	neil ashoowatée
+2045	g̱èey x̱ʼakàa-nax̱ yan shoowdoowatée
+2046	x̱áat doog̱éech
+2047	a yík-dei awé doog̱ích nòoch wéi x̱áat
+2048	eeshandéin at dàa tunatí
+2049	eeshandéin at dàa tutí doo tóo yéi woonèe
+2050	ḵáasʼ yanax̱ aawatsàaḵ
+2051	hít tayeegáasʼee anax̱ g̱atsàaḵ
+2052	ḵáasʼ yanax̱ aawatsóow
+2053	g̱ayéisʼ gúxʼaa kàa-nax̱ oowatsóow
+2054	inxʼeesháa kàa-nax̱ latsóow
+2055	ldakát yan akaawa.áḵw
+2056	yéi kawtoowa.àaḵw
+2057	a yáa-nax̱ kawsikáak; ách awé ayéix̱
+2058	awsihút doo yàagoo
+{Page = 152}
