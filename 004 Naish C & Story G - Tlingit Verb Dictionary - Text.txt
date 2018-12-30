@@ -241,8 +241,8 @@
 215	yá táaxʼálʼ tlax̱ kakayatlei
 216	sh neelwáat
 217	du jín kax̱waasʼít
-218	táaxʼaa x̱at wusitʼáxʼ
-219	keitl x̱at wuyèeḵ
+218	táaxʼaa x̱at wusitáaxʼ
+219	keitl x̱at wuyeeḵ
 220	tóosʼ x̱at kawlixʼásʼ
 221	nukshiyáanch ax̱ jín yaa akanatáxʼ
 222	tás aax̱ awsitáaxʼ
@@ -494,7 +494,7 @@
 454	tléil kei gax̱dusháat: ḵaa yáanáx̱ yagóot
 455	aatlein x̱áat wutuwasháat
 456	koochʼéitʼaa kax̱waasháat
-457	do kayageeyí ḵeewdudzi.àa
+457	du kayageeyí ḵeewdudzi.aa
 458	Kíswás has aḵeegux̱sa.áa
 459	tléináx̱ ḵáa yá g̱ayéisʼ hítdáx̱ jix̱anáḵx̱, aag̱áa yá Passover yaa yanaysaxix yé
 460	ḵulagaaw yís woosh has wudideiḵ
@@ -1303,7 +1303,7 @@
 1211	eex̱ch kawligwásʼ
 1212	yá yakyee ḵoowdigwásʼ
 1213	akawligwátl
-1214	áa kawdulikʼwátʼ
+1214	áa kawdudlikʼwátʼ
 1215	tléil kakg̱walkʼwáatʼ
 1216	haa ítx̱ neil uwagút
 1217	du ítx̱ nax̱too.aat
