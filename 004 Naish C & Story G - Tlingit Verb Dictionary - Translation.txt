@@ -2201,3 +2201,35 @@
 2057	it’s too thick, and so he’s planing it
 2058	he added planks (on the side of his boat, because so full)
 {Page = 152}
+2059	they used to add planks to the boat with cedar withes
+2060	they planted (potatoes, etc.) with a planting stick
+2061	long ago they used to plant rutabaga
+2062	we’re going to plant potatoes
+2063	he was plastered with blood (from a wound)
+2064	I’m going to build a platform at the doorway
+2065	they built a platform
+2066	let’s play with dolls!
+2067	let’s play!
+2068	they play at ducks and drakes
+2069	play with ball (esp. basketball)
+2070	play with bat and ball (esp. baseball)
+2071	play with boat (esp. toy boats)
+2072	play with marbles
+2073	play at jumping or twirling around
+2074	play on seesaw
+2075	play on swings
+2076	play at swimming
+2077	he’s going to play a musical instrument
+2078	he’s playing a wind instrument
+2079	they are playing stringed instruments
+{Page = 153}
+2080	a baby plays around in a papoose board
+2081	I’m not doing much, just playing around / passing the time
+2082	the way you’ve made it (totem pole), it has a pleasant face
+2083	a frog isn’t pleasant-faced / it is kind of ugly
+2084	bad news won’t please him (make him happy)
+2085	the thing you gave me pleases me (I am pleased with your present)
+2086	he’s plucking (pulling out one by one)
+2087	he plucked the pinion feathers
+2088	plug in the light cord there!
+{Page = 154}
