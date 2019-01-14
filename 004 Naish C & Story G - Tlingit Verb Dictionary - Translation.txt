@@ -2229,7 +2229,43 @@
 2083	a frog isn’t pleasant-faced / it is kind of ugly
 2084	bad news won’t please him (make him happy)
 2085	the thing you gave me pleases me (I am pleased with your present)
-2086	he’s plucking (pulling out one by one)
-2087	he plucked the pinion feathers
-2088	plug in the light cord there!
+2086	pluck that mallard duck!
+2087	he’s plucking (pulling out one by one) his whiskers
+2088	he plucked the pinion feathers
+2089	plug in the light cord there!
 {Page = 154}
+2090	this side (nostril) is plugged up
+2091	it (pipe) is getting plugged
+2092	we are going to stuff up the hole in the window
+2093	put a plug in the end of that pipe!
+2094	I pointed over there
+2095	he pointed at the boat
+2096	he points them out among the people
+2097	he poked it about (worm) with a stick
+2098	they poked the toy plane from there (the roof) with a stick
+2099	he was poking inside a powder cap
+2100	I poked (a stick) outside
+2101	he poked a knife through it
+2102	I poked a stick in his face (accidentally)
+2103	he poked it with a lancet
+2104	he poked it with a pin
+2105	he’s prodding abalone (getting them off the rocks)
+2106	he poked it (balloon, in order to burst it)
+{Page = 155}
+2107	he poked me in the face
+2108	he’s prodding in the sand with a stick
+2109	they put a rag in the opening (hole in a broken window)
+2110	he poked his finger in the can
+2111	he has grey hairs poking up among the others
+2112	they are pushing the canoe off from shore (using long poles)
+2113	he’s poling along a canoe made of cottonwood (wide enough to stand in and only used in rivers)
+2114	they pole the canoes up rivers
+2115	pole towards the head of the river
+2116	he’s pole vaulting
+2117	we are going to pole-vault over it
+2118	we’re going to polish the table
+2119	I’m going to polish my shoes
+2120	you’ll be a poor man
+2121	that man is very poor (doesn’t know how to cope with his money matters)
+2122	the fire made the rock crack with a pop
+{Page = 156}
