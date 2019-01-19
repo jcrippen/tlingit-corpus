@@ -2305,3 +2305,36 @@
 2149	Dikée Aanḵáawoo yoox̱ʼatángee kàa-x̱ ḵòon sh kawdlinèek
 2150	ax̱ éesh ḵòon sh kakwg̱alnéek seig̱ánin
 {Page = 158}
+2151	x̱ʼalitsèen wéi teenáa wéi Lingít jèe-xʼ
+2152	alʼóon x̱waaxòon
+2153	daaxʼòon yakyèe x̱ʼáa-nax̱ at wooxòon
+2154	ldakát át gé yan oowanée?
+2155	yee yéi jinèiyee yayèe-dei yan yee ní
+2156	dlèey kaxákwlʼee kax̱waachúx
+2157	kawdoowachúx
+2158	laaḵʼásk kax̱satʼàak
+2159	akawlichʼéix̱ʼ
+2160	chʼa g̱óot àa agé kayeelichʼéix̱ʼ?
+2161	doo yéi jinèiyee awliyél
+{Page = 159}
+2162	tlákw ḵòon sh oolyélch
+2163	sh aḵʼalx̱á
+2164	sh aḵʼaltóow
+2165	sh ḵʼawdlinéekw
+2166	sh ḵʼawdlinàa
+2167	hàa-t sh ḵʼawdligút
+2168	hàa-t sh ḵʼawdlixíx
+2169	shaklig̱éi
+2170	kei shakanalg̱éin
+2171	yalag̱éi doo jèewoo
+2172	táaxʼalʼ doo tlʼèiḵ-t yawdig̱ích
+2173	táaxʼalʼ doo tlʼèiḵ-t ayawlitsáḵ
+2174	yèis-xʼ g̱oowakàan yax̱ tàa
+2175	yan oowatáa dei
+2176	ax̱ jín kawdidálʼ
+2177	ee jèeyis kakwḵaladáalʼ
+2178	kawdoodlidálʼee sʼísaa
+2179	x̱àan at yawsiḵàa
+2180	chʼa tlákw a kát satée nòoch doo at yawoosḵàayee
+2181	x̱àan yanasḵàa
+{Page = 160}

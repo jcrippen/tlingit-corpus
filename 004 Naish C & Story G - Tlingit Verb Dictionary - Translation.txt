@@ -2299,3 +2299,36 @@
 2149	he preached from Scripture
 2150	my father is going to preach tomorrow
 {Page = 158}
+2151	that ‘copper’ is precious to the Tlingits
+2152	I’m getting ready to go hunting
+2153	it took him four days to prepare (for trip)
+2154	is everything ready now (for a banquet)?
+2155	be prepared (have things ready) for our work!
+2156	I patted out the ground meat into patties
+2157	they press it (mud) with their hands
+2158	I’m pressing black seaweed
+2159	he pressed it (push button) with his finger
+2160	did you press the wrong one / another one?
+2161	he pretended he was working and that he knew his job
+{Page = 159}
+2162	he’s pretending all the time to be something that he isn’t
+2163	he’s pretending to eat
+2164	he’s pretending to read
+2165	he pretended to be sick
+2166	he pretended to be dead
+2167	he pretended to walk here
+2168	he pretended to run here
+2169	she’s real cute / pretty
+2170	it’s beginning to look good
+2171	she has a very pretty face
+2172	she pricked herself (accidentally)
+2173	she pricked herself (lit. stuck a needle in her finger)
+2174	deer reach prime condition in the fall
+2175	it’s prime fat
+2176	my hand is marked (where pressed on wood)
+2177	I’ll type it for you
+2178	machine-printed cloth
+2179	he promised me
+2180	he always remembers his promises
+2181	promise me!
+{Page = 160}
