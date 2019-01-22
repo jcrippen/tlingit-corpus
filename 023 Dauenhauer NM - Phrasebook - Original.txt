@@ -1,0 +1,68 @@
+{Number = 023}
+{Type = Original}
+{Title = Lingít x̱ʼéináx̱ sá! Say it in Tlingit: A Tlingit phrase book}
+{Author = Nora Marks Dauenhauer, Richard Dauenhauer}
+{Source = D&D 2002: 9–101}
+{Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
+{Orthography = RP}
+{Dialect = Northern – Coastal – Hoonah}
+{Page = 9}
+ 1	Wáa sá i yatee?
+ 2	Wáa sás i yatee?
+ 3	Wáa sá i tuwatee?
+ 4	Tléil wáa sá x̱at utí.
+ 5	Tléil wáa sá.
+ 6	Tléil wáa sá utí.
+ 7	X̱at yakʼéi.
+ 8	Waa sá yatee (i éesh)?
+ 9	Ax̱ éesh yakʼéi.
+10	Tléil ushkʼé.
+11	Neil gú.
+12	Neil yi.á.
+13	Haagú.
+14	Haat yi.á.
+15	Haaw, haat iyagút.
+16	Haaw, haat yeey.át.
+17	Yakʼéi yee x̱wsateení.
+18	Ax̱ toowú sigóo ix̱wsateení.
+19	Gunalchéesh haat yigoodí.
+20	Gunalchéesh haat yeey.aadí.
+{Page = 10}
+20	Haandéi i jín.
+21	G̱anú.
+22	G̱ayḵí.
+23	Yáadu káayag̱ajeit.
+24	káayaḵijeit
+25	káayag̱ijeit
+26	Wéidu káayag̱ajeit.
+27	Yáadu déix̱ dáanaa.
+28	Aaá.
+29	Tléikʼ.
+30	Yakʼéi áwé.
+31	Likoodzí.
+32	Eesháan.
+33	Dóoooooo!
+34	Chúk!
+35	Júk!
+36	Júk déi!
+37	Hadláa!
+38	Dláa!
+39	Tsóokʼ?
+40	Déi áwé.
+41	Hóochʼ (áwé).
+42	Hóochʼkʼ.
+43	Shkʼe.
+44	óoskʼ
+45	óoskʼi
+46	óoxkʼ
+47	Yéi áwé.
+48	A yáx̱ áwé.
+49	Éee!
+50	Xwéi!
+51	Háaʼ!
+52	Háʼ!
+53	Haaw.
+54	Hachgwáʼ
+55	Chgwáʼ.
+56	Aganáa!
+{Page = 11}
