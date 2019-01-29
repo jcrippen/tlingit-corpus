@@ -2332,3 +2332,69 @@
 2180	he always remembers his promises
 2181	promise me!
 {Page = 160}
+2182	he gave him the thing he had promised him
+2183	I propped up the blanket with a stick
+2184	prop it up with a bottle (that is, put a bottle under it)!
+2185	he propped up his club by the wall
+2186	they leaned it up against the tree
+2187	he was prophesying that Jesus was about to die
+2188	a woman doesn’t propose
+2189	I’m going to ask B. for my brother
+2190	I’m proud of you
+2191	they are proud of each other
+2192	he’s proud of himself / vain
+2193	I have proved / I know for sure that that man is smart
+2194	he has told me, so that I will understand the situation (in order that I might be sure of it)
+2195	they pry it up (run shovel down in ground and lift it up)
+2196	they pry up cockles (dig them up carefully with a pointed stick)
+{Page = 161}
+2197	they pry up cockles
+2198	they pry off the box lids
+2199	he’s prying off the cover of a container
+2200	you have puffed up your hair
+2201	puff up my pillow!
+2202	which pillow did you puff up?
+2203	he’s pulling goods / hauling up stuff
+2204	pull the window to!
+2205	he pulled one of her teeth
+2206	he pulled out a knife
+2207	he’s going to pull on the rope
+2208	they are having a tug of war
+2209	they pull up rutabagas
+2210	I’m going to pull up roots (for baskets)
+2211	he was pulled out by the big swell
+2212	waves pulling people under is dangerous
+2213	they are going to punish this man
+2214	he was punished in my place
+2215	his thoughts are pure
+{Page = 162}
+2216	they purified themselves ready for it (the Feast)
+2217	purify your thoughts / clean up your thinking!
+2218	they used to paddle after the fur seal until he was exhausted (then they could get close enough to kill it)
+2219	they are following a sea lion (keeping steadily along behind it in order to tire it out)
+2220	that fellow pushed me
+2221	he’s pushing halibut to the man freezing it
+2222	he pushed his canoe forward into the water
+2223	he was crowded out to the stable
+2224	maybe they will crowd them out of their own land
+2225	they (books) are pressing against each other
+2226	put them in the pot!
+2227	we are going to put down feathers in the pillow
+2228	he put it (a fence) around it
+{Page = 163}
+2229	leave the hammer here!
+2230	he put the box down on the floor
+2231	he put the screws on the table
+2232	put the cat down!
+2233	he put his little daughter (who was dead asleep) down on her bed
+2234	the cat put her kitten on the pillow
+2235	he put down hemlock branches (for herring to spawn on)
+2236	he’s going to put down branches in Jamestown Bay
+2237	his leg broke; they are going to put the bone back in place
+2238	put my arm back in joint!
+2239	I talk about doing something but never get to it / I keep putting it off
+2240	I was wanting to dig clams, but I gave up (having thought about it, but never getting to it)
+2241	he put on his topcoat
+2242	he’s going to put on shoes
+2243	I put on the Raven hat
+{Page = 164}

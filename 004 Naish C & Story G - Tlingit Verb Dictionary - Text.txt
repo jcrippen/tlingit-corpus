@@ -1555,7 +1555,8 @@
 1447	dukʼéx̱ʼch wé góosʼ
 1448	du x̱ʼoosch awsikʼéx̱ʼ
 1449	aax̱ kei dulkʼéx̱ʼch
-1450	ḵux̱ awlikʼéx̱ʼ
+{Comment = Line 1450 originally had erroneous ‹ḵux̱ awlikʼéx̱ʼ›.}
+1450	ḵux̱ awdlikʼéx̱ʼ
 1451	yaa yanalgwásh
 1452	át yax̱wdligwáash
 1453	yéi át ax̱wdishée, cháatl kei g̱isayeeḵ
@@ -2336,3 +2337,69 @@
 2180	chʼa tlákw a kát satée nooch du at yawusḵaayee
 2181	x̱aan yanasḵaa
 {Page = 160}
+2182	du jeet aawatée du een yawusḵáayi aa át
+2183	ḵáasʼ xʼóow tayeet x̱waligásʼ
+2184	inxʼeesháa a tayeet lagásʼ
+2185	du xʼúsʼi hít yát ashaawatán
+2186	aas kʼéet shawduwatán
+2187	a shuká akaawaneek Jesus gug̱anaawú
+2188	tléil shaawát ḵoosháaxʼw
+2189	yei kḵwasháaxʼw B. ax̱ éekʼ jeeyís
+2190	ax̱ toowú klig̱éi i kaax̱
+2191	woosh kaax̱ hasdu toowú klig̱éi
+2192	du toowú kalig̱éi
+2193	yú ḵáa yan kax̱wsinúk yaa ḵudzigéi
+2194	yan kaḵasanoogút, x̱aan akaawaneek
+2195	duskéetʼ
+2196	yalooleit kaduskéetʼ
+{Page = 161}
+2197	yalooleit yadulkéetʼ
+2198	ḵóok yanáadáx̱ kei dulkítʼch
+2199	x̱ʼéidáx̱ kei analkítʼ
+2200	i shax̱aawú yeelikútl
+2201	ax̱ shayeidí kalakútl
+2202	daat shayeit sáwé kaylikútl?
+2203	kínde at sayíḵxʼ
+2204	x̱aawaag̱í áx̱ g̱ayeesh
+2205	tléixʼ du oox̱ áx̱ kei aawayísh
+2206	lítaa aax̱ kei aawax̱útʼ
+2207	tíxʼ akagux̱saxáat
+2208	woosh kawdudzixát
+2209	anahoo kaduyéesh
+2210	x̱aat kuḵalasʼéilʼ
+2211	teet du een daak x̱ʼawdiyíḵ
+2212	teet ḵoon daak x̱ʼadayíḵch, kulix̱éetlʼshán
+2213	yá ḵáa yagax̱dujee
+2214	ax̱ geinyaax̱ yawduwajee
+2215	du tundatáni tléil ultóok
+{Page = 162}
+2216	l ultúkdéin yoo sh dudzineek, a yayeedé
+2217	l ultúkdéin i tundatáani nasní
+2218	x̱ʼóon kadulsháḵx̱
+2219	taan yaa yandutsáḵ
+2220	kei x̱at uwagúḵ yóot aa
+2221	yáa iltʼíxʼsi jeedé akagóoḵ yá cháatl
+2222	du yaagú héent aawatsáḵ
+2223	wasóos daakahídidé kawduwashítʼ
+2224	hasdu aaní kaadáx̱ shakdé has kagax̱dulshéetʼ
+2225	wóosht kawdax̱dlishítʼ
+2226	kʼwátl káa yéi na.oo
+2227	gáaxw x̱ʼwáalʼi shayeit tóoxʼ yéi gax̱too.oo
+2228	a daa awsihát
+{Page = 163}
+2229	táḵl yáaxʼ yan tí
+2230	ḵóok tʼáa káa yan awsitée
+2231	kasʼéet nadáakw káa yan akawli.át
+2232	dóosh yan sanú
+2233	du séekʼ a yee.ádi káa yan awsitáa
+2234	dóosh yádi shayeit káa yan aawayíḵ
+2235	neechxʼ aawalʼaaḵ
+2236	Shaaseiyee.aan neejíxʼ akg̱walʼáaḵ
+2237	du x̱ʼoos woolʼéexʼ; a yáx̱ guyagax̱dutaanán
+2238	ax̱ jín a yíx̱ guyanataanán
+2239	áa ax̱wlixaach
+2240	ax̱ toowatee gáalʼ kahaa; ax̱ toowú ḵu.aa awlixaach
+2241	du kinaak.ádi káx̱ awditee
+2242	x̱ʼoosx̱ agux̱dayéeḵ
+2243	yéil sʼáaxw sháax̱ x̱waditee
+{Page = 164}
