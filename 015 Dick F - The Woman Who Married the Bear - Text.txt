@@ -215,7 +215,8 @@
 192	“Haahá
 193	de at dax̱wuduwaxoon
 194	táakw aaníde.”
-195	Kʼe uhaan yú
+{Comment = Line 195 had typo ‹uhaan›.}
+195	Kʼe uháan yú
 196	yú at xʼaan aanídáx̱ yú táakwxʼ áa yéi haa teeyí
 197	aadé ḵux̱ tuda.aatch haa aaníxʼ.
 198	Yéi áwé at wuduwaxoon.
