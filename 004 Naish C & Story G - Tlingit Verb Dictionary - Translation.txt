@@ -2398,3 +2398,52 @@
 2242	he’s going to put on shoes
 2243	I put on the Raven hat
 {Page = 164}
+2244	they put the lights out at 10:00
+2245	did your stove go out?
+2246	the fire is going to go out
+2247	he’s going to put out the lights
+2248	let it out!
+2249	they used to put up all kinds of different foots
+2250	I’m going to put up food for my children (before I go on a journey)
+2251	an earthquake occurred
+2252	the earth is quaking (right now)
+2253	they exchanged harsh words
+2254	I’m going to quarrel with you
+2255	they really questioned him (in court)
+2256	we are all going to question them closely about it
+{Page = 165}
+2257	he is easily offended / he’ll be happy one day and stubborn the next
+2258	a quick-tempered, moody person can’t fit in any place
+2259	I’ll just keep quiet (I won’t protest)
+2260	a silent man (mad and unsmiling)
+2261	be quiet!
+2262	he never stops talking
+2263	stop talking / keep quiet!
+2264	he’s getting better, so he’s quietened down (stopped groaning)
+2265	I quietened him down
+2266	I quit
+2267	I wonder whether we’d better quit
+2268	quit drinking now!
+2269	I gave up my work
+2270	my boss didn’t talk right, so I quit
+2271	we went on a raft
+2272	they made the lumber into a raft and towed it here
+{Page = 166}
+2273	it’s really going to rain on us
+2274	it’s beginning to rain
+2275	it’s raining
+2276	it’s always raining
+2277	it’s going to sprinkle with rain
+2278	it rains hard and then clears up and then rains again
+2279	your brother will be raised from death
+2280	on the last day I will raise them from death
+2281	they have raised the flag / put it up
+2282	they are putting it (flag) up
+2283	raise your hand!
+2284	raise your (pl.) hands!
+2285	he raised his eyebrow at me (indicating he wished to meet me outside)
+2286	I’m raising my nephew
+2287	they rallied around him (wounded man)
+2288	they gathered round the medicine man to encourage him
+2289	there’ll be lots of (drunk) folk rampaging around this evening
+{Page = 167}

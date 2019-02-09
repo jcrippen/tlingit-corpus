@@ -787,7 +787,7 @@
 728	yaa geelsʼáas
 729	kuḵalsʼáas
 730	ḵukḵwasʼáas
-731	teet jiwustaan koolix̱éetlʼsháni átx̱ sitee
+731	teet jiwustaan kulix̱éetlʼsháni átx̱ sitee
 732	xóots kulix̱éetlʼshán
 733	yánde yaa kanashg̱ít
 734	atgutú tóoxʼ ḵukooshg̱ítch
@@ -1614,7 +1614,7 @@
 1501	gunalchéesh áa x̱at shukayijaayí
 1502	yú xʼáatʼ kaadé áa ḵaa jikaawaḵaa yá ḵaa naaxʼú
 1503	ax̱ʼakakg̱waḵáa
-1504	ḵaa tláa ḵaa gútk yíkde x̱ʼadasʼéesʼ
+1504	ḵaa tláa ḵaa gúk yíkde x̱ʼadasʼéesʼ
 1505	i toowúch ágé yakakg̱wa.áatlʼ?
 1506	yá atx̱á yagoo.áatlʼ
 1507	sh tugéit ágé iyawtudziḵáa?
@@ -2403,3 +2403,52 @@
 2242	x̱ʼoosx̱ agux̱dayéeḵ
 2243	yéil sʼáaxw sháax̱ x̱waditee
 {Page = 164}
+2244	jinkaat gaaw kadulkísʼx̱
+2245	i sdooxú ágé akawlikísʼ?
+2246	wé x̱ʼaan yagux̱lakéesʼ
+2247	sʼeenáa ayakagux̱lakéesʼ
+2248	yaklakísʼ
+2249	woosh g̱uwanáade atx̱á yan kadulgáayjín
+2250	ax̱ yátxʼi x̱ʼéis atx̱á yánde kakḵwalagáa
+2251	yóo aan kaawa.áa
+2252	yóo aan yoo kaya.éik
+2253	du een wudikán
+2254	i een kuḵadaḵáan
+2255	x̱ʼawdudzitʼíxʼ
+2256	a káx̱ has x̱ʼagax̱tusatʼéexʼ
+{Page = 165}
+2257	tuyax̱útʼkw
+2258	tuyax̱útʼgu ḵáa du ḵusteeyí tléil yax̱ ujaaḵw
+2259	chʼa áa kḵwakʼáatlʼ
+2260	sh wudikʼátlʼi ḵáa
+2261	sh eelkʼátlʼ
+2262	tléil sh oolkʼátlʼx̱
+2263	yan x̱ʼeidatsʼén déi
+2264	dei g̱áa yaa nateen: yax̱ x̱ʼakawditsʼén
+2265	yan x̱ʼakax̱wlitsʼén
+2266	jix̱wdináḵ
+2267	jix̱tudanaaḵ goo.aa déi ágé
+2268	x̱ʼanáḵ déi wé atdaná
+2269	ax̱ yéi jineiyí kei x̱waalít
+2270	ax̱ sháade háni tléil a yáx̱ yoo x̱ʼeitánk, ách áwé kei x̱wdilít
+2271	yan awtudlix̱aanásʼ
+2272	kaxʼásʼti woodudlix̱aanásʼ; haat has aawax̱ách
+{Page = 166}
+2273	aatlein séew haa kaadé akwg̱ag̱éet
+2274	yaa anag̱éet
+2275	séew daak wusitán
+2276	daak satánch
+2277	séew yoo akakg̱walítk
+2278	ḵukawduwag̱ít
+2279	i éekʼ naná tóodáx̱ shagax̱dusnóok
+2280	yá hóochʼ yakyeeyí káxʼ nanáadáx̱ has shakḵwasaḵée
+2281	aankwéiyi has awlinaaḵ
+2282	yaa analnáḵ
+2283	kei jilatsaaḵ
+2284	yee jín kei jilatsóow
+2285	ax̱ yáx̱ asʼeekawdzig̱éexʼ
+2286	ax̱ káalkʼw kei nax̱sawát
+2287	has akaawaháakw
+2288	kawduwaháakw
+2289	aatlein áyá gax̱duxʼóolʼ yá xáanaa
+{Page = 167}
