@@ -66,3 +66,56 @@
 55	Chgwáʼ.
 56	Aganáa!
 {Page = 11}
+57	Atsganée!
+58	yoo x̱ʼatánk
+59	Lingít yoo x̱ʼatángi
+60	Deikeenaa yoo x̱ʼatángi
+61	X̱at iya.áx̱ch gé?
+62	X̱at x̱ʼeeya.áx̱ch gé?
+63	Lingít ágé x̱ʼeeya.áx̱ch?
+64	Aaá, Lingít x̱ʼax̱a.áx̱ch.
+65	Aaá, chʼa yéi gugéinkʼ.
+66	Aaá, chʼa yéi gugéikʼ.
+67	Lingít sh tux̱altóow.
+68	Wáa sá duwasáakw yáatʼaa (Lingít x̱ʼéináx̱)?
+69	Wáa sá duwasáakw yáatʼát (Lingít x̱ʼéináx̱)?
+70	Wáa sá duwasáakw yáatʼít (Lingít x̱ʼéináx̱)?
+71	Wáa sá duwasáakw “table” (Lingít x̱ʼéináx̱)?
+72	X̱wasikóo.
+73	Tlél x̱wasakú.
+74	Yisikóo gé?
+75	Yeeysikóo gé?
+76	Wutusikóo.
+77	Tlél wutusakú.
+78	Awsikóo.
+79	Tlél awuskú.
+80	Has awsikóo.
+81	Tlél has awuskú.
+82	X̱wasiteen.
+83	Tlél x̱wasateen.
+84	Yisiteen ágé?
+85	Yeeysiteen ágé?
+86	Tlél ák.wé yeeysateen?
+87	Wutusiteen.
+{Page = 12}
+88	Tlél wutusateen.
+89	Awsiteen.
+90	Tlél awusteen.
+91	Has awsiteen.
+92	Tlél has awusteen.
+93	Gunalchéesh.
+94	Aatlein gunalchéesh.
+95	Aaá.
+96	Yéi x̱áa yatee.
+97	Yakʼéi x̱á.
+98	Dei kḵwagóot.
+99	Kḵwagóot dei.
+100	Yakʼéi.
+101	Tsu haagú.
+102	Tsu haagú xʼwán.
+103	Tsu haa x̱ánt gú.
+104	Tsu haa x̱ánt gú xʼwán.
+105	Tsu haadéi kḵwagóot.
+106	Nax̱too.aat.
+107	Nax̱too.aadí.
+{Page = 13}

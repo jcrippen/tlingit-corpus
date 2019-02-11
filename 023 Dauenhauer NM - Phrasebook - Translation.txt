@@ -65,3 +65,56 @@
 55	That’s what you get.
 56	My gosh.
 {Page = 11}
+57	I’m scared.
+58	word, speech, language
+59	Tlingit language
+60	Haida language
+61	Do you hear me?
+62	Do you understand me?
+63	Do you understand Tlingit?
+64	Yes, I understand Tlingit.
+65	Yes, a little.
+66	Yes, a little.
+67	I’m learning Tlingit.
+68	What do you call this (in Tlingit)?
+69	What do you call this (in Tlingit)?
+70	What do you call this (in Tlingit)?
+71	How do you say “table” (in Tlingit)?
+72	I know it.
+73	I don’t know.
+74	Do you (sg) know?
+75	Do you (pl) know?
+76	We know.
+77	We don’t know.
+78	S/he knows.
+79	S/he doesn’t know.
+80	They know.
+81	They don’t know.
+82	I see (saw / caught sight of) it.
+83	I didn’t see it.
+84	Did you (sg) see it?
+85	Did you (pl) see it?
+86	Didn’t you (pl) see it?
+87	We saw it.
+{Page = 12}
+88	We didn’t see it.
+89	S/he saw it.
+90	S/he didn’t see it.
+91	They saw it.
+92	They didn’t see it.
+93	Thank you.
+94	Thank you very much.
+95	Yes.
+96	It’s that way.
+97	It’s good.
+98	I’m going now.
+99	I’m going now.
+100	It’s fine.
+101	Come (here) again.
+102	Do come again.
+103	Come (to us) again.
+104	Do come see us again.
+105	I’ll come again.
+106	Let’s go!
+107	Let’s go!
+{Page = 13}
