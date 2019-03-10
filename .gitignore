@@ -40,3 +40,4 @@ Session.vim
 # Common Lisp cruft.
 *.fasl
 lisp/
+roots-list.txt
