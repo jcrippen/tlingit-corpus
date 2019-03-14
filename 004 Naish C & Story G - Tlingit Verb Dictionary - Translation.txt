@@ -2523,3 +2523,31 @@
 2359	I portray my body as bread
 2360	I represent myself as the door
 {Page = 172}
+2361	twins resemble each other closely
+2362	they don’t resemble anything (of modern paintings)
+2363	it (bailer) is like a large spoon
+2364	a round table (that is, table resembling an egg)
+2365	what do they look like / resemble?
+2366	the Russian (letters) resemble something else (that is, are different from these)
+2367	I’m their nephew, but even so they don’t respect me
+2368	we respect ourselves as Tlingits
+2369	let’s rest
+2370	he never rests
+2371	come here and give me a rest (e.g., from steering the boat)!
+2372	they gave him a vote of confidence / they re-elected him
+2373	they re-elected them (the whole committee) / they restored their confidence by the vote
+2374	there’s hope for him that he’ll live a normal life
+{Page = 173}
+2375	he’s very awkward, but in time to come he’ll do all right (he’ll become more normal in what he can do)
+2376	I was restrained from going
+2377	my mother forbids me to go to the dock
+2378	I restrained him (for example, told him not to take something without asking permission)
+2379	I stopped him (from saying what might cause trouble)
+2380	no one ever restrained me; that’s why I get into trouble every now and then
+2381	I warn my son, but he never listens to me
+2382	his brother-in-law is rich
+2383	he ripped the boards
+2384	they are ripping boards for the Hall
+2385	it was puckered; that’s why I ripped it back
+2386	I’m going to undo this knitted sweater (take it apart)
+{Page = 174}
