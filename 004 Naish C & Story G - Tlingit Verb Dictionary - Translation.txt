@@ -2551,3 +2551,38 @@
 2385	it was puckered; that’s why I ripped it back
 2386	I’m going to undo this knitted sweater (take it apart)
 {Page = 174}
+2387	the berries are ripe
+2388	grey currants ripen up the river
+2389	the sun ripened the berries
+2390	what time do you (sg.) get up?
+2391	I’m going off by boat: I’m going to get up at 5 o’clock
+2392	what time do you (pl.) get up?
+2393	it (bread) didn’t rise well
+2394	it’s going to rise (bread in pan)
+2395	I’m raising bread
+2396	they used to roast dried fish in various ways
+2397	they roasted fish (until its skin blistered)
+2398	he’s rocking the hammock
+2399	he’s rocking himself (in a rocking-chair)
+2400	when a tree is drifting to the beach, it rolls back and forth
+{Page = 175}
+2401	I rolled down the mountain
+2402	a potato rolled off
+2403	water rolling off in large drops
+2404	he walks along rolling from side to side like a raven
+2405	I am rolling a barrel
+2406	he rolled himself into the water
+2407	he’s rolling a block of wood
+2408	when the waves are beating hard, the boat really rolls
+2409	it’s bad to roll or rock the boat
+2410	he’s making the boat roll
+2411	the boat is really rolling in the swell (having no power and being caught in a trough)
+2412	they used to roll cedar bark and goats’ hair together
+2413	I rolled out the bread
+2414	he rolled up the paper
+2415	they pull up carrots by the roots
+2416	I rooted it up
+2417	they twisted roots to make ropes
+2418	I made rope
+2419	they rot salmon heads
+{Page = 176}
