@@ -2586,3 +2586,36 @@
 2418	I made rope
 2419	they rot salmon heads
 {Page = 176}
+2420	our house is old and rotting
+2421	my paternal uncle is already really old (polite)
+2422	it is getting decayed
+2423	it (willow stick) breaks easily
+2424	it’s becoming powdery
+2425	it (log) is turning to powder
+2426	our eggs were rotten
+2427	your teeth will decay
+2428	when the leaves all rot in the fall…
+2429	the berries are rotting / falling
+2430	the board is rough (before planing)
+2431	sharkskin is like sandpaper
+2432	he’s rough and careless with everything
+2433	he is careless / doesn’t leave things alone, where they should be
+2434	rouse me tomorrow morning (early)!
+2435	I’ll rouse you (pl.) / I’ll get you up
+{Page = 177}
+2436	my mother rubbed me with liniment
+2437	he’s rubbing in medicine (right now)
+2438	he’s rubbing his hands together (to warm them)
+2439	rub them against each other!
+2440	the boat is rubbing on the shore
+2441	I’m rubbing my eyes constantly
+2442	don’t rub your eyes!
+2443	Rome ruled their country
+2444	she ran back quickly to her aunt’s place
+2445	run for the teacher; hurry!
+2446	we’re going to run to the store for more bread
+2447	they started to run home
+2448	he pretended to run
+2449	they’re trying to get the engine runnuing
+2450	I’m going to start running the machine
+{Page = 178}
