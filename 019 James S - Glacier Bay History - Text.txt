@@ -268,9 +268,9 @@
 {Comment = First song, first verse.}
 251	Ehee iyaa
 252	ehee yei hei yaa
-253	yei aalaa hei yaahaa
+253	yei aaṉaa hei yaahaa
 254	ei hei hayoo oo
-255	aalaa iyaa aa laa
+255	aaṉaa iyaa aa laa
 {Comment = First song, second verse.}
 256	Ax̱ aaṉí
 257	gushéi, hei yaa
