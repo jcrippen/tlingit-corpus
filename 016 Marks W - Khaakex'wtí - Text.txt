@@ -44,7 +44,8 @@
 33	Aandé g̱unayéi s uwaḵúx̱.
 34	Chʼu yéi g̱unéi s ḵóox̱; chʼu l yei wuyáatʼi áwé
 35	káx̱ daaḵ shaawaxíx du digiygéide
-36	a digiygéit aa aa.
+{Comment = Line 36 erroneously has «aa aa» for «áa aa».}
+36	a digiygéit áa aa.
 37	Tlax̱ yaa kunaséini gíwé du aaní
 38	du atʼeegí
 39	káx̱ daaḵ shaawaxíx tsu.
