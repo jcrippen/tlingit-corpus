@@ -2035,7 +2035,7 @@
 1896	du ḵusteeyí yánde kakḵwalatín
 1897	tlax̱ ḵúnáx̱ du toowú yatʼéexʼ
 1898	tléil áwé aadé ḵaa x̱ʼéit oox̱si.aax̱i yé
-1899	chʼa aadé yéi x̱at nay.oo: yee tugéit shakdé x̱wadzigít
+1899	chʼa aadé yéi x̱at nay.oo: yee tugéit shákdé x̱wadzigít
 1900	ḵaa tugéit wudzigít
 1901	lʼoowú ḵélaa kuḵalanéisʼ
 1902	at doogú kuḵalanáa
@@ -2381,7 +2381,7 @@
 2221	yáa iltʼíxʼsi jeedé akagóoḵ yá cháatl
 2222	du yaagú héent aawatsáḵ
 2223	wasóos daakahídidé kawduwashítʼ
-2224	hasdu aaní kaadáx̱ shakdé has kagax̱dulshéetʼ
+2224	hasdu aaní kaadáx̱ shákdé has kagax̱dulshéetʼ
 2225	wóosht kawdax̱dlishítʼ
 2226	kʼwátl káa yéi na.oo
 2227	gáaxw x̱ʼwáalʼi shayeit tóoxʼ yéi gax̱too.oo
