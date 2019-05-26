@@ -26,7 +26,7 @@
 18	They were anchored
 19	where the seals swam by at night.
 20	He had a spear.
-21	Perhaps they killed sorne.
+21	Perhaps they killed some.
 22	Maybe it was getting light,
 {Page = 155}
 23	time to return.
