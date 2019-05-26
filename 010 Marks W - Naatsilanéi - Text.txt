@@ -138,7 +138,7 @@
 123	Daaḵ latítji áwé gwál
 {Comment = Line 124 has erroneous waa for wáa.}
 124	wáa sá kwshé a tóodáx̱ kei uwagút.
-125	Gwál wé automatic button giwé áwu?
+125	Gwál wé automatic button gíwé áwu?
 126	Gwáʼ, du aaní tʼéiknax̱.á áyú.
 127	Ayaawatín tle.
 128	He’s got a hard feeling
