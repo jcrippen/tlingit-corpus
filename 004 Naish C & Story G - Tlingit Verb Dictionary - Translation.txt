@@ -2619,3 +2619,31 @@
 2449	they’re trying to get the engine runnuing
 2450	I’m going to start running the machine
 {Page = 178}
+2451	his nose is running
+2452	I ran it (water) out (from the tub)
+2453	in spring the sap runs (that is, flows through the trees)
+2454	they ran out of workers (there was a shortage)
+2455	he sacrificed a lamb (made its smoke rise) to God
+2456	he sacrificed himself (gave up his life) for them
+2457	I am sad/in sorrow
+2458	they felt real sad
+2459	what is making you sad?
+{Page = 179}
+2460	the skin (of his face) is getting loose and hanging down
+2461	he sailed safely ashore (that is, was blown ashore)
+2462	we’re going to sail
+2463	I’m salting herring
+2464	he salted it for the winter
+2465	you’re putting too much salt on
+2466	he sanded over the ice
+2467	we’re going to sand the road
+2468	he is sanding the floor
+2469	they are sauntering round (leaning on each other)
+2470	they sauntered round / walked slowly round
+2471	whoever comes in by me will be saved
+2472	save me!
+2473	he came … to save the lost ones
+2474	he saved water in a barrel
+2475	I’ve forgotten already what I said
+2476	say “thank you” for us!
+{Page = 180}
