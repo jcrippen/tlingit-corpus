@@ -2647,3 +2647,33 @@
 2475	I’ve forgotten already what I said
 2476	say “thank you” for us!
 {Page = 180}
+2477	what does he say?
+2478	lots of white men say they are Tlingits
+2479	they said it was Raven’s boat
+2480	this is what we used to say / this is a saying
+2481	they say truly / the saying is true
+2482	the dog has scabs and sores and keeps scratching
+2483	I wounded him, so he had a scar (that is, I scarred him)
+2484	he has a scar on his lungs
+2485	money is scarce this winter
+2486	nothing was lacking / there was no shortage
+2487	I got scared (by falling)
+2488	he was really scared and upset (by bad news)
+2489	you scared me
+2490	I was really scared (by a dream)
+2491	they scattered sand on the ice (not caring how much or where)
+2492	he made the eagle feathers fly (as he danced full blast in this manner)
+{Page = 181}
+2493	it (dog) is picking up and eating things from the beach
+2494	she’s really scolding her daughter, for she is always fighting in school
+2495	he’s always scolding
+2496	don’t scold me!
+2497	scoop the meat out of the clam shell!
+2498	I overheated the iron and so my (cotton) shirt scorched
+2499	I’m scraping out the black part along thee bone of the fish
+2500	I scraped the hair seal flippers
+2501	he’s scraping inside hemlock bark
+2502	I scraped out the pot
+2503	scrape the rice from the bottom!
+2504	he scraped the inside hemlock bark (for food)
+{Page = 182}
