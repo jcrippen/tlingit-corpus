@@ -2677,3 +2677,50 @@
 2503	scrape the rice from the bottom!
 2504	he scraped the inside hemlock bark (for food)
 {Page = 182}
+2505	my sister-in-law is scraping a skin
+2506	the meddlesome child made a deep scratch on the table
+2507	scratch (cut) this windowpane!
+2508	the tin can scratched my hand
+2509	the cat scratched up his hand
+2510	he’s scratching at the door
+2511	the dog is scratching himself
+2512	it’s itching because it’s healing: don’t scratch it!
+2513	it’s scratching itself (with paw)
+2514	I’m always scratching (said jokingly to close relation)
+2515	he screwed it in
+2516	I’m going to take that screw out / unscrew it
+2517	the clams are covered with scum
+2518	where the tide flows fast, there isn’t much scum
+2519	it gets scum-covered
+2520	seal it (envelope)!
+{Page = 183}
+2521	because you searched for it, you found it
+2522	I’m going along looking for my mother
+2523	when it is daylight, everything can be seen
+2524	I can see in my mind’s eye how I’m going to make it (that is, what the finished product will look like)
+2525	he never saw a bear
+2526	they saw a white thing on the water
+2527	they sell everything / all kinds of things
+2528	he sold his (large) boat
+2529	he sold it (ring) to us
+2530	he sold a pair (of rings)
+2531	he’s going round selling books
+2532	they came to us selling things
+2533	I’m going to send you some seal meat
+2534	did somebody send you (to do this work)?
+2535	he sent the black seaweed by his son
+2536	he’s sending someone for us
+2537	our master sent his own
+{Page = 184}
+2538	he sent for a chicken
+2539	they cannot sentence a man until they have heard him
+2540	he served me / attended to my needs
+2541	they served him (as personal or household servants) / they waited on him
+2542	he is going to serve me / work for me
+2543	he made a set (that is, he threw (seine net) in to the water)
+2544	set up the tanning frame: help each other!
+2545	set up the tanning frames!
+2546	he set upon me suddenly and used all his strength against me
+2547	you are really going to set upon them (in ball game) and go all out against them
+2548	he turned on them and talked real loudly about their misdeeds (so that everyone would know)
+2549	we settled there / we made it our village
