@@ -2759,3 +2759,35 @@
 2580	pull your boat up in a shallow place!
 2581	my sister is ashamed
 {Page = 187}
+2582	he’s never ashamed (because hardened)
+2583	his work / what he did made him ashamed
+2584	I’m real ashamed
+2585	it’s a deeply shameful thing
+2586	it’s going to be a matter of great shame
+2587	I shaped my shoes / put them on a stretcher (till they were the shape I wanted)
+2588	they shape wood too (by steaming it and then bending it for bentwood boxes)
+2589	they share everything (that is, claim everything together)
+2590	devil’s club has sharp spikes all over it
+2591	this pencil is not sharp
+2592	the knife is sharp
+2593	I sharpened the axe with a file
+2594	I sharpened the scissors on a grindstone
+2595	I’m going to sharpen my pencil
+2596	it (dog) is sharpening its teeth on a bone
+2597	sharpen this knife on the stove!
+{Page = 188}
+2598	I’m going to shave
+2599	because his face is so hairy, he’s always shaving
+2600	it sheds its hair (habituall each spring)
+2601	he put a shim in there
+2602	he’s fixed the light, so now it will shine brighter
+2603	your kindness shines through your faces
+2604	I shot a moose
+2605	he shot himself
+2606	they shot blunt arrows (for practice)
+2607	I shot grouse with it
+2608	he aimed an arrow up / shot up in the air
+2609	they shot an arrow which fell short of him
+2610	a short jar
+2611	I’m not going to get it finished; my thread is too short
+{Page = 189}
