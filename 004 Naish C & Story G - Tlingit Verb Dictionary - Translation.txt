@@ -2791,3 +2791,37 @@
 2610	a short jar
 2611	I’m not going to get it finished; my thread is too short
 {Page = 189}
+2612	that cat has a short tail
+2613	the pencil is short
+2614	for a while / for a short time
+2615	the board is too short for there
+2616	it’s too short a rope
+2617	the string is too short for there
+2618	the young fellow cried out
+2619	they put up their paddles and shouted
+2620	when they have finished singing, they shout out in a loud expression
+2621	I shoveled the mud
+2622	you shovel it, with this shovel!
+2623	he’s shoveling the soot out from inside it
+2624	he showed us his picture
+2625	he displayed his intelligence through his speech
+2626	they are showing their faces (and masks) as they enter dancing (one at a time)
+{Page = 190}
+2627	the shirt shrank
+2628	your blanket is going to shrink
+2629	the warm water will shrink that blanket
+2630	my mother is shriveled up with arthritis
+2631	it (rubber band) springs back and hits my hand
+2632	shuffle your feet (said to children when it is thundering; in making this noise with their feet they forget their fear of the thunder)!
+2633	they go around with rapid small steps, noisily
+2634	he was shy of his sister
+2635	Mary is bashful and won’t come to me
+2636	I’m real sick
+2637	nothing makes me sick
+2638	it will make you sick
+2639	are you just pretending to be sick?
+2640	she’s going to sift the flour
+2641	I was blind, and now I see (I have my sight)
+2642	he made a smoke signal early in the morning
+2643	on the other side of the strait they saw the smoke spreading out (they got the signal)
+{Page = 191}
