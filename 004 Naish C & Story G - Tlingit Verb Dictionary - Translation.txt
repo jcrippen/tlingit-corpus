@@ -2876,3 +2876,54 @@
 2690	my wife is skilled at making beautiful things (she is a craftsman)
 2691	one can see he (child) is going to be artistic (skilled with his hands)
 {Page = 194}
+2692	I’m skinning a deer
+2693	they have to skin porcupine
+2694	I’m skinning a hair seal carefully (to obtain hide)
+2695	we’re going to skin this afternoon
+2696	it’s hanging slackly
+2697	the line is hanging way down
+2698	the post on the end might be pulled in; that’s why I slacked the line
+2699	loosen it (bandage, or something tied around)!
+2700	slacken the rope, letting it go way back!
+2701	the storm slacked off / abated
+2702	his sickness is slacking off right now
+2703	he’s not eating so well / he’s losing his appetite
+2704	he slammed the door shut
+2705	he slammed the door in my face
+2706	when he said that, the guard slapped him
+2707	don’t slap your sister!
+{Page = 195}
+2708	the beaver slapped his tail hard on the water (as he entered it)
+2709	they were slaughtered
+2710	his earache kept him awake last night, so he didn’t sleep well
+2711	bears sleep (alone) through the winter
+2712	my children sleep upstairs
+2713	they haven’t gone to bed yet
+2714	he’s getting sleepy
+2715	are you sleepy?
+2716	herring eggs make me sleepy
+2717	they’ve sliced up all the fish ready for drying (usually after it has had one night to firm up)
+2718	he split open the fish for smoking
+2719	slice the potatoes real thin (for frying)!
+2720	I’m going to slice up the salmon
+2721	they slice bacon
+2722	he sliced the bread (cut it in several pieces)
+2723	the sled slid away from me (took off by itself)
+{Page = 196}
+2724	I slid it (sled) along with them on it
+2725	the canoe slid into the water
+2726	it (boat, sled) is sliding along
+2727	land otters slide into the water (sliding down a clay bank)
+2728	we’re going to slim
+2729	a baby is always slimy (with dribble) round his mouth
+2730	rock cod has heavy slime
+2731	she slimed up my shirt
+2732	soap gets slippery
+2733	they take sling shots at the lights
+2734	he’s going to aim with his sling
+2735	he will slip on the ice
+2736	the snow slid down
+2737	the table is smooth / slippery
+2738	those rocks are slippery
+2739	she’s sloppy / doesn’t fix her hair and clothes neatly
+{Page = 197}
