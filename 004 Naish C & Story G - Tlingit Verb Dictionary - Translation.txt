@@ -2927,3 +2927,41 @@
 2738	those rocks are slippery
 2739	she’s sloppy / doesn’t fix her hair and clothes neatly
 {Page = 197}
+2740	I’m slow at housework
+2741	it’s too slow (that is, you are singing it too slowly)
+2742	I’m slow in eating / I eat slowly
+2743	just a little
+2744	the handle is small
+2745	a small house
+2746	her daughter is short
+2747	a small apple
+2748	it’s a small pencil
+2749	they are small (berries, beads, etc.)
+2750	it (dress) is too small for me
+2751	they were short of food (the amount was too small)
+2752	the buttonhole is too small
+2753	I made it too small
+2754	my money is not enough
+2755	they smashed up the canoes
+2756	I smashed it with my hammer
+2757	smash the berries!
+{Page = 198}
+2758	they smash salmon eggs by pounding
+2759	I smashed my finger (with the hammer)
+2760	he smashed in that seal’s head with his fist
+2761	I smelled your bread cooking a long way off
+2762	it smells of dried fish
+2763	the perfume smells powerful and not very pleasant
+2764	onions smell strongly
+2765	he smiled at me about something
+2766	he is smiling sarcastically about something (and suppressing laughter)
+2767	he was smiling / flirting
+2768	they smile (good-humoredly)
+2769	they smiled at each other
+2770	he was always smiling at him
+2771	it’s smoking
+2772	it’s very smoky in the house
+2773	I smoke deer meat for storing in oil
+2774	wet wood makes the fire smoky
+2775	it’s smoldering
+{Page = 199}
