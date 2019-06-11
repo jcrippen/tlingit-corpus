@@ -2965,3 +2965,34 @@
 2774	wet wood makes the fire smoky
 2775	it’s smoldering
 {Page = 199}
+2776	he’s smooking in my face
+2777	my clothes are smooth of their own accord (e.g., drip-dry clothes)
+2778	he spread out the cloth, smoothed out the wrinkles
+2779	spread it out smoothly!
+2780	dogs snap at each other
+2781	she would snap her eyes at me
+2782	they were looking askance at each other (real mad)
+2783	I snared a brown bear
+2784	he’s sneaking away from his mother
+2785	I’m going to sneak away (disappear, from the meeting)
+2786	I’m going to sneak off
+2787	he sneaked off from here to college
+{Page = 200}
+2788	I’m sneezing a lot
+2789	I’m going to sneeze
+2790	the dog was sniffing around
+2791	the sheep was sniffing round the swamp
+2792	they are all fast asleep and snoring
+2793	did I snore?
+2794	the dog is snoring and every now and then he moves a little and whines or whimpers
+2795	the snow is coming down so heavily, one can’t see far
+2796	I think it’s going to snow real heavily on us
+2797	it is snowing
+2798	the snow is dry and lightly piled up
+2799	it is slushy / there is wet snow on the ground
+2800	the snow is rotting
+2801	the snow is in real wide blobs, which disappear as soon as they hit the ground
+2802	sheʼs soaking clothes
+2803	they (clothes) are soaked
+2804	my boat is waterlogged (so heavy with water in the boards that it is going to sink)
+{Page = 201}

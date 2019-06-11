@@ -2070,7 +2070,7 @@
 1929	tléil yáa yoo kawdudzitéeyi aa áyá x̱át
 1930	át ḵukax̱waa.aaḵw
 1931	dei chʼa yéi áwé át haa kuna.áḵwch
-1932	has x̱at jiku.aaḵw
+1932	has x̱at jikoo.aaḵw
 1933	ajikx̱waa.aaḵw
 1934	neildé kawduwanáa at yátxʼi
 1935	chush x̱oodáx̱ has akawdináa
@@ -2970,3 +2970,34 @@
 2774	wuditlʼákʼi aa gán x̱ʼaan ayalasʼéḵx̱
 2775	yawlisʼéḵ
 {Page = 199}
+2776	ax̱ yaadé x̱ʼadasʼeiḵ
+2777	ax̱ naa.ádi kawdiyáasʼ
+2778	sʼísaa akawliyáasʼ
+2779	yax̱ kalayásʼ
+2780	keitl woosh daxʼíxʼt
+2781	ax̱ yaax̱ kei akooltʼáasʼch
+2782	woosh yaax̱ kei s kawdlitʼásʼ
+2783	xóots x̱wadlidásʼ
+2784	du tláa náḵ yaa sh kanalhéin
+2785	yaa sh kakḵwalháa
+2786	aadáx̱ akḵwadatáaw
+2787	yáadax̱ awditáaw, collegede
+{Page = 200}
+2788	aatlein ax̱altsʼíxaa
+2789	akwḵaltsʼíxaa
+2790	keitl át ḵoowdzinéexʼ
+2791	sháchk kát ḵoowdzinéexʼ jánwu
+2792	ldakát yax̱ ḵuyawlijáḵ: ldakát adukéet
+2793	ax̱akéet ágé?
+2794	keitl akóos
+2795	dleit yakaawadán
+2796	yéi x̱waajée haa káa ayakakg̱wadáan
+2797	dleit daak wusitán
+2798	dleit akaawakéts
+2799	kawshidúk
+2800	yaa nashnéḵ
+2801	dleit áa wshinéḵ
+2802	naa.át aklakélsʼ
+2803	kawlikél
+2804	ax̱ yaagú yaa kanda.ítʼ
+{Page = 201}
