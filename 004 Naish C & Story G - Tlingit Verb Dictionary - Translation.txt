@@ -2996,3 +2996,32 @@
 2803	they (clothes) are soaked
 2804	my boat is waterlogged (so heavy with water in the boards that it is going to sink)
 {Page = 201}
+2805	they soak gumboots (chiton)
+2806	they soak salmon (esp. male coho) heads in fresh water
+2807	I soaked the deer skin (to soften it)
+2808	they used to soak dried fish
+2809	eagles too soar and glide around
+2810	I sobbed
+2811	it (a skin) is getting soft
+2812	I’m going to soften the seal skin
+2813	I rub the dried fish in my hands to soften it
+2814	I’ll soften the skin by working it in my hands
+2815	your sweater is as soft as down
+2816	this blanket has no nap on it
+{Page = 202}
+2817	frozen potatoes will be soft and squashy (when thawed out)
+2818	it’s time to sound off (ship’s siren) now
+2819	he’s going along blowing (the car horn)
+2820	the fruit juice is sour
+2821	it’s beginning to get sour (of milk, etc.)
+2822	these beads are bright / sparkling
+2823	snow sparkles too, and reflects light
+2824	they (herring) are just beginning to spawn
+2825	they spawned on the broad kelp
+2826	speak out / make a speech!
+2827	he’s beginning to talk (after a stroke)
+2828	talk to me!
+2829	we don’t speak to him
+2830	he talked to us / conversed with us
+2831	they spoke
+{Page = 203}
