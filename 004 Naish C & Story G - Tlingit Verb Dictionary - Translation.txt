@@ -3025,3 +3025,36 @@
 2830	he talked to us / conversed with us
 2831	they spoke
 {Page = 203}
+2832	I spoke up (e.g., asked him suddenly where he was going)
+2833	he spoke up at once
+2834	they spear salmon with a spear called áadaa
+2835	he speared a hair seal
+2836	he speared lots of crab
+2837	I’m going along real fast (using all my strength in paddling)
+2838	he spent all his money
+2839	he’s gone to spend his money
+2840	we’re going shopping for bread
+2841	he spilled the rice
+2842	I spilled the contents of the dish
+2843	the water spilled
+2844	the bucket isn’t spilled
+2845	the top is spinning
+2846	he started the plate spinning
+2847	she’s spinning cedar bark into thread for a Chilkat blanket
+2848	it (a wheel) is spinning
+2849	he spat on the ground
+{Page = 204}
+2850	don’t spit it out (medicine); hold it in your mouth a while!
+2851	he spat it out
+2852	you spit (water) on your hands (to wash them)
+2853	he spat out the water (which he had been holding in his mouth)
+2854	when you throw rocks in the water, it splashes up
+2855	when it is very cold, the water freezes as it splashes (as spray or droplets)
+2856	you splashed some water on me
+2857	the cormorant goes along splashing up water with its feet as it takes off
+2858	it took off gradually, splashing up water as it went
+2859	I splash the water up
+2860	I’ll splash water up in your face (with my cupped hand)
+2861	I spliced rope together
+2862	I spliced the rope together (not very permanently)
+{Page = 205}
