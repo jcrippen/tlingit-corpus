@@ -3058,3 +3058,29 @@
 2861	I spliced rope together
 2862	I spliced the rope together (not very permanently)
 {Page = 205}
+2863	they split firewood
+2864	they split the head open (with a descending blow)
+2865	I split grass (for basket decoration)
+2866	she is splitting sticks (for kindling)
+2867	they split shingles (that is, split lumber at regular intervals to produce roofing lumber)
+2868	the canoe is full of cracks
+2869	the meat is beginning to spoil (has a tincture of bad taste)
+2870	the herring eggs are starting to smell bad
+2871	the meat is starting to really spoil
+2872	he’s always sponging / getting what he can for nothing
+2873	he’s cadging firewood
+2874	he’s spooning it into the pots
+2875	they spooned it into the rice
+{Page = 206}
+2875	the dish is spotted
+2876	it (a flicker) is spotted on top
+2877	a seal skin that is spotted is real good
+2878	a young deer is spotted all over
+2879	the cloth has polka-dots all over it
+2880	the steam spouted forth
+2881	I sprained my ankle
+2882	a rumor began to spread that the governor is going to be here
+2883	he spread the blanket
+2884	I would spread out my clothes on the sand
+2885	he spread out the seaweed
+{Page = 207}
