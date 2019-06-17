@@ -3031,36 +3031,36 @@
 2830	haa èen yoo x̱ʼawli.átk
 2831	has x̱ʼawli.àat
 {Page = 203}
-doo éet awé x̱ʼax̱wsigóo
-át x̱ʼax̱wsigóo
-x̱áat áadaa tèen dootáḵt
-tsàa aawatáḵ
-sʼàaw awsitáḵt
-yaa nx̱alít
-ldakát doo dáanaayee aawahòon
-woodlihòon
-sakwnéin-g̱aa gax̱toolhóon
-kóox yax̱ akaawax̱ích
-sʼíxʼ ka.ádee yax̱ kax̱waax̱ích
-yax̱ kawjix̱ín yáa héen
-tléil yax̱ kawooshx̱èen wéi xʼeesháa
-tòolchʼan yaa natúl
-sʼíxʼ awlitòol
-tèey wòodee aklatóol naaxèin sákw
-yaa kanajúx
-tlʼátk kát ḵʼawditúx̱
+2832	doo éet awé x̱ʼax̱wsigóo
+2833	át x̱ʼax̱wsigóo
+2834	x̱áat áadaa tèen dootáḵt
+2835	tsàa aawatáḵ
+2836	sʼàaw awsitáḵt
+2837	yaa nx̱alít
+2838	ldakát doo dáanaayee aawahòon
+2839	woodlihòon
+2840	sakwnéin-g̱aa gax̱toolhóon
+2841	kóox yax̱ akaawax̱ích
+2842	sʼíxʼ ka.ádee yax̱ kax̱waax̱ích
+2843	yax̱ kawjix̱ín yáa héen
+2844	tléil yax̱ kawooshx̱èen wéi xʼeesháa
+2845	tòolchʼan yaa natúl
+2846	sʼíxʼ awlitòol
+2847	tèey wòodee aklatóol naaxèin sákw
+2848	yaa kanajúx
+2849	tlʼátk kát ḵʼawditúx̱
 {Page = 204}
-tléil yóo-x̱ eeltòox̱ooḵ, chʼa g̱alsháat sʼé
-yóo-t ḵʼawdzitúx̱
-ee jintáa-t eeyakóo
-héen yan aawakóo
-té héen-t yeeg̱éexʼee, kei kdachʼíshch
-wáa ḵusa.áatʼee sáyu, héen kei kandachʼíshee, iltʼíxʼx̱
-yáa héen ax̱ dàa-t kaylichʼísh
-yòoḵ yaa galtʼátlch
-yóo-t woodlitʼátl
-héen kax̱wlatʼátlch
-ee yàa-dei kakwḵalatʼáatl
-wóosh-t kax̱wlitíxʼ
-wóosh-t x̱walitsóow
+2850	tléil yóo-x̱ eeltòox̱ooḵ, chʼa g̱alsháat sʼé
+2851	yóo-t ḵʼawdzitúx̱
+2852	ee jintáa-t eeyakóo
+2853	héen yan aawakóo
+2854	té héen-t yeeg̱éexʼee, kei kdachʼíshch
+2855	wáa ḵusa.áatʼee sáyu, héen kei kandachʼíshee, iltʼíxʼx̱
+2856	yáa héen ax̱ dàa-t kaylichʼísh
+2857	yòoḵ yaa galtʼátlch
+2858	yóo-t woodlitʼátl
+2859	héen kax̱wlatʼátlch
+2860	ee yàa-dei kakwḵalatʼáatl
+2861	wóosh-t kax̱wlitíxʼ
+2862	wóosh-t x̱walitsóow
 {Page = 205}
