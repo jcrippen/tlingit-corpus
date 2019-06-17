@@ -1,0 +1,42 @@
+{Number = 023}
+{Type = Original}
+{Title = Dikée Aanḵáawu du Yéet daat Jaanch kawshixidi yoo x̱ʼatánk}
+{Author = Anonymous}
+{Source = Anonymous 1969}
+{Transcriber = Constance Naish, Gillian Story}
+{Orthography = NS1}
+{Dialect = Northern – Coastal - Angoon}
+{Note = Numbering follows sentences rather than lines.}
+{Page = 3}
+1	Yoox̱ʼutúnk uh tóo-nux̱ ḵoowdziteeyee x̱ʼuséikw
+{Paragraph = 1}
+{Verse = 1}
+2	Shooxʼáh-nux̱, chʼoo ’l dah súh ḵoog̱ustèejee uwéh, wéh únux̱ kei ut shookawsixixee Yoox̱ʼutúnk ḵoodzitèe.
+3	Dikée Anḵáwoo èen-x̱ sitèe; tsoo chʼoo shóogoo hóh uyús Dikée Anḵáwoo-x̱ sitèe.
+{Verse = 2}
+4	Sooxʼáh-nux̱, chʼoo ’l dah súh ḵoog̱ustèejee uwéh, wéh Yoox̱ʼutúnk Dikée Anḵáwoo èen-x̱ sitèe.
+{Verse = 3}
+5	Hóh, doo èenux̱ Dikée Anḵáwoo-ch yun woosinée ldukút út.
+6	Doo g̱óot tléil dah súh yun woonèe.
+{Verse = 4}
+7	Wéh Yoox̱ʼutúngee jèe-nux̱ kei shookawsixíx x̱ʼuséikw.
+8	Unux̱ uwéh kugún ḵah káh yéi woonèe.
+{Verse = 5}
+9	Yúh kugún uyúh lug̱éi nòoch, kug̱ít tóoxʼ.
+10	Tléil kug̱ít uh kàh-nux̱ wootèe.
+{Paragraph = 2}
+{Verse = 6}
+12	Dikée Anḵáwoo-ch uwéh tléinux̱ yuteeyee ḵáh, John yóo w’doowusáh, uh kawuḵàh.
+{Verse = 7}
+13	Hóh uwéh antḵèenee x̱òo-dei woogòot, kugún ḵòon uh kung̱unèekt.
+14	Hàt oowugót doo x̱ʼéi-nux̱ g̱udoo.àx̱t doo yoox̱ʼutúngee, úkʼ uh x̱’doohèent.
+{Verse = 8}
+15	Tléil hóh uwéh wéh kugún-x̱ woostee; uh kung̱unèekt ḵo.àh uwéh hàt oowugót.
+{Verse = 9}
+16	Yát.àh ḵo.àh yúh xʼéig̱ah kugún uyúh lingít ànee kút oowugót ldukút ḵáh káh kux̱dugànt.
+{Page = 4}
+{Verse = 10}
+17	Uh uwéh yúh Yoox̱ʼutúnk lingít ànee káh yéi wootèe.
+18	Doo èenux̱ uyúh Dikée Anḵáwoo yúh lingít ànee yun awsinée.
+19	Chʼu àn ḵo.àh yú antḵèenee-ch tléil wooskóh adoo-x̱ súh sutèeyee.
+{Verse = 11}
