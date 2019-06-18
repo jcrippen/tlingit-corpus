@@ -3072,15 +3072,39 @@
 2874	he’s spooning it into the pots
 2875	they spooned it into the rice
 {Page = 206}
-2875	the dish is spotted
-2876	it (a flicker) is spotted on top
-2877	a seal skin that is spotted is real good
-2878	a young deer is spotted all over
-2879	the cloth has polka-dots all over it
-2880	the steam spouted forth
-2881	I sprained my ankle
-2882	a rumor began to spread that the governor is going to be here
-2883	he spread the blanket
-2884	I would spread out my clothes on the sand
-2885	he spread out the seaweed
+2876	the dish is spotted
+2877	it (a flicker) is spotted on top
+2878	a seal skin that is spotted is real good
+2879	a young deer is spotted all over
+2880	the cloth has polka-dots all over it
+2881	the steam spouted forth
+2882	I sprained my ankle
+2883	a rumor began to spread that the governor is going to be here
+2884	he spread the blanket
+2885	I would spread out my clothes on the sand
+2886	he spread out the seaweed
 {Page = 207}
+2887	it (bird) spread itself out over its eggs
+2888	it (frog) goes along in spread-out position
+2889	it (rubber band) springs back and hits my hand
+2890	he sprinkles salt
+2891	he sprinkled sand on the road
+2892	sprinkle some sugar in it!
+2893	he squatted back (out of the way, so as not to be seen)
+2894	he squatted down on the sand
+2895	the young octopuses squatted on it
+2896	they went along in squatting position
+2897	a dog got stuck in the fence
+2898	I’ll squeeze myself through
+2899	a brown bear squeezed him
+{Page = 208}
+2900	you are squeezing it (lemon)
+2901	squeeze his hand (with all your might, when shaking hands)!
+2902	he squeezed the trigger (that is, fired) among the people
+2903	clean out these seal intestines (by squeezing matter out of them)!
+2904	they clean out sea cucumber (by squeezing all the guts out after the head has been cut off)
+2905	clams are squirting
+2906	he was stabbed
+2907	he stabbed him (to death) with a knife
+2908	a (wounded) deer is staggering along sideways (before it drops)
+{Page = 209}
