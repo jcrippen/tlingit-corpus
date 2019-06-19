@@ -3113,3 +3113,41 @@
 2907	lítaa teen akaawagwaal
 2908	g̱uwakaan yaa yanash.ák
 {Page = 209}
+2909	x̱áat yawji.áak
+2910	yaa yakanal.és
+2911	naaw jeeyeet áwé yaa yakakla.ésch
+2912	sháak has laséḵʼwx̱
+2913	kawdiséḵʼw wé sʼísaa
+2914	lʼoowú kax̱wliséḵʼw
+2915	x̱ʼekawdliséḵʼw
+2916	g̱uwakaan yakḵwayéik
+2917	át at kawutlaagú át ḵuyaawayeik
+2918	x̱waditúx̱
+2919	yeetúx
+2920	yan aawatséx̱
+2921	ḵaa x̱oot hán
+2922	x̱ʼaháat x̱ánt yánde kḵwaháan
+2923	gán kát toonáḵ
+2924	ldakát át áwé ax̱ géide náḵ
+2925	chʼa hú kei dahánch
+2926	ḵáa shaan wudihaan
+2927	gax̱tudanaaḵ
+2928	ldakát has wudinaaḵ
+{Page = 210}
+2929	dei x̱at uwaláxw
+2930	haa kg̱waláaxw
+2931	tláakw áwé yax̱waaḵaa
+2932	i x̱ánxʼ yéi x̱at nag̱atee
+2933	yáaxʼ ágé yéi yee kg̱watée?
+2934	ax̱ x̱áni gug̱atʼei
+2935	aadóo x̱ánxʼ sá iyatʼei?
+2936	sh yáa x̱wdiwútl: ax̱ yéet tléináx̱ neilxʼ x̱wasitʼei
+2937	awshitʼíxʼ
+2938	shatʼíxʼ
+2939	yaa anas.ín héen akawshitʼíxʼ
+2940	yaakw akawshitʼíxʼ
+2941	i éesh hás aadé s x̱ʼayaḵa yé, a x̱ʼéi shatʼíxʼ
+2942	i éesh hás x̱ʼasheeyí a x̱ʼéi yashatʼíxʼ
+2943	awutáawu akaawa.aaḵw; áa jix̱wliháa
+2944	iwduwatáw ágé?
+{Page = 211}
