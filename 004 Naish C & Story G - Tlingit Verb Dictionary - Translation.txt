@@ -3146,3 +3146,42 @@
 2943	he tried to steal; I caught him in the act
 2944	did they rob you?
 {Page = 211}
+2945	a young fellow stole the car
+2946	I stole an apple
+2947	he stole a pencil
+2948	steam those high bush cranberries!
+2949	I’m going to steam them
+2950	he steamed the king salmon (in the ground)
+2951	they used to cook by steaming in the ground
+2952	they steam high bush cranberries (most other types of berries are too soft and would go mushy)
+2953	are you going to steam your high bush cranberries?
+2954	he took a steam bath
+2955	he sprinkled water on hot rocks in the steam bath house, producing steam and causing a sizzling sound
+2956	it’s steamy
+2957	steam is rising
+2958	that mountain is real steep: there are cliffs there
+2959	the mountains up north are steep
+2960	I steer the boat
+2961	steer it / you take the wheel!
+2962	take the rudder / steer it!
+{Page = 212}
+2964	they steer that boat with a rudder
+2965	steer it (using a paddle)
+2966	he’s going to steer around the point
+2967	step in his footsteps!
+2968	he put his foot down
+2969	it (wet flour) sticks to one’s hands
+2970	we are sticking it (paper) indoors (that is, we are papering the walls)
+2971	a spoon is sticking out of the bowl
+2972	the arrow is sticking out of the deer
+2973	the bow of the boat is on land and the stern is sticking out into the water
+2974	stick out your tongue (for doctor)!
+2975	there’s a mast sticking up there
+2976	there’s one yellow cedar standing up over there
+2977	the stern or bow of the wreck is sticking out of the water
+2978	my clothes are stiff (with starch, etc.)
+2979	my hand has stiffened
+2980	my whole body is stiff
+2981	arthritis has made her hand stiff
+2982	the salmon was stiff
+{Page = 213}
