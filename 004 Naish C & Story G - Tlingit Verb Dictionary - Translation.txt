@@ -3165,23 +3165,55 @@
 2961	steer it / you take the wheel!
 2962	take the rudder / steer it!
 {Page = 212}
-2964	they steer that boat with a rudder
-2965	steer it (using a paddle)
-2966	he’s going to steer around the point
-2967	step in his footsteps!
-2968	he put his foot down
-2969	it (wet flour) sticks to one’s hands
-2970	we are sticking it (paper) indoors (that is, we are papering the walls)
-2971	a spoon is sticking out of the bowl
-2972	the arrow is sticking out of the deer
-2973	the bow of the boat is on land and the stern is sticking out into the water
-2974	stick out your tongue (for doctor)!
-2975	there’s a mast sticking up there
-2976	there’s one yellow cedar standing up over there
-2977	the stern or bow of the wreck is sticking out of the water
-2978	my clothes are stiff (with starch, etc.)
-2979	my hand has stiffened
-2980	my whole body is stiff
-2981	arthritis has made her hand stiff
-2982	the salmon was stiff
+2963	they steer that boat with a rudder
+2964	steer it (using a paddle)
+2965	he’s going to steer around the point
+2966	step in his footsteps!
+2967	he put his foot down
+2968	it (wet flour) sticks to one’s hands
+2969	we are sticking it (paper) indoors (that is, we are papering the walls)
+2970	a spoon is sticking out of the bowl
+2971	the arrow is sticking out of the deer
+2972	the bow of the boat is on land and the stern is sticking out into the water
+2973	stick out your tongue (for doctor)!
+2974	there’s a mast sticking up there
+2975	there’s one yellow cedar standing up over there
+2976	the stern or bow of the wreck is sticking out of the water
+2977	my clothes are stiff (with starch, etc.)
+2978	my hand has stiffened
+2979	my whole body is stiff
+2980	arthritis has made her hand stiff
+2981	the salmon was stiff
 {Page = 213}
+2982	it (dead object) is getting stiff now
+2983	my legs have stiffened (may or may not be painful, but can’t use it well)
+2984	he was stung by a nettle
+2985	the nettle stung me
+2986	be ready for it; the medicine stings!
+2987	my hand is stinging
+2988	I’m stingy with my salt, because it’s running out
+2989	he’s not stingy / he is generous (will always give the very last he has)
+2990	pigs really stink
+2991	that oil smells bad
+2992	shall I stir your cooking for you?
+2993	stir the meat stew!
+2994	they wanted to stone him
+{Page = 214}
+2995	they stoned him
+2996	stop (for a moment): I’ve something to tell you!
+2997	I never stop to listen to him
+2998	stop and wait for me!
+2999	they stopped and stepped back
+3000	the boat engine is stopped
+3001	it (engine) runs all the time / never stops
+3002	you can’t put a stop to it
+3003	he didn’t stop us (from stealing, etc.)
+3004	it has stopped raining
+3005	the water will stop running (that is, will go back up the pipes) in July maybe
+3006	the smoke suddenly stopped coming out (of the chimney)
+3007	I think it’s going to be stormy tomorrow
+3008	it’s getting rough / it’s beginning to storm
+3009	it has a straight edge (that is, its edge is not crooked)
+3010	strain the broth (that is, pour it out, leaving all the solids behind)!
+3011	I strained the fruit juice
+{Page = 215}
