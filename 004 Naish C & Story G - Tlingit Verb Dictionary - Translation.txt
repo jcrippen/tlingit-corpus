@@ -3217,3 +3217,38 @@
 3010	strain the broth (that is, pour it out, leaving all the solids behind)!
 3011	I strained the fruit juice
 {Page = 215}
+3012	I strangled a chicken
+3013	he was strangled by a rope
+3014	I am stretching a seal skin
+3015	rubber (elastic) stretches
+3016	I stretched my shirt
+3017	he’s stretching out the wire
+3018	he stretched its mouth
+3019	I stretched my arms
+3020	a cat stretches its legs (to full extent, one after the other)
+3021	stretch out your legs (and relax them)!
+3022	in order to dry the seal skin, I put it on a stretcher
+3023	I’m the one that put it on the stretcher
+3024	so that I could scrape it, I put it on a stretcher
+3025	she’s not stringing beads now
+3026	we are going to string beads
+3027	then we strung them (logs with staples in) together and we began towing
+{Page = 216}
+3028	can you make string figures?
+3029	she’s going to make strring figures
+3030	we paddled with all our strength
+3031	I exerted myself fully / put great effort into learning
+3032	he’s stroking the cat’s face (and head)
+3033	maybe this wind will get stronger
+3034	they are building it solidly / making it strong
+3035	he is stubborn / unyielding
+3036	I’m not stubborn: I’m real kind and gentle (said jokingly)
+3037	we’re studying the Tlingit language
+3038	does he study?
+3039	we are going to try to make it to shore (that is, to successfully reach the shore)
+3040	I don’t think you’ll succeed
+3041	you succeeded / you did pretty well (lit. you couldn’t be undone because so well made)
+3042	he’s sucking
+3043	it (vampire bat) sucks blood from people
+3044	I sucked the orange (trying to get the last drop of moisture out)
+{Page = 217}
