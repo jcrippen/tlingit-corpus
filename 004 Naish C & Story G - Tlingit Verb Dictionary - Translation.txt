@@ -3279,3 +3279,36 @@
 3068	it is something that has been known for a long time: it doesn’t surprise me
 3069	I suspect what he says / I’m not confident that he’s telling the truth
 {Page = 219}
+3070	why are you suspicious of me / why do you suspect me?
+3071	I suspect he is the one who stole it
+3072	the moon is up in the sky
+3073	something or someone is suspended on the face of the cliff (stuck and unable to move up or down)
+3074	there is a star way up in the sky
+3075	a very bright star was over Bethlehem
+3076	he swallowed it
+3077	he swallowed medicine
+3078	a swampy place / a quicksand or deep mud hole
+3079	it was so swampy there the mud came above his knee
+3080	we were sweating
+3081	they are sweeping indoors
+3082	sweep the floor!
+3083	porcupine meat tastes real sweet
+3084	these berries are not sweet
+3085	my hand is swollen
+{Page = 220}
+3086	I had a boil
+3087	my hand has swelled up
+3088	soapberries swell up (when beaten)
+3089	the rice is still swelling
+3090	we swam way out
+3091	he’s swimming across the river
+3092	the young fellows used to swim way out
+3093	I swam to shore with the child
+3094	he swam ashore bringing the (dead) hair seal
+3095	it (fish) is swimming downstream
+3096	a whale is surfacing there (swimming up to the surface)
+3097	steelhead trout are swimming in the creek
+3098	he swam across to the other side
+3099	a cat doesn’t swim
+3100	there’s a lot of deer swimming along
+{Page = 221}
