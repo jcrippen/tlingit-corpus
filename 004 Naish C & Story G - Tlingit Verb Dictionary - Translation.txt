@@ -3312,3 +3312,35 @@
 3099	a cat doesn’t swim
 3100	there’s a lot of deer swimming along
 {Page = 221}
+3101	they swam ashore
+3102	a duck is swimming around in circles
+3103	they (boys) are swimming there (and playing with boats)
+3104	they (ducks) are swimming down the river
+3105	there’s just a duck swimming around
+3106	mallard ducks were swimming towards us
+3107	a hair seal is swimming along and putting its head out of the water every little while
+3108	it looks around and then goes down again
+3109	land otters swim along putting their heads out of the water every now and again
+3110	it’s swimming fast (in this direction and that)
+3111	hair seal is swimming fast downriver
+3112	the porpoise are swimming against the tide
+3113	several dolphin are swimming along fast
+3114	there’s a school of killerwhales swimming there
+{Page = 222}
+3115	I think the sea lion will be coming
+3116	land otters also swim in a bunch
+3117	he was swinging his rifle
+3118	it was swinging
+3119	swiveling-around point (of land)
+3120	he came here bearing news
+3121	they met him with the news
+3122	he’ll take me by the hand and lead me there
+3123	hold on to his hand / take him by the hand
+3124	maybe this is the place where they took away the T. women
+3125	I’m going to take this home
+3126	are you going to take any home?
+3127	why are you taking out all your things?
+3128	we’re going to take the machine apart
+3129	he’s taking the old store apart / tearing it down
+3130	take off your shirt!
+{Page = 223}
