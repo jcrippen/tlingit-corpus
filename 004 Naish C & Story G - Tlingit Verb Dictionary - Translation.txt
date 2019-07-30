@@ -3335,7 +3335,7 @@
 3120	he came here bearing news
 3121	they met him with the news
 3122	he’ll take me by the hand and lead me there
-3123	hold on to his hand / take him by the hand
+3123	hold on to his hand / take him by the hand!
 3124	maybe this is the place where they took away the T. women
 3125	I’m going to take this home
 3126	are you going to take any home?
@@ -3344,3 +3344,21 @@
 3129	he’s taking the old store apart / tearing it down
 3130	take off your shirt!
 {Page = 223}
+3131	he took off (shoes)
+3132	he took off his hat
+3133	it (plane) is going up
+3134	it took place on the first day (that is, Monday)
+3135	lots of fighting used to take place
+3136	he began to run the party / he caused the party to get underway
+3137	I’m going to talk it over
+3138	have you finished talking it over?
+3139	he led them astray (telling them to do something they shouldn’t, and leading them to do it by the way he spoke)
+3140	they are talkative / talk all the time / talk nonsense
+3141	don’t be talking all the time!
+3142	he talked improperly, so he was thrown out
+3143	they are getting tame / becoming used to people
+3144	I’ve tangled my yarn
+3145	the rope is tangled
+3146	he tangled it
+3147	it’s really tangled where all those windfalls are
+{Page = 224}
