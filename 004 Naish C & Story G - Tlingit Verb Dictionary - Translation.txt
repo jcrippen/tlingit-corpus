@@ -3362,3 +3362,43 @@
 3146	he tangled it
 3147	it’s really tangled where all those windfalls are
 {Page = 224}
+3148	her hair is all matted
+3149	the dog’s hair is tangled in lumps
+3150	it tastes good (lit. it is good how it tastes)
+3151	it has no taste / it doesn’t taste of anything
+3152	have you tasted seal meat?
+3153	go berry-picking, so we can have a taste of berries!
+3154	I tattooed my dauughter’s hand
+3155	tattoo my arm / hand!
+3156	he taught us to sing
+3157	we’re going to teach
+3158	they taught each other
+3159	don’t tear it open (a present)!
+3160	I tore apart a piece of cloth
+3161	I’m making a big pile of torn paper
+3162	the seine net is all torn up
+3163	the seine net is torn in one place
+3164	it won’t tear
+3165	it (a pierced ear lobe) tore through
+3166	he talks too much / tears away in conversation
+3167	it (salmon) tore loose from the fishhook
+3168	they tore away (at the Boston Tea Party)
+{Page = 225}
+3169	they tore down the house
+3170	he tore the engine apart in order to sell the parts
+3171	he made jokes about his parternal uncle
+3172	they teased us, “there’s no prince among you”
+3173	they were teased with being slaves
+3174	I have told the whole of our way of life
+3175	I told all about the past trouble / I gave all the information about it
+3176	tell us a story!
+3177	he told a story about a beaver
+3178	that’s the way I heard it told
+3179	long ago they tell the legend thus
+3180	we were told to go / they told us to go
+3181	we used to tell him so
+3182	what’s he telling you?
+3183	he tells me (advises me) to buy a stove
+3184	a man tempted me, but I disregarded it
+3185	I tempted him
+{Page = 226}
