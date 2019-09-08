@@ -3402,3 +3402,40 @@
 3184	a man tempted me, but I disregarded it
 3185	I tempted him
 {Page = 226}
+3186	I tensed the muscles of my leg / held my leg rigid
+3187	it’s going to hurt; brace yourself
+3188	a thick board
+3189	the skin isn’t thick
+3190	the clouds are getting thick
+3191	the deer are getting pretty lean
+3192	he’s thin / skinny
+3193	I’m losing weight / getting thinner
+3194	what do you think about it?
+3195	I think so / I imagine it so
+3196	he will think that he is working for God
+3197	we never expected anything like this would happen to us
+3198	they thought it was pneumonia
+3199	I thought I had already paid
+3200	they are thinking over their way of life
+3201	let me think it over / consider it
+3202	we’re going to think it over
+{Page = 227}
+3203	I’m real thirsty
+3204	he will never thirst again
+3205	I threaded the needle with this thread
+3206	we threaded sticks through skunk cabbage to make them stiff enough to use as baskets (for berries)
+3207	they put sticks through fish too (when too large to broil without threading sticks through at right angles to main stick, to keep it from hanging down)
+3208	they will throw you into the furnace
+3209	they threw the seine net overboard
+3210	I threw a rock over there
+3211	he threw my book outdoors
+3212	I threw in the anchor (as we neared shore)
+3213	he threw down the bundle of firewood
+3214	he’s throwing the ball
+3215	he didn’t throw down (the pencil)
+3216	he threw the dog out
+3217	he threw himself down
+3218	I threw the water outside
+3219	I threw the water out, in a forceful motion
+3220	he’s throwing money away (that is, spending foolishly)
+{Page = 228}
