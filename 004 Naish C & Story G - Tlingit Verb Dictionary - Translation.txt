@@ -3235,7 +3235,7 @@
 3027	then we strung them (logs with staples in) together and we began towing
 {Page = 216}
 3028	can you make string figures?
-3029	she’s going to make strring figures
+3029	she’s going to make string figures
 3030	we paddled with all our strength
 3031	I exerted myself fully / put great effort into learning
 3032	he’s stroking the cat’s face (and head)
@@ -3439,3 +3439,38 @@
 3219	I threw the water out, in a forceful motion
 3220	he’s throwing money away (that is, spending foolishly)
 {Page = 228}
+3221	throw it like a spear (that is, pointed end forward)!
+3222	I threw the stick outside, end foremost
+3223	he threw a rock on the other fellow’s back
+3224	he threw (rock) at the dog and hit it
+3225	he’s still throwing stones
+3226	someone threw (a rock) at him
+3227	an egg was thrown at him
+3228	he threw away all the rubbish from his house
+3229	I’ve already thrown it away
+3230	I’m going to tickle you
+3231	the toast tickled my throat
+3232	my body is tickling (where a ghost is grabbing me)
+3233	my cheek feels like water is running down it (but it is dry)
+{Page = 229}
+3234	take care: the tide is really boiling there!
+3235	the tide is ebbing / going out
+3236	it’s low tide (that is, the tide has gone out completely)
+3237	the tide is coming in
+3238	it’s high tide (that is, the tide has flowed in completely to the shore)
+3239	the tide is slack (at high tide)
+3240	the tide is slacking / it’s getting to slack tide
+3241	there are no full tides
+3242	the tides are very small (that is, no extremes of high or low)
+3243	the minus tides are getting smaller
+3244	the high tide is smaller
+3245	tie it in a bow for me!
+3246	I’m going to tie it in a bow
+3247	they tied it in a knot
+3248	he tied a towel around himself
+3249	he’s tying the strings in knots
+3250	she tied an apron around herself
+3251	I tied my hair up
+3252	her hair was in a pony-tail
+3253	his grandfather tied his hair in a bunch
+{Page = 230}

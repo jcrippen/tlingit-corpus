@@ -3445,3 +3445,38 @@
 3219	héen gáan-t x̱waalít
 3220	dáanaa yóo-dei aléet
 {Page = 228}
+3221	kei sagòoḵ
+3222	ḵáasʼ gáan-t kx̱waagúḵ
+3223	té awé a déx̱ʼ kát aawagúḵ
+3224	kèitl aawadzóo
+3225	chʼa yèisoo adzèit
+3226	shawdoowadzóo
+3227	kʼwátʼ-ch shawdoodlidzóo
+3228	doo nèilee daak awlitlʼít
+3229	dei x̱walitlʼèet
+3230	ee kakwḵalaḵéitsʼ
+3231	sakwnéin tʼóosʼee ax̱ leitóox̱ akawliḵétsʼ
+3232	ax̱ dàa wlihách
+3233	ax̱ washká woolihách
+{Page = 229}
+3234	dleew kát sh eeltín: aatlèin áa wdoowaxʼóolʼ
+3235	yei naléin
+3236	yan oowaláa
+3237	daaḵ nadéin
+3238	yan kát oowadáa
+3239	ḵéesʼ woodoowagáa
+3240	yaa ndoogéin
+3241	léin oowax̱óo
+3242	woodix̱óo
+3243	léin yaa kdawúx̱ch
+3244	ḵéesʼ woodiwúx̱
+3245	ax̱ jèeyis lag̱wán
+3246	kooḵalag̱wáan
+3247	woodoowadúxʼ
+3248	jig̱wéinaa sh káa awdidúxʼ
+3249	tíxʼ yátxʼee akadóoxʼ
+3250	yoowaa.át sh káa akawdidúxʼ
+3251	x̱waditlʼín
+3252	aawatlʼín
+3253	doo léelkʼw-ch shaawatlʼín
+{Page = 230}

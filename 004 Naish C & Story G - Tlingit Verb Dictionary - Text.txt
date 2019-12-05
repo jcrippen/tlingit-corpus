@@ -395,7 +395,7 @@
 361	naa.át aksagántʼ
 362	wé at doogú wudix̱ʼéx̱ʼ
 363	du jín yatʼaayi héench wulix̱ʼéx̱ʼ
-364	ax̱ jín x̱walix̱ʼéx̱ʼ, yu sdoox tóot ax̱a.aagí
+364	ax̱ jín x̱walix̱ʼéx̱ʼ, yú sdoox tóot ax̱a.aagí
 365	daak x̱at kanalx̱ʼéx̱ʼ
 366	awshikéilʼ
 367	teey woodí áwé yei dushkélʼch
@@ -3444,3 +3444,38 @@
 3219	héen gáant x̱waalít
 3220	dáanaa yóode aléet
 {Page = 228}
+3221	kei sagooḵ
+3222	ḵáasʼ gáant kx̱waagúḵ
+3223	té áwé a déx̱ʼ kát aawagúḵ
+3224	keitl aawadzóo
+3225	chʼa yeisú adzeit
+3226	shawduwadzóo
+3227	kʼwátʼch shawdudlidzóo
+3228	du neilí daak awlitlʼít
+3229	dei x̱walitlʼeet
+3230	ikakḵwalaḵéitsʼ
+3231	sakwnéin tʼóosʼi ax̱ leitóox̱ akawliḵétsʼ
+3232	ax̱ daa wlihách
+3233	ax̱ washká wulihách
+{Page = 229}
+3234	dleew kát sh eeltín: aatlein áa wduwaxʼóolʼ
+3235	yei naléin
+3236	yan uwaláa
+3237	daaḵ nadéin
+3238	yan kát uwadáa
+3239	ḵéesʼ wuduwagáa
+3240	yaa ndugéin
+3241	léin uwax̱óo
+3242	wudix̱óo
+3243	léin yaa kdawúx̱ch
+3244	ḵéesʼ wudiwúx̱
+3245	ax̱ jeeyis lag̱wán
+3246	kuḵalag̱wáan
+3247	wuduwadúxʼ
+3248	jig̱wéinaa sh káa awdidúxʼ
+3249	tíxʼ yátxʼi akadóoxʼ
+3250	yuwaa.át sh káa akawdidúxʼ
+3251	x̱waditlʼín
+3252	aawatlʼín
+3253	du léelkʼwch shaawatlʼín
+{Page = 230}
