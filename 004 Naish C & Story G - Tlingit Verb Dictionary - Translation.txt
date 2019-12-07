@@ -3474,3 +3474,39 @@
 3252	her hair was in a pony-tail
 3253	his grandfather tied his hair in a bunch
 {Page = 230}
+3254	tie up your hair!
+3255	we tied our hair with feathers in it
+3256	I’ll tie up my hair with young spruce (in preparation for death)
+3257	I’m tying it (box) up (with wire)
+3258	tie up the books in a bundle!
+3259	he tied up the stems of the flowers
+3260	they tie together yellow cedar bark mats
+3261	he tied hemlock branches together (for herring to spawn on)
+3262	they tied together a raft
+3263	I’m going to tie up this sack
+3264	they are going to tie his hands together
+3265	tie up that dog!
+3266	it (rope) is getting tight
+3267	this bandage is too tight on me
+3268	the line was hanging down, so I tightened it
+3269	it tipped up and one end went right down
+3270	he tipped out everything (tools, screws, etc.) from his toolbox onto the table
+{Page = 231}
+3271	I’m tired (after housework)
+3272	a young person shouldn’t be tired
+3273	ironing tires me
+3274	you make me tired
+3275	I’m tired of talking
+3276	I’m tired by noise (of machinery, waves, etc., that has been going on continuously)
+3277	I’m tired of the continuous talking
+3278	I’m real tired of his talking
+3279	one can’t ever get tired of water
+3280	I became tired of bear meat / couldn’t take it anymore
+3281	you’ll tire of it (certain food)
+3282	I toasted ribbon seaweed
+3283	he toasted bread
+3284	he toasted bread
+3285	they use tongs to pick up hot things
+3286	pick it up with the tongs!
+3287	I have a tooth missing
+{Page = 231}

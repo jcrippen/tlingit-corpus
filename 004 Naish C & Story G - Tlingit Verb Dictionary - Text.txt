@@ -3479,3 +3479,39 @@
 3252	aawatlʼín
 3253	du léelkʼwch shaawatlʼín
 {Page = 230}
+3254	i shax̱aawú chʼín
+3255	tʼaaw káxʼ wududichʼín
+3256	asyádi káxʼ kuḵadachʼéen
+3257	x̱walichʼín
+3258	xʼúxʼ daasa.áx̱w
+3259	ḵʼeikaxwéin akʼikawsi.áx̱w
+3260	teey woodí g̱áach kadusyéey
+3261	haaw akawsiyéey
+3262	x̱aanasʼ wududlisʼít
+3263	yá gwéil x̱ʼakḵwasa.áax̱w
+3264	sʼaangax̱du.áax̱w
+3265	wé keitl yánde ya.áx̱w
+3266	yaa kanaxát
+3267	yá kasʼéet tlax̱ ḵúdáx̱ ax̱ káa kaawaxát
+3268	tíxʼ ḵux̱ jikawdigásʼ
+3269	kei shoowakítsʼ
+3270	du jishagóon daakaḵóogu yá nadáakw káx̱ ashaawakʼét
+{Page = 231}
+3271	x̱at wudixwétl
+3272	yées káa tléil udaxwétlx̱
+3273	kashx̱ʼílʼx̱ x̱at laxwétlx̱
+3274	x̱at yilixwétl
+3275	x̱at x̱ʼawdixwétl
+3276	x̱at wudigáxʼ
+3277	dei x̱at x̱ʼawdigáxʼ
+3278	tlax̱ tóo x̱ʼax̱shiḵeet
+3279	tléil aadé ḵaa x̱ʼéi g̱waachʼéx̱ʼu yé héen
+3280	xóots dleeyí ax̱ x̱ʼéi wlichʼéx̱ʼw
+3281	i x̱ʼéi yagux̱lachʼéix̱ʼw
+3282	ḵʼáachʼ x̱walisʼúk
+3283	sakwnéin akawlisʼúk
+3284	sakwnéin aawatʼúsʼ
+3285	yaawatʼáayi át áwé kei dullʼátʼch
+3286	galalʼáatʼ
+3287	x̱at yakʼáasʼ
+{Page = 231}
