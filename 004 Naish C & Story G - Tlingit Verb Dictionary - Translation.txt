@@ -3509,4 +3509,39 @@
 3285	they use tongs to pick up hot things
 3286	pick it up with the tongs!
 3287	I have a tooth missing
-{Page = 231}
+{Page = 232}
+3288	he tormented his wife, so she left him
+3289	they are tormenting the dog
+3290	they are tormenting the cat
+3291	we tormented you / made you desperate with so much work
+3292	let me feel it!
+3293	don’t touch it (dog); it will bite you!
+3294	he touched it / took it
+3295	he (child) is going along touching the fence
+3296	it only just touched him (tree being felled)
+3297	he’s falling asleep: touch him gently to rouse him!
+3298	he touched him lightly (to get his attention)
+3299	he’s towing timber / a tree
+3300	we towed the house here (on a raft)
+3301	he’s trailing deer
+3302	he trailed its footprints
+{Page = 233}
+3303	I trampled on (clothes) in the water (to get them clean)
+3304	they bring our food here by boat
+3305	he’s taking people by boat
+3306	they brought lots of sick people here by boat
+3307	I’ll bring everything here by boat
+3308	he trapped a marten
+3309	they used to trap brown bear too
+3310	we caught salmon in a fishtrap
+3311	I’m traveling to Juneau by boat
+3312	they went back across the lake by boat
+3313	while the north wind blew, the boats didn’t travel
+3314	the boats will be coming here
+3315	I’m going to take a trip to Juneau
+3316	what did she travel down south for?
+3317	when we travel is dependent on the weather
+3318	I’ll be coming back (traveling here again)
+3319	I treasure this drum very highly
+3320	he brought deer meat here
+{Page = 234}

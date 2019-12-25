@@ -1070,7 +1070,7 @@
 993	kei s ayawdiḵúx̱
 994	a yáx̱ sh kudlidáal
 995	ḵaa yáanáx̱ ikux̱lidáal
-996	l yan shoowjix̱íni ḵustí du jee yéi kg̱watée
+996	l yan shoowjix̱íni ḵustí du jée yéi kg̱watée
 997	yee eenx̱ gux̱satée, tléil yan shuwooshx̱eeníde
 998	Dikée Aanḵáawouch kée yatx̱ uwatée
 999	at yáxʼ awooné tóonáx̱ kée yatx̱ akg̱watée
@@ -3514,4 +3514,39 @@
 3285	yaawatʼáayi át áwé kei dullʼátʼch
 3286	galalʼáatʼ
 3287	x̱at yakʼáasʼ
-{Page = 231}
+{Page = 232}
+3288	du shát eesháanch awlijáḵ; ách áwé du wanáa uwagút
+3289	keitl eesháanch yaa has analjáḵ
+3290	dóosh eeshandéin yoo s akwlishéik
+3291	yéi jiné teen eeshandéin yoo yikawtulishóo
+3292	x̱áach jee ḵadanoogú
+3293	tléil áx̱ eesheeḵ; kei ikg̱wayéeḵ
+3294	át uwashée
+3295	ḵʼanáax̱ánx̱ yaa nalshéen
+3296	ash uwachúxʼ
+3297	táach yaa najáḵ: yoo lachúxʼ
+3298	yoo awlichúxʼ
+3299	aas yaa anax̱ách
+3300	hít haat wutulix̱ách
+3301	g̱uwakaan yaa akanakéin
+3302	a x̱ʼus.eetí akawsikei
+{Page = 233}
+3303	héeni yoo kax̱wlitséx̱
+3304	haa atx̱aayí haat yawduwax̱áa
+3305	yaa ḵuwanax̱éin
+3306	néekw sʼaatxʼí áyá haat yawdudziḵúx̱
+3307	ldakát haadé yakḵwasaḵóox̱
+3308	kʼóox awdzig̱át
+3309	xóots tsú dusg̱ádin
+3310	sháal teen x̱áat wutuwasháat
+3311	Juneaude yaa nx̱áḵúx̱
+3312	ḵux̱ has wudiḵúx̱ yáa áa kaanáx̱
+3313	xóon ayawdateeyích áwé, tléil wé yaakwxʼ át yawugoo
+3314	yaakw haadé yakg̱wagóo
+3315	Juneaude ḵukḵwatéen
+3316	daatg̱áa sáwé ixkéede ḵoowateen?
+3317	ḵutí káaxʼ át haa kawdiyáa
+3318	ḵúx̱de x̱at kagux̱dayáa
+3319	chʼa ax̱ yáa liḵʼéi yá gaaw
+3320	g̱uwakaan dleeyí haat awdligúch
+{Page = 234}
