@@ -3545,3 +3545,36 @@
 3319	I treasure this drum very highly
 3320	he brought deer meat here
 {Page = 234}
+3321	I’m going to treat him to some black seaweed
+3322	my hand trembles / is unsteady (after carving too long)
+3323	he made himself tremble before taking part (in gambling or wrestling)
+3324	the sickness made me shake all over
+3325	a brave man doesn’t tremble
+3326	he was trembling (from palsy, fear or cold)
+3327	the cold made me shiver
+3328	the machine was making it vibrate
+3329	it trills / sings shrilly (often said of cage bird)
+3330	the small birds will be singing in springtime
+3331	there are lots of rocks in the road: don’t trip over!
+3332	his money (that is, his financial state) is troubling him
+3333	my children’s clothing is causing me anxiety (because it is all wearing out)
+3334	don’t be worried and upset!
+3335	he’s troubled about his work
+{Page = 235}
+3336	I don’t ever trust myself
+3337	he has more confidence in himself than in anybody
+3338	I have faith in you / I’m relying on you
+3339	rely on this word (Scripture)!
+3340	I tried to look at your face (that is, to get a response from you)
+3341	try!
+3342	he tested him to see what he would say
+3343	he tried out people
+3344	I tried out my new boat
+3345	the dishes tumbled down
+3346	the lumber is going to fall down
+3347	turn (your boat) this way!
+3348	he’s going to turn, when the time comes
+3349	he returned to our town (by boat)
+3350	he turned back and returned home
+3351	they turned back
+{Page = 236}
