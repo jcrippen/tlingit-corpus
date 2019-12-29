@@ -3578,3 +3578,30 @@
 3350	he turned back and returned home
 3351	they turned back
 {Page = 236}
+3352	he’s going to turn over
+3353	winter has turned over (that is, days will be getting longer and spring weather is coming)
+3354	it’s his turn
+3355	my turn will come some time
+3356	I’m leafing through a book / magazine
+3357	it’s too long, so I am going to turn up the hem for her
+3358	they twirl rope around
+3359	he was twirling it
+3360	he twisted the wire
+3361	twist up that wire!
+3362	he’s twisting the rope
+3363	it (wolverine) breaks the trap chain
+{Page = 237}
+3364	I twisted the branch in my hands (to make it supple)
+3365	they twist long thin roots or branches till they get limber
+3366	they’re working on branches, twisting them to get them limber (for use in canoe-mending, etc.)
+3367	a frog is ugly / homely-looking
+3368	it’s ugly / not pretty at all
+3369	he uncovered it / he took the lid off
+3370	he was undecided, suggesting first one thing and then another
+3371	they can’t decide together (when planning ceremony)
+3372	I gave various different answers, making excuses this way and that
+3373	which don’t you understand/
+3374	he understands me (can comprehend what I say)
+3375	do you understand Tlingit?
+3376	he doesn’t understand people (that is, the language)
+{Page = 237}
