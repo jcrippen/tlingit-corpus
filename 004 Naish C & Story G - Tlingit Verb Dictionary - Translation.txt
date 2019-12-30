@@ -3604,4 +3604,47 @@
 3374	he understands me (can comprehend what I say)
 3375	do you understand Tlingit?
 3376	he doesn’t understand people (that is, the language)
-{Page = 237}
+{Page = 238}
+3377	I feel a bit unhappy and low, so tell me some stories!
+3378	why is he unhappy?
+3379	if you are united with me you will receive whatever you want
+3380	I am going to be united with you (one with you)
+3381	when we had unloaded it, it floated
+3382	he’s going to unload / bring up stuff from the boat
+3383	they are not ripe yet: they are still green and hard
+3384	the thing that he planned isn’t suitable / it doesn’t fit the way it should
+3385	the song that they sang was unsuitable / it didn’t fit the occasion
+3386	I’m going to untangle this line
+3387	I tried to untie the boat line
+3388	untie this string!
+{Page = 239}
+3389	he upset the tanning frame
+3390	he’s going to tip the hemlock branches (for herring eggs) into the water (from the canoe; these branches have been tied together and weighted and therefore tip over easily)
+3391	he used rope for a whip / he made rope into a whip
+3392	we are using the yarn (for it)
+3393	our rice is all used up; we’ll live on potatoes
+3394	there’s no more; you have used it all up
+3395	my son’s death has used up all my feelings (that is, has left me unable to feel, think, etc.)
+3396	he violated the Sabbath day of rest
+3397	they violated his word / they broke his law
+3398	they are coming to visit us / we’ll be having visitors
+{Page = 240}
+3399	folk from other localities are visiting us / staying temporarily in our town
+3400	I visited at that time (e.g., Convention time)
+3401	her husband met her
+3402	he vomited a little / is nauseated
+3403	he vomited  / threw up everything
+3404	dogs vomit
+3405	they voted for him
+3406	he voted against me
+3407	I’m wading in the creek
+3408	he’s wading along
+3409	he’s wading around
+3410	he’s wading along, dragging his canoe
+3411	he always wags his tail
+3412	he’d better wait / let him stay there and keep still!
+3413	we’re not waiting for him
+3414	I was waiting for you
+3415	they anchored temporarily in the bay (they are still on board)
+3416	we are staying in one place / our boat is stationary but not actually anchored
+{Page = 241}
