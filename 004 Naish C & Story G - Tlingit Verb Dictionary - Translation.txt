@@ -3648,3 +3648,62 @@
 3415	they anchored temporarily in the bay (they are still on board)
 3416	we are staying in one place / our boat is stationary but not actually anchored
 {Page = 241}
+3417	he’s always wakeful / he doesn’t get enough sleep
+3418	we’re going to wake (and get up) early
+3419	his snoring keeps me awake
+3420	she woke me at nine o’clock
+3421	I woke up in the morning, early
+3422	why do you never come (walking) to our place?
+3423	where are you going (walking)?
+3424	we’re coming to your place
+3425	they went outside
+3426	he pretended to walk here
+3427	he’s walking real quietly after the deer
+3428	he tiptoed in
+3429	is there a light there? I’m wandering in the dark
+3430	he wants some more money
+3431	I want to go home
+3432	I want to give you this book (I intend that you shall have it)
+3433	whoever wishes for this (that is, approves of what is being put forward), raise your hand!
+3434	I want my wife back
+{Page = 242}
+3435	he wants to be like him (that is, he wants to be dead, like his father who has just drowned)
+3436	they wanted to kill him
+3437	he feels like going outside
+3438	I wanted to laugh
+3439	he wanted to smoke
+3440	I’m really warm
+3441	the water isn’t warm yet
+3442	I’m going to warm (heat) the water
+3443	the blanket is warming me
+3444	he’s warming his hands
+3445	it’s warm today
+3446	it’s getting warmer / beginning to warm up
+3447	that lumber is getting warped in the sun
+3448	wash inside the boat!
+3449	she’s always washing clothes
+3450	he’s going to wash meat
+3451	I’m washing my feet
+3452	let’s wash the table!
+3453	she’s washing her hair
+3454	I haven’t washed my hair (yet)
+3455	big swells washed away possessions piled there (on beach)
+{Page = 243}
+3456	it (the flood) washed the stream out (that is, washed away banks)
+3457	I’ve been watching you for a long time (to see how you behave)
+3458	keep an eye on him!
+3459	I watched him, but he didn’t notice me
+3460	he’s watching you, but whenever you look up, he is looking away
+3461	he watched the fishtrap
+3462	he’s a watchman
+3463	they will watch the fire well (in the smokehouse)
+3464	she’s a good baby-sitter (that is, ‘children-watcher’)
+3465	I’m lying in wait for salmon with a gaff hook
+3466	I was on guard / watching closely (in boxing)
+3467	he doesn’t know the work: keep a good watch on him (in case he causes an accident)!
+3468	he’s watered down the paint (stirring them together to become one)
+3469	mix water with the berries!
+3470	his eye watered
+3471	she’s waving her hanky at me
+3472	my mother is weak (not strong)
+{Page = 244}
