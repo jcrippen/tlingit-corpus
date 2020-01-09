@@ -3707,3 +3707,178 @@
 3471	she’s waving her hanky at me
 3472	my mother is weak (not strong)
 {Page = 244}
+3473	I’m weak all over / can’t hold myself together like I used to
+3474	sickness weakens one
+3475	get up; you will get too weak (you’ll be confined to bed for good)!
+3476	they wear a deer blanket all the time
+3477	let’s put on blankets: it’s so cold!
+3478	they’re wearing new clothes
+3479	machines wear out
+3480	the sole is wearing out
+3481	this rope is wearing out
+3482	the thonging is worn (frayed, but not broken)
+3483	my pencil is worn down
+3484	that’s where it (rope) is wearing through
+3485	she’s weaving yellow cedar bark for a mat
+3486	they weave baskets
+{Page = 245}
+3487	he’s going to weigh the potatoes
+3488	it’s already weighed
+3489	I’m gaining weight
+3490	I’m losing weight
+3491	I’ve got my dress held down by a rock (while it soaks)
+3492	big rock used as a weight
+3493	whoever receives and welcomes anyone I send, receives me also
+3494	did you welcome him / take him into the home?
+3495	the firewood is wet
+3496	she wet the floor (with water)
+3497	my glasses are wet (steamed up)
+3498	I’m going to sprinkle water on the blanket
+3499	all over the woods (all the vegetation) is wet
+3500	the skin is soaking wet
+3501	the thonging is thoroughly wet
+3502	the dog got himself all wet
+{Page = 246}
+3503	it has been in the water a long time and is thoroughly wet
+3504	the dog is dripping wet
+3505	a cat doesn’t like to get its face wet
+3506	our faces are wet, with our hair dripping over them
+3507	I’m wheeling a wheelbarrow
+3508	I’m going to wheel it over there
+3509	he’s whining and fussing to go on the boat
+3510	he’s really making a fuss about his hand (doesn’t want anyone to touch it to put medicine on)
+3511	I’m going to spank you
+3512	I get whipped for that
+3513	I’m going to whisper it to yoiu
+3514	I don’t whistle
+3515	he’s going along whistling
+3516	he’s whistling softly under his breath
+3517	the sockeye are getting white spots / are becoming old in that creek
+{Page = 247}
+3518	the tribal emblem of the Lʼeenèidee turns white with age
+3519	he’s whittling (wood) to make fast-burning kindling for the morning
+3520	a wide board
+3521	that leaf is broad
+3522	this ribbon is too wide
+3523	my bracelet is broad
+3524	the canoe is wide
+3525	it’s a wide box
+3526	it was a wide stretch of bushes
+3527	this land is wide
+3528	I am willing to die for them
+3529	he is willing to go for water
+3530	the Chinese won
+3531	he wound his clock
+3532	wind it up!
+3533	he’s winded (fell on stomach and can’t regain breath)
+3534	I fell flat on my back; it knocked the wind out of me
+3535	he winded him (in boxing, etc.)
+{Page = 248}
+3536	he winked at me
+3537	I was keeping my eye on you, winking
+3538	I winked at him
+3539	they spend the winter in the earth (winter underground, of snakes, etc.)
+3540	I wiped it off with a cloth
+3541	he’s wiping the floor
+3542	wipe the table!
+3543	he wiped the apple
+3544	he made a strong wish that he might land on a tangle of kelp
+3545	I’m wishing and praying for help
+3546	the leaves are withered
+3547	herring eggs wither too (when dipped in boiling water)
+3548	he came to witness to that light / to tell about it
+3549	he wobbled around (e.g., spastic child or child in high heels)
+{Page = 249}
+3550	his head is wobbling (of newborn baby)
+3551	they are curious / wondering about things
+3552	we wonder how much money we will make
+3553	my aunt, you are wonderful / amazing
+3554	my! it’s amazing how thin he is
+3555	it’s going to be tremendous
+3556	an ambitious man works all the time
+3557	I did it because they told me to / I worked according to their instructions
+3558	they made us work hard
+3559	you can’t make me work
+3560	they are all working well together
+3561	they started to work faster
+3562	what are you so worked up about?
+3563	what is worrying you / what is on your mind all the time?
+3564	he’s constantly concerned about his work (what there is to be done)
+3565	it’s none of his affairs, but he makes it his concern
+3566	he gets himself worried about things
+{Page = 250}
+3567	we know whom we worship
+3568	they worshiped him / bowed the knee to him
+3569	they will worship God / they will bow before Him
+3570	your speech is worthless / you only know how to tell lies
+3571	you’re a good boy; you say what is good / tell the truth in most cases
+3572	once in a while a person is wounded (by octopus)
+3573	my mother was injured
+3574	they wounded a deer
+3575	a bee wounded me (that is, stung me)
+3576	I wrapped it in paper
+3577	he had a blanket spread over his lap
+3578	he wrapped a blanket around himself
+3579	he wrapped the blanket around himself and around his child too (holding him on his lap)
+3580	the young fellows are wrestling
+3581	I’m going to fight (wrestle) with him
+3582	they’re wringing out wet cloths
+3583	wring out the laundry!
+3584	he wrung the chicken’s neck
+{Page = 251}
+3585	that cloth wrinkles easily
+3586	don’t! you’ll wrinkle it
+3587	it (cloth) is wrinkled in large folds
+3588	I wrinkled it (in large folds)
+3589	they wrinkle some skins (that is, for ‘Morocco leather’)
+3590	a person’s hands become all wrinkled (if they are soaked in water for a long time)
+3591	my clothes became wrinkled (because they shrank in the soaking)
+3592	that was a good letter you wrote me
+3593	he’s going to write a big book
+3594	it goes wrong / it doesn’t turn out right
+3595	his life is going in the wrong direction
+3596	I yawned
+3597	he yawned in my face
+3598	everyone was yelling at the ball game
+3599	let’s yell / cheer!
+{Page = 252}
+3600	the dog chased it, yelping and barking as it went
+3601	the dog is chasing the bear and yelping
+{Page = 259}
+3602	it’s better (improved)
+3603	how is it / would it be O.K.?
+{Page = 262}
+3604	he finished (doing something)
+3605	he finishes (every day, say)
+3606	he will finish
+3607	I blame you
+{Page = 263}
+3608	we’re lazy
+3609	I’m afraid of it
+3610	it (wind) is blowing
+{Page = 347}
+3611	go and carry it (e.g. pot)!
+3612	pick it up and carry it (e.g. pot)!
+3613	let him take it (e.g. pot)
+3614	let us take it (e.g. pot)
+3615	we will take it (e.g. pot)
+{Page = 348}
+3616	let him go down
+3617	let us invite him
+{Page = 351}
+3618	he frequently comes here
+{Page = 352}
+3619	he’s going to go, he will go
+3620	he doesn’t come here
+3621	he can go
+3622	he goes indoors (always)
+3623	he’s going along
+3624	may he go, let him go
+3625	go!
+3626	he goes (here and there)
+3627	he can go
+3628	as he went …
+3629	if he goes …
+3630	whenever he goes …
+3631	in order to go …
+{Page = 353}
