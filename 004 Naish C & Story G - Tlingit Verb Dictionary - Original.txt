@@ -3886,5 +3886,23 @@
 3628	nagóot
 3629	nagútnee
 3630	nag̱agúdin
-3631	… nag̱agòodeet
+3631	nag̱agòodeet
 {Page = 353}
+3632	goog̱agóot
+3633	yaa kg̱agòot
+3634	yaa gagú
+3635	yaa gagútch
+3636	yaa kwg̱aagòot
+3637	yaa gagóot
+3638	yaa gagútnee
+3639	yaa kg̱agúdin
+3640	yaa kg̱agòodeet
+3641	yaa g̱ag̱agòot
+3642	yaa g̱agú
+3643	yaa g̱agútch
+3644	yaa g̱wag̱aagòot
+3645	yaa g̱agóot
+3646	yaa g̱agútnee
+3647	yaa g̱ag̱agúdin
+3648	yaa g̱ag̱agòodeet
+{Page = 354}

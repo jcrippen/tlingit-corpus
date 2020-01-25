@@ -268,7 +268,7 @@
 244	we are going to blow the horn
 245	he blew the cannibal’s ashes around
 246	the barrel is being blown around by the wind
-247	it’s always being blow away
+247	it’s always being blown away
 248	the clouds have blown away
 249	the leaves blow away
 250	I blew my nose noisily
@@ -3880,5 +3880,23 @@
 3628	as he went …
 3629	if he goes …
 3630	whenever he goes …
-3631	in order to go …
+3631	in order to go
 {Page = 353}
+3632	he’s going to go, he will go
+3633	may he go along, keep going
+3634	go along! keep going!
+3635	he goes along (stopping every so often)
+3636	he can go along
+3637	as he went along …
+3638	if he goes along, keeps going …
+3639	whenever he goes along …
+3640	in order to go along, keep going
+3641	may he go down, let him go down
+3642	go down!
+3643	he goes down (every so often)
+3644	he can go down
+3645	as he went down …
+3646	if he goes down …
+3647	whenever he goes down …
+3648	in order to go down
+{Page = 354}
