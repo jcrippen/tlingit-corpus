@@ -2293,7 +2293,7 @@
 2138	yadiwéinaa aa shaawát
 2139	yakḵwalwéinaa
 2140	sh tóoxʼ ágé yan has at wudlitóow?
-2141	alʼeix̱ sh tóo gax̱tultóow
+2141	alʼeix̱ sh tóo gax̱tooltóow
 2142	at kaawashéix̱ʼ
 2143	tléil yéi jix̱wané daaḵw ḵáa sá x̱at kang̱ashéix̱ʼit
 2144	Lingít atx̱aayí akawlishéix̱ʼ
