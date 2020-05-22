@@ -1,0 +1,11 @@
+{Number = 025}
+{Type = Translation}
+{Title = Adusg̱eiwú / Seining}
+{Author = Asx̱ʼaak / George Betts}
+{Clan = Kaagwaantaan}
+{Source = Story 1995: 320–329}
+{Translator = Dzéiwsh / James A. Crippen}
+{Dialect = Northern – Coastal - Angoon}
+{Note = Numbering follows sentences rather than lines.}
+{Page = 320}
+1	This is seining up here, in Alaska.
