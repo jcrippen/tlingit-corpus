@@ -1991,7 +1991,7 @@
 1855	x̱at x̱ʼayatlʼúnkw
 1856	ax̱ yatʼéidáx̱ x̱ʼayatlʼúnkw
 1857	du daa lidleeyí
-1858	g̱oowakaan kei naldleeyí
+1858	g̱uwakaan kei naldleeyí
 1859	du x̱aawaag̱í ká akaawaxʼóo
 1860	tʼáa yátxʼi áwé kaduxʼweisʼ
 1861	tuháayi yaa akanasxʼwéin
@@ -3815,7 +3815,7 @@
 3567	wutusikóo aadóo yáa sá x̱ʼatudagáxʼx̱i
 3568	a yaadé yan has tóoxʼ.uwatsóow
 3569	Dikée Aanḵáawu yaadé yax̱ has yagux̱daxóon
-3570	ḵúnax̱ áwé ix̱ʼadi.ék
+3570	ḵúnáx̱ áwé ix̱ʼadi.ék
 3571	aakʼé at kʼátskʼu wa.é: tléil x̱ʼeida.ék
 3572	wáa ng̱aneens ḵaa udachúnch
 3573	ax̱ tláa wudichún
