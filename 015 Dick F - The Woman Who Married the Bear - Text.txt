@@ -350,7 +350,7 @@
 {Comment = Line 323 has chʼú corrected to chʼu.}
 323	chʼu wé neildé tláakw kadudzixát wé x̱ʼawool
 324	wé chooneit.
-325	Áwé wé tléixʼ yateeyi aa áwé neil awax̱útʼ wé keitl.
+325	Áwé wé tléixʼ yateeyi aa áwé neil aawax̱útʼ wé keitl.
 326	Áwé hú ḵu.aa áwé wé shaawát
 327	tayeedé awdix̱eech.
 328	Tayeet as.áa.
