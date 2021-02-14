@@ -1,24 +1,24 @@
 {Number = 018}
 {Type = Text}
-{Title = Ḵudziteeyi Át Ḵulagaawú / The Battle of the Giants}
+{Title = Ḵudziteeyi Át Ḵulagaawú / The Battle of the Giants}
 {Author = Seidayaa / Elizabeth Nyman}
-{Clan = Yanyeidí; Ḵaach.ádi yádi}
+{Clan = Yanyeidí; Ḵaach.ádi yádi}
 {Source = Nyman & Leer 1993:2-6}
 {Transcriber =  Weihá / Jeff Leer}
 {Orthography = RP}
 {Dialect = Northern - Inland - Atlin}
 {Page = 2}
-1	Tle wéi / wooch keeká áwé át has datéeyin yú.á,
+1	Tle wéi / wooch keeká áwé át has datéeyin yú.á,
 2	yáadu á wé Lkoodaséitsʼk,
-3	yáadu á wé Wasʼasʼéi.
-4	Á áwé tle wooch tugéit has x̱ʼawdli.át.
+3	yáadu á wé Wasʼasʼéi.
+4	Á áwé tle wooch tugéit has x̱ʼawdli.át.
 5	Tle kʼadéin wooch een has datéeyin,
-6	chʼa wáa sáyá has at kaawa.aaḵw tle chʼa wooch x̱ʼayáx̱.
-7	Á ḵu.as giant
-8	ḵudziteeyi át yéi has ayasáakw.
+6	chʼa wáa sáyá has at kaawa.aaḵw tle chʼa wooch x̱ʼayáx̱.
+7	Á ḵu.as giant
+8	ḵudziteeyi át yéi has ayasáakw.
 9	Á áwé
 10	tle chʼa yáakʼudé áwé chʼu tle ḵuwdudlihaa.
-11	Tlél tsu wáa sá utéeyin yú.á yá shaax'w,
+11	Tlél tsu wáa sá utéeyin yú.á yá shaaxʼw,
 12	chʼu tle daat yáx̱ sá dag̱aatee.
 13	Áyú has ḵulagaawu áwé yóo,
 14	ách áwé yóo dag̱aatee a x̱oo aa áwé yóo,
@@ -33,7 +33,7 @@
 23	Tle wé kaax̱ shagax̱dulʼixʼ aa yoo x̱ʼatánk áwé.
 24	A shukát ḵu.a chʼa wooch has x̱ʼadaxéett x̱á,
 25	chʼu tle kát has seixʼaaḵwch tle,
-26	tle tsu yáax' áwé chʼu tle a daa kei has x̱ʼeil.aatch,
+26	tle tsu yáaxʼ áwé chʼu tle a daa kei has x̱ʼeil.aatch,
 27	wooch has x̱ʼadaxéett.
 28	De wáa nanée sáwé chʼu tle wóosht has at jishoowanéi.
 29	Tle aawasháat, wé Wasʼasʼéich áwé woosháat yú.á.
@@ -94,7 +94,7 @@
 82	Áwé ax̱ x̱án aa yéeyi tlél…
 83	Óh - chʼu g̱unáa yateeyi yéidáx̱
 84	du jidé at gug̱waxéex.
-85	Tle yéi áwé a yáx̱ kei wdlitlét' wé shaa,
+85	Tle yéi áwé a yáx̱ kei wdlitlétʼ wé shaa,
 86	tle yéi x̱áawé yatee.
 87	Tle yéi kínde kei yaawatsáḵ.
 88	Yáat áwé chʼu tle yóo daak uwanugu yé yáax̱ yatee.

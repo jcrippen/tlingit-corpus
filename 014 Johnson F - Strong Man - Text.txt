@@ -76,7 +76,7 @@
 {Page = 142}
 64	tayeidí áwé ách ash daa la.úsʼkw
 65	yá du sʼaagg̱ix̱ʼáak,
-66	ldakát yá du sʼaag̱ix̱ʼáak. Nas'gadooshu dutíw nuch ḵaa sʼaag̱í.
+66	ldakát yá du sʼaag̱ix̱ʼáak. Nasʼgadooshu dutíw nuch ḵaa sʼaag̱í.
 67	Yá yéi kulyátʼ aa gíwé.
 68	Ldakát yá du sʼaag̱ix̱ʼáak. Ach áwé al.ísʼkw wé tayeidí.
 69	Áwé tle yéi ash yawsḵaa “Ha
@@ -118,7 +118,7 @@
 104	Shaduḵéi áwé du káak
 105	yaa ḵaa shunagút tsu.
 106	De chʼa litseen yóo áwé du káak.
-107	Latsins'aatíx̱ sitee.
+107	Latsinsʼaatíx̱ sitee.
 108	Tle yaa nagúdi áwé tsu akaawa.aaḵw wé aan loowú.
 109	Tle aax̱ tóot aawax̱útʼ.
 110	Ḵaa yayík wutwa.áx̱.
@@ -240,7 +240,7 @@
 221	Yéi akanéek hasdu x̱ooní áwé
 222	áa satéeyin wé shaawát. Shangukeidi. Shangukasháa.
 223	Yei dwasáakw Seitéèw.
-224	Átx̱ áwé shayadihéìni yéix' tlél wud.skú.
+224	Átx̱ áwé shayadihéìni yéixʼ tlél wud.skú.
 225	Hásch ḵwá du éenáx̱
 {Comment = Line 226 has shangóòn instead of shagóòn; check recording for initial coda nasal.}
 226	ḵa sdu shangóònnáx̱ kawuhaayích áwé awuskóowun.
