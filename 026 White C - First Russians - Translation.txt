@@ -1,0 +1,113 @@
+{Number = 026}
+{Type = Translation}
+{Title = Anóoshi / First Russians}
+{Author = Yaaneekee / Charlie White}
+{Clan = Lʼuknax̱.ádi; Teiḵweidée Yádi}
+{Source = D&D 1987:292-297}
+{Translator = Fred White}
+{Page = 293}
+1	My age is 88.
+2	On August
+3	15th
+4	that will be
+5	my age.
+6	That's how long I have lived.
+7	Situk
+8	is where my father raised me.
+9	My father had his house there in Situk.
+10	That's where I was born.
+11	It's where I grew up.
+12	My father raised me there.
+13	Yes,
+14	and from there
+15	we moved to this place called Laax̱aayík
+16	from Situk.
+17	And that is where we lived.
+18	Yes, we were called Lʼuknax̱.ádi.
+19	In the world
+20	there aren't many of us.
+21	Yes,
+22	Lʼuknax̱.ádi
+23	were traders.
+24	They travelled a lot
+25	also to that side, the mouth of Copper River,
+{Page = 295}
+26	trading.
+27	Yes, now
+28	these boats arrived at Yakutat,
+29	ten boats
+30	trading for furs.
+31	Yes,
+32	as they were voyaging back now
+33	the tides
+34	turned to rapids on them.
+35	What is it? I forget the name of it.
+36	Yes, Lituya Bay.
+37	Now
+38	this is where
+39	the Lʼuknax̱.ádi capsized,
+40	ten boats,
+41	no more
+42	there wasn't a single one left.
+43	Two men
+44	floated over to a back eddy.
+45	Two
+46	were straddling the overturned bottom.
+47	One was called
+48	Xʼaatsʼákʼu
+49	and
+50	Xíxchʼi Shaan.
+51	They were straddling the bottom of the overturned boat
+52	that floated into a back eddy.
+53	They were sitting facing each other.
+54	As it was getting dark on them,
+55	the one named Xíxchʼi Shaan
+56	was imitating a Frog.
+57	G̱wá-gwá-gwá-gwá.
+58	But the one facing him
+59	was cawing like a Raven.
+60	He made the sound
+61	g̱áa-g̱áa-g̱áa-g̱áa-g̱áa.
+62	It was getting dark on them, just like it is now.
+63	They were straddling the bottom of the overturned boat.
+64	No more!
+65	No one knew what happened to them.
+66	Darkness now covered them.
+67	The men with them were now gone.
+68	They all died.
+69	Daylight came without them
+70	straddling the bottom of the overturned boat.
+71	Yes,
+72	through this
+73	the
+74	furs
+75	that they bought--
+76	in a halibut skin bag, like what we have
+77	today,
+78	it must have been like rubber bags,
+79	they didn't leak,
+80	they're called halibut skin bags,
+81	this is what they had these furs in--
+82	sea otter,
+83	fox,
+84	everything--marten,
+85	marten furs,
+86	land otter
+87	mink,
+88	everything--
+89	all this
+90	the tide swept to Russia.
+91	Through this,
+92	when they discovered it,
+93	the Russians
+94	went searching
+95	so they could find the mainland.
+96	Through this
+97	the Russians
+98	sailed into Lituya Bay.
+99	Through this they arrived at the mainland,
+100	the furs that the Lʼuknax̱.ádi capsized with,
+101	that were swept to their land.
+102	Through this the Russians came upon this land.
+103	So!
+104	I have finished telling the story.
