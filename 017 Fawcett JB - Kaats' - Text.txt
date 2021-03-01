@@ -181,7 +181,7 @@
 165	“At X̱ʼéeshi Gwálaa”
 166	yóo ayasáakw tléixʼ aa du keidlí.
 167	Tleixʼ aa ḵwá “Shaayeesxwáa.”
-168	Tléix' aa ḵu.aa
+168	Tléixʼ aa ḵu.aa
 169	kát x̱at seiwaxʼákw.
 170	Násʼk keitl
 171	tle number one
@@ -431,7 +431,7 @@
 403	A tóonáx̱ ḵiydzitee Teiḵweidí
 404	xwasikóo kʼidéin
 405	i éesh,
-406	i léelk'w tsú yé.
+406	i léelkʼw tsú yé.
 407	Yóot uwagút
 408	héen áyá yaa anas.ín.
 409	Chʼu shóogu du ḵusteeyí.

@@ -30,9 +30,9 @@
 19	wé teet.
 20	Du tóog̱aa nanéi áwé yánde
 21	é! kei wjikʼén.
-22	Ch'u shóogu áx̱ wulixáatʼi yé áwé.
+22	Chʼu shóogu áx̱ wulixáatʼi yé áwé.
 23	Héende gux̱shax̱ʼéelʼ yóo áwé duwajée.
-24	Ch'a yéi gíyú s asayahéi; héent wusgeedí tlél tsu yéi s agux̱saneix̱.
+24	Chʼa yéi gíyú s asayahéi; héent wusgeedí tlél tsu yéi s agux̱saneix̱.
 25	Áyá s ash yaawadlaaḵ áyú.
 26	Dikeenaa a shantóode wjixeex.
 27	A shakéedei yóo gwáa wéi gé.
@@ -72,7 +72,7 @@
 60	Yá a woolí a waḵ.eetéenáx̱ áwé altín.
 61	“What’s going on?” yóo giwé tuwatee.
 62	Du waḵkáaxʼ áwé anax̱ wudihaan, wé teet x̱ʼatú wé ḵáa tlein.
-63	L ash éet x̱'eitaanjí áwé yéi ash yawsiḵaa “Goodé sáwé?”
+63	L ash éet x̱ʼeitaanjí áwé yéi ash yawsiḵaa “Goodé sáwé?”
 64	“Yá eech tayeedé áwé.”
 65	“How I gonna get there?”
 66	yóo yaawaḵaa.
@@ -219,7 +219,7 @@
 {Comment = Line 201 has át which should be at.}
 201	wé atkʼátskʼuch.
 202	Ách áwé sh kawdlineek, hú ḵu.aa,
-203	yá atkʼátsk'u.
+203	yá atkʼátskʼu.
 204	Gwál aan akawlineek tsú.
 205	Gwál ash x̱ánnáx̱ shákdé; yan uwaḵúx̱
 206	yá du káankʼi.
