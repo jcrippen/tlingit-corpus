@@ -2,7 +2,7 @@
 {Type = Translation}
 {Title = Anóoshi / First Russians}
 {Author = Yaaneekee / Charlie White}
-{Clan = Lʼuknax̱.ádi; Teiḵweidée Yádi}
+{Clan = Lʼuknax̱.ádi; Teiḵweidí Yádi}
 {Source = D&D 1987:292-297}
 {Translator = Fred White}
 {Page = 293}
