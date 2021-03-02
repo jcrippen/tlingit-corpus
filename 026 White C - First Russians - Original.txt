@@ -1,5 +1,5 @@
 {Number = 026}
-{Type = Text}
+{Type = Original}
 {Title = Anóoshi / First Russians}
 {Author = Yaaneekee / Charlie White}
 {Clan = Lʼuknax̱.ádi; Teiḵweidée Yádi}
