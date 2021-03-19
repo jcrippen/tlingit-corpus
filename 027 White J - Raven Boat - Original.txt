@@ -1,0 +1,60 @@
+{Number = 027}
+{Type = Original}
+{Title = Yéil Yaagú / Raven Boat}
+{Author = Jeeník x̱ʼéidáx̱ sh kalneek / Jennie White}
+{Clan = Shanguka sháa; Xʼatka.aayí yádi}
+{Source = D&D 1987:298-301}
+{Transcriber = Fred White}
+{Orthography = RP}
+{Page = 298}
+1	Kulix̱éitlʼshan wé eey.
+2	Dax̱dahéen L’uknax̱.ádi ax’ héent wudzik’ít’.
+3	Wé Ltu.aa yaa kawudaayí a tóodei wookoox̱u aa áwé.
+4	Tlél tsú dleit ḵáa yá Alasgi awuskú.
+5	Tlé yú gus’ yát wulihásh
+6	at doogú daa.aax̱w.
+7	Tlé yá plástic gwéil ooyaa núch at naasí.
+8	Xóots naasí.
+9	Tlé dulxáash tsú áwé s wóochdei dusḵáa.
+10	At naasí
+11	gwéil áwé wé at doogú; tlé yú gus’ yat wulihásh Ltu.aa.
+12	Wé héench aan yéi ḵuwsineeyi át.
+13	Ach áyá yá Alasgi kaadéi
+14	Anóoshi ḵuwashee.
+15	Ayá a káx̱ ḵuwduwashee yá Alasgi kax’ Lingít.
+16	Has tsú tlél
+17	tlél washéin has oo.oo, ch’a yéi
+18	s’ís’aa een at has wulis’ées.
+19	Ltu.aanáx̱ s’é kei aawlis’ís
+20	Anóoshi yaagú.
+21	Awé
+22	Lingít l atyax̱ sh koolneek.
+23	Yéil yaagú áyú.
+24	Yóo áyú kdunéek wooch een,
+{Page = 300}
+25	Yéil yaagú.
+26	Yú Anóoshi áyú yéi yaa kanduník.
+27	Wudusteení tle téix̱ yoo ḵug̱ux̱sateek.
+28	Ch’u yeedát yéi yatee yá Lingít.
+29	Awé yóot’át
+30	s’áxt’.
+31	A tóonáx̱ kukawduwatúl
+32	ḵa
+33	ketlháatl’i
+34	gwéil yax̱ wduwaḵáa ḵa yátx’i náa
+35	atoo yéi wduwa.oo.
+36	Tléi téix̱ yoo ḵug̱ux̱sateek.
+37	Yóo áwé Lingít aadéi yaa sh kagalnikch’i yé.
+38	Wé s’íksh,
+39	á ḵu.a áwé a toonáx̱ ḵukawduwatúl,
+40	k’e i tunax̱kudutées’ yáx̱.
+41	A tóonáx̱ áwé dultínch
+42	wé Ltu.aanáx̱ kei klas’ées’.
+43	Hél téix̱ ḵugux̱satee aag̱áa.
+44	Ketlháatl’i tsú ḵaa séix̱ yawduwaḵáa.
+45	S’áxt’
+46	ḵu.a áwé yéi kwdagei
+47	tsú a toonáx̱ ḵukawduwatúl.
+48	Ḵáa yátx’i
+49	séi yei duwa.óo.
+50	Aadéi yóo at kaawaniyi yé shukát wé shgóona shudultee nóok.

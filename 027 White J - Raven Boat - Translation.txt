@@ -1,0 +1,60 @@
+{Number = 027}
+{Type = Original}
+{Title = Yéil Yaagú / Raven Boat}
+{Author = Jeeník x̱ʼéidáx̱ sh kalneek / Jennie White}
+{Clan = Shanguka sháa; Xʼatka.aayí yádi}
+{Source = D&D 1987:298-301}
+{Translator = Fred White}
+{Orthography = RP}
+{Page = 299}
+1	The rapids are very scary.
+2	Twice the L’uknax̱.ádi capsized there.
+3	This one boat travelled out of Lituya Bay when the tide had droppped.
+4	No white man knew of Alaska.
+5	The bundle of furs
+6	floated out to the face of the clouds.
+7	The intestines resembled a plastic bag.
+8	Brown Bear intestines.
+9	They are cut and sewn back together.
+10	The intestinal
+11	bag of furs floated to the face of the clouds from Lituya Bay,
+12	the ones the people drowned with.
+13	This is why
+14	the Russians searched for Alaska.
+15	That's how they found Tlingits in Alaska.
+16	They didn't
+17	have machines either they'd just
+18	sail with canvas.
+19	A Russian boat
+20	first sailed into Lituya Bay.
+21	And so
+22	the Tlingits didn't tell it like it really was.
+23	It was the Raven boat,
+{Page = 301}
+24	was what they told one another,
+25	the Raven boat.
+26	That's what they were saying about the Russians.
+27	If you looked directly at it you would turn to stone.
+28	Even today the Tlingits are like that.
+29	And that
+30	devil's club.
+31	They drilled holes in them
+32	and
+33	dog droppings
+34	were sewn like bags
+35	and put into their children's clothes.
+36	You would turn to stone.
+37	That's the way the Tlingits talked about this.
+38	This blue hellebore
+39	was hollowed through though,
+40	let's see, like binoculars.
+41	As it sailed into Lituya Bay
+42	they looked at it through these.
+43	Then they wouldn't turn to stone.
+44	Dog droppings too were hung around children's necks.
+45	But the larger
+46	devil's club
+47	had holes drilled through them too.
+48	They were put on the necks
+49	of their children.
+50	That's the way things happened in the beginning when they awaited the schooner.
