@@ -1,0 +1,120 @@
+{Number = 026}
+{Type = Text}
+{Title = Anóoshi / First Russians}
+{Author = Yaaneekee / Charlie White}
+{Clan = Lʼuknax̱.ádi; Teiḵweidí Yádi}
+{Source = D&D 1987:292–297}
+{Date = 1962}
+{Place = Yakutat}
+{Recorder = Wooshjix̱oo Éesh George Ramos}
+{Transcriber = G̱unáakʼw Fred White}
+{Orthography = RP}
+{Page = 292}
+1	Nasʼgadooshú jinkaat ḵaa nasʼgadooshú áyá ax̱ katáagu.
+2	August
+3	15th
+4	dáx̱ áyá yé yakakg̱wagéi
+5	ax̱ katáagu.
+6	Aag̱áa kux̱dzitee.
+7	Sʼitáḵ
+8	ax̱ éeshch áa x̱at wusiwát.
+9	Du hídi át al.aayín ax̱ éesh Sʼitáḵ.
+10	Áxʼ áyá ḵux̱dzitee.
+11	Atx̱ áyá x̱at uwawát.
+12	Ax̱ éeshch áa x̱at wusiwát.
+13	Aaa,
+14	áa adáx̱ áyá
+15	yá Laax̱aayík yóo duwasaagu yé át haa wligásʼ
+16	Sʼitáḵdáx̱.
+17	Áyá áxʼ yei haa wootíx̱wxʼ.
+18	Aaa, yá Lʼuknax̱.ádi yóo haa duwasáakw.
+19	Aaa, yá Lingitʼaaní tóoxʼ
+20	tlél tlax̱ haa shayawdahaa.
+21	Aaa,
+22	Lʼuknax̱.ádi
+23	átg̱aa tutí.
+{Comment = Line 24 yawuguwún short low stem seems weird, need to verify and possibly correct.}
+24	Át has yawuguwún.
+{Page = 294}
+25	tsu héináx̱ á Iḵhéeni a wát,
+26	átg̱aa tutí.
+27	Aaa, áyá
+28	yá Yakwdáatt has yawaagóo
+29	jinkaat yaakw
+30	yá at doogúg̱aa tutí.
+31	Aaa,
+32	kúx̱de yaa has yakwdagóo áyá
+33	hasdu kaxʼ yaa kaawadaa
+34	yú eey.
+{Comment = Line 25 looks like a fragment wáa sá followed by a sentence; maybe insert semicolon.}
+35	Wáa sá a kát x̱át seiwaxʼákw a saayí.
+36	Aaa, Lituya Bay.
+37	Áyá
+38	áxʼ héent
+39	wdzikʼít Lʼuknax̱.ádi,
+40	jinkaat yaakw,
+41	hóochʼ
+42	tlél tsu tleináx̱.
+43	Kúx̱dei nú káxʼ hasdu een wulihaash
+44	dáx̱náx̱ ḵáa.
+45	A tadáat ḵéen
+46	dáx̱náx̱.
+47	Xʼaatsʼákʼu
+48	yóo aa duwasáakw
+49	ḵa
+50	Xíxchʼi Shaan.
+51	Kúx̱de nú káxʼ hasdu een wulihaash
+52	yú yaakw a tadáat has ḵéen.
+53	Woosh dayéen has daḵéen a kát.
+54	Hasdu káa yánde yaa xiga.áat áyá
+55	yá Xíxchʼi Shaan yóo duwasáagu aa
+56	xíxchʼ áyú ax̱ʼeitee.
+57	G̱wá-g̱wá-g̱wá-g̱wá.
+58	Yá du dayéen aayí ḵu.aa áyú
+59	sh wudlig̱áḵ yéil yáx̱ áyú.
+60	Sh dli.áx̱ch,
+61	g̱áa-g̱áa-g̱áa-g̱áa-g̱áa.
+62	De yá yeedát yáx̱ hasdu kaa yánde yáa xeina.át.
+63	Yaakw tadaat has ḵéen.
+64	Hóochʼ!
+65	Hél has wuduskú wáa sá has kawdayaayí.
+{Page = 296}
+66	Hasdu káa yan xeewa.at déi.
+67	Wé hasdu een aa hás ḵu.aa hóochʼ.
+68	Kutx̱ shuwaxeex.
+69	Tle hasdu eetéex̱ áyá ḵeiwa.aa
+70	yá yaakw tadaat has ḵeení.
+71	Aaa,
+72	anax̱ áyá
+73	yá
+74	has awu.oowú
+75	at doogú–
+76	cháatl xáasʼi gwéil, yá yeedát
+77	ḵudziteeyi aa
+78	sélʼ gwéil yáx̱ gíyú utée,
+79	tlél ulnaawún,
+80	yú cháatl xáasʼi gwéil yéi duwasáakw,
+81	a tóoxʼ áwé yei duwa.óo wé at doogú,
+82	yáxwchʼ,
+83	naag̱asʼéi,
+84	ldakát át, kʼóoxʼ,
+85	kʼóoxʼ doogú,
+86	kóoshdaa,
+87	nukshayáan,
+88	everything–
+89	á áyá
+90	Anóoshi aaníde akawahéitʼ.
+91	Anax̱ áyá
+92	a daaxʼ yana.áa
+93	Anóoshi
+94	áyá has ḵoowashee
+95	yá yantlʼátgi has ayung̱adláaḵ.
+96	Anax̱ áyá
+97	yan awlisʼís yá Lituya Bay
+98	Anóoshi.
+99	Anáx̱ áyá yá yantlʼátgi has ayawadlaaḵ
+100	yú at doogú wé Lʼuknax̱.ádich aan tóo yei uwaháayi.
+101	Atx̱ hasdu aaníde akaawahéitʼ.
+102	Anáx̱ áyá yá tlʼátkʼ has awayadlaaḵ Anóoshich.
+103	Haaw!
+104	De áyá yan kax̱wliník.
