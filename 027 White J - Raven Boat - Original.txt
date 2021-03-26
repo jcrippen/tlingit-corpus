@@ -4,7 +4,10 @@
 {Author = Jeeník / Jennie White}
 {Clan = Shangukeidí; Xʼatka.aayí yádi}
 {Source = D&D 1987:298–301}
-{Transcriber = Fred White}
+{Date = 1984}
+{Place = Juneau}
+{Recorder = G̱unáakʼw Fred White}
+{Transcriber = G̱unáakʼw Fred White}
 {Orthography = RP}
 {Page = 298}
 1	Kulix̱éitlʼshan wé eey.

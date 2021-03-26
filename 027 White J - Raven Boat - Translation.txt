@@ -4,7 +4,10 @@
 {Author = Jeeník / Jennie White}
 {Clan = Shangukeidí; Xʼatka.aayí yádi}
 {Source = D&D 1987:298–301}
-{Translator = Fred White}
+{Date = 1984}
+{Place = Juneau}
+{Recorder = G̱unáakʼw Fred White}
+{Translator = G̱unáakʼw Fred White}
 {Orthography = RP}
 {Page = 299}
 1	The rapids are very scary.
