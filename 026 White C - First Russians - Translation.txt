@@ -3,8 +3,11 @@
 {Title = Anóoshi / First Russians}
 {Author = Yaaneekee / Charlie White}
 {Clan = Lʼuknax̱.ádi; Teiḵweidí Yádi}
-{Translator = Fred White}
 {Source = D&D 1987:292–297}
+{Date = 1962}
+{Place = Yakutat}
+{Recorder = Wooshjix̱oo Éesh George Ramos}
+{Transcriber = G̱unáakʼw Fred White}
 {Page = 293}
 1	My age is 88.
 2	On August
