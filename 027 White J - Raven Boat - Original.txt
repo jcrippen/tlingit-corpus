@@ -1,8 +1,8 @@
 {Number = 027}
 {Type = Original}
 {Title = Yéil Yaagú / Raven Boat}
-{Clan = Shanguka sháa; Xʼatka.aayí yádi}
 {Author = Jeeník / Jennie White}
+{Clan = Shangukeidí; Xʼatka.aayí yádi}
 {Source = D&D 1987:298–301}
 {Transcriber = Fred White}
 {Orthography = RP}
