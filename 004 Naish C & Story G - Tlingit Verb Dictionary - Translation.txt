@@ -2778,7 +2778,7 @@
 {Page = 188}
 2598	I’m going to shave
 2599	because his face is so hairy, he’s always shaving
-2600	it sheds its hair (habituall each spring)
+2600	it sheds its hair (habitually each spring)
 2601	he put a shim in there
 2602	he’s fixed the light, so now it will shine brighter
 2603	your kindness shines through your faces
