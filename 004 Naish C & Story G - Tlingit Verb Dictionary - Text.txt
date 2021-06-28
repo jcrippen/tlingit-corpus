@@ -3241,8 +3241,8 @@
 {Page = 216}
 3028	eeltleilkʼú agé?
 3029	akwg̱altleilkʼú
-3030	a x̱áa wutuwaxích
-3031	at.wuskú x̱waaxích
+3030	ax̱áa wutuwaxích
+3031	atwuskú x̱waaxích
 3032	dóosh a yáx̱ lasheekw
 3033	yá óoxjaa shakdéi kei gux̱latseen
 3034	latseendéin dulyéix̱
