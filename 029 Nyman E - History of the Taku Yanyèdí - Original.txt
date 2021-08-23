@@ -1,0 +1,536 @@
+{Number = 029}
+{Type = Original}
+{Title = Tʼàkhú Yanyèdí Dàt Shkałnìk / The History of the Taku Yanyèdí}
+{Author = Seidayaa / Elizabeth Nyman}
+{Clan = Yanyeidí; Ḵaach.ádi yádi}
+{Source = Nyman & Leer 1993:10-34}
+{Translator =  Weihá / Jeff Leer}
+{Page = 10}
+1	Sítʼ áwé yú.á tle yû Tʼàkhú wât anaxh yan kawu.âyin—–
+2	Tlêł yisatìn gé wê Tʼàkhú wât?
+3	{Tlêkʼ.}
+4	Tle yû áwé anaxh yan kawu.âyin yú.á.
+5	Tle yû shà
+6	tle yû áxh kasixát
+7	tle wé sítʼ áxʼ yê tîyi yé tle yû.
+8	Tlêł wuduskú
+9	tsu wé nânaxh.á â yê khutìyí 
+10	kha tsu wé îxnaxh.á.
+{Comment = Break in text, line 11 appears to be skipped.}
+12	A áwé wé khâxʼw shàn dáxhináxh has yatì.
+13	Wê nânaxh.á à Kaxhtûk yû áwé duwasâkw.
+14	Á áwé yìdát wê lodge át da.â.
+15	Tle khúnáxh áwé a shagûn áwé i ìn kakkhwanîk.
+16	Yá Tʼàkhú Khwân áwé hít áwé has ałyêxh yú.á.
+17	Yâ a tuwâtxh Yanyèdí yû hà wduwasayi át hás,
+18	á áwé a shagûn áwé.
+19	Á áwé wé khâ shàn khúnáxh khà shâde háni yá uhân hás áwé,
+20	Ghùch áwé,
+21	hú áwé xhʼawduwawûsʼ,
+22	du kèłkʼi hás kha du kîkʼ hás,
+23	“Dà sáyá hítxh gaxhtułayêxh?”
+24	yê áwé dàyadukhá yú.á.
+25	“Ha wâ sáyá yatì,
+26	wâ sáyá,
+27	yán xhâwé wêt yan uwa.â,”
+28	yê áwé xhʼáyákhá yú.á,
+29	“á áwé hítxh gaxhtułayêxh.”
+30	Á áwé tle a kâ khà łuyàwagúkh,
+31	yâ xhútʼà tín dusʼûw xhá.
+32	Wê yán tle kaduxhútʼkw, kaduxhútʼkw yîs khâxʼw.
+33	[A tûnáxh áwé khuyawùł yú.á wé sítʼ.
+34	A áwé tle] wé îxnaxh.á à áwé,
+35	dà sáyá áyá.áxhch.
+{Page = 12}
+36	Xháchu
+37	a dàdé ásíwé gàw wuduwatàn,
+38	wê xhútʼà shâdáxh wuduwałʼîxʼi.
+39	Tle dè chʼa yê tlêxʼ has du jì yê yatìyi xhútʼà áwé
+40	a dàdé áwé [tuwdudzitì].
+41	Àdé áwé khà sé duwa.áxhch,
+42	tle wê sítʼ tûnáxh áwé dàk is.áxhch tle.
+43	“Wâ sákwshêgé,
+44	khà sé yáxh áyá khuxhà.áxhch,”
+45	yê áwé xhʼáyákhá wê khâ,
+46	wé îxnaxh.á à–
+47	Nàda.êyà yû duwasâkw hú khu.a,
+48	wê îxnaxh.át à à.
+49	Á áwé, wé tlêxʼ à tsú, [wé Kaxhtûkxʼ yê yatìyi à],
+50	wé a tʼâxʼ ghanúkch
+51	wé sitʼàdé nàdàyi yé.
+52	Wâ a dà yù tukdatân sáwé,
+53	“Kʼe yan kakhasanùgú,” 
+54	yû áwé tuwatì yú.á.
+55	Á áwé tle xhʼatuxh.ayîghi
+56	yû dusâgun chʼâkw.
+57	Yá dzískʼw,
+58	tle yât naduxáshch,
+59	[a ítnáxh à a ghatsdàdùgú áwé,]
+60	khà xhʼùs wâ sa kułigê a yáxh,
+61	kha yá dikînaxh.á,
+62	á áwé yá khà xîsʼ yan shukùtànch.
+63	Tle yû yatìyi yé,
+64	tle khà xhʼètákw â kahèxh,
+65	tle yât khu.a tle udukhâych dûx tin.
+66	[Kʼûx łʼìdí áwé khênàxh udułyèxhjín.]
+67	Tle yûtʼát kʼûxhʼ tin áwé tle ndukʼûxhʼch,
+68	tléł hîn anaxh yaxh kùdà.
+69	Á áwé àn át ana.átch yú.á
+70	wé sîw tú.
+71	Á áwé chʼas a dà yù tuwatánk.
+72	De kayàní yê yà nanìn.
+73	Tle wê chʼâłʼ áwé àwasʼúw,
+74	tle adàkàwasʼéłʼ tle yû.
+75	Àghâ áwé tsá wé xhʼatuxh.ayîghi
+76	tle a dàt akawsi.áxhw tle yû,
+77	tle kʼadên.
+{Page = 14}
+78	Tle wé Tʼàkhu àdé nàdàyi yêde áwé ajìwanákh tle,
+79	tle a tayìt áwé włihàsh tle.
+80	Dà sáwé tsû,
+81	awsitìn wê Nàda.êyà.
+82	“Chʼa ghuna.át áyá anaxh hàt wułihásh.
+83	Yàkw yíde yì ługúkh,”
+84	wé du kèłkʼi hás áwé yê s áyáwsikhà.
+85	Tlâkw áwé a kàdé aduxhâ tle,
+86	wuduwashât tle.
+87	Ha wê Nàda.êyà wakhshiyìt dutî áwé,
+88	“Á ásíyá khuyatì wê sítʼ tliyànaxh.á,”
+89	yê yàwakhà.
+90	Àghâ áwé tle du gùxhú,
+91	kha hú, wê Nàda.êyà,
+92	tle dà sákwshé yàkwxh wududliyéxh.
+93	Tle wé sitʼ kanaxh áwé tle awsixâtʼ wé gùxh, tle yû.
+94	Dà sáyá tsû yá nânaxh.á gwâwé chʼu tle â yáxh yatì,
+95	yankát áwé uwadâ.
+96	Wé Kaxhtûk,
+97	Kaxhtûk, 
+98	wé khâ shàn khu.a áwé
+99	Xûts yû dusâgun,
+100	Xûts.
+101	Dà sáwé-chʼa tlákw gíwé khùtîsʼ,
+102	chʼa tlakw khùtîsʼ.
+103	Dà sáwé yû dikînaxh.á.
+104	“Kʼe a yáxh anayiłghìn.
+105	Chʼa ghuna.át áyú,
+106	chʼa dà sáyá,
+107	chʼu chʼâkʼ,
+108	chʼu yêł gwâwégé áxh yà ndakhín.
+109	Tléł khu.a áyú a yáxh axh tuwâ utí,”
+110	yû áwé xhʼáyákhá.
+111	Tle yânáxh tle áwé awsixâtʼ wé yàkw tle.
+112	“Tle łingit áyá a yáxh yatì,”
+113	yû áwé khuxhʼáyákhá yú.á.
+114	Tle wê Tʼàwákh Êxhʼi yû duwasâgu yé
+115	tle wê áxʼ tle hîni ìkh has atân áwé,
+116	tle has atʼîk tle.
+117	Chʼa wê xhútʼà dàdé áwé,
+118	gàw wuduwatàn.
+119	Dà sáyá tsú łingit gwâwé.
+{Page = 16}
+120	Àghâ áwé Nàda.êyà áwé yê yàwakhà,
+121	“Tlâxhwayè,”
+122	tle wê tlêxʼ à tsú tle “Tlâxhwayè.”
+123	“Hello,” yû áwé has xhʼáyákha.
+124	Àghâ awê,
+125	wé Nàda.êyà tle
+126	du ìn kadunîk wé xhútʼà,
+127	tle dè chʼa yá tlêxʼ khà jì yê yatìyi at áyá
+128	shâdáxh wùłʼîxʼ.
+129	Xhútʼà áwé wé yàkw yít [ał.ât].
+130	Wé sítʼ àn ghadusʼûw yís áwé,
+131	yàkw yît ał.ât.
+132	A áwé tle shàwât gùxh du jìt kawduwakhâ,
+133	wé Nàda.êyà khu.a.
+134	Heʼ, xʼûłʼ yáxh at yatì.
+135	Wé łingît tlêł wuduskú wé îxnaxh.á [â yê khutìyí].
+136	Àghâ áwé yú.á,
+137	wé shàwât gùxh du jìt kadukhâ,
+138	tle xʼùn sdágâwé khà xháni uwaxhî.
+139	A dà áwé yù has xhʼałi.âtk wê Xûts kha wé Nàda.êyà,
+140	wâ sáyá kghwatî.
+141	Tlêl xhâyá àdé sîtʼ tayìnáxh yù khùnaxhłihashgi yé [yàkw tín].
+142	Àghâ áwé tle Nàda.êyà,
+143	tsu chʼa uhân hás áwé Ghùch áwé,
+144	tle yê yàwakhà,
+145	“A dà áyá yù tuxhàtánk.
+146	Á yê kkhwasanî.
+147	Tléł sítʼ â yê kghwatì.”
+148	Chʼa yèsú chʼuł yêl du.àxhjí ayû,
+149	wê shàwát gùxh du jìt kawduwakhâ wé xhútʼà dasêxʼ.
+150	Yàkw yít dus.â.
+151	Wé khîsʼ kát dàk has du ìn wułihásh,
+152	tle tsu anaxh kè gaxhdusxâtʼ wé yàkw.
+153	Àghâ áwé wé khâ,
+154	khâ gùxh du jìxʼ [yê yatì].
+155	Tle kàxh asèwałʼîxʼ wê Nàda.êyà khu.a,
+156	tłe wê sítʼ kanaxh awsixâtʼ tłe yû
+157	wê kàxh asèwałʼîxʼi à.
+158	Ách áwé Yakwdèyí yû duwasâkw
+{Page = 18}
+159	wé sitʼ kanaxh awusxâtʼi yîyich.
+160	Chʼu yìdádidé yê tuwasâkw Yakwdèyí.
+161	Áwé yânáxh tle,
+162	tle wê Yakwdèyínáxh,
+163	de wé shé tle yanaxh kàwaxât
+164	wé gùxh shèyí.
+165	Tle yatʼàyi hîn ûsh â yaxh kawdudzixâ
+166	tle yê áwé
+167	tle shadaghátch,
+168	tle shadaghátch wé sítʼ tle.
+169	Àghâ áwé wé Tʼàkhú,
+170	wé Tʼàkhú Khwân Sítʼi
+171	yû áwé tùsâgu,
+172	tle wé dâghi dàkh uwałʼíxʼ tle,
+173	tle chʼa àxh shadaxhêch yàdáchûn tle,
+174	chʼu tle anaxh áwé tle yû,
+175	tle wùch xhùt yaxhdagùwu yís áwé.
+176	Ách áyá tle chʼu Juneau-dáxh à khu.ù
+177	chʼa yâ dâkh káxʼ yê à yatì,
+178	Teslin,
+179	kha yât, kha wé Atlin.
+180	Á yê has du ìn kaxhanîk,
+181	ha wê dlèt khâxh has satìyích khu.a áwé
+182	tlêł has du dà yà khushùsgé.
+183	Áyá yá boundary line chʼa yê wùch ghunayâ hà włi.ât,
+184	yû áwé s du ìn kaxhanîk.
+185	Àghà áwé yú.á
+186	yan wududliyéxh wé hít,
+187	wé Yán Hít.
+188	“[Hàw,] ha wâ sáyá a kàxh khugaxhdusâ?”
+189	yû dàyadukhá wé Xûts.
+190	Ha Xûts kha Łtàdutìn
+191	yû áwé dusâgun wé khâ.
+192	Àghâ áwé yú.á tle yê yàwakhà,
+193	“Wâ hà naxhdusâgut sáyá,
+194	Yán Hít xhâwé yê yatì.”
+195	Ách áyá Yanyèdí áyá uhân,
+196	Yanyèdí.
+197	Ách áyá Yanyèdí, wé khâxʼw,
+198	uhân khu.a áwé Yanyèdishâ.
+199	Á áwé chʼù yìdádidé áxh axhałghin nìch
+200	wé shà tle yû dikî áwê.
+201	Tle yû áxh káyáxát,
+202	wé sítʼ áxh kaxádi yé,
+203	yê áwé axh ìn kadunìgín.
+{Page = 20}
+204	Adáxh áwé-
+205	wé tlagù hídi àxh dukêłʼ
+206	chʼu ghuna.à a ìtí dułyéxh.
+207	Á áwé axh àt áwé–
+208	Chʼâkw tlêł nèłxʼ yát du.èxhín.
+209	Chashhít
+210	khà ít yû nàłiyê
+211	áwé áxʼ tʼakwanêyi du.èxh.
+212	Áwé wé yîs à Yán Hít â yà ndułyéxhi áwé
+213	wê axh àt â khuwdzitì.
+214	Yá Yán Hít áxh dusxatʼxʼi yé
+215	tle dè yáxh yatì tle,
+216	A yàxh áwé â khuwdzitì
+217	yan dułyêxh wé hít
+218	de yánde yà nanìní áwé
+219	Tlêxʼ dís áwé
+220	tlêł át yù ùgútgun chʼâkw,
+221	wê tʼakwanêyi wdu.ùwú.
+222	Adáxh áwé wé yìwân hás,
+223	shàtkʼâtskʼu áwé khuwdzitì.
+224	Du tlâ tin nèł a.ât,
+225	tlêxʼ dís shunaxîx áwé
+226	â nèł wududzinúk wê Yán Hít.
+227	“Ha wâ sáyá gaxhdusâ?”
+228	yê áwé dàyadukhá wê yîs à Łtàdutìn-
+229	wé chʼâgu àyí de wùnà.
+230	Àghâ áwé yê yàwakhà,
+231	“Ha wâ naxhdusâgut sáwé
+232	Dèyaxhshâ yû xʼwán yisá,
+233	wê Yán Hít Dèyí yàxh
+234	â khuwustìyích áwé.”
+235	Yanyèdí Yátxʼi áwé.
+236	Áwé wa.é tsú Yanyèdí Yátxʼi áwé,
+237	khà yâ łikhʼêyi át áwé.
+238	Tle yú Queen gúshé tsú du yádi
+239	khúnáxh yê áwé yì xhʼałitsìn,
+240	Yanyèdí Yátxʼixh yì satìyí
+241	Kʼe wé axh sáni du sàyí i yát àwatî,
+{Page = 22}
+242	Wèhá.
+243	Tlaxh xʼêghà dikîxʼ áwé yê iyatì,
+244	chʼa łdakát yá Yanyèdí Yátxʼi
+245	yá Tʼàkhú kàxh áwé.
+246	Ách áwé axh tuwâ sigû yisatìní
+247	yá i shagûn,
+248	àdé yû kawdiyayi yé.
+249	Tle chʼa wâ yikuwâtʼ sá [khuxhastìyí]-
+250	tsu chʼu tlêł chʼa tlèxh áyá khùxhastí,
+251	tsu i ìtikhâch áwé kghwatîw.
+252	A yíxh ûsh kè iyawduwaxhâ [wé Tʼàkhú]
+253	kha yâ łdakát át xʼúxʼ kàdé yà kakghishaxît.
+254	Àghâ áwé
+255	chʼu wé uhân i tlâ chʼu ł yisikuwu à–
+256	chʼa łdakat gaghisakû ya Tʼàkhûdáxh
+257	wâ sáyú ikawdayâyi.
+258	Àghâ xʼúxʼ kâ yê kghì.ù tle khúnáxh
+259	yì xhʼałatsìní áwé-
+260	uhânch yê tuwasâkw,
+261	wé Łingítxh hà satìyí.
+262	Chʼa łdakát wé Yanyèdí Yátxʼi,
+263	á áwé xhʼałitsìni át áwé yê yatì.
+264	Tlêł chʼa àdùch sá i yàdé jiguxhsagù,
+265	àdé sh gùní khudatîyin chʼâkw.
+266	Chʼa yû diyínde i ît xhʼawdutàní,
+267	á áwé sh tûxh áwé dusnîgun.
+268	Á yê áwé iyatì.
+269	Kʼe wê axh sáni,
+270	xhʼałitsìni sà áwé yê yatì
+271	wé Wèhá,
+272	i jìt àwatî.
+273	Yá Yanyèdí Yátxʼixh isatìyí
+274	dikîxʼ áwé yê iyatì,
+275	i sàyí tlaxh khúnáxh [xhʼałitsìn].
+276	Á áwé yê dàyaxhakhá wé shàwát.
+277	Kʼe yû Queen àdé,
+278	kha yû King George àdé du yâ áyáduwanêyi yé,
+279	tlêł àdé chʼa àdûch sá chʼa wâ sá has wùnaxhsikhàyi yé,
+280	tle khúnáxh yê áwé yatì wê Yanyèdí Yátxʼi,
+{Page = 24}
+281	kha wê Yanyèdí,
+282	yá Tʼàkhú kàxh áwé.
+283	Á ách áwé axh tuwâ sigû yisatìí
+284	wé àxh i shagûn khuwdzitìyi yé,
+285	yâ uhân hà tûnáxh.
+286	Áyá tlaxh xʼêghà áyá łidzî
+287	áyá yìdadi khâwu ùn yù xhʼaduł.átgi.
+288	Áyá chʼâkw áyá àghâ,
+289	chʼuł dlèt khâ khùghastìjí
+290	àghâ áwé
+291	wùch yâ áyádunêyin.
+292	Hàw, Yêł áwé wa.é,
+293	axh sáni sàyíxh isitì.
+294	Xhát áwé Ghùch yê xhat yatì.
+295	Yê daxh kàwahayi khâ áwé
+296	wùch yàghâ tułanùgún.
+297	Àghâ áwé wé hà yátxʼi khúnáxh
+298	dàtuwtusinîgu à hà sàyí,
+299	hà łîłkʼw, hà tlâkʼw,
+300	hà kâk.
+301	Yê áwé yâtʼà sà áwé,
+302	xhʼadudlitsìni sà áwé,
+303	wùch yàghâ has ditì
+304	has du jìxh áyá tùtì.
+305	Yakʼê wé axh sáni àdé du sàyí i jit àwatiyi yé,
+306	tlêł tsu tlêxʼ wâ sá utí gúshé.
+307	Itʼs good,
+308	wé Wèhá yû iwdusàyí.
+309	Tlaxh xʼêghà áwé yà khusgêyin
+310	wé axh sáni,
+311	wé Wèhá.
+312	Xhwasakûwun tle kʼadên.
+313	Áyá yìdát chʼu khunâ
+314	tsu Ghùch áyá xhát
+315	ha wé khâ tsú Ghùch,
+316	chʼa àn áwé chʼu tle wùch xhánxh khà łudagùkh.
+317	Adáxh áwé yù at kùtìk ghanígún áwé
+318	tle yê xhat yanduskhêch,
+319	“Yá axh àyí axh yádi tsú du yâ sà sá.”
+320	Ha wâ sáyú kkhwasâkw?
+321	Yá du îsh Ghùch,
+322	yá du tlâ tsú Ghùch,
+323	wé shàtkʼátskʼu tsú Ghùch.
+324	Ha wâ sáyú kkhwasâkw?
+325	Khû digêkh, see?
+326	Á áyá axh tugêdexh sitì,
+{Page = 26}
+327	kha yá yìdát àdé yà at kundayen yé.
+328	Chʼâkw wâ sá à wunìyí-
+329	tle chʼu shàtkʼatskʼuxh xhat satìyídáxh
+330	xhwasakûwun-
+331	yá khà ìtí dà sá,
+332	kʼe axh dà.át sʼêłʼi yât,
+333	chʼa wâ sá ûsh xhat wùnì,
+334	tle kagaxhduchâk áwé,
+335	chʼa axh dakhêsʼi,
+336	dà sá tle yê.
+337	Tlêxʼ tâkw shuwuxìxí áwé dàk gaxhduł.ât,
+338	dàkhw.à sá Ghùchxh sitìyi à,
+339	“I tlâkʼw ádi, i tlâ ádi,”
+340	yû khà jixhùxh à kduł.atch tle yû.
+341	A kàdé áwé kandughîxʼch,
+342	“Yá du kakhʼanâxháni,
+343	du kanîxhʼi yis.át áwé yâxʼ,”
+344	tle tlêxʼ tle yû.
+345	Áyá yìdát tléł yê at utí,
+346	khushtuyáxh tle khûxʼ [chʼa àdû sá wâ sá wunìyí].
+347	Á áyá khà ìn ûsh àdé yì.àdí áwé,
+348	Tʼàkhú yíde,
+349	tle yan shuwutàní áwé,
+350	tle axh xhʼêdáxh kakghishaxît.
+351	Tlêł axh tuwâ ushgú
+352	yá axh yátxʼi ghèghí-
+353	a xhù.à de kèjín jinkàt tâkw kha kèjínxh daxh sitì-
+354	tlêł axh tuwâ ushgú khut has awughîxʼi
+355	yá àdé khutùstîyi yé.
+356	Ách áyá chʼa xhâch tsú át axhwdishî
+357	hà ìn tlêxʼ dís iwuyèxhí,
+358	if you got any chance.
+359	Chʼâkw chʼu tle wé àghâ
+360	wé Nàda.êyà kaxhłanik yé,
+361	khudzitìyi át áwé â yê tîyin yú.á,
+362	wé Tʼàkhú wát.
+363	Á áwé wùch tugêt has xhʼawdli.át.
+364	[Chʼâkw] tlêł khwasatínch
+365	wé Wasʼasʼê.
+366	Tlêł yisakú á tsú gúshé?
+367	Chʼu tle wé Kèshixjixʼà kìkâ áwé yê yatì.
+368	Tle yû shà tle yû yatì,
+369	tle yû a yáxh yàwashiyi yé yáxh yatì,
+370	[Wasʼasʼê yû duwasâkw].
+{Page = 28}
+371	Á áwé wé Kaxhtûk nânaxh.á à,
+372	áwé wùch kâ khà łuyawdigúkh,
+373	wé khudzitìyi át,
+374	tle has khuwdudlihà.
+375	Á áwé kàxh asèwałʼîxʼ wêt tle,
+376	tle yá a shàyí tle wé Tʼàkhú kanaxh diyâde kè àwaghíxʼ.
+377	Kʼe yât ûsh tle yû,
+378	yû yindatân áwé,
+379	wé du shàyí.
+380	Yá du kasán khu.a tle yá khà xhikshá tle,
+381	tle às tle yû â yù kawsi.â,
+382	asyâtxʼi.
+383	Yât, kàxh sawduwałʼîxʼi yé,
+384	yá du łèkachûxhʼu yínáxh áwé wé hîn nàdà tle yû.
+385	Áyá tle yá a têxhʼi khu.a áwé tle àxh kè [àwaxhútʼ],
+386	tle wé Tʼàkhú yít àwaghíxʼ.
+387	Tlêł ułgé wé xʼâtʼ,
+388	gwáł chʼa yâ room chʼa yê gugênkʼ a yânáxh kułigê,
+389	tle yû áyá káyáxát tle,
+390	chʼas chùkanyâtxʼi áwé a kâ wsi.à.
+391	“Tʼàkhú Têxhʼi yís áyá,”
+392	yê áwé yàwakhà,
+393	wé Wasʼasʼê.
+394	Hú khu.a áwé tle wê
+395	áxʼ yê yatìyi yé, wé Wasʼasʼê
+396	tle àdé yê wdzigìt tle.
+397	Á áwé wê axh wû yê hà dàyakhâyin,
+398	tle chʼu yîs yadákʼwxh satìyídáxh áwé yú.á
+399	du ìn kadunîk chʼu shugu datî,
+400	Wâ sáyú tléł àxh yù ułháshk
+401	wé Tʼàkhú Têxhʼi?
+402	Tle chʼu yìdádidé gíwé â yê yatì.
+403	Itʼs been a long time tlêł khwasatínch.
+404	Chʼu tle wé Tʼàkhú tle a dagiygé áwé tle áwu.
+405	Wê Wasʼasʼê khu.a áwé
+406	tle wé áxʼ yê yatìyi yé,
+407	kêtladi kʼwatʼi kaxh áwé át ana.átjin chʼâkw yú.á.
+408	Á áyú du ìn kaxhanîk wé dlèt shàwát,
+409	yê shákdêwé hà dujîyin,
+410	chʼu tle chʼas xhât kâxʼ khutudzitì,
+411	kha dlìy kâxʼ.
+412	Tlêkʼ.
+413	Łdakât yêde áwé yà kdusxúkch.
+414	Wé tʼá, khà yâ łikhʼêyi át áwé wé tʼá yú.á,
+415	dusxùgún,
+{Page = 30}
+416	a yuwàxhʼîshi,
+417	a kùwú,
+418	a shàyí,
+419	a díxhʼi.
+420	Khúnáxh a xhʼîshi khu.a áwé tle káxh dułxʼâsʼin.
+421	Tâkw yìn áwé,
+422	dàkhw.à sá
+423	wâ yatìyi yêxʼ sá a shàyí kadułkéłxh,
+424	dustâych.
+425	Ha dà sáyá êłʼxh has awułyèxhín.
+426	Ha tle chʼu chʼâkw khu.a shákdê tlêł wuduskûwun êłʼ.
+427	Àghâ áyá axh wûch axh ìn kanik yé khu.a áwé,
+428	yê sh kałnìgín,
+429	wé Kèshixjixʼà jighè áwé yú.á anaxh yan yakw.ùkhùxhch,
+430	tle wé té khʼwátl tle gán a dàt du.àkch.
+431	Yê áwé daxh kudigê,
+432	yê kwdiyâtʼ
+433	wê a síxwti yê kwditlâ.
+434	Át yandułkitʼch
+435	yú.á.
+436	Tle wé dèkî tle yû,
+437	wé yaxhʼâkdáxh áwé yê dàduné.
+438	Wé êłʼ hîn tle shàdułtsʼîtʼch wé té khʼwátl tle.
+439	Tle yû a dàdé ùdu.àkch tle,
+440	uł.úkch, uł.úkch.
+441	Kàxwâ a kàdé yà kagaxhlakuxun.
+442	Chʼu tle a kát kawułkùxú áwé
+443	dàk wùdułkîtʼch yú.á,
+444	ghas.âtʼi yís.
+445	Wé shâ khu.a áwé dzískʼu kułûxʼsháni
+446	yaxh has awùs.úxch tle,
+447	daxh udusxúkch tle kdułkʼwâtʼ tle yû.
+448	Maybe a pound of salt, maybe more,
+449	all depends on how much salt.
+450	A ká tle yê kunaskákch
+451	wé té khʼwâtl tle.
+452	Àghâ áwé tle a kàxh tle kaduxâsʼ wus.âtʼi,
+453	tle wé at kułûxʼsháni tûde tle,
+454	tle yaxh yà sháyákdułhíkch wé êłʼ xùk.
+455	Yê áwé has awuskûwun.
+456	Hàw, ya tlêkhw, wé xákwłʼi áwé kdusxùk,
+457	kha gàwákh,
+458	tínx wé sʼìk ìxhí xhù,
+{Page = 32}
+459	dà sa wùch ghunayâde tlêkhw.
+460	Wé xákwłʼi chʼu tle
+461	tle yû áwé yú.á-
+462	axh tlâch áwé axh ìn kanìgín
+463	tle yâtʼát yáxh kuskàk.
+464	Tle yû áwé tle a tayìxh shìy dułyèxhch
+465	tle khûk yáxh tle yû.
+466	Wudustàyí,
+467	tle kawutʼîxʼi áwé
+468	tle yû a kàdé kduchâk tle,
+469	tle yû łàkhʼasgi yáxh [kadustʼâk] tle yû,
+470	tle daxh dusxùk tle wé gàwákh kha wé xákwłʼi.
+471	Tâkw yìn áwé kadułkéłxh.
+472	A xhùshûgayi áwé wé gàwákh
+473	yê dàduné wé atxhá ítde.
+474	Wé sh kadułnìgí-
+475	àghâ khu.a sʼé tape khà jì yê yatì-
+476	sh kałnìk shû aghakhîch.
+477	Á wé yîs khâxʼwch áwé yê dànê nìch wé xákwłʼi,
+478	yá xákwłʼi ghaduxhà yís.
+479	“Chʼa yâxʼ xhʼaynákh wé sh kałnìk,”
+480	yá xákwłʼi duxhâ nìch yú.á.
+481	Hàw, yá xhât yan ghadusxúgún áwé
+482	shà kàdé yâde ana.átjin wé Atlin.
+483	Tsáłk áwé yê dàduné,
+484	kha sʼàxh, tawê, jánwu, watsíx.
+485	Łixhêdli khâ áwé dzískʼw ajákhxh.
+486	Tle dusxùk,
+487	tle łdakát yan wudusxùgú áwé
+488	[wùch shukàdé duyâ nìch.]
+489	Wé old village Tatlenxʼixhù yû duwasâkw, Tatlenxʼixhù.
+490	Áyá dà sáyá,
+491	tawê dlìyí, sʼàxh dlìyí, tsáłgi dlìyí,
+492	yê wùch xhʼâxh áyá dus.ìyín chʼâkw.
+493	Yê áyá has hà uwajî,
+494	chʼu tle chʼas tlêxʼ yatìyi át kâxʼ áyá khutùstîyin.
+495	[Tlêkʼ,] tle wùch ghunayâde.
+496	Axh chànch áyá axh wakhkâxʼ yê wsinì.
+497	Heʼ, jánwu ìkh kawtuwajéł,
+498	wé Tʼàkhú yík.
+499	Yá a chíghayi yû áwé duwasâkw,
+500	yèsú yaxh daxh ayawłihíts,
+501	chʼu tle wé gishù xâsʼi yaxh daghàtì.
+502	Hîn tâdáxh daxh awłixásʼ tle,
+503	tle wé a shàyí tsú.
+504	Àghâ tsá sùkh gwêł tû akàwachák tle.
+505	“Yû ênà kàdé nastí,”
+506	yê xhat dàyakhá.
+507	Khúnáxh áyá yìdát yá January yát áwé a káxh xhat xhʼèwawûsʼ,
+508	“Hàt à ła.á wé at chíghayi,
+509	kha wé a shàyí.”
+510	Chʼa khʼwátl ká akàwachák,
+511	awsitâ tle.
+512	Hîn yáxh î áwé-
+513	Itʼs quite a change from other things, eh?
+514	Ha yê áwé khutùstîyin,
+515	yê áwé dàyaxhakhá.
+516	Łidzî khu.a áwé
+517	wé tlêł a yáxh akùshxìdí xhâ.
