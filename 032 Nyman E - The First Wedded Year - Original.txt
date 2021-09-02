@@ -914,7 +914,7 @@
 886	Wâ sá i tûch kìjín tâkw áwé yà yanaxíx wé mine,
 887	tléł tsu tlêxʼ xhwasatìn.
 888	Tle wé axh shátxh Xhàstìn du xhúxh tin
-{Comment = Line 889 is omitted in the original text, and the corpus follows this for the sake of consistency with the rest of the text.}
+{Comment = Line 889 is omitted in the original text.}
 890	hàt has ât,
 891	kha Henry,
 892	àghâ áwé tsá / xhat kawdudlitsây.
