@@ -27,7 +27,7 @@
 18	héen x̱ukát kanashínch.
 19	A áyá
 20	a k’wát’i áyá tle
-21	tle a tóonáx̱ yóot wugoodí áyá; tle awsineix̱ yá shaatk’átsk’ooch. 
+21	tle a tóonáx̱ yóot wugoodí áyá; tle awsineix̱ yá shaatk’átsk’ooch.
 22	Tle yéi a daayaḵáa nooch.
 23	Tle a jikgwanaag̱í áwé yaak latséen.
 24	Tle a jikgwanaag̱í áwé tle yéi ayanasḵéich,
@@ -316,7 +316,7 @@
 298	Tle x’óowx̱ dax̱dulyéix̱.
 299	Tle á áwé tle; “Kaasteen kaadéi!
 300	(Kaasteen kaadéi!)
-301	Kaasteen x̱’éidei! 
+301	Kaasteen x̱’éidei!
 302	Kaasteen x̱’éidei!
 303	Kaasteen kaadéi!”
 304	Tle yéi áwé.
@@ -397,7 +397,7 @@
 377	atx̱á.
 378	Tlélí yú hít shawuheegí yáx̱ áyú du jeet at wuduwatée.
 379	Aag̱áa wé tsáa
-380	yaakwdéi ḵukawdik’éet’. 
+380	yaakwdéi ḵukawdik’éet’.
 381	Aaa.
 382	Tléil tle yóot yawugú du náḵ.
 383	Wé yaakw yée yan aḵée áwé
@@ -412,7 +412,7 @@
 391	Ch’a yá deikéet awusgoog̱ú áwé
 392	tle wdudziteen.
 393	Héidei áa yax̱ wusixíx.
-394	Tle ḵaa x̱’éinax̱ yóot uwaxíx 
+394	Tle ḵaa x̱’éinax̱ yóot uwaxíx
 395	“Héidei áa yax̱ wusixíx!”
 396	Tl’aadéin áwé kei wsixíx s’é,
 397	du een wé hít.
@@ -488,7 +488,7 @@
 458	"Isháan gushé ax̱ hídi,"
 459	yóo yaawakaa.
 460	Aaa.
-461	Du náḵ	yóot yagóo ḵu.as, "ishaan gushei ax̱ aani."
+461	Du náḵ yóot yagóo ḵu.as, "ishaan gushei ax̱ aani."
 462	Aaa.
 463	Tlél kwshá tle tléix’ wóosht wul.aat
 464	yá at wulyaaḵw.
@@ -499,10 +499,10 @@
 469	aaa, hél tsu aadóo sá shí du tóo yéi wunei.
 470	Ts’as akdudlix̱éitl’ áyú.
 471	Ch’as sh wuduwatáat áyú aadéi ḵoog̱ag̱aneix̱i yé yáx̱,
-472	because tlax̱ a yáanáx̱ áyú yatee yú aan aadéi kawdzinéidi yé. 
+472	because tlax̱ a yáanáx̱ áyú yatee yú aan aadéi kawdzinéidi yé.
 473	Tlél ch’a utí.
 474	Ách ayú ldakát akdudlix̱éitl’.
-475	Ch’a aan áyá yá shí du tóo yéi woonei. 
+475	Ch’a aan áyá yá shí du tóo yéi woonei.
 476	Aaa.
 477	Ách áyá for everlasting tsu ax̱ eetéex̱ yaa kana.éin aa.
 478	Has du jiyís recorded-x̱ yaa nx̱alayéx̱,
@@ -526,7 +526,7 @@
 {Page = 286}
 496	Chookaneidí,
 497	Sdayáat.
-498	Hú áwé tsu yéi yaawaḵaa 
+498	Hú áwé tsu yéi yaawaḵaa
 499	"Tleiyéix’ s’é,
 500	tleiyéix’ s’é."
 501	Ách áwé tle tliyéi yéi wootee wé yaa yanagwen yaakw; aaa.
@@ -558,7 +558,7 @@
 524	aahaa haa haa haa.
 {Comment = Note says "repeat first verse and vocables".}
 {Comment = Second song, second verse.}
-525	Ax̱ hidi hee 
+525	Ax̱ hidi hee
 526	gushei ei aa haa
 {Page = 288}
 527	ch’al guḵateen aa
@@ -602,7 +602,7 @@
 562	Tle á áyá, héeni wtuwa.aat.
 563	Haa
 564	lisaagée x̱á yaakw yík.
-565	Aag̱áa áyá áx’ héeni aawa.aat; tle áyá tle 
+565	Aag̱áa áyá áx’ héeni aawa.aat; tle áyá tle
 566	chush ya.áak yéi wdudzinei tle,
 567	Spasski.
 568	Laḵoox̱as’t’aakhéen yéi duwasáakw.

@@ -571,7 +571,7 @@
 {Comment = End of second song. 44-line discrepancy from D&D1987 begins here.}
 533	Now, this is Sdayáat's song.
 534	Yes.
-535	This is how the two of them composed songs 
+535	This is how the two of them composed songs
 536	when trouble came.
 537	Well,
 538	they didn't just abandon her carelessly.
@@ -602,8 +602,8 @@
 562	It was there; we waded ashore.
 563	Now
 564	you knew how tiring it is to be in a canoe.
-565	It was then and there we waded ashore; 
-566	this is where we prepared a piace to live 
+565	It was then and there we waded ashore;
+566	this is where we prepared a piace to live
 567	at Spasski.
 568	It's called Laḵoox̱asʼtʼaakhéen.
 569	It was there we waded ashore.
