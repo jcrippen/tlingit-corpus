@@ -220,10 +220,10 @@
 206	Things weren't turning out right.
 207	The house was already falling over on its side
 208	from how strong the ice was getting.
-( Slap! )
+{Comment = D&D87 has “( Slap! )” here.}
 209 It was was behaving
 210	like it was crushing against itself,
-( Slap! )
+{Comment = D&D87 has “( Slap! )” here.}
 211	how strong the ice was.
 212	And they knew.
 213	It was the ice pushing the people, wasn't it?
