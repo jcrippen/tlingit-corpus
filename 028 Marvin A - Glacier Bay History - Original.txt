@@ -2,10 +2,11 @@
 {Type = Original}
 {Title = Sítʼ Ḵaa Ḵáx̱ Kana.áa / Glacier Bay History}
 {Author = Ḵooteen / Amy Marvin}
-{Clan = Chookan sháa; Tʼatdeintaan yádi}
+{Clan = Chookaneidí; Tʼatdeintaan yádi}
 {Source = D&D 1987:260-291}
 {Transcriber = Nora Dauenhauer}
 {Orthography = RP}
+{Dialect = Northern - Coastal - Hoonah}
 {Page = 260}
 1	Yáa yeedát aadéi g̱unéi sh kakḵwalnik yé
 2	yáa yagiyee.
