@@ -9,7 +9,7 @@
 1	Wé Sitʼkunà Ghìyí
 2	tle yê áwé yatì,
 3	łatín wê–
-4	yâdu á wé sítʼ anaxh hàt kàwa.ayi yé tle 
+4	yâdu á wé sítʼ anaxh hàt kàwa.ayi yé tle
 5	tle yû àxh khukayaxát.
 6	Tléł tlaxh unałí wé ghìy,
 7	tle chʼa yàdachûn áwé tle yû yatì.
@@ -43,7 +43,7 @@
 35	Dlèt yátxʼi xhá yê yatì.
 36	“Wêxh yà nagút axh îsh,” tle yû xhʼayaxhakhá.
 {Page = 44}
-37	Chʼa áxʼ ghàxhtusitìni yé yáxh kunàłiyi yé áwé 
+37	Chʼa áxʼ ghàxhtusitìni yé yáxh kunàłiyi yé áwé
 38	hà ìn àwachʼíxhʼ wé sítʼ.
 39	Dà sáwé a ká tle yû kayaxát.
 40	Sítʼ tle yû áwé àghâ áxh daxh kaduháshxʼw,
@@ -94,7 +94,7 @@
 84	tle has awłiháw kwshêwé
 85	wé â has gughałxʼish yé tle.
 86	Chʼu násʼgináxh hás áwé łítà has du jìwú.
-87	Jî, daxh xhasikʼê, a xhù à áwé tle tʼùchʼ yáxh daghàtì, 
+87	Jî, daxh xhasikʼê, a xhù à áwé tle tʼùchʼ yáxh daghàtì,
 88	yá a kachʼéchʼxhi tle yû.
 89	A kàdé łighî wé tʼùchʼ yáxh xhasatìyí.
 90	Tle á áwé tle daxh has ałxʼîsh tle.
@@ -108,7 +108,7 @@
 98	Tle wé gishù xâsʼi ùdaghàyâ tle.
 99	Tle wé dlèt tín áwé tle tsu ùxâsʼch tle yû,
 100	té khʼwatl kàdé tle.
-101	Yan has asnî áwé tle wé nàs a yídáxh yê s adàné, 
+101	Yan has asnî áwé tle wé nàs a yídáxh yê s adàné,
 102	tle chʼa du jishâxʼ áwé wé axh shátxh.
 103	Tle yâtʼát yáxh áwé kùtlà,
 104	wûshnáxh yà anasyíkh tle yû.
@@ -127,7 +127,7 @@
 117	Tle wé dlìy tsú, kàxwâ yê yà kagùtlâ.
 118	Dèshi ya.î–
 {Page = 48}
-119	tle all day gíwé a kát as.ín- 
+119	tle all day gíwé a kát as.ín-
 120	wudli.úk.
 121	Áwé tsà gìní tsú de yan uwa.î.
 122	Tléł tlaxh tày áwé yê utí.
@@ -183,7 +183,7 @@
 171	Tle chʼa a áwé tsa wtuwaxhâ wé axh îkʼ tin.
 172	Kûx tsú àn has awsi.î.
 173	Tle axh îsh yê yàwakhà,
-174	“Tléł ułigêyi jánwu áwé chʼas wé at yátxʼi xhʼès áwé. 
+174	“Tléł ułigêyi jánwu áwé chʼas wé at yátxʼi xhʼès áwé.
 175	Uhân khu.a áwé tsà dlìyí kâ yè khugaxhtùstî,”
 176	yê áwé xhʼayakhá.
 177	Tle yagê àdé s àwajaghi yé wé tsà.
@@ -500,7 +500,7 @@
 481	Kasáyjà gùdáxh sáwé ashunłi.àt.
 482	Yà ndayân tsú, wé axh tlâ tsú, wé axh shátxh tsú.
 483	Wé axh îsh khu.a
-484	chʼu tle s du shakinâ kè kàwa.ugu at dùgú yà s anayân, 
+484	chʼu tle s du shakinâ kè kàwa.ugu at dùgú yà s anayân,
 485	kha wé kètlxʼ tsú.
 486	Á áwé â ghadułsà tle yû yàwakhà wé axh îsh,
 487	tléł àdé hà ghwàxhsitìni yé.
@@ -1017,7 +1017,7 @@
 986	tle has shayìytlèghúde?
 987	Has du wakhkâxʼ tsá
 988	àxh yê naxhyìysinì,”
-989	tle tsu yû yàwakhà wé hà chief-i khu.a. 
+989	tle tsu yû yàwakhà wé hà chief-i khu.a.
 990	Tléł hà dàt át khuwustì,
 991	wé axh îsh tléł has du dàt át khuwustì tle.
 992	Tle a kát khà sèwaxʼákhw tle.

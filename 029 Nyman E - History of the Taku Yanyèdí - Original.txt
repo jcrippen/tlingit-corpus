@@ -14,7 +14,7 @@
 6	tle yû áxh kasixát
 7	tle wé sítʼ áxʼ yê tîyi yé tle yû.
 8	Tlêł wuduskú
-9	tsu wé nânaxh.á â yê khutìyí 
+9	tsu wé nânaxh.á â yê khutìyí
 10	kha tsu wé îxnaxh.á.
 {Comment = Break in text, line 11 appears to be skipped.}
 12	A áwé wé khâxʼw shàn dáxhináxh has yatì.
@@ -59,7 +59,7 @@
 50	wé a tʼâxʼ ghanúkch
 51	wé sitʼàdé nàdàyi yé.
 52	Wâ a dà yù tukdatân sáwé,
-53	“Kʼe yan kakhasanùgú,” 
+53	“Kʼe yan kakhasanùgú,”
 54	yû áwé tuwatì yú.á.
 55	Á áwé tle xhʼatuxh.ayîghi
 56	yû dusâgun chʼâkw.
@@ -104,7 +104,7 @@
 94	Dà sáyá tsû yá nânaxh.á gwâwé chʼu tle â yáxh yatì,
 95	yankát áwé uwadâ.
 96	Wé Kaxhtûk,
-97	Kaxhtûk, 
+97	Kaxhtûk,
 98	wé khâ shàn khu.a áwé
 99	Xûts yû dusâgun,
 100	Xûts.
