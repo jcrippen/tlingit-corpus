@@ -3,7 +3,7 @@
 {Title = Yéil Yaagú / Raven Boat}
 {Author = Jeeník / Jennie White}
 {Clan = Shangukeidí; Xʼatka.aayí yádi}
-{Source = D&D 1987:298–301}
+{Source = D&D 1987: 298–301}
 {Date = 1984}
 {Place = Juneau}
 {Recorder = G̱unáakʼw Fred White}

@@ -3,12 +3,13 @@
 {Title = Yéil Yaagú / Raven Boat}
 {Author = Jeeník / Jennie White}
 {Clan = Shangukeidí; Xʼatka.aayí yádi}
-{Source = D&D 1987:298–301}
+{Source = D&D 1987: 298–301}
 {Date = 1984}
 {Place = Juneau}
 {Recorder = G̱unáakʼw Fred White}
 {Transcriber = G̱unáakʼw Fred White}
 {Orthography = RP}
+{Dialect = Northern – Coastal – Yakutat}
 {Page = 298}
 1	Kulix̱éitlʼshan wé eey.
 2	Dax̱dahéen L’uknax̱.ádi ax’ héent wudzik’ít’.
