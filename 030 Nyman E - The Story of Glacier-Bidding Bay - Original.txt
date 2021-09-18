@@ -5,6 +5,7 @@
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
 {Source = Nyman & Leer 1993: 42–90}
 {Translator =  Weihá / Jeff Leer}
+{Dialect = Northern - Inland - Atlin}
 {Page = 42}
 1	Wé Sitʼkunà Ghìyí
 2	tle yê áwé yatì,

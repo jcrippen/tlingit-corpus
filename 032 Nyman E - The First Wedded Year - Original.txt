@@ -5,6 +5,7 @@
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
 {Source = Nyman & Leer 1993: 168–212}
 {Translator =  Weihá / Jeff Leer}
+{Dialect = Northern - Inland - Atlin}
 {Page = 168}
 1	Ha wé a káxh xhat xhʼìwûsʼ, shûgunáxh / wé axh xhúxh
 2	du xháni yê xhat natî–

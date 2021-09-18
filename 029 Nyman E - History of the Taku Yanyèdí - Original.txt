@@ -5,6 +5,7 @@
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
 {Source = Nyman & Leer 1993: 10–34}
 {Translator =  Weihá / Jeff Leer}
+{Dialect = Northern - Inland - Atlin}
 {Page = 10}
 1	Sítʼ áwé yú.á tle yû Tʼàkhú wât anaxh yan kawu.âyin—–
 2	Tlêł yisatìn gé wê Tʼàkhú wât?
