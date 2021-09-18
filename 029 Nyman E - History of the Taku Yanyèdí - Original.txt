@@ -3,7 +3,7 @@
 {Title = Tʼàkhú Yanyèdí Dàt Shkałnìk / The History of the Taku Yanyèdí}
 {Author = Seidayaa / Elizabeth Nyman}
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
-{Source = Nyman & Leer 1993:10-34}
+{Source = Nyman & Leer 1993: 10–34}
 {Translator =  Weihá / Jeff Leer}
 {Page = 10}
 1	Sítʼ áwé yú.á tle yû Tʼàkhú wât anaxh yan kawu.âyin—–

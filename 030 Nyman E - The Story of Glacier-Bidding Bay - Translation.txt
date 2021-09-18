@@ -3,7 +3,7 @@
 {Title = Sitʼkunà Ghìyi Dàt Sh Kałnìk / The Story of Glacier-Bidding Bay}
 {Author = Seidayaa / Elizabeth Nyman}
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
-{Source = Nyman & Leer 1993:43-91}
+{Source = Nyman & Leer 1993: 43⁻91}
 {Translator =  Weihá / Jeff Leer}
 {Page = 43}
 1	Sitʼkunà Ghìyí (Glacier-bidding Bay)

@@ -3,7 +3,7 @@
 {Title = Yîs Wùsh Dashây Dàt Sh Kałnìk / The First Wedded Year}
 {Author = Seidayaa / Elizabeth Nyman}
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
-{Source = Nyman & Leer 1993:169-213}
+{Source = Nyman & Leer 1993: 169⁻213}
 {Translator =  Weihá / Jeff Leer}
 {Page = 169}
 1	As for what you asked me about, when I was first married to

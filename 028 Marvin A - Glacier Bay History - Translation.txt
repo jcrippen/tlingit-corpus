@@ -2,8 +2,8 @@
 {Type = Translation}
 {Title = Sítʼ Ḵaa Ḵáx̱ Kana.áa / Glacier Bay History}
 {Author = Ḵooteen / Amy Marvin}
-{Clan = Chookan sháa; Tʼatdeintaan yádi}
-{Source = D&D 1987:260-291}
+{Clan = Chookaneidí; Tʼaḵdeintaan yádi}
+{Source = D&D 1987: 260–291}
 {Translator = Nora Dauenhauer}
 {Orthography = RP}
 {Page = 261}

@@ -2,8 +2,8 @@
 {Type = Original}
 {Title = Sítʼ Ḵaa Ḵáx̱ Kana.áa / Glacier Bay History}
 {Author = Ḵooteen / Amy Marvin}
-{Clan = Chookaneidí; Tʼatdeintaan yádi}
-{Source = D&D 1987:260-291}
+{Clan = Chookaneidí; Tʼaḵdeintaan yádi}
+{Source = D&D 1987: 260–291}
 {Transcriber = Nora Dauenhauer}
 {Orthography = RP}
 {Dialect = Northern - Coastal - Hoonah}
