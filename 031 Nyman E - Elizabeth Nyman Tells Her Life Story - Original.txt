@@ -5,6 +5,7 @@
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
 {Source = Nyman & Leer 1993: 100–160}
 {Translator =  Weihá / Jeff Leer}
+{Orthography = YNL}
 {Dialect = Northern - Inland - Atlin}
 {Page = 100}
 1	Ha axh îsh Telegraph Creek-dáxh áwé yê tîyin.

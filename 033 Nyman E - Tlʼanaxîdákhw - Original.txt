@@ -5,6 +5,7 @@
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
 {Source = Nyman & Leer 1993: 218–254}
 {Translator =  Weihá / Jeff Leer}
+{Orthography = YNL}
 {Dialect = Northern - Inland - Atlin}
 {Page = 218}
 1	Ha chʼa tlákw áwé axh ìn sh kadułnìgín
