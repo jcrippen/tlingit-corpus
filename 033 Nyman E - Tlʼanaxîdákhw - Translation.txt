@@ -3,7 +3,7 @@
 {Title = Tlʼanaxîdákhw / Tlʼanaxîdákhw}
 {Author = Seidayaa / Elizabeth Nyman}
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
-{Source = Nyman & Leer 1993: 219⁻255}
+{Source = Nyman & Leer 1993: 219–255}
 {Translator =  Weihá / Jeff Leer}
 {Page = 219}
 1	They always used to tell me stories

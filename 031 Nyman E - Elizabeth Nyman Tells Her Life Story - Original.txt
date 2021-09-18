@@ -3,7 +3,7 @@
 {Title = Sèdayà Du Khustìyí Dàt Sh Kałnìk / Elizabeth Nyman Tells Her Life Story}
 {Author = Seidayaa / Elizabeth Nyman}
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
-{Source = Nyman & Leer 1993: 100⁻160}
+{Source = Nyman & Leer 1993: 100–160}
 {Translator =  Weihá / Jeff Leer}
 {Page = 100}
 1	Ha axh îsh Telegraph Creek-dáxh áwé yê tîyin.

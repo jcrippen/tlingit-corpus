@@ -3,7 +3,7 @@
 {Title = Tʼàkhú Yanyèdí Dàt Shkałnìk / The History of the Taku Yanyèdí}
 {Author = Seidáyáa / Elizabeth Nyman}
 {Clan = Yanyeidí; Ḵaách.ádi yádi}
-{Source = Nyman & Leer 1993: 11⁻35}
+{Source = Nyman & Leer 1993: 11–35}
 {Translator =  Weihá / Jeff Leer}
 {Page = 11}
 1	A great glacier used to stretch down to the mouth of the Taku River.
