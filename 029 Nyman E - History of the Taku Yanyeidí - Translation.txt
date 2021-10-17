@@ -1,40 +1,40 @@
 {Number = 029}
 {Type = Original}
-{Title = Tʼàkhú Yanyèdí Dàt Shkałnìk / The History of the Taku Yanyèdí}
-{Author = Seidáyáa / Elizabeth Nyman}
-{Clan = Yanyeidí; Ḵaách.ádi yádi}
+{Title = Tʼaakú Yanyeidí Daat Shkalneek / The History of the Taku Yanyeidí}
+{Author = Seidayáa / Elizabeth Nyman}
+{Clan = Yanyeidí; Ḵaach.ádi yádi}
 {Source = Nyman & Leer 1993: 11–35}
 {Translator =  Weihá / Jeff Leer}
 {Page = 11}
 1	A great glacier used to stretch down to the mouth of the Taku River.
-2	Haven't you seen the mouth of the Taku?
+2	Haven’t you seen the mouth of the Taku?
 3	{No.}
 4	It used to stretch down to there, they say.
 5	A mountain
 6	stands there
 7	by where the glacier used to be.
-8	The people [to the south of the glacier] didn't know
+8	The people [to the south of the glacier] didn’t know
 9	that there were people to the north,
 10	and [those to the north didn't know about] those to the south
 11	either.
 12	Now there were two old men.
-13	[One lived at] the place called Kaxhtûk, to the north.
+13	[One lived at] the place called Kax̱tóok, to the north.
 14	That is where the lodge now stands.
 15	I am going to tell you the true history of it.
 16	The Taku people were making a house, they say.
-17	Our clan, which got the name Yanyèdí from [this house],
+17	Our clan, which got the name Yanyeidí from [this house],
 18	this is the history of it.
 19	This old man, the true leader of our people,
 20	a Wolf,
 21	was asked
 22	by his nephews and brothers,
-23	"What shall we make our house of?"
+23	“What shall we make our house of?”
 24	they said to him, so they say.
-25	"Well, how would it be,
+25	”Well, how would it be,
 26	how about
-27	that hemlock growing over there?"
+27	that hemlock growing over there?”
 28	he said, they say
-29	"that is what we will make our house of."
+29	“that is what we will make our house of.”
 30	So they ran over to it
 31	and chopped it down with an adze.
 32	They hewed the hemlock; the young men hewed it.
@@ -47,26 +47,26 @@
 38	of the adze, which had broken off at the head.
 39	It was the only adze they had;
 40	they were expressing their grief over it.
-41	Their voice came from the other sicle,
+41	Their voice came from the other side,
 42	resounding through the glacier.
-43	"How could it be
-44	that I hear something like a human voice?"
+43	“How could it be
+44	that I hear something like a human voice?”
 45	the man said,
 46	the one to the south–
-47	his name was Nàda.êyà,
+47	his name was Naada.éiyaa,
 48	the one living to the south.
-49	Now the other [old man], the one at Kaxhtûk,
+49	Now the other [old man], the one at Kax̱tóok,
 50	used to live up inland from
 51	where the river went [under the glacier].
 52	After he had thought it over,
-53	"Let me find out about this,"
+53	“Let me find out about this,”
 54	he thought to himself, they say.
 55	[They used to have] knee boots
-56	[that] they called xhʼatuxh.ayîghi, long ago.
+56	[that] they called x̱ʼatux̱.ayéeg̱i, long ago.
 57	They would [take] moose hide
 58	[and] cut it here,
 59	the hide from the hindquarters
-60	as long as a person's foot,
+60	as long as a person’s foot,
 61	and the upper part
 62	would reach to the top of the shin.
 63	The part where
@@ -79,7 +79,7 @@
 70	in the rain.
 71	So the old man was thinking about this.
 72	[It was in spring when] the plants were coming out.
-73	So he chopped clown some willows
+73	So he chopped down some willows
 74	and peeled off the bark.
 75	Then he took a knee boot
 76	and wrapped the bark around it
@@ -88,38 +88,38 @@
 78	He released it into the Taku to be carried down with the current
 79	and it floated under the glacier.
 80	So what do you know,
-81	Nàda.êyà saw it.
-82	"Something strange has floated down here.
-83	Run and jump in the canoe,"
+81	Naada.éiyaa saw it.
+82	“Something strange has floated down here.
+83	Run and jump in the canoe,”
 84	he told his nephews.
 85	So they quickly paddled over to it
 86	and snatched it [out of the water].
-87	When they showed it to Nàda.êyà,
-88	"Then there must be people on the other side of the glacier,"
+87	When they showed it to Naada.éiyaa,
+88	“Then there must be people on the other side of the glacier,”
 89	he said.
 90	Then his slave
-91	and he, Nàda.êyà,
+91	and he, Naada.éiyaa,
 92	made a canoe out of something.
 93	Then the slave dragged [the canoe] over the glacier.
 94	Lo and behold, [the river] to the north of it was like a lake;
 95	it was high tide.
-96	[The one at] Kaxhtûk,
-97	Kaxhtûk,
+96	[The one at] Kax̱tóok,
+97	Kax̱tóok,
 98	the old man,
-99	was named Xûts,
+99	was named Xóots,
 100	Brown Bear.
 101	There was something–he must have been watching constantly,
 102	constantly watching.
 103	There was something up there.
-104	"Look at the side of the glacier.
-105	There's something strange,
+104	“Look at the side of the glacier.
+105	There’s something strange,
 106	something,
 107	maybe an eagle,
 108	or could that be a raven flying along there?
-109	It doesn't look like one to me, though,"
+109	It doesn’t look like one to me, though,”
 110	he said.
 111	[The slave] was pulling the canoe this way, toward them.
-112	"It is just like a person,"
+112	“It is just like a person,”
 113	they said, so they say.
 114	At the place they call Goose Slough
 115	they brought a canoe down to the water
@@ -128,58 +128,58 @@
 118	that they had taken up the drum.
 119	And what do you know, they were Tlingits!
 {Page = 17}
-120	Then Nàda.êyà said,
-121	"Tlâxhwayè,"
-122	and the other old man also replied "Tlâxhwayè."
-123	They were saying, "Hello."
+120	Then Naada.éiyaa said,
+121	"Tláax̱wayei,"
+122	and the other old man also replied "Tláax̱wayei."
+123	They were saying, “Hello.”
 124	Then
-125	Nàda.êyà
+125	Naada.éiyaa
 126	was told about the adze,
 127	the only one they had,
 128	it had broken off at the head.
-129	Now Nàda.êyà had some adzes in the canoe.
+129	Now Naada.éiyaa had some adzes in the canoe.
 130	So he could use them to chop the glacier ice
 131	he had them in the canoe. [He gave one to them].
 132	[So in return] they sent a female slave to him,
-133	to Nàda.êyà.
+133	to Naada.éiyaa.
 134	My, everyone was in an uproar.
-135	They hadn't known that there were people to the south.
+135	They hadn’t known that there were people to the south.
 136	So then
 137	after they had sent the female slave to him,
 138	he stayed over with them for some days.
-139	Xûts and Nàda.êyà discussed
+139	Xóots and Naada.éiyaa discussed
 140	how it was to be.
 141	There was no way to go under the glacier in canoes.
-142	Then Nàda.êyà,
+142	Then Naada.éiyaa,
 143	who was of our moiety, a Wolf,
 144	said
-145	"I have been thinking about it,
+145	“I have been thinking about it,
 146	and this is what I will do.
-147	There will be no glacier there."
+147	There will be no glacier there.”
 148	First thing in the morning
 149	they sent the female slave to him in exchange for the adzes.
 150	They set her in the canoe.
 151	They floated down with the tide,
 152	intending to pull [the canoe] over the glacier again.
-153	Now that man Nàda.êyà
+153	Now that man Naada.éiyaa
 154	had a male slave.
-155	Nàda.êyà decapitated him
+155	Naada.éiyaa decapitated him
 156	and dragged across the glacier
 157	the decapitated [body of the slave].
-158	Therefore this place is called Yakwdèyí (canoe path)
+158	Therefore this place is called Yakwdeiyí (canoe path)
 {Page = 19}
 159	after the [slave whose body] he dragged across the glacier.
-160	To this day we call it Yakwdèyí.
+160	To this day we call it Yakwdeiyí.
 161	And along here,
-162	along Yakwdèyí,
+162	along Yakwdeiyí,
 163	there was a trail of blood,
-164	the slave's blood.
+164	the slave’s blood.
 165	It was as if hot water had been poured out;
 166	just like that
 167	it kept collapsing inward,
 168	the glacier kept collapsing inward [as if melting away].
 169	Then
-170	the Taku People's Glacier-
+170	the Taku People’s Glacier-
 171	this is what we used to call it-
 172	was cleft open all the way up [to the mountainsides];
 173	it crumbled apart in a straight line,
@@ -192,32 +192,32 @@
 180	This is what I tell them,
 181	but because they are white people
 182	they do not understand.
-183	It's this boundary line that has separated us,
+183	It’s this boundary line that has separated us,
 184	I tell them.
 185	Then, they say,
 186	they finished building the house,
 187	Hemlock House.
-188	"Now how shall we name our people after it?"
-189	said Xûts-
-190	Xûts and Łtàdutìn,
+188	“Now how shall we name our people after it?”
+189	said Xóots–
+190	Xóots and Ltaaduteen,
 191	these were his names.
 192	Then he said,
-193	"So that we will have a name to be called by,
+193	“So that we will have a name to be called by,
 194	this is Hemlock House.
-195	Therefore we are Yanyèdí,
-196	the Hemlock House Clan."
-197	The men are Yanyèdí,
-198	and we women are Yanyèdishâ.
+195	Therefore we are Yanyeidí,
+196	the Hemlock House Clan.”
+197	The men are Yanyeidí,
+198	and we women are Yanyeidisháa.
 199	To this very day I sometimes look
 200	at that mountain so high.
 201	It rises up
 202	where the glacier used to stretch across;
 203	so I used to be told.
 {Page = 21}
-204	After that-
+204	After that–
 205	they would periodically tear down the old house
 206	and build a new one in its stead.
-207	Now my aunt, my father's sister-
+207	Now my aunt, my father’s sister–
 208	Long ago, they did not bear children at home.
 209	They would [stay] in a brush hut
 210	some distance away from the people
@@ -230,37 +230,37 @@
 217	after they finished the house,
 218	[or rather] when it was almost finished.
 219	For one month
-220	they wouldn't walk around outside, long ago,
+220	they wouldn’t walk around outside, long ago,
 221	after they had their baby.
 222	And it was one of your clan;
 223	a little [Raven] girl was born.
 224	When they walked into the house with her mother,
 225	after one month
 226	they carried her into Hemlock House.
-227	"What will her name be?"
-228	the new [chief named] Łtàdutìn said-
+227	“What will her name be?”
+228	the new [chief named] Ltaaduteen said-
 229	the old one had died.
 230	Then he said,
-231	"So that she will have a name to be called by,
-232	you must name her Dèyaxhshâ (Trailside Woman),
+231	“So that she will have a name to be called by,
+232	you must name her Deiyax̱sháa (Trailside Woman),
 233	for it was beside Hemlock House Trail
-234	that she was born."
-235	She is one of the Children of the Yanyèdí.
-236	You too are [of] the Children of the Yanyèdí;
+234	that she was born.”
+235	She is one of the Children of the Yanyeidí.
+236	You too are [of] the Children of the Yanyeidí;
 237	this is a precious thing.
 238	Just like the child of the Queen of England,
 239	you are valuable [people],
-240	because you are the Children of the Yanyèdí.
-241	It was my uncle, my father's brother, who gave you the name
+240	because you are the Children of the Yanyeidí.
+241	It was my uncle, my father’s brother, who gave you the name
 {Page = 23}
-242	Wèhá.
+242	Weihá.
 243	You are truly exalted,
-244	[you and] all the Children of the Yanyèdí,
+244	[you and] all the Children of the Yanyeidí,
 245	[whose name comes] from the Taku River.
 246	This is why I want you to see
 247	your background, your history,
 248	what happened in the past.
-249	As long as [I live]-
+249	As long as [I live]–
 250	I will not live forever,
 251	but those who come after you will read it.
 252	If only you were taken by boat along the Taku River
@@ -270,10 +270,10 @@
 256	but you will know all [your history] from the Taku River,
 257	what happened to you in your past
 258	Then you will put down on paper
-259	your treasure-
+259	your treasure–
 260	this is what we call it,
 261	we Tlingits.
-262	All the Children of the Yanyèdí
+262	All the Children of the Yanyeidí
 263	are treasured.
 264	No one will shove his fist in your face;
 265	this is how people respected themselves long ago.
@@ -282,18 +282,18 @@
 268	This is how you are.
 269	My uncle,
 270	this is a valuable name,
-271	Wèha,
+271	Weihá,
 272	[that] he gave to you.
-273	As [one of] the Children of the Yanyèdí
+273	As [one of] the Children of the Yanyeidí
 274	you are exalted;
 275	your name is very valuable.
 276	This is what I was telling that woman.
 277	As the Queen
 278	and King George are respected,
 279	so no one will be able to say anything against you;
-280	this is truly how it is with the Children of the Yanyèdí
+280	this is truly how it is with the Children of the Yanyeidí
 {Page = 25}
-281	and the Yanyèdí,
+281	and the Yanyeidí,
 282	[whose name comes] from the Taku River.
 283	Therefore I want you to see
 284	the place where your history came into being
@@ -305,25 +305,25 @@
 290	then
 291	they used to respect one another.
 292	Now, you are a Raven;
-293	you are my uncle's namesake.
+293	you are my uncle’s namesake.
 294	I am a Wolf.
 295	People in this relationship
 296	we considered suitable partners for one another.
 297	And to our children [we give]
 298	names [of people] that we held dear:
-299	our grandfather, our mother's sister,
-300	our mother's brother.
-301	Suchnames,
+299	our grandfather, our mother’s sister,
+300	our mother’s brother.
+301	Such names,
 302	names we hold dear,
 303	are suitable for [our children];
 304	we give them to them.
-305	It's good that my uncle gave his name to you;
+305	It’s good that my uncle gave his name to you;
 306	there is nothing wrong with it at all, I think.
-307	It's good
-308	that you were named Wèhá.
+307	It’s good
+308	that you were named Weihá.
 309	He was a very wise man,
 310	my uncle
-311	Wèhá.
+311	Weihá.
 312	I knew him well.
 313	But these days, even though, [for example],
 314	I am a Wolf,
@@ -331,7 +331,7 @@
 316	they just run to each other anyway.
 317	And afterwards, when they have a potlatch,
 318	they will say to me,
-319	"Me too, give my child a name."
+319	“Me too, give my child a name.”
 320	What am I to name her?
 321	Her father is a Wolf,
 322	her mother a Wolf,
@@ -343,7 +343,7 @@
 327	and the way things are going these days [is not good].
 328	Long ago, when something would happen to one of them–
 329	ever since I was a girl
-330	I have known this-
+330	I have known this–
 331	whatever a person leaves behind,
 332	such as my tattered belongings here,
 333	if something were to happen to me,
@@ -352,44 +352,44 @@
 336	or whatever.
 337	After one year they would bring them out
 338	for those who are of the Wolf clan,
-339	"This is your mother's sister's; this is your mother's,"
+339	“This is your mother’s sister’s; this is your mother’s,”
 340	[with these words] they distribute them.
 341	They contribute money for it,
-342	"[This is for] the fence around her grave;
-343	this here is for her headstone,"
+342	“[This is for] the fence around her grave;
+343	this here is for her headstone,”
 344	[they all work] together.
 345	But now things are not like that;
-346	it doesn't matter to people if something happens to someone.
+346	it doesn’t matter to people if something happens to someone.
 347	So if you would only go with us
 348	to the Taku River,
 349	after [the trip],
 350	you could take down my story in writing.
-351	I don't want
+351	I don’t want
 352	my poor children–
 353	some of them are 55 years old–
-354	I don't want them to lose
+354	I don’t want them to lose
 355	the way we used to live.
 356	So I too hope
 357	that you can take off a month and go with us
 358	if you have any chance.
 359	Long ago at the time
-360	I was talking about, [before the time of] Nàda.êyà,
+360	I was talking about, [before the time of] Naada.éiyaa,
 361	there were [two] giants
 362	at the mouth of the Taku River.
 363	Now they had a disagreement.
 364	It's been a long time since I've seen
-365	Wasʼasʼê.
+365	Wasʼasʼéi.
 366	Perhaps you don't know what it is, either?
-367	It's right across from Kèshixjixʼà.
+367	It’s right across from Keishixjixʼaa.
 368	The mountain is like that,
 369	as if touching the face of it;
-370	it is called Wasʼasʼê.
+370	it is called Wasʼasʼéi.
 {Page = 29}
-371	Now [Łkùdasêtsʼk] the one upriver from Kaxhtûk [started the fight];
+371	Now [Lkoodaséitsʼk] the one upriver from Kax̱tóok [started the fight];
 372	they ran to attack one another,
 373	the giants,
 374	and then they fought.
-375	Then [Wasʼasʼê] decapitated [Łkùdasêtsʼk] there
+375	Then [Wasʼasʼéi] decapitated [Lkoodaséitsʼk] there
 376	and threw his head over to the other side of the Taku River.
 377	Here, as it were, like this,
 378	face down,
@@ -405,21 +405,21 @@
 388	perhaps a little larger than this room,
 389	stretched out so;
 390	only short grass grows on it.
-391	"This will be the Heart of the Taku,"
+391	“This will be the Heart of the Taku,”
 392	said
-393	Wasʼasʼê.
+393	Wasʼasʼéi.
 394	He [went to]
-395	the place where [the mountain] is today, Wasʼasʼê–
+395	the place where [the mountain] is today, Wasʼasʼéi–
 396	he moved there.
 397	This is what my father-in-law used to tell us;
 398	since he was a young boy
-399	they told him that it's still the same as ever.
+399	they told him that it’s still the same as ever.
 400	For some reason it never drifts away,
 401	the Heart of the Taku?
 402	I suppose it is still there to this day.
-403	It's been a long tüne since I've seen it.
+403	It’s been a long time since I’ve seen it.
 404	It is still in the middle of the Taku River.
-405	At Wasʼasʼê,
+405	At Wasʼasʼéi,
 406	at the place where it is,
 407	they would go for seagull eggs long ago.
 408	This is what I was telling that white woman:
@@ -444,7 +444,7 @@
 426	Long ago perhaps they were not familiar with salt.
 427	But then according to what my father-in-law told me,
 428	he used to tell this story,
-429	that people used to beach their canoes inside Kèshixjixʼà
+429	that people used to beach their canoes inside Keishixjixʼaa
 430	and build fires around stone pots.
 431	They were tall
 432	and long,
@@ -495,7 +495,7 @@
 476	they would sit around listening to stories.
 477	The young people would prepare soapberries,
 478	soapberries to eat.
-479	"Leave off your stories now!"
+479	“Leave off your stories now!”
 480	they would eat the soapberries.
 481	Now after they finished drying fish
 482	they would head this way, to the mountains by Atlin.
@@ -505,7 +505,7 @@
 486	They dried them,
 487	and when they had dried everything
 488	they would carry [two packs] down, relaying them.
-489	The old village is called Tatlenxʼixhù.
+489	The old village is called Tatlenxʼix̱oo.
 490	[They would take different kinds of meat,]
 491	mountain sheep, groundhog, ground squirrel,
 492	[and] cook them together on different occasions.
@@ -521,16 +521,16 @@
 502	She took them out of the water and scraped them off,
 503	and the heads likewise.
 504	Then she put them away in a gunnysack.
-505	"Put it on the drying rack,"
+505	“Put it on the drying rack,”
 506	she told me.
 507	Not until this time of the year, January, did she ask me about it,
-508	"Bring some hoofs
-509	and heads."
+508	“Bring some hoofs
+509	and heads.”
 510	She put them right in the pot
 511	and boiled them.
 512	When it was quite soft from boiling–
-513	It's quite a change from other things, eh?
+513	It’s quite a change from other things, eh?
 514	This is how we used to live;
-515	this is what I'm saying.
-516	But it's hard [to understand]
+515	this is what I’m saying.
+516	But it’s hard [to understand]
 517	when it is not written down accurately.
