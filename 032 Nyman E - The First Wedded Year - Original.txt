@@ -9,8 +9,8 @@
 {Dialect = Northern - Inland - Atlin}
 {Page = 168}
 1	Ha wé a káxh xhat xhʼìwûsʼ, shûgunáxh / wé axh xhúxh
-2	du xháni yê xhat natî–
-3	tléł atkʼátskʼu axh jì yê utí–
+2	du xháni yê xhat natî—
+3	tléł atkʼátskʼu axh jì yê utí—
 4	àghâ áwé yú ghàtâ tlʼátgidáxh
 5	hàndé hà kawduwakhâ.
 6	Yûtʼát, at jindàdùgú xátʼà áwé yê s aya.û.
@@ -68,9 +68,9 @@
 57	atxhá áwé wtuwa.ù,
 58	khúxhde [yís].
 59	Jî! dlèt dàk wusitán tsu!
-60	Yú mailman xhá–
+60	Yú mailman xhá—
 61	airplane xhá tléł khùstí,
-62	kha tléł tsú anaxh [àdé yàxh ùghàgha.àdi yé]–
+62	kha tléł tsú anaxh [àdé yàxh ùghàgha.àdi yé]—
 63	kètl xátʼayi tín áwé
 64	wé mail át has àwatî yú Telegraph Creek-de,
 65	nàłî yû kdunîk.
@@ -107,14 +107,14 @@
 95	A ítde áwé tle wé kètl áxh yà na.át tle.
 96	Kàxwâshgé nèł yantùdlâkh,
 97	hàt kawtuwajéł wé àghâ yan hà yawdudzikhayi át.
-98	Adaxh áwé yèsú tsu wé–
+98	Adaxh áwé yèsú tsu wé—
 99	wé Tʼàkhú yíde yèsú ghunayê wutuwa.át,
 100	tle yà hà nànałgásʼ áwé.
-101	Héʼ, gúshé xʼùn xátʼà sáwé–
+101	Héʼ, gúshé xʼùn xátʼà sáwé—
 102	áwé axh chàn tléł át wugùdín,
 103	tlêxʼ xátʼà áwé hú,
 104	yá àn à áwé wé hà at ła.ádi, sʼísà hít, sdùx,
-105	dà sá, hà xʼûwu, hà atxhàyí, kètl atxhàyí–
+105	dà sá, hà xʼûwu, hà atxhàyí, kètl atxhàyí—
 106	shayadihên wé xátʼà.
 107	Tléł khu.a unàłiyi yêxh tù.àt,
 108	a tûxʼ wé axh xhúxh du húnxhw
@@ -139,10 +139,10 @@
 126	chʼa àn áwé.
 127	Héʼ, yèsú
 128	Chùkán Tlèn tû duwasâgu yé â hà uwaxhî,
-129	jíʼ! xûn–
+129	jíʼ! xûn—
 130	xûn tliyê yê wùtì.
-131	Áwé first time áwé xhwasitìn–
-132	shûgunáxh xhwasitìn wé–
+131	Áwé first time áwé xhwasitìn—
+132	shûgunáxh xhwasitìn wé—
 133	héʼ [dzískʼu dùgú] áxh akawdudlisʼìkh,
 134	á áwé has akahánt yû,
 135	jâji ikhtàkdzàs yís ásíwé.
@@ -156,7 +156,7 @@
 143	i jâji ikhtàkhdzàs yís áwé,
 144	tléł ułghíxhʼjà wé úxh akasʼíkhxhi jâji ikhtàkdzàs,”
 145	tle yê s yàwakhà.
-146	Tlâkw áwé a yàxh yè kantusakên wé du jâji–
+146	Tlâkw áwé a yàxh yè kantusakên wé du jâji—
 147	xhát,
 148	yè kanaxhsakên.
 149	Tle a ikhtâkdáxh kakhasakê áwé du jìt xhwasitán
@@ -180,15 +180,15 @@
 167	Áwé chʼu tle yê gíwé a xhánt awułʼûn,
 {Page = 176}
 168	tléł ułghíxhʼjà wé jâji xhá,
-169	wé wdixwaji at xáshti tín–
+169	wé wdixwaji at xáshti tín—
 170	àdé daxh has at wuskûwu yé áwé tlákw.
 171	Tle àwa.ún tle wé a yádi tsú àwa.ún.
 172	Dà sáwé tsú khâ dzískʼw tsú [tle awsitìn],
 173	chʼu tle tsu á tsú át akawłi.ún tle.
 174	Héʼ, anaxh hàt wudzixátʼ
-175	A kígi–
+175	A kígi—
 176	tle awłixʼìsh kwshêwé wé shichdzískʼw tle,
-177	wûshdáxh àwaxàsh–
+177	wûshdáxh àwaxàsh—
 178	àghâ tsá yèsú a tû at kàwachák.
 179	Tle chʼa áxh áwé yà kshaxhʼíłʼch wé at dùgú.
 180	Tléł â kdusxátxh, chʼas
@@ -207,7 +207,7 @@
 193	Tléł nàłiyêxh áwé ù.àt,
 194	wé at yátxʼi kha wé axh chàn yà ndusxátʼ.
 195	Gwáł about ftfteen miles gíwé áxh tù.àt.
-196	Yâxʼ áwé first time áwé yà nxhagút wé–
+196	Yâxʼ áwé first time áwé yà nxhagút wé—
 197	wé Tʼàkhú yíde.
 198	Yât gwáwé chʼu tle yû,
 199	tle yú diyínde / yínde nàłî!
@@ -235,8 +235,8 @@
 220	tle wé diyânaxh.á áwé tle
 221	tle a shakîde,
 222	wé Tʼùchʼ Shakî áwé yê yatì.
-223	Kàxwâ wé–
-224	wé a shakîdáxh íkhde tle wé Nàkʼina.â tle duwatîn–
+223	Kàxwâ wé—
+224	wé a shakîdáxh íkhde tle wé Nàkʼina.â tle duwatîn—
 225	tle àdé.
 226	Yèsú tsu / áxʼ dês tsu hà uwaxhî,
 227	dzískʼu xhùt áwé wtuwa.át.
@@ -261,7 +261,7 @@
 246	dzèt ùxhú yû has ayasâkw.
 247	Tle dúkh áwé tle yû,
 248	tle yá kînáxh tle yû,
-249	tle yânáxh khu.a xáshà tín tle yù has ayaxáshk–
+249	tle yânáxh khu.a xáshà tín tle yù has ayaxáshk—
 250	tle dzèt áwé yê yatì.
 251	A kanaxh áwé kínde has ał.àt wé dzískʼu ghádzi
 252	kha wé a sʼûghu, a jíni,
@@ -269,8 +269,8 @@
 254	â kè s akàwajéł.
 {Page = 180}
 255	Àghâ áwé tsá tle xwàsdâ tle yû a kinâxh has akàwayà
-256	wé kùyêx xhʼanákh–
-257	wé kùyêx xhá chʼu tle chʼas wé tày axhá–
+256	wé kùyêx xhʼanákh—
+257	wé kùyêx xhá chʼu tle chʼas wé tày axhá—
 258	a xhʼanákh áwé.
 259	Tle hà nákh àwa.àt
 260	wé Yayuwà áxʼ yê yatìyi yé / àdé,
@@ -307,7 +307,7 @@
 291	Anaxh yuxh jiwdigùt wé a tlâ áwé,
 292	wé du yátxʼi tsú, tle tléł unałí du yáxh kułgèyí, dêxh yatì.
 293	Tle wé a xhʼawùłí áwé wdigùt yû,
-294	kínde–
+294	kínde—
 295	awditʼáxh.
 296	Tle chʼa khúnáxh yât áwé,
 297	tle khúnáxh
@@ -325,7 +325,7 @@
 308	Jìxhłatínjin xhá wé axh wû,
 309	chʼu tle yá a tàyí tle a dàdáxh anałxʼíshch tle yû.
 310	Tle chʼas wé a tàyí áwé,
-311	kha wé a sʼûghu–
+311	kha wé a sʼûghu—
 312	dàkhw à sá has du tûch gaxhduxhà à
 313	á áwé yê s awsinì.
 314	Dà sáwé tsú anaxh kè has uwa.át,
@@ -334,7 +334,7 @@
 317	tle chʼas dlìy áwé hà xhán shàwahík.
 318	Àghâ áwé tsá hà nákh àwa.àt.
 319	Yèsú uhânch khu.a áwé yû
-320	kawtuwatʼâxʼ wé–
+320	kawtuwatʼâxʼ wé—
 321	wâ sá kùgê wé tày
 322	tle yaxh yakawtusitʼáxʼ,
 323	wutusitâ tle.
@@ -388,7 +388,7 @@
 370	tle wé yê kùgeyi át kàdé.
 371	Chʼu tle tléł unałí shawutlʼîtʼi
 372	wé at sʼàghí ìxhí.
-373	Àghâ áwé tsá yèsú–
+373	Àghâ áwé tsá yèsú—
 374	“Kʼe wé a tási
 375	hàt à łałʼíxʼ,
 376	de a yáxh shákdêwé uwaxúk
@@ -421,7 +421,7 @@
 402	Tle has ùstâych tle,
 403	àghâ áwé tsá wé yatsìnèt ìxhí tin / tùxhâ nìch.
 404	Chʼa łdakát yêde áwé...
-405	Yâxʼ áwé chʼas–
+405	Yâxʼ áwé chʼas—
 406	de sʼigèdí áwé kè uwa.át.
 407	“Kʼe yú Nàkʼina.âde nay.á.”
 408	Áwé yá yìdát wé du ká yê wdudzinìyi à,
@@ -446,13 +446,13 @@
 426	Tle hà dèyí tle áxh daxh yàwashû.
 427	Du ìn áwé [xhat tuwatì],
 428	axh tuwâ sigû xhá sʼigèdí awujàghí,
-429	chʼa chush jiyís–
+429	chʼa chush jiyís—
 430	takhshâ xhâwé yê yatì,
 431	chʼa àn áwé wé atkʼátskʼu àwa.ù.
 432	Á áwé du tlâ tuwáxʼ tléł ushgú.
 433	Á du xhʼanákh áwé át natù.átch chʼa tlákw.
 434	Wâ nanî sáwé Nàkʼina.âde wtuwa.àt.
-435	Ha tʼèxh yínde kè xhwàghíxʼ–
+435	Ha tʼèxh yínde kè xhwàghíxʼ—
 436	Tʼèxh Xhʼa.ìtí yû duwasâkw.
 437	Dà sáwé tsú xʼêtà kè xhwàxhútʼ.
 438	Hàhá, axh tuwâ sigû wé tʼèxh.
@@ -476,8 +476,8 @@
 456	Wâ sáyá yà gaxhdusnî wé axh chàn?
 457	Wułnìdlín,
 458	tléł tsu àdé gùxhdihàni yé.
-459	Áwé wé Łxhùda.ànyádi–
-460	he wasnʼt very big, tléł àtlèn khâ áwé yê utí–
+459	Áwé wé Łxhùda.ànyádi—
+460	he wasnʼt very big, tléł àtlèn khâ áwé yê utí—
 461	tle yû a xhîgwáłʼi áwé yê aya.û.
 462	Tle yû du tayìnáxh kayaxát tle yât,
 463	tle yât yû anaxh kayaxát tle yât a ya.âwu,
@@ -500,19 +500,19 @@
 479	I donʼt think we go there.
 480	Á áwé tle thatʼs far as you can go tle.
 481	Àxh áwé tle — wé kaxîsʼ tûnáxh àndé xhʼandutánch
-482	wé car-ghà, kha chʼu wé truck–
+482	wé car-ghà, kha chʼu wé truck—
 483	tle àxh áwé tle wé ànt hà wdudzixhútʼ wé truck-ch.
-484	Tle wé kètl kha wé kètl xhîyxʼi–
+484	Tle wé kètl kha wé kètl xhîyxʼi—
 485	á áwé tsú
 486	kukhakhâ,
-487	wé kètl xhîyi–
+487	wé kètl xhîyi—
 488	adaxh tsu dáxhináxh ûsh yatì wé kètl.
 489	Chʼâkw àdé at tîyi yé áwé
 490	tléł wé four-wheel-drive wuduskûwun tlákw,
 491	kètl áwé khùn át nadayâjin.
 492	Du saxh.atsâghayi du sê yê ndu.èch,
 493	àn yà yakdusyíkhch.
-494	Á áwé axh tuwâ sigû wé kètl xhîyi–
+494	Á áwé axh tuwâ sigû wé kètl xhîyi—
 495	de wé xwàsdâ — tliyàtatgé wêdáxh xhwà.ù wé xwàsdâ.
 496	Àghâ khu.a dzískʼu dùgú áwé yê du.úxhxʼun wé kètl xhîyi,
 497	yú xwáchsʼi,
@@ -524,7 +524,7 @@
 503	àn xhʼayìdé gughwagùdí chʼas â yà agayâch
 504	wé du at dùgú gwêłi.
 505	Tléł xwàsdâ khùstîyin tlákw.
-506	Adaxh áwé kʼe yìkawuyâtʼ àghâ–
+506	Adaxh áwé kʼe yìkawuyâtʼ àghâ—
 507	tle tsu yú nánde a shuyìdé / wutuwakhùxh.
 508	Tle àghâ áwé wé axh chàn Łànàtk,
 {Page = 192}
@@ -542,7 +542,7 @@
 520	Tle kwshêwé tle łdakát axh nà.ádighâ kwshêwé tle has àwawû
 521	wé catalog kàxh,
 522	kha wé veil.
-523	Chʼa hú dê wé nakwnêt–
+523	Chʼa hú dê wé nakwnêt—
 524	Łingít xhʼênáxh yù xhʼatángin wé nakwnêt,
 525	àdé ûsh gé awsikûwu yé,
 526	àdûch sá du î włitíw?
@@ -576,7 +576,7 @@
 {Page = 194}
 554	Tle shàwahík / wé Yayuwà Hít.
 555	Dlèt khâ dlèt shâ tin tle wùch xhùt [has wudi.át].
-556	Á áwé wé axh xhán à áxʼ–
+556	Á áwé wé axh xhán à áxʼ—
 557	łatín, chʼa yú nakwnêt yê hà yawsikhà,
 558	“Tle dàxʼùn yakyì xhʼânáxh tléł łítà àdé gaxhyishì,
 559	kha łíł dà sá yałikʼatsʼi át łíł áxh yishìkh,”
@@ -590,7 +590,7 @@
 567	axh xhúxh Khusʼèxh,
 568	yâdu axh shátxh
 569	Xhàstìn,
-570	tle yú ghíłʼákʼw shakîde kwshêwé àwa.àt tle áxʼ tle wé–
+570	tle yú ghíłʼákʼw shakîde kwshêwé àwa.àt tle áxʼ tle wé—
 571	Á xhá dlèt khâ áwé xhùkdahîn, / malt beer áwé yê adàné.
 572	Tle a îtxh kwshêwé wûsht has ayàwa.úw.
 573	Xhát khu.a áwé
@@ -675,11 +675,11 @@
 650	“Tle wé /a káxh dułxhʼwasʼgu át dàt áxh,
 651	àghâ tsá nałxhʼwâsʼ.”
 652	Chʼa du xhʼayáxh áwé.
-653	Yê kwdagè áwé àxh kínde daghátch–
+653	Yê kwdagè áwé àxh kínde daghátch—
 654	ha wé a xhàwú áwé khúdáxh kusikàk.
 655	Gwáł dêxh yakyì xhʼânáxh gíyú
 656	a dàt xha.áxh, xhałxhʼwásʼk yû.
-657	Kàxwâshgé yê yà kakùgê wé–
+657	Kàxwâshgé yê yà kakùgê wé—
 658	àxh — a chʼâdu kha wé a xhàwú àxh yê yà nanìn.
 659	Wâ nanî sáwé yê xhat yawdudzikhà,
 660	“Hîn kàdé na.àxh
@@ -717,11 +717,11 @@
 691	yà xhat has nakhít.
 692	Iʼm not the same, a tûxʼ
 693	tá axh kát ugùtch.
-694	Wâ nanî sáwé xhat xhʼawduwawûsʼ–
+694	Wâ nanî sáwé xhat xhʼawduwawûsʼ—
 695	tle chʼu yìdádidé
 696	chʼù yê xhat yatì, you know,
 697	chʼa yú khà xhùxʼ xhʼawdatàn tsú
-698	Iʼm really shy to say anything–
+698	Iʼm really shy to say anything—
 699	“Wâ sáwé iyatì? Chʼu gí i dís nîgu i jì yê tíxhxʼw?”
 700	Tléł xhwasakú dà sáwé yê s àwasâ.
 701	“Àá.”
@@ -757,7 +757,7 @@
 730	tle yá khàyakûtʼi tle yât àxh kàwakʼùts.
 731	Àdé kkhwałakhâ, àxh hàt xhagútni tsá
 732	tsu yè kkhwasawûkh,” yû dàyaxhakhá.
-733	Xhachu tle yá–
+733	Xhachu tle yá—
 734	tle yá khàyakûtʼi ìtí ásiyá tsú dàk yàwasʼéłʼ.
 735	Xhwàkhâ, tle wé khàyakûtʼi tsu át kaxhwłikhâ.
 736	Has du xháni hàt xhwajixíx.
@@ -766,7 +766,7 @@
 739	See, I donʼt know I was pregnant.
 740	At shùkh, chʼu tle at shùkhch jákhxh hú khu.a,
 741	tléł tsu axh ît xhʼáwutàn tle de chʼa hûchʼ áwé.
-742	De wâ nanî sáwé wé–
+742	De wâ nanî sáwé wé—
 743	wé Agnes du tlâ Sàtlèndu.ù yû áwé dusâgun.
 744	“Kʼe hàgú, yûde naxhtù.àt,” yê xhat dàyakhá.
 745	Du ìn áwé yà nxha.át, du ítxh yà nxhagút.
@@ -816,8 +816,8 @@
 788	Tsu ásíyá / xânà áwé
 789	łdakát àwaxhêxʼw de.
 790	Chʼa tàt yìn áwé kè xhat uwaxhích. .
-791	“Dà sákwshêgé xhwàxhâ, axh yú yanîkw,” yû–
-792	wâ sákwshêgé tléł wutùjàkh gí wé Jackie, wé baby axh kaxʼ–
+791	“Dà sákwshêgé xhwàxhâ, axh yú yanîkw,” yû—
+792	wâ sákwshêgé tléł wutùjàkh gí wé Jackie, wé baby axh kaxʼ—
 793	tle chʼas yá axh kinâxʼ yû sh da.ùwú áwé
 794	tle I feel better.
 795	Tle shayèt áwé tle yû axh kinâ yan xhwasitî,
@@ -844,7 +844,7 @@
 815	Tléł tsu yê ykawuyâtʼi áwé
 816	tle wé sʼísà hít gânxʼ dàxh wuduwatì.
 817	Tléł tsu tlêxʼ xhwasakú a dàt át wé at daná.
-818	A yû–
+818	A yû—
 819	a xhù à wé shâ, yá tʼakwanêyi yê sh wudunùgú tle
 820	gúxʼà tle yâxh kadusdà,
 821	tle hot water tín, shûgà tín,
@@ -857,8 +857,8 @@
 828	chʼa khà xhʼayáxh áwé dê xhwdinâ.
 829	Ágíyú chʼu tle it make me worse,
 830	thatʼs what I figure, anyway.
-831	Tle yú hospital-dé–
-832	tle axh îsh de tûxh yè khunatîn–
+831	Tle yú hospital-dé—
+832	tle axh îsh de tûxh yè khunatîn—
 833	dà sáwé tsú car axh ìghâ hàt uwakhúxh,
 834	tle a kàdé xhat wuduwashât tlâkw.
 835	Tléł tsu yìwuyâtʼi áwé khuwdzitì,
@@ -907,7 +907,7 @@
 877	Ách áwé yâxʼ yê xhat wùtì.
 878	Chʼu tle tùghâ xhànùk wé Tʼàkhú yík.
 879	Wé axh xhán à yú mine-xʼ yê jinê nìch,
-880	xhát khu.a wé–
+880	xhát khu.a wé—
 881	wé axh tlâkʼw has du xhán kha wé axh chàn.
 882	Has du îxh xhadashì,
 883	tsu hêtʼà tsu hêtʼà / has du xhùt naxhashíxch yû.
@@ -941,8 +941,8 @@
 910	Wâ nanî sáwé...
 911	Tléł yìdadi yáxh utí wé xáshà,
 912	hîn a tûde kadułxêsʼ,gas-ch áwé yà kanałjíxw.
-913	Hàw, dàkhw à yís sá kwshé wé hîn–
-914	chʼu tle yû khûk yáxh kayaxát–
+913	Hàw, dàkhw à yís sá kwshé wé hîn—
+914	chʼu tle yû khûk yáxh kayaxát—
 915	a tûde yù kdudzixêk kha dlèt.
 916	Héʼ, á áwé axh tuwâ kwłitîsʼshán.
 917	Adaxh áwé tle wé axh îsh
@@ -962,7 +962,7 @@
 931	Tle hûchʼ, no more, tsu hàdé xhwagùdí,
 932	tléł axh tû ushgú.
 933	Tle gíyú / at gutûxh xhat tùwadà.
-934	Tle khutàn yìn áwé tle wé–
+934	Tle khutàn yìn áwé tle wé—
 935	tle wé dlèt khâ ànínáxh yan khutù.ûwch tle.
 936	Hà shaká áwé â yê s yatì
 937	wé dlèt khâ àní kha wé custom office.
@@ -994,8 +994,8 @@
 962	Shayadihên xhá wé â daxh adułʼexh yé yá àn xhʼayì,
 963	tle áxʼ wé yîs shâ kha wé yîs khâxʼw tle
 964	tle gushé tle wé khà xhúxh khu.a.
-965	Kàxwâ wùch ghunayâ has ghada.ádín–
-966	de xʼùnínáxh yatìyi à sáwé de wùch ghunayâ wdi.át–
+965	Kàxwâ wùch ghunayâ has ghada.ádín—
+966	de xʼùnínáxh yatìyi à sáwé de wùch ghunayâ wdi.át—
 967	ìshân wé atyátxʼi.
 968	Yê yatìyi át khíndáxh áwé xhat dułshádin gíwé.
 969	Ha tléł tsu dà sá xhat kawuxîłʼin tle.
