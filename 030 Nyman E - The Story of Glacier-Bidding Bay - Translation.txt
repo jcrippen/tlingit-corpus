@@ -1,47 +1,47 @@
 {Number = 030}
 {Type = Translation}
-{Title = Sitʼkunà Ghìyi Dàt Sh Kałnìk / The Story of Glacier-Bidding Bay}
+{Title = Sitʼkunaa G̱eeyí Daat Shkalneek / The Story of Glacier-Bidding Bay}
 {Author = Seidayaa / Elizabeth Nyman}
 {Clan = Yanyeidí; Ḵaach.ádi yádi}
-{Source = Nyman & Leer 1993: 43–91}
+{Source = Nyman & Leer 1993: 43—91}
 {Translator =  Weihá / Jeff Leer}
 {Page = 43}
-1	Sitʼkunà Ghìyí (Glacier-bidding Bay)
+1	Sitʼkunaa G̱eeyí (Glacier-bidding Bay)
 2	is like this,
-3	see–
+3	see—
 4	here is where the glacier moves this way;
 5	the valley continues like this.
 6	A short distance away lies the bay,
 7	straight on down.
 8	Here is a point.
-9	This is Yanyèdí Xʼàyí (Yanyèdí Point)–
-10	they also call it Sítʼ Xʼàyí (Swede Point)–
+9	This is Yanyeidí Xʼaayí (Yanyeidí Point)—
+10	they also call it Sítʼ Xʼaayí (Swede Point)—
 11	it extends out toward [where the] Taku Lodge [is].
 12	This is what my father and his brothers would discuss together:
 13	the glacier
 14	could be spoken to
 15	and it would understand what it was told, they said,
-16	because Nàda.êyà [had let the blood drain from the slave's body
+16	because Naada.éiyaa [had let the blood drain from the slave’s body
 17	and] the ice had receded, melting away from it.
 18	This is how they knew about it.
 19	One time my father went to the glacier,
-20	Nêxhʼw (Tom Williams).
-21	[His brother] Natsʼáł (Telegraph Jack) was here at the back of the bay
-22	hunting for seals by waiting for them to surface–
+20	Néix̱ʼw (Tom Williams).
+21	[His brother] Natsʼál (Telegraph Jack) was here at the back of the bay
+22	hunting for seals by waiting for them to surface—
 23	whenever one would surface
 24	he would shoot and miss,
 25	shoot and miss.
 26	My father went over here toward the glacier.
 27	Eventually the sound of his gunshots came from there.
-28	"One of them fired his gun again,"
-29	we said of my father-
+28	“One of them fired his gun again,”
+29	we said of my father—
 30	the other one, that is, [his brother]
-31	Natsʼáł.
-32	Finally-
-33	I don't know how many times he fired that way–
+31	Natsʼál.
+32	Finally—
+33	I don’t know how many times he fired that way—
 34	after a long time he came back this way.
 35	There were snow drifts on the ground.
-36	"There comes father," I said.
+36	“There comes father,” I said.
 {Page = 45}
 37	When he had gotten close enough for us to see
 38	he pointed at the glacier.
@@ -60,7 +60,7 @@
 51	Then he piled the seal on top
 52	head to foot, like this.
 53	Then
-54	he told it, "You have been asked to go to Glacier-bidding Bay,"
+54	he told it, “You have been asked to go to Glacier-bidding Bay,”
 55	he told it.
 56	So it started to move.
 57	For some reason
@@ -100,8 +100,8 @@
 90	Those are the ones they were skinning.
 91	As when one kills something that one really hungers after,
 92	my sister was overjoyed.
-93	[My mother] took the tails–
-94	they're called flippers–
+93	[My mother] took the tails—
+94	they’re called flippers—
 95	and cut them off.
 96	Then she skewered them and singed off the fur
 97	and scraped them off.
@@ -125,14 +125,14 @@
 115	its surface contracted so that it became more compact
 116	[like a sausage] as it shriveled up,
 117	together with the meat; it ended up this big around.
-118	Eventually it got cooked–
+118	Eventually it got cooked—
 {Page = 49}
-119	 I guess she had it on the fire all day long–
+119	 I guess she had it on the fire all day long—
 120	it was finished boiling.
 121	The seal flippers were also done cooking.
-122	[The "fat" on the flippers] isn't really fatty.
+122	[The “fat” on the flippers] isn‘t really fatty.
 123	Because [the seal] moves [its flippers constantly] like this, I guess,
-124	[the "fat"] is more like gristle
+124	[the “fat”] is more like gristle
 125	together with fat.
 126	We were pretty suspicious of it,
 127	my brother and I;
@@ -151,49 +151,49 @@
 140	the meat inside was cooked.
 141	She rubbed salt over it.
 142	Then she cut it up and ate it.
-143	"Why don't you try some," she said to me.
-144	[I just said] "No";
-145	and my brother, too, "No."
+143	“Why don’t you try some,” she said to me.
+144	[I just said] “No”;
+145	and my brother, too, “No.”
 146	Likewise the flippers, too, she sliced them up
 147	and ate them with jerky.
-148	We didn't touch it;
+148	We didn’t touch it;
 149	they just gave us pieces of jerky about this size,
-150	and that's all we ate.
+150	and that’s all we ate.
 151	The next day, likewise, nothing but rice;
-152	they cooked rice, and that's all we ate.
+152	they cooked rice, and that’s all we ate.
 153	Now four days had already passed
-154	when our father said, "The children are going to starve.
-155	I'd better go to the cliffside;
-156	maybe there are mountain goat–
-157	if I shoot even a baby goat, that will do."
+154	when our father said, “The children are going to starve.
+155	I’d better go to the cliffside;
+156	maybe there are mountain goat—
+157	if I shoot even a baby goat, that will do.”
 158	So he left.
 159	Before long he came back with a goat in tow.
 160	He had a willow withe tied around its neck;
-161	that's how he was towing it.
+161	that’s how he was towing it.
 162	He dragged it over there
-163	and quickly they took hemlock boughs–
+163	and quickly they took hemlock boughs—
 {Page = 51}
-164	they're flat, you see-
+164	they’re flat, you see—
 165	and spread them out several deep.
 166	Then they skinned the goat.
-167	My father, meanwhile, took a hindquarter and quickly sliced it up–
-168	he knew how hungry we were–
+167	My father, meanwhile, took a hindquarter and quickly sliced it up—
+168	he knew how hungry we were—
 169	and fried it with bacon grease for us.
-170	"The children are going to starve," he said.
+170	“The children are going to starve,” he said.
 171	So that is what my brother and I ate.
 172	They cooked rice with it, too.
 173	My father said,
-174	"It's small goat, just enough for the children.
-175	We [adults] will live on seal meat,"
+174	“It’s small goat, just enough for the children.
+175	We [adults] will live on seal meat,”
 176	he said.
 177	It was a lot of seal they had killed.
 178	In order to get them done,
 179	whenever someone finished skinning one they salted it,
 180	and the next, and the next.
 181	The seal meat was piling up, like this.
-182	Twice, I guess–
-183	we were living at Kaxhtûk Xhʼayì,
-184	(the campsite near Taku Lodge) in a tent–
+182	Twice, I guess—
+183	we were living at Kax̱tóok X̱ʼayee,
+184	(the campsite near Taku Lodge) in a tent—
 185	my father took two loads, I guess, of
 186	seal fat and
 187	skin
@@ -204,21 +204,21 @@
 192	they built the tanning frames
 193	and set them up.
 194	When they were all dry they packed them away.
-195	From there we started off upstream–
-196	we had maybe three dogs with us as well–
+195	From there we started off upstream—
+196	we had maybe three dogs with us as well—
 197	to a place south of the boundary line where there were some cabins.
-198	After that–
+198	After that—
 199	have I ever told you about how we fled from the game wardens?
 200	{No.}
 201	Would you like me to tell you about that too?
 202	{Yes.}
-203	That cabin–
+203	That cabin—
 204	it was a big cabin;
 {Page = 53}
-205	that's the one we moved into.
+205	that’s the one we moved into.
 206	It had a stove and heater inside.
-207	"I'd better go moose hunting after I've gotten firewood,"
-208	said my father, Nêxhʼw.
+207	“I’d better go moose hunting after I’ve gotten firewood,”
+208	said my father, Néix̱ʼw.
 209	After they had gotten the firewood we packed it in,
 210	my brother and I, and stacked it up.
 211	It was a big house;
@@ -232,9 +232,9 @@
 219	The going price for hides was twenty-five dollars
 220	on the coast.
 221	To that end [they were putting up hides],
-222	my aunt Dàxhłâ (Anna), my mother
-223	Xhʼadèkna.àt (Mary),
-224	and my sister Xhàstìn;
+222	my aunt Daax̱láa (Anna), my mother
+223	X̱ʼadeikna.aat (Mary),
+224	and my sister X̱aasteen;
 225	they gave the hides of the moose calves to my sister.
 226	[If] they [kill] a mother [they also kill her calves];
 227	sometimes they kill two [calves] in that way.
@@ -243,18 +243,18 @@
 230	He was getting pretty old;
 231	his name was Oscar Yehring.
 232	My father said,
-233	"Letʼs bring him some of this meat,
+233	“Let’s bring him some of this meat,
 234	some really nice ribs and
-235	fried hindquarter," he said.
+235	fried hindquarter,” he said.
 236	So they cut some up and went over there with it,
 237	and gave it to him.
 238	Then he thanked them for it.
 239	Whereas in fact, he was the one who was going to report us.
-240	I don't know how many times they went to kill moose,
+240	I don’t know how many times they went to kill moose,
 {Page = 55}
-241	father and the other "father,"
+241	father and the other “father,”
 242	his brother
-243	Natsʼáł.
+243	Natsʼál.
 244	They both kept going out
 245	and bringing back hides.
 246	Meanwhile, my mother and the others were preparing the hides.
@@ -273,16 +273,16 @@
 259	as well as the seal skins.
 260	They were tanned;
 261	my mother and the others tanned them
-262	in the house–
-263	the seal skins, that is–
+262	in the house—
+263	the seal skins, that is—
 264	they tanned lots of them.
-265	Before we had traveled to my aunt's place
+265	Before we had traveled to my aunt’s place
 266	my father had shot a swan.
-267	So my aunt Dàxhłâ plucked off the feathers
-268	[leaving] just the underlayer of down–
-269	it's pretty, you know.
+267	So my aunt Daax̱láa plucked off the feathers
+268	[leaving] just the underlayer of down—
+269	it’s pretty, you know.
 270	Then she skinned the swan
-271	and "washed it in moose brains"
+271	and “washed it in moose brains”
 272	until it was quite soft.
 273	Then she tanned it
 274	with a hand scraper,
@@ -293,35 +293,35 @@
 {Page = 57}
 279	It was that Oscar Yehring,
 280	the one who, when they managed to kill a moose,
-281	they would give some to him–
+281	they would give some to him—
 282	it turned out that he was the one who wrote
 283	to the game wardens,
-284	"They are killing off too much game around here."
+284	“They are killing off too much game around here.”
 285	He named my father and the other one,
 286	and us two children and the three women.
 287	It was winter
 288	and when we went up to Tulsequah
 289	we stayed in a tent.
-290	They were setting traps–
-291	I don't know how many traps there were–
+290	They were setting traps—
+291	I don’t know how many traps there were—
 292	anyway, that is what they were doing;
-293	at this time they were using sagwèts–
-294	the Tlingit-style trap is called sagwèt–
+293	at this time they were using sagweits—
+294	the Tlingit-style trap is called sagweit—
 295	they set them up.
-296	I don't know how many marten they killed,
+296	I don’t know how many marten they killed,
 297	as well as wolverine,
 298	and so on, mink,
 299	they trapped.
 300	Lots!
-301	Here, too, were beaver dams and lodges–
-302	the eye could not see an end to them–
+301	Here, too, were beaver dams and lodges—
+302	the eye could not see an end to them—
 303	they went about inspecting them.
 304	The beavers kept coming up to where they could kill them.
 305	They kept watch on the traps.
 306	They killed more than a hundred
 307	beavers there.
 308	Then they said,
-309	["Let's make a] raft..."
+309	[“Let’s make a] raft...”
 310	Oh, yes, they killed moose there too,
 311	in March; they were cutting them and piling them up,
 312	my mother [and the other women],
@@ -334,8 +334,8 @@
 319	and they tanned them all.
 320	Some of them were white,
 {Page = 59}
-321	and some of them [they smoked] with rotten wood–
-322	there are no pinecones there like there are here–
+321	and some of them [they smoked] with rotten wood—
+322	there are no pinecones there like there are here—
 323	rotten wood
 324	is what they smoked them with.
 325	We [children] were still small;
@@ -343,11 +343,11 @@
 327	my brother and I.
 328	After this,
 329	by this time it was May and turning green.
-330	"Come on, let's boat down
-331	to Juneau and sell the furs," they said,
-332	"After that we can come back via Skagway
-333	to Atlin."
-334	"Yes," they said.
+330	"Come on, let’s boat down
+331	to Juneau and sell the furs,” they said,
+332	“After that we can come back via Skagway
+333	to Atlin.”
+334	“Yes,” they said.
 335	So my father and his brother made a raft;
 336	it was maybe longer than from here to there.
 337	Then it had something like a fence around it, like this.
@@ -361,15 +361,15 @@
 345	and marten
 346	and so forth, mink, weasel,
 347	all the things they had trapped.
-348	The canoe–
+348	The canoe—
 349	[I should explain], at the same time
-350	my [future] father-in-law, Yaxhgûsʼ (Billie Williams),
-351	who was my uncle–
+350	my [future] father-in-law, Yax̱góosʼ (Billie Williams),
+351	who was my uncle—
 352	he was my uncle;
-353	his wife was Łànàtk (Anna),
+353	his wife was Laanaatk (Anna),
 354	and his younger brother
-355	was named Wakhnàs (Shorty Jackson),
-356	[he was] my mother's brother, [so he] was an uncle to me;
+355	was named Waḵnaas (Shorty Jackson),
+356	[he was] my mother’s brother, [so he] was an uncle to me;
 357	he was my uncle;
 358	he used to help me because I was an orphan.
 359	At that time
@@ -378,9 +378,9 @@
 361	they, too, were hunting beaver.
 362	They stayed with us for two nights, I guess.
 363	Then they said,
-364	"Let Khìdudâ (Willie Jack) come along with us.
-365	We'll wait there
-366	at the mouth of the Tulsequah."
+364	“Let Ḵeedudáa (Willie Jack) come along with us.
+365	We’ll wait there
+366	at the mouth of the Tulsequah.”
 367	So my brother [Willie] went along with them.
 368	It turned out that the game wardens had already gone there
 369	and had taken their furs,
@@ -390,23 +390,23 @@
 373	and a Canadian,
 374	three game wardens.
 375	Now my aunt,
-376	Yaxhgûsʼ wife Łànàtk (Anna)–
-377	she was still able to walk then–
+376	Yax̱góosʼ wife Laanaatk (Anna)—
+377	she was still able to walk then—
 378	her younger sister
 379	was married to my uncle;
-380	her name was Khàłyátʼ (Sophie Jackson).
-381	[Łànàtk] had a necklace;
+380	her name was Ḵaalyátʼ (Sophie Jackson).
+381	[Laanaatk] had a necklace;
 382	she wore a gold necklace
 383	that hung inside her dress.
 384	So that is where
-385	the game warden reached in – right here,
+385	the game warden reached in — right here,
 386	and pulled it out by her neck.
-387	"I like your necklace," [he said];
+387	“I like your necklace,” [he said];
 388	that is why he reached in there and pulled it out.
 389	He examined it closely.
 390	After he had examined it closely he let it go like that,
 391	and she slapped his hand away,
-392	my aunt Łànàtk.
+392	my aunt Laanaatk.
 393	Then [the game wardens] went downstream
 394	and loaded the furs onto the boat,
 395	the furs that they had put up.
@@ -414,24 +414,24 @@
 397	and Telegraph Jack — do you know him?
 398	{Yes.}
 399	But my aunt [kept repeating],
-400	"We can't understand you;
-401	we can't understand you,"
+400	“We can’t understand you;
+401	we can’t understand you,”
 {Page = 63}
 402	she said in Tlingit,
 403	so they left and went downstream.
 404	That same evening
 405	her husband and his brother came back.
 406	They told them about these things;
-407	Khìdudâ (Willie Jack) was there in the boat with them, too.
+407	Ḵeedudáa (Willie Jack) was there in the boat with them, too.
 408	And that same night Shorty Jackson
 409	and his brother came up to where we were again.
-410	"The game wardens have taken our furs
+410	“The game wardens have taken our furs
 411	away from where we left them.
-412	They're searching for you," they told my father
+412	They’re searching for you,” they told my father
 413	and my aunt and mother,
-414	"We're all ready to head south!"
+414	“We’re all ready to head south!”
 415	So then
-416	the next day we set off floating downstream–
+416	the next day we set off floating downstream—
 417	that is, my father started off downstream
 418	with the raft.
 419	The rest of us were in a canvas canoe.
@@ -444,15 +444,15 @@
 426	and had arranged the moose bones in piles
 427	like this,
 428	here and there.
-429	I don't know how many piles they counted;
-430	I don't know.
+429	I don’t know how many piles they counted;
+430	I don’t know.
 431	They took the swan skin
 432	and the seal skins, every one of them tanned.
 433	They took them all away.
-434	"Truly [they left] nothing for us–
-435	we are going to lose a great deal," they said.
-436	So [they went] to the place we call Nàhîni [secondary channel]
-437	dragging the raft–
+434	“Truly [they left] nothing for us—
+435	we are going to lose a great deal,” they said.
+436	So [they went] to the place we call Naahéeni [secondary channel]
+437	dragging the raft—
 438	they were pulling it up by rope.
 439	They pulled it up to a place where it was not visible,
 440	and the canoe too, they pulled the canoe aground
@@ -463,39 +463,39 @@
 445	as much as from here to there,
 446	and they dumped them into the river;
 {Page = 65}
-447	they weren't able to pack them up the mountainside.
+447	they weren’t able to pack them up the mountainside.
 448	My mother and the others made dog packs for the dogs
 449	and they loaded up the dog packs.
 450	We [children] took jerky made from back meat, only the best,
 451	and packed it into a bag, my brother and I,
 452	for our traveling food,
 453	as well as marrow.
-454	"You are going to pack this; it is to be your traveling food,"
+454	“You are going to pack this; it is to be your traveling food,”
 455	they told us.
 456	The next day we left early in the morning−
 457	it was a steep mountain (Kluchman Mountain).
-458	But we [children] — you know how kids are: they never get tired–
+458	But we [children] — you know how kids are: they never get tired—
 459	my brother and I ran uphill chasing each other;
 460	he ran ahead,
 461	I always took up the rear.
 462	When we had gotten far up we would sit and wait for them;
 463	in spite of the fact that we were carrying packs, too.
-464	After a while my father–
+464	After a while my father—
 465	we had already gotten high up, more than halfway up,
-466	and then we rested there; the sun was already up–
+466	and then we rested there; the sun was already up—
 467	and my father took out binoculars
 468	and was looking around in the distance.
 469	And what do you know, Oscar Yehring was sitting outside;
 470	he was looking for us too, with binoculars, apparently.
 471	Then father said,
-472	"Hurry up; no matter if you're getting exhausted;
-473	that old man is leaving for home," he said.
+472	“Hurry up; no matter if you’re getting ex̱austed;
+473	that old man is leaving for home,” he said.
 474	So they quickly started off;
-475	eventually [they got] over the peak to the other side–
-476	perhaps just a little way down from the top–
+475	eventually [they got] over the peak to the other side—
+476	perhaps just a little way down from the top—
 477	and they were out of breath, [especially] my aunt;
 478	she was the oldest of them,
-479	Dàxhlâ (Anna).
+479	Daax̱láa (Anna).
 480	Besides, she was fat!
 481	Sweat was streaming down her face.
 482	She was carrying a pack too, as did my mother and my sister.
@@ -514,7 +514,7 @@
 494	Rock ptarmigans were running up single file up toward the top
 495	and we were chasing them.
 496	Now it happened that I was always on the lookout for rocks to use as dolls,
-497	and I saw something–
+497	and I saw something—
 498	it was veined.
 499	I looked up and down along it like this
 500	and the vein ran zigzag
@@ -539,9 +539,9 @@
 519	I wanted to take a piece to play doll with,
 520	so I hid the stone doll in my pocket.
 521	When I hurled it onto a large rock [to split it]
-522	it just [broke into smithereens]–
-523	a white [powder]–
-524	it wouldn't fracture.
+522	it just [broke into smithereens]—
+523	a white [powder]—
+524	it wouldn’t fracture.
 525	And when I pulled on it, the whole thing
 526	seemed to stretch [and turn] white;
 527	it was fibrous like cotton.
@@ -553,15 +553,15 @@
 532	and eventually a piece so big came off in my hands,
 533	that rock which I had seen,
 534	and I put it in my pocket.
-535	"What is that; what have you hidden there?" my mother asked me.
-536	"Nothing," I said–
+535	“What is that; what have you hidden there?” my mother asked me.
+536	“Nothing,” I said—
 537	one piece I had in my pocket, the other here.
 538	She searched my pocket and
 539	found the one and threw it away.
-540	But I didn't tell her about this other one.
+540	But I didn’t tell her about this other one.
 541	Then we started off through the avalanched snow.
 542	My aunt was bringing up the rear,
-543	Dàxhłâ, that is,
+543	Daax̱láa, that is,
 544	she was fat.
 545	The snow came up to here
 546	on them;
@@ -570,7 +570,7 @@
 549	Then my aunt fell behind.
 550	So she broke off those
 551	boughs,
-552	balsam boughs — there were big ones on the mountain–
+552	balsam boughs — there were big ones on the mountain—
 553	she broke them off, I guess, and laid them one on top of the other
 554	and sat down on them like that.
 555	She held on to them here where she broke them off.
@@ -583,30 +583,30 @@
 562	So she [was] ahead of everyone else;
 563	she sat there at the riverbank waiting for them.
 564	That is where we spent the night.
-565	It was strange to me [to see how the grouse puffed out their throats]–
+565	It was strange to me [to see how the grouse puffed out their throats]—
 566	there were blue grouse here, running about the hillside
 567	on the crusted snow;
 568	you could hear those blue grouse.
 569	So father said,
 {Page = 71}
-570	"Don't speak now;
-571	I'm listening for grouse calls.
-572	Our food [is almost gone]; we will soon run out of jerky,"
+570	“Don’t speak now;
+571	I’m listening for grouse calls.
+572	Our food [is almost gone]; we will soon run out of jerky,”
 573	he said.
 574	So we just [sat there] listening,
 575	and what do you know, I heard up in a tree,
-576	"Fvv, fvv, fvv, fvv," it went as it [puffed out its throat].
+576	“Fvv, fvv, fvv, fvv,” it went as it [puffed out its throat].
 577	You could hear it here;
 578	you could hear its cry.
 579	Well, now, father climbed right up into the tree.
-580	As he was climbing up toward it–
-581	he was running out of bullets, too–
+580	As he was climbing up toward it—
+581	he was running out of bullets, too—
 582	he shot it and it fell down.
 583	As it was getting to be evening
 584	they could be heard among the trees,
 585	their cries.
 586	So he kept climbing into one [tree] after another and shooting them.
-587	He did this until he had shot I don't know how many.
+587	He did this until he had shot I don’t know how many.
 588	We [children] helped them pluck them,
 589	my mother and my sister.
 590	They plucked them all and carefully singed off the feathers.
@@ -629,18 +629,18 @@
 607	My, we chased each other about.
 608	Then they took blue grouse
 609	and stuck them in our bags.
-610	"Go ahead, play
+610	“Go ahead, play
 611	with [blue grouse in your packs].
-612	I thought I was going to have to pack you,"
+612	I thought I was going to have to pack you,”
 613	my father told me.
-614	Finally we came out into Shànáxh Tlèn (Big Valley).
-615	The place called Shànáxh Tlèn
+614	Finally we came out into Shaanáx̱ Tlein (Big Valley).
+615	The place called Shaanáx̱ Tlein
 {Page = 73}
 616	follows the ridge like this.
 617	At the Tulsequah
 618	there used to be a bridge across Canyon Creek (i.e. Wilms Creek).
 619	When we came out into the valley,
-620	[we wondered], how are we going to get across?–
+620	[we wondered], how are we going to get across?—
 621	we were on this side,
 622	and here was the Tulsequah.
 623	At that time my father and his brother were carrying axes.
@@ -649,34 +649,34 @@
 626	One of them stood on this side and the other on this side;
 627	they were chopping in toward each other;
 628	they were going to fell it so that it lay across the river.
-629	It took them a long time to chop through that big tree–
+629	It took them a long time to chop through that big tree—
 630	perhaps the stump of it is there to this day.
 631	Suddenly it broke.
 632	Up above
-633	on the other side, against a small cliff, that's where
+633	on the other side, against a small cliff, that’s where
 634	it fell.
 635	It was a long tree.
 636	They got up on top of it
 637	and chopped off the limbs, like that.
 638	It was as if you were walking over a really nice bridge;
-639	that's how it was;
+639	that’s how it was;
 640	we walked across it.
 641	On the other side
 642	there were meadows here and there, like this;
 643	we walked along through them.
 644	Further up they chopped out a place in a windfall — [actually,
 645	they chopped out a shelter] in the center of it,
-646	so that the game wardens couldn't see our smoke.
+646	so that the game wardens couldn’t see our smoke.
 647	So we came out there;
 648	we were all tired, even us [children],
 649	so they shooed us off to bed,
 650	my brother and I;
 651	we just slept in our blankets.
-652	But my father couldn't get to sleep, Nêxhʼw,
+652	But my father couldn’t get to sleep, Néix̱ʼw,
 653	Tom Williams.
-654	So he took an axe–
+654	So he took an axe—
 655	one end was an axe
-656	and the other end a pick–
+656	and the other end a pick—
 657	and he walked farther up with it.
 658	And what do you know, he came to the base of a rock outcropping
 659	and began hammering it [with the pick]; pieces were falling away.
@@ -693,32 +693,32 @@
 669	Then he carried it down
 670	to where we were sleeping
 671	and dumped it onto the ground near the fire.
-672	"Look, Dàxhłâ, I've found gold,"
+672	“Look, Daax̱láa, I’ve found gold,”
 673	he said,
-674	"It looks just like gold here."
+674	“It looks just like gold here.”
 675	They had no magnifying glass,
 676	so they were looking at it with their naked eyes.
 677	Then he showed it to his brother.
-678	"Isn't it amazing;
-679	it looks just like gold,"
+678	“Isn’t it amazing;
+679	it looks just like gold,”
 680	he said.
 681	Then he dumped it where he had dumped the rest of it.
 682	In the middle of the night
-683	we started off — so that we would not be seen–
+683	we started off — so that we would not be seen—
 684	northward, up the Tulsequah.
-685	There was a stream they called Yayênà Hîni (Shazah Creek)
+685	There was a stream they called Yayéinaa Héeni (Shazah Creek)
 686	that flows this way.
 687	The cliffs were as bright as if the sun shone on them,
 688	at that place
 689	the river flows this way along it.
-690	Yayênà Hîni, that is just what they called it.
+690	Yayéinaa Héeni, that is just what they called it.
 691	Up the ridge,
 692	up the ridge on this side we climbed.
 693	My, it was a long way.
 694	Right here we came up to the top.
 695	Gee, we got into [deep snow].
-696	"I'm going to make flounder snowshoes,"
-697	said my father Nêxhʼw.
+696	“I’m going to make flounder snowshoes,”
+697	said my father Néix̱ʼw.
 698	So he took alder
 699	and tied it together at the end;
 700	he tied [crosspieces] along the sides,
@@ -735,74 +735,74 @@
 710	my father and the other one,
 711	his brother,
 712	and my aunt and my mother,
-713	and my sister–
+713	and my sister—
 714	there were enough for each to have a pair of flounder snowshoes.
 715	So they started off on their snowshoes;
 716	we children ran along on top of the snow.
 717	We were too light to sink into the snow.
-718	And what do you know–
-719	where Shànaxhhîni (valley river) flows off the other way
+718	And what do you know—
+719	where Shaanax̱héeni (valley river) flows off the other way
 720	lies a small rock bluff;
-721	it is bright red–
+721	it is bright red—
 722	and what do you know, there was a goat running about on it,
 723	walking about, on the cliff.
 724	Her kid was frisking around her, like that,
 725	here and there, frisking about on the rocks,
-726	the goatʼs kid.
-727	Then [my father] sneaked up behind it–
-728	my brother ran up after him–
+726	the goat’s kid.
+727	Then [my father] sneaked up behind it—
+728	my brother ran up after him—
 729	and when [my father] got close to it he shot the goat.
 730	Our food was gone by then.
 731	He packed the goat back.
 732	My little brother caught the baby goat.
-733	Sêkhʼu Té (Vermilion Rock) is the name of
+733	Séiḵʼu Té (Vermilion Rock) is the name of
 734	the place where [father] shot the goat.
 735	There is a valley like this
-736	and Sêkhʼu Té Hîni [Sêkhʼu Té Creek]
+736	and Séiḵʼu Té Héeni [Séiḵʼu Té Creek]
 737	flows into Sloko [River].
 738	At that we were walking along [the valley].
 739	We camped there for two nights;
 740	they cut up the goat meat;
 741	the bones [they saved for] the dogs,
 742	who ate them to get the strength to go on.
-743	We children [took over] the baby goat–
+743	We children [took over] the baby goat—
 744	there are little cliffs here and there like this
-745	in the valley–
+745	in the valley—
 746	so we would take the baby goat to one or the other [cliff].
 747	It would jump around among the rocks like that.
 748	We really thought it was cute.
 749	When it leaped up onto the side of a [steep] place like that
 {Page = 79}
 750	[it made it look as effortless] as if it were jumping around on level ground;
-751	thatʼs how that baby goat was.
+751	that’s how that baby goat was.
 752	It was perhaps this big.
 753	So
 754	when we were about to let it go I really cried over it.
-755	They didn't want us to keep it as a pet.
-756	"[You see] its fellow goats walking about over there;
-757	they will raise it," they told us.
+755	They didn’t want us to keep it as a pet.
+756	“[You see] its fellow goats walking about over there;
+757	they will raise it,” they told us.
 758	So we let it go like they said.
 759	Then we left that place.
 760	At that point there was a river following [the hill]
 761	and here too, [a valley] going off that way [toward the Sloko].
 762	So we went down into the nearer [valleyj.
-763	It turns out it was the head of Kʼwałxhi Hîni (McGavin Creek).
+763	It turns out it was the head of Kʼwalx̱i Héeni (McGavin Creek).
 764	From time to time I would cry for a while [about the baby goat],
 765	and my brother would too.
 766	There was alder
 767	and red willow
-768	and devil's club
+768	and devil’s club
 769	and nettles
 770	and blackcurrant
 771	growing like that in the river valley;
 772	there was no way to get around it.
-773	The devil's club was as tall as this ceiling;
+773	The devil’s club was as tall as this ceiling;
 774	some of them were this big around.
 775	When the leaves come out
 776	sharp points grow out on the bottoms of the leaves too
 777	when [the stem] gets to be so big in diameter.
 778	It made my brother and I feel like giving up;
-779	we didn't feel like walking any further.
+779	we didn’t feel like walking any further.
 780	What is more, when the nettles whipped against our bodies
 781	they stung us;
 782	they stung us,
@@ -813,7 +813,7 @@
 787	It was quite some distance that they broke trail, I guess.
 788	When finally [they got into the clear we were so happy] we ran along it.
 {Page = 81}
-789	 I don't know how many nights we camped along McGavin Creek
+789	 I don’t know how many nights we camped along McGavin Creek
 790	The place where there is a ledge along the bluff flanking the Nakina,
 791	as it is called,
 792	that is where we came out.
@@ -821,7 +821,7 @@
 794	at the mouth of McGavin Creek.
 795	The beaver ponds were all full of beaver.
 796	They shot beaver after beaver there,
-797	I don't know how many; there were lots,
+797	I don’t know how many; there were lots,
 798	furthermore, [they shot] only big ones.
 799	They skinned them
 800	and hung them up to smoke for our traveling food.
@@ -830,15 +830,15 @@
 803	walking around across [the river] from the ledge on the bluff,
 804	eating fresh greenery.
 805	Then
-806	my father, Nêxhʼw, [said],
-807	"Hurry, hurry,
-808	drag bunches of willow over here."
+806	my father, Néix̱ʼw, [said],
+807	“Hurry, hurry,
+808	drag bunches of willow over here.”
 809	[His brother], Natsʼál,
 810	Telegraph Jack,
 811	chopped them and handed them to us,
 812	and [father] stuck them in [the frame casing as a makeshift frame for]
-813	the canvas canoe they were packing along–
-814	just enough to get across the Nakina–
+813	the canvas canoe they were packing along—
+814	just enough to get across the Nakina—
 815	then father started out in it.
 816	He just barely made it across
 817	and shot the moose.
@@ -849,7 +849,7 @@
 822	we spent some nights there
 823	and my mother and the others cut up the meat
 824	and hung it up to smoke.
-825	Then we left–
+825	Then we left—
 826	they had made a frame for
 827	the canoe,
 828	my father and his brother.
@@ -857,7 +857,7 @@
 830	all the moose, the whole thing;
 {Page = 83}
 831	they had half-dried in the smoke
-832	as food for the journey–
+832	as food for the journey—
 833	they packed away in the canoe;
 834	we [women and children] went overland.
 835	There was a trail along the ridge leading to Nakina,
@@ -878,29 +878,29 @@
 850	What do you know, they brought steelheads and trout back from there.
 851	Then again my mother and my aunt cut it up
 852	and hung it up to half-dry.
-853	I don't know how many nights we camped there.
+853	I don’t know how many nights we camped there.
 854	Then they bound up the canvas canoe,
 855	and the furs that were too much for us [to pack]
 856	they towed over there.
 857	As much as we could carry and still reach [Atlin]
 858	they carried in packs.
 859	My father and the others
-860	went to Nakina by way of Tʼùchʼ Shakî (Charcoal Peak):
-861	my father and my aunt Dàxhłâ
-862	and my sister Xhàstìn, three of them.
-863	His brother Natsʼáł
+860	went to Nakina by way of Tʼoochʼ Shakée (Charcoal Peak):
+861	my father and my aunt Daax̱láa
+862	and my sister X̱aasteen, three of them.
+863	His brother Natsʼál
 864	decided we should go by way of old Nakina Village,
-865	to get king salmon–
+865	to get king salmon—
 866	the kings were running already.
-867	At that time I [first] saw Nèxinté (Green Flint),
-868	Nèxinté; there
+867	At that time I [first] saw Neixinté (Green Flint),
+868	Neixinté; there
 {Page = 85}
 869	he was trying to catch them with a gaff.
-870	He pulled out what is called a hintàkłałêsʼi,
+870	He pulled out what is called a hintaaklaléisʼi,
 871	[a kind of] king salmon.
 872	They are small
 873	salmon,
-874	those hintàkłałêsʼi.
+874	those hintaaklaléisʼi.
 875	They are the first to swim upstream;
 876	after them the larger ones swim upstream.
 877	We stayed the night there
@@ -908,25 +908,25 @@
 879	My father caught trout, just pulling them out one after another.
 880	My mother half-dried them.
 881	Then we took off from there
-882	and [went up along] the side of Sinwà Tlèn (White Quartz Mountain)–
-883	they used poles to walk along the side of it–
+882	and [went up along] the side of Sinwaa Tlein (White Quartz Mountain)—
+883	they used poles to walk along the side of it—
 884	we walked across it.
 885	Then we [reached]
-886	Sinwà Yádi (a smaller mountain across Katina Creek) and stayed the night there.
+886	Sinwaa Yádi (a smaller mountain across Katina Creek) and stayed the night there.
 887	From here
-888	[we went to] Ghat.âyi Shú (the end of Kuthai Lake)
+888	[we went to] G̱at.áayi Shú (the end of Kuthai Lake)
 889	and what do you know, there they were;
 890	my father had killed a moose.
 891	They half-dried it
 892	and then
-893	we walked up to Watsix Hîni (O'Donnel River).
-894	"I'm going to go to Mrs. Murphy's house
-895	to get a car or truck to come after us,"
-896	my father Nêxhʼw said,
+893	we walked up to Watsix Héeni (O’Donnel River).
+894	“I’m going to go to Mrs. Murphy’s house
+895	to get a car or truck to come after us,”
+896	my father Néix̱ʼw said,
 897	so he went there.
 898	My mother and her sister, my sister and
-899	my fatherʼs brother Natsʼáł–
-900	he [stayed behind]–
+899	my father’s brother Natsʼál—
+900	he [stayed behind]—
 901	they packed things up
 902	and tied everything into bundles
 903	of the proper size, so that they would fit on the truck.
@@ -935,8 +935,8 @@
 906	we were almost home in our village.
 907	We were constantly playing.
 908	Then, what do you know, father came back.
-909	"He's already left for here," he said;
-910	"Keep your ears open," he told us.
+909	“He’s already left for here,” he said;
+910	“Keep your ears open,” he told us.
 {Page = 87}
 911	So we ran up to the top of the hill,
 912	my brother and I,
@@ -949,85 +949,85 @@
 919	sitting next to the driver.
 920	Then he started to drive us [home].
 921	Before long [we passed] the Hot Springs,
-922	then Inhîni (McKee Creek),
-923	then Kùsawu Hîn (Pine Creek),
+922	then Inhéeni (McKee Creek),
+923	then Koosawu Héen (Pine Creek),
 924	and then we got to the village.
-925	At that time Jigê was still alive,
-926	[that is] Xûts,
+925	At that time Jigéi was still alive,
+926	[that is] Xóots,
 927	Taku Jack.
 928	He must have been the one they sent word to,
 929	those game wardens we had fled from.
 930	Then he sent word [back] there,
-931	"They are my people.
+931	“They are my people.
 932	I am the chief.
 933	They have probably already crossed the boundary line
 934	and are on their way here;
-935	we don't know."
-936	"When they arrive there, be sure to send word here immediately,"
+935	we don’t know.”
+936	“When they arrive there, be sure to send word here immediately,”
 937	they told him.
 938	Before they even knew it was us
 939	the trucker arrived with us.
 940	My, he was happy,
 941	the chief;
 942	[they were happy] to see us, his sisters and us [children].
-943	"I will send word there;
-944	you will not have any further troubles,"
+943	“I will send word there;
+944	you will not have any further troubles,”
 945	he said.
 946	So he sent word there.
-947	"They have come up here;
+947	“They have come up here;
 948	there is nothing more you can do to them.
 949	I am the chief, and they are my people.
-950	You can't touch them now.
+950	You can’t touch them now.
 {Page = 89}
 951	Even if you were to make the trip up here,
-952	you American customs agents could do nothing to them,"
+952	you American customs agents could do nothing to them,”
 953	he said.
 954	So they let us go free.
-955	They had already taken my father-in-law's
+955	They had already taken my father-in-law’s
 956	furs to Juneau,
 957	those game wardens.
 958	Then the matter was brought to court.
 959	In court he said,
-960	"I would like to see that game warden get what he deserves
-961	for reaching inside my wife's dress,"
+960	“I would like to see that game warden get what he deserves
+961	for reaching inside my wife’s dress,”
 962	he said.
-963	They asked the game warden, "Is that the truth?"
-964	"She had a gold necklace on,
+963	They asked the game warden, “Is that the truth?”
+964	“She had a gold necklace on,
 965	and I was curious about it;
-966	this is the reason I reached inside her dress,"
+966	this is the reason I reached inside her dress,”
 967	he said.
 968	So they threw their case out of court
 969	and gave their furs back to them.
-970	The game warden that had reached inside my aunt's dress
+970	The game warden that had reached inside my aunt’s dress
 971	they fired;
 972	the furs they gave back to them.
 973	{All of them?}
 974	All of them, everything.
-975	They didn't even confiscate [their furs.]
+975	They didn’t even confiscate [their furs.]
 976	When they told the chief
 977	that they had taken the seal skins from [the cache],
 978	and the swan skin,
 979	and the moose hides,
 980	everything,
-981	"Why is it–
+981	“Why is it—
 982	before you had even seen them,
-983	nor did you know what kind of people they were–
+983	nor did you know what kind of people they were—
 984	why did you take their things away?
-985	Why didn't you just leave them alone
+985	Why didn’t you just leave them alone
 986	until you [were ready to] arrest them?
 987	You could have waited until they were there to see it
-988	before you took [the furs] away,"
+988	before you took [the furs] away,”
 989	this is what our chief said.
 990	We did not get into trouble;
 991	my father did not get into trouble.
 992	They forgot about it.
 993	From here
 {Page = 91}
-994	the whole Indian village–
+994	the whole Indian village—
 995	there were a lot of people there then,
-996	the old time people–
+996	the old time people—
 997	we went up in a whole fleet of boats,
-998	up to A shuyì [the head of the Llewellyn Inlet] and everywhere.
+998	up to A shuyee [the head of the Llewellyn Inlet] and everywhere.
 999	It was a long time, perhaps two weeks,
 1000	that they stayed away [from home].
 1001	At that time first
