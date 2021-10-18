@@ -8,7 +8,7 @@
 {Orthography = RP}
 {Dialect = Northern - Inland - Atlin}
 {Page = 10}
-1	Sítʼ áwé yú.á tle yóo Tʼaaḵú wáat anax̱ yan kawu.áayin—–
+1	Sítʼ áwé yú.á tle yóo Tʼaaḵú wáat anax̱ yan kawu.áayin—
 2	Tléil yisateen gé wéi Tʼaaḵú wáat?
 3	{Tléikʼ.}
 4	Tle yóo áwé anax̱ yan kawu.áayin yú.á.
@@ -54,7 +54,7 @@
 43	«Wáa sákwshéigé,
 44	ḵaa sé yáx̱ áyá ḵux̱aa.áx̱ch»,
 45	yéi áwé x̱ʼáyáḵá wéi ḵáa,
-46	wé éexnax̱.á aa–
+46	wé éexnax̱.á aa—
 47	Naada.éiyaa yóo duwasáakw hú ḵu.a,
 48	wéi éexnax̱.át aa aa.
 49	Á áwé, wé tléixʼ aa tsú, [wé Kax̱tóokxʼ yéi yateeyi aa],
@@ -217,10 +217,10 @@
 202	wé sítʼ áx̱ kaxádi yé,
 203	yéi áwé ax̱ een kaduneegín.
 {Page = 20}
-204	Adáx̱ áwé–
+204	Adáx̱ áwé—
 205	wé tlagoo hídi aax̱ dukéilʼ
 206	chʼu g̱una.aa a eetí dulyéx̱.
-207	Á áwé ax̱ aat áwé–
+207	Á áwé ax̱ aat áwé—
 208	Chʼáakw tléil neilxʼ yát du.eix̱ín.
 209	Chashhít
 210	ḵaa ít yóo naaliyéi
@@ -241,7 +241,7 @@
 225	tléixʼ dís shunaxéex áwé
 226	áa neil wududzinúk wéi Yán Hít.
 227	«Ha wáa sáyá gax̱dusáa?»
-228	yéi áwé daayaduḵá wéi yées aa Ltaaduteen–
+228	yéi áwé daayaduḵá wéi yées aa Ltaaduteen—
 229	wé chʼáagu aayí de woonaa.
 230	Aag̱áa áwé yéi yaawaḵaa,
 231	«Ha wáa nax̱dusáagut sáwé
@@ -263,17 +263,17 @@
 246	Ách áwé ax̱ tuwáa sigóo yisateení
 247	yá i shagóon,
 248	aadé yóo kawdiyayi yé.
-249	Tle chʼa wáa yikuwáatʼ sá [ḵux̱asteeyí]–
+249	Tle chʼa wáa yikuwáatʼ sá [ḵux̱asteeyí]—
 250	tsu chʼu tléil chʼa tleix̱ áyá ḵoox̱astí,
 251	tsu i eetiḵáach áwé kg̱watéew.
 252	A yíx̱ óosh kei iyawduwax̱áa [wé Tʼaaḵú]
 253	ḵa yáa ldakát át xʼúxʼ kaadé yaa kakg̱ishaxéet.
 254	Aag̱áa áwé
-255	chʼu wé uháan i tláa chʼu l yisikuwu aa–
+255	chʼu wé uháan i tláa chʼu l yisikuwu aa—
 256	chʼa ldakat gag̱isakóo ya Tʼaaḵóodáx̱
 257	wáa sáyú ikawdayáayi.
 258	Aag̱áa xʼúxʼ káa yéi kg̱ee.oo tle ḵúnáx̱
-259	yee x̱ʼalatseení áwé-
+259	yee x̱ʼalatseení áwé—
 260	uháanch yéi tuwasáakw,
 261	wé Lingítx̱ haa sateeyí.
 262	Chʼa ldakát wé Yanyeidí Yátxʼi,
@@ -344,9 +344,9 @@
 326	Á áyá ax̱ tugéidex̱ sitee,
 {Page = 26}
 327	ḵa yá yeedát aadé yaa at kundayen yé.
-328	Chʼáakw wáa sá aa wuneeyí–
+328	Chʼáakw wáa sá aa wuneeyí—
 329	tle chʼu shaatkʼátskʼux̱ x̱at sateeyídáx̱
-330	x̱wasakóowun–
+330	x̱wasakóowun—
 331	yá ḵaa eetí daa sá,
 332	kʼe ax̱ daa.át sʼéilʼi yáat,
 333	chʼa wáa sá óosh x̱at woonee,
@@ -368,8 +368,8 @@
 349	tle yan shuwutaaní áwé,
 350	tle ax̱ x̱ʼéidáx̱ kakg̱ishaxéet.
 351	Tléil ax̱ tuwáa ushgú
-352	yá ax̱ yátxʼi g̱eig̱í–
-353	a x̱oo.aa de keijín jinkaat táakw ḵa keijínx̱ dax̱ sitee–
+352	yá ax̱ yátxʼi g̱eig̱í—
+353	a x̱oo.aa de keijín jinkaat táakw ḵa keijínx̱ dax̱ sitee—
 354	tléil ax̱ tuwáa ushgú ḵut has awug̱éexʼi
 355	yá aadé ḵutoostéeyi yé.
 356	Ách áyá chʼa x̱áach tsú át ax̱wdishée
@@ -480,7 +480,7 @@
 {Page = 32}
 459	daa sa wooch g̱unayáade tléiḵw.
 460	Wé xákwlʼi chʼu tle
-461	tle yóo áwé yú.á–
+461	tle yóo áwé yú.á—
 462	ax̱ tláach áwé ax̱ een kaneegín
 463	tle yáatʼát yáx̱ kuskaak.
 464	Tle yóo áwé tle a tayeex̱ sheey dulyeix̱ch
@@ -493,8 +493,8 @@
 471	Táakw yeen áwé kadulkélx̱.
 472	A x̱ooshóogayi áwé wé gaawáḵ
 473	yéi daaduné wé atx̱á ítde.
-474	Wé sh kadulneegí–
-475	aag̱áa ḵu.a sʼé tape ḵaa jee yéi yatee–
+474	Wé sh kadulneegí—
+475	aag̱áa ḵu.a sʼé tape ḵaa jee yéi yatee—
 476	shkalneek shóo ag̱aḵéech.
 477	Á wé yées ḵáaxʼwch áwé yéi daanéi neech wé xákwlʼi,
 478	yá xákwlʼi g̱adux̱aa yís.
@@ -531,7 +531,7 @@
 509	ḵa wé a shaayí.»
 510	Chʼa ḵʼwátl ká akaawachák,
 511	awsitáa tle.
-512	Héen yáx̱ ée áwé-
+512	Héen yáx̱ ée áwé—
 513	It’s quite a change from other things, eh?
 514	Ha yéi áwé ḵutoostéeyin,
 515	yéi áwé daayax̱aḵá.

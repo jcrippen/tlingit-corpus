@@ -8,7 +8,7 @@
 {Orthography = YNL}
 {Dialect = Northern - Inland - Atlin}
 {Page = 10}
-1	Sítʼ áwé yú.á tle yû Tʼàkhú wât anaxh yan kawu.âyin—–
+1	Sítʼ áwé yú.á tle yû Tʼàkhú wât anaxh yan kawu.âyin—
 2	Tlêł yisatìn gé wê Tʼàkhú wât?
 3	{Tlêkʼ.}
 4	Tle yû áwé anaxh yan kawu.âyin yú.á.
@@ -54,7 +54,7 @@
 43	“Wâ sákwshêgé,
 44	khà sé yáxh áyá khuxhà.áxhch,”
 45	yê áwé xhʼáyákhá wê khâ,
-46	wé îxnaxh.á à–
+46	wé îxnaxh.á à—
 47	Nàda.êyà yû duwasâkw hú khu.a,
 48	wê îxnaxh.át à à.
 49	Á áwé, wé tlêxʼ à tsú, [wé Kaxhtûkxʼ yê yatìyi à],
@@ -216,10 +216,10 @@
 202	wé sítʼ áxh kaxádi yé,
 203	yê áwé axh ìn kadunìgín.
 {Page = 20}
-204	Adáxh áwé-
+204	Adáxh áwé—
 205	wé tlagù hídi àxh dukêłʼ
 206	chʼu ghuna.à a ìtí dułyéxh.
-207	Á áwé axh àt áwé–
+207	Á áwé axh àt áwé—
 208	Chʼâkw tlêł nèłxʼ yát du.èxhín.
 209	Chashhít
 210	khà ít yû nàłiyê
@@ -240,7 +240,7 @@
 225	tlêxʼ dís shunaxîx áwé
 226	â nèł wududzinúk wê Yán Hít.
 227	“Ha wâ sáyá gaxhdusâ?”
-228	yê áwé dàyadukhá wê yîs à Łtàdutìn-
+228	yê áwé dàyadukhá wê yîs à Łtàdutìn—
 229	wé chʼâgu àyí de wùnà.
 230	Àghâ áwé yê yàwakhà,
 231	“Ha wâ naxhdusâgut sáwé
@@ -262,17 +262,17 @@
 246	Ách áwé axh tuwâ sigû yisatìní
 247	yá i shagûn,
 248	àdé yû kawdiyayi yé.
-249	Tle chʼa wâ yikuwâtʼ sá [khuxhastìyí]-
+249	Tle chʼa wâ yikuwâtʼ sá [khuxhastìyí]—
 250	tsu chʼu tlêł chʼa tlèxh áyá khùxhastí,
 251	tsu i ìtikhâch áwé kghwatîw.
 252	A yíxh ûsh kè iyawduwaxhâ [wé Tʼàkhú]
 253	kha yâ łdakát át xʼúxʼ kàdé yà kakghishaxît.
 254	Àghâ áwé
-255	chʼu wé uhân i tlâ chʼu ł yisikuwu à–
+255	chʼu wé uhân i tlâ chʼu ł yisikuwu à—
 256	chʼa łdakat gaghisakû ya Tʼàkhûdáxh
 257	wâ sáyú ikawdayâyi.
 258	Àghâ xʼúxʼ kâ yê kghì.ù tle khúnáxh
-259	yì xhʼałatsìní áwé-
+259	yì xhʼałatsìní áwé—
 260	uhânch yê tuwasâkw,
 261	wé Łingítxh hà satìyí.
 262	Chʼa łdakát wé Yanyèdí Yátxʼi,
@@ -343,9 +343,9 @@
 326	Á áyá axh tugêdexh sitì,
 {Page = 26}
 327	kha yá yìdát àdé yà at kundayen yé.
-328	Chʼâkw wâ sá à wunìyí-
+328	Chʼâkw wâ sá à wunìyí—
 329	tle chʼu shàtkʼatskʼuxh xhat satìyídáxh
-330	xhwasakûwun-
+330	xhwasakûwun—
 331	yá khà ìtí dà sá,
 332	kʼe axh dà.át sʼêłʼi yât,
 333	chʼa wâ sá ûsh xhat wùnì,
@@ -367,8 +367,8 @@
 349	tle yan shuwutàní áwé,
 350	tle axh xhʼêdáxh kakghishaxît.
 351	Tlêł axh tuwâ ushgú
-352	yá axh yátxʼi ghèghí-
-353	a xhù.à de kèjín jinkàt tâkw kha kèjínxh daxh sitì-
+352	yá axh yátxʼi ghèghí—
+353	a xhù.à de kèjín jinkàt tâkw kha kèjínxh daxh sitì—
 354	tlêł axh tuwâ ushgú khut has awughîxʼi
 355	yá àdé khutùstîyi yé.
 356	Ách áyá chʼa xhâch tsú át axhwdishî
@@ -479,7 +479,7 @@
 {Page = 32}
 459	dà sa wùch ghunayâde tlêkhw.
 460	Wé xákwłʼi chʼu tle
-461	tle yû áwé yú.á-
+461	tle yû áwé yú.á—
 462	axh tlâch áwé axh ìn kanìgín
 463	tle yâtʼát yáxh kuskàk.
 464	Tle yû áwé tle a tayìxh shìy dułyèxhch
@@ -492,8 +492,8 @@
 471	Tâkw yìn áwé kadułkéłxh.
 472	A xhùshûgayi áwé wé gàwákh
 473	yê dàduné wé atxhá ítde.
-474	Wé sh kadułnìgí-
-475	àghâ khu.a sʼé tape khà jì yê yatì-
+474	Wé sh kadułnìgí—
+475	àghâ khu.a sʼé tape khà jì yê yatì—
 476	sh kałnìk shû aghakhîch.
 477	Á wé yîs khâxʼwch áwé yê dànê nìch wé xákwłʼi,
 478	yá xákwłʼi ghaduxhà yís.
@@ -530,7 +530,7 @@
 509	kha wé a shàyí.”
 510	Chʼa khʼwátl ká akàwachák,
 511	awsitâ tle.
-512	Hîn yáxh î áwé-
+512	Hîn yáxh î áwé—
 513	Itʼs quite a change from other things, eh?
 514	Ha yê áwé khutùstîyin,
 515	yê áwé dàyaxhakhá.
