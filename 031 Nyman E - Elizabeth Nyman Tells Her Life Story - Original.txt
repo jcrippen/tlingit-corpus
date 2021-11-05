@@ -123,9 +123,9 @@
 110	axh tût áyá wuxìxín,
 111	ách áyá tle i yáxʼ kaxhanìk
 112	àdé ìnkhasanìyi yé.
-113	Yìdát khu.áyá axh tùwú łitsìn yá axh húnxhu sàyí
-114	kha yá axh dlàkʼ sàyí.
-115	‘Gunałchîsh chʼa kùgêyi,’ yû xhʼayaxhakhá axh tlâ.
+{Comment = Line 113 is two lines but numbering skips a line so we unify them.}
+113	Yìdát khu.áyá axh tùwú łitsìn yá axh húnxhu sàyí kha yá axh dlàkʼ sàyí.
+114	‘Gunałchîsh chʼa kùgêyi,’ yû xhʼayaxhakhá axh tlâ.
 115	Tlaxh yê axh tùwú ghałtishji yêxʼ axh húnxhu dàdé kha axh dlàkʼ,
 116	yìdát yânáxh èkh has uwa.át.
 117	Tlaxh xʼêghà áyá axh tùwú yakʼê,”
