@@ -121,42 +121,42 @@
 110	it was on my mind;
 111	this is why I am confessing to you
 112	what I might have done to you.
-113	And now I am encouraged [because of] my elder brother’s namesake
-114	and my sister’s namesake.
-115	‘Thank you so much,’ I say to my mother.
-116	I have missed my elder brother and sister so much,
-117	and now they have corne back down.
-118	I am truly happy,”
-119	he said.
-120	I guess in English you would say he “confessed.”
-121	To this day I don’t blame him;
-122	it’s just the way our culture used to be,
-123	what he told them to do with me.
-124	Now I always think,
-125	“I wish you could see all your grandchildren’s children,”
-126	They are all grown up, including Mary’s children;
-127	so many of them have children.
-128	And those of his mother's namesake, Ḵinx̱.ashee (Anna Kirby),
-129	are as numerous as sand
-130	and still having more children in Terrace,
-131	my grandchildren.
-132	And Jackie’s [children] in Vancouver,
-133	I don’t know how many there are,
-134	and they are still having more children.
-135	I alone
-136	am their only living forebear.
-137	It is true what my father-in-law said;
-138	if they had done what he told them to do
-139	we would have been left barren now.
-140	Perhaps it is by the power of God
-141	that my true grandmother saved me.
-142	So now her namesake’s family
-143	is growing by leaps and bounds in Terrace.
-144	She has I don’t know how many grandchildren.
-145	Sometimes
-146	I am suspicious of what people say,
-147	white women or white men.
-148	When my grandmother passed on,
-149	at that time
-150	I had only one grandfather left.
+{Comment = Line 113 is two lines but numbering skips a line so we unify them.}
+113	And now I am encouraged [because of] my elder brother’s namesake and my sister’s namesake.
+114	‘Thank you so much,’ I say to my mother.
+115	I have missed my elder brother and sister so much,
+116	and now they have corne back down.
+117	I am truly happy,”
+118	he said.
+119	I guess in English you would say he “confessed.”
+120	To this day I don’t blame him;
+121	it’s just the way our culture used to be,
+122	what he told them to do with me.
+123	Now I always think,
+124	“I wish you could see all your grandchildren’s children,”
+125	They are all grown up, including Mary’s children;
+126	so many of them have children.
+127	And those of his mother's namesake, Ḵinx̱.ashee (Anna Kirby),
+128	are as numerous as sand
+129	and still having more children in Terrace,
+130	my grandchildren.
+131	And Jackie’s [children] in Vancouver,
+132	I don’t know how many there are,
+133	and they are still having more children.
+134	I alone
+135	am their only living forebear.
+136	It is true what my father-in-law said;
+137	if they had done what he told them to do
+138	we would have been left barren now.
+139	Perhaps it is by the power of God
+140	that my true grandmother saved me.
+141	So now her namesake’s family
+142	is growing by leaps and bounds in Terrace.
+143	She has I don’t know how many grandchildren.
+144	Sometimes
+145	I am suspicious of what people say,
+146	white women or white men.
+147	When my grandmother passed on,
+148	at that time
+149	I had only one grandfather left.
 {Page = 109}
