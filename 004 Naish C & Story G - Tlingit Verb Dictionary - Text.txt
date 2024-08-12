@@ -1555,8 +1555,7 @@
 1447	dukʼéx̱ʼch wé góosʼ
 1448	du x̱ʼoosch awsikʼéx̱ʼ
 1449	aax̱ kei dulkʼéx̱ʼch
-{Comment = Line 1450 originally had erroneous ‹ḵux̱ awlikʼéx̱ʼ›.}
-1450	ḵux̱ awdlikʼéx̱ʼ
+1450	ḵux̱ awlikʼéx̱ʼ
 1451	yaa yanalgwásh
 1452	át yax̱wdligwáash
 1453	yéi át ax̱wdishée, cháatl kei g̱isayeeḵ
