@@ -790,9 +790,10 @@
 764	you must stop that,” she told me.
 765	So [I did] what she told me to.
 766	The next thing
-767	I didn't want to tell my husband, you know; I was embarrassed.
+767	I didn't want to tell my husband, you know;
+768	I was embarrassed.
 {Page = 205}
-768	One day they left again and headed back again to Atlin;
+769	One day they left again and headed back again to Atlin;
 770	they had gotten back from hunting beaver.
 771	Then they told us,
 772	“You and your brother go by yourselves,
