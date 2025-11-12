@@ -8,8 +8,8 @@
 {Orthography = YNL}
 {Dialect = Northern - Inland - Atlin}
 {Page = 10}
-1	Sítʼ áwé yú.á tle yû Tʼàkhú wât anaxh yan kawu.âyin—
-2	Tlêł yisatìn gé wê Tʼàkhú wât?
+1	Sítʼ áwé yú.á tle yû Tʼàkhú wát anaxh yan kawu.âyin—
+2	Tlêł yisatìn gé wê Tʼàkhú wát?
 3	{Tlêkʼ.}
 4	Tle yû áwé anaxh yan kawu.âyin yú.á.
 5	Tle yû shà

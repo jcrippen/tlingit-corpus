@@ -8,8 +8,8 @@
 {Orthography = RP}
 {Dialect = Northern - Inland - Atlin}
 {Page = 10}
-1	Sítʼ áwé yú.á tle yóo Tʼaaḵú wáat anax̱ yan kawu.áayin—
-2	Tléil yisateen gé wéi Tʼaaḵú wáat?
+1	Sítʼ áwé yú.á tle yóo Tʼaaḵú wát anax̱ yan kawu.áayin —
+2	Tléil yisateen gé wé Tʼaaḵú wát?
 3	{Tléikʼ.}
 4	Tle yóo áwé anax̱ yan kawu.áayin yú.á.
 5	Tle yú shaa
@@ -18,7 +18,7 @@
 8	Tléil wuduskú
 9	tsu wé náanax̱.á áa yéi ḵuteeyí
 10	ḵa tsu wé éexnax̱.á.
-{Comment = Break in text, line 11 appears to be skipped.}
+{Comment = Break in text, line 11 is missing in original.}
 12	Á áwé wé ḵáaxʼw shaan dáx̱ináx̱ has yatee.
 13	Wé náanax̱.á aa Kax̱tóok yóo áwé duwasáakw.
 14	Á áwé yeedát wéi lodge át da.áa.
